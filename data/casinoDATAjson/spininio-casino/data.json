@@ -1,0 +1,34 @@
+{
+  "name": "Spininio Casino",
+  "slug": "spininio-casino",
+  "country": "Norway",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "ELK Studios",
+    "Gamomat",
+    "Quickspin",
+    "Real Time Gaming",
+    "Genesis Gaming"
+  ],
+  "likes": 260,
+  "comments": 185,
+  "operatingCountries": [
+    "Ireland",
+    "Finland",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=84",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spininio-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

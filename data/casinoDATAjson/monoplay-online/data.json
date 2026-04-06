@@ -1,0 +1,30 @@
+{
+  "name": "MonoPlay Online",
+  "slug": "monoplay-online",
+  "country": "Belgium",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 260,
+  "providers": [
+    "Quickspin"
+  ],
+  "likes": 1095,
+  "comments": 27,
+  "operatingCountries": [
+    "Australia",
+    "Canada",
+    "Austria",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=monoplay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91"
+  ]
+}

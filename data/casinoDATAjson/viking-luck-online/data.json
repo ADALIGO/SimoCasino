@@ -1,0 +1,35 @@
+{
+  "name": "Viking Luck Online",
+  "slug": "viking-luck-online",
+  "country": "Belgium",
+  "bonus": "100% up to $500 + 300 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "ELK Studios",
+    "Greentube",
+    "1x2gaming",
+    "Aristocrat",
+    "Visionary iGaming",
+    "Push Gaming"
+  ],
+  "likes": 269,
+  "comments": 355,
+  "operatingCountries": [
+    "Belgium",
+    "United States",
+    "Portugal",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=viking-luck-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "HippoZino Online",
+  "slug": "hippozino-online",
+  "country": "Switzerland",
+  "bonus": "100% up to $200 + 150 Spins",
+  "rating": 3.7,
+  "revenueRank": 63,
+  "spins": 360,
+  "providers": [
+    "Habanero Systems",
+    "1x2gaming",
+    "Red Tiger",
+    "Gamomat"
+  ],
+  "likes": 687,
+  "comments": 124,
+  "operatingCountries": [
+    "Denmark",
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hippozino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

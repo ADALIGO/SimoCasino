@@ -1,0 +1,31 @@
+{
+  "name": "Pinnacle Sports Slots",
+  "slug": "pinnacle-sports-slots",
+  "country": "Canada",
+  "bonus": "Welcome Bonus 125% up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 150,
+  "providers": [
+    "EGT",
+    "Iron Dog Studio",
+    "Yggdrasil"
+  ],
+  "likes": 605,
+  "comments": 98,
+  "operatingCountries": [
+    "United Kingdom",
+    "New Zealand",
+    "Austria",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pinnacle-sports-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

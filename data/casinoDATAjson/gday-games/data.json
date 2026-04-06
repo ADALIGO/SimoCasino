@@ -1,0 +1,36 @@
+{
+  "name": "G'Day Games",
+  "slug": "gday-games",
+  "country": "Sweden",
+  "bonus": "100% up to $300 + 250 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 201,
+  "providers": [
+    "Spinlogic Gaming",
+    "WMS",
+    "Konami",
+    "1x2gaming",
+    "Evolution Gaming",
+    "Rival",
+    "Saucify"
+  ],
+  "likes": 916,
+  "comments": 32,
+  "operatingCountries": [
+    "Portugal",
+    "Spain",
+    "Czech Republic",
+    "Austria",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=163",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gday-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "CryptoCasino Casino",
+  "slug": "cryptocasino-casino",
+  "country": "Sweden",
+  "bonus": "Welcome Bonus 150% up to $50",
+  "rating": 4.3,
+  "revenueRank": 70,
+  "spins": 119,
+  "providers": [
+    "Pragmatic Play",
+    "Merkur",
+    "Real Time Gaming",
+    "Konami",
+    "Blueprint Gaming",
+    "Spinlogic Gaming",
+    "Amatic Industries",
+    "Saucify"
+  ],
+  "likes": 812,
+  "comments": 171,
+  "operatingCountries": [
+    "Portugal",
+    "Switzerland",
+    "United Kingdom",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptocasino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

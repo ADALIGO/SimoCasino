@@ -1,0 +1,31 @@
+{
+  "name": "Casinoin Slots",
+  "slug": "casinoin-slots",
+  "country": "France",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 288,
+  "providers": [
+    "Push Gaming",
+    "Habanero Systems",
+    "Greentube",
+    "Real Time Gaming"
+  ],
+  "likes": 1414,
+  "comments": 421,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

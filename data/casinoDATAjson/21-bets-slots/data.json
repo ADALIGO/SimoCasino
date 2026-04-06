@@ -1,0 +1,30 @@
+{
+  "name": "21 BETS Slots",
+  "slug": "21-bets-slots",
+  "country": "United States",
+  "bonus": "Deposit Bonus 125% up to $50",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 395,
+  "providers": [
+    "1x2gaming",
+    "Arrows Edge",
+    "Real Time Gaming",
+    "NextGen"
+  ],
+  "likes": 23,
+  "comments": 1,
+  "operatingCountries": [
+    "Poland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=128",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21-bets-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Divas Luck Online",
+  "slug": "divas-luck-online",
+  "country": "Poland",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 72,
+  "providers": [
+    "Amatic Industries",
+    "Big Time Gaming",
+    "Greentube",
+    "NetEnt",
+    "Rival",
+    "Wager Gaming"
+  ],
+  "likes": 649,
+  "comments": 84,
+  "operatingCountries": [
+    "United States",
+    "Poland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=divas-luck-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

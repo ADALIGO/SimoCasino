@@ -1,0 +1,30 @@
+{
+  "name": "Buran Slots",
+  "slug": "buran-slots",
+  "country": "Canada",
+  "bonus": "First Deposit 50% up to $2000 + 20 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 367,
+  "providers": [
+    "Greentube",
+    "NextGen"
+  ],
+  "likes": 131,
+  "comments": 407,
+  "operatingCountries": [
+    "Denmark",
+    "Norway",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=buran-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

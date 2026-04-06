@@ -1,0 +1,31 @@
+{
+  "name": "Jurassic Slots Online",
+  "slug": "jurassic-slots-online",
+  "country": "Germany",
+  "bonus": "150% Bonus up to $100",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "Red Tiger",
+    "NextGen",
+    "Relax Gaming"
+  ],
+  "likes": 595,
+  "comments": 25,
+  "operatingCountries": [
+    "Morocco",
+    "United States",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=127",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jurassic-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129"
+  ]
+}

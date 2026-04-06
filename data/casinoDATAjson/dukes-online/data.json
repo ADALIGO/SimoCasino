@@ -1,0 +1,35 @@
+{
+  "name": "Dukes Online",
+  "slug": "dukes-online",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 50% up to $100",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "Wager Gaming",
+    "Push Gaming",
+    "Relax Gaming",
+    "Pragmatic Play",
+    "Evolution Gaming",
+    "NetEnt",
+    "NextGen"
+  ],
+  "likes": 1994,
+  "comments": 50,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dukes-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

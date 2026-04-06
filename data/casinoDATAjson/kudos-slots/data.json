@@ -1,0 +1,35 @@
+{
+  "name": "Kudos Slots",
+  "slug": "kudos-slots",
+  "country": "Norway",
+  "bonus": "100% up to $100 + 200 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 149,
+  "providers": [
+    "NextGen",
+    "1x2gaming",
+    "Rival",
+    "Genesis Gaming"
+  ],
+  "likes": 1139,
+  "comments": 317,
+  "operatingCountries": [
+    "New Zealand",
+    "Netherlands",
+    "United States",
+    "Norway",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kudos-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Sportbet.one Casino",
+  "slug": "sportbetone-casino",
+  "country": "Norway",
+  "bonus": "100% up to $500 + 100 Spins",
+  "rating": 3.7,
+  "revenueRank": 65,
+  "spins": 322,
+  "providers": [
+    "Genesis Gaming",
+    "Push Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 1772,
+  "comments": 65,
+  "operatingCountries": [
+    "New Zealand",
+    "Australia",
+    "Denmark",
+    "Netherlands",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sportbetone-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

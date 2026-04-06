@@ -1,0 +1,30 @@
+{
+  "name": "EuroMania Slots",
+  "slug": "euromania-slots",
+  "country": "Germany",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.1,
+  "revenueRank": 42,
+  "spins": 480,
+  "providers": [
+    "Ash Gaming"
+  ],
+  "likes": 318,
+  "comments": 113,
+  "operatingCountries": [
+    "Austria",
+    "Finland",
+    "South Africa",
+    "Belgium",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euromania-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ]
+}

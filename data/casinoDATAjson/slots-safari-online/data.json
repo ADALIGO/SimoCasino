@@ -1,0 +1,33 @@
+{
+  "name": "Slots Safari Online",
+  "slug": "slots-safari-online",
+  "country": "United States",
+  "bonus": "Reload Bonus 250% up to $1000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Yggdrasil",
+    "Big Time Gaming",
+    "Aristocrat",
+    "Saucify"
+  ],
+  "likes": 368,
+  "comments": 169,
+  "operatingCountries": [
+    "Italy",
+    "Ireland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-safari-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

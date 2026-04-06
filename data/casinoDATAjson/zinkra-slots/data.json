@@ -1,0 +1,31 @@
+{
+  "name": "Zinkra Slots",
+  "slug": "zinkra-slots",
+  "country": "Sweden",
+  "bonus": "Welcome Bonus 100% up to $50",
+  "rating": 4.8,
+  "revenueRank": 64,
+  "spins": 212,
+  "providers": [
+    "BetSoft"
+  ],
+  "likes": 1333,
+  "comments": 443,
+  "operatingCountries": [
+    "South Africa",
+    "Austria",
+    "Finland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zinkra-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

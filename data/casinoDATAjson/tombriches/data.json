@@ -1,0 +1,30 @@
+{
+  "name": "TombRiches",
+  "slug": "tombriches",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 100 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1769,
+  "comments": 409,
+  "operatingCountries": [
+    "France",
+    "United Kingdom",
+    "Portugal",
+    "Sweden",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wintopia",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ],
+  "reviewCount": 5
+}

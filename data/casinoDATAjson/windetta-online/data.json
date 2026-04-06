@@ -1,0 +1,37 @@
+{
+  "name": "Windetta Online",
+  "slug": "windetta-online",
+  "country": "Czech Republic",
+  "bonus": "300% Bonus up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "Saucify",
+    "Playtech",
+    "WMS",
+    "Gamomat",
+    "1x2gaming",
+    "Konami"
+  ],
+  "likes": 1689,
+  "comments": 450,
+  "operatingCountries": [
+    "New Zealand",
+    "Czech Republic",
+    "Spain",
+    "Canada",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=windetta-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

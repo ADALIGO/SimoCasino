@@ -1,0 +1,29 @@
+{
+  "name": "Eddy Vegas",
+  "slug": "eddy-vegas",
+  "country": "Morocco",
+  "bonus": "100% up to €100",
+  "rating": 2.9,
+  "revenueRank": 65,
+  "spins": 328,
+  "providers": [],
+  "likes": 595,
+  "comments": 128,
+  "operatingCountries": [
+    "Ireland",
+    "Australia",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=60",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eddy-vegas-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,136 @@
+﻿
+> simocasino@1.0.0 build
+> next build
+
+   Γû▓ Next.js 15.5.14
+   - Environments: .env.local, .env
+   - Experiments (use with caution):
+     ┬╖ optimizePackageImports
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully in 11.4s
+   Linting and checking validity of types ...
+
+./app/user/[page]/page.tsx
+395:6  Warning: React Hook useEffect has missing dependencies: 'auth.user' and 'pathname'. Either include them or remove the dependency array.  react-hooks/exhaustive-deps
+1151:6  Warning: React Hook useMemo has missing dependencies: 'definition.subtitle', 'definition.title', 'profileCompletionActions', and 'profileCompletionPercent'. Either include them or remove the dependency array.  react-hooks/exhaustive-deps
+
+./components/HOMEcomponents/UserHeader.tsx
+85:6  Warning: React Hook useEffect has missing dependencies: 'user.coins', 'user.lastDailyLoginAt', 'user.lastLoginAt', and 'user.totalPoints'. Either include them or remove the dependency array.  react-hooks/exhaustive-deps
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+   Collecting page data ...
+   Generating static pages (0/8012) ...
+   Generating static pages (2003/8012) 
+   Generating static pages (4006/8012) 
+   Generating static pages (6009/8012) 
+ Γ£ô Generating static pages (8012/8012)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS  Revalidate  Expire
+Γöî Γùï /                                    3.58 kB         167 kB          1h      1y
+Γö£ Γùï /_not-found                            998 B         103 kB
+Γö£ Γùï /about                                 297 B         164 kB
+Γö£ Γùï /affiliate                             249 B         164 kB
+Γö£ ╞Æ /affiliate/[page]                      249 B         164 kB
+Γö£ ╞Æ /api/auth/guest                        167 B         102 kB
+Γö£ ╞Æ /api/auth/login                        167 B         102 kB
+Γö£ ╞Æ /api/auth/register                     167 B         102 kB
+Γö£ Γùï /api/bonuses                           167 B         102 kB          1h      1y
+Γö£ ╞Æ /api/casinos                           167 B         102 kB
+Γö£ ╞Æ /api/daily-claim                       167 B         102 kB
+Γö£ Γùï /api/games                             167 B         102 kB          1h      1y
+Γö£ ╞Æ /api/geolocation                       167 B         102 kB
+Γö£ ╞Æ /api/rewards/action                    167 B         102 kB
+Γö£ ╞Æ /api/rewards/settings                  167 B         102 kB
+Γö£ ╞Æ /api/user/notifications                167 B         102 kB
+Γö£ ╞Æ /api/user/profile                      167 B         102 kB
+Γö£ ╞Æ /api/user/rewards                      167 B         102 kB
+Γö£ ╞Æ /api/user/security                     167 B         102 kB
+Γö£ Γùï /auth/login                          1.36 kB         180 kB
+Γö£ Γùï /auth/register                        2.3 kB         181 kB
+Γö£ Γùï /blog                                  369 B         164 kB          1h      1y
+Γö£ ΓùÅ /blog/[slug]                         1.51 kB         165 kB
+Γö£   Γö£ /blog/best-casinos-2024
+Γö£   Γö£ /blog/casino-guide
+Γö£   Γöö /blog/online-gaming-tips
+Γö£ Γùï /bonuses                             1.11 kB         164 kB
+Γö£ Γùï /bonuses/cashback                      297 B         164 kB
+Γö£ Γùï /bonuses/crypto                        297 B         164 kB
+Γö£ Γùï /bonuses/free-spins                    297 B         164 kB
+Γö£ Γùï /bonuses/high-roller                   297 B         164 kB          1h      1y
+Γö£ Γùï /bonuses/no-deposit                    297 B         164 kB
+Γö£ Γùï /bonuses/welcome                       297 B         164 kB
+Γö£ Γùï /casino                              1.19 kB         168 kB
+Γö£ Γùï /casino-types/crypto                   297 B         164 kB          1h      1y
+Γö£ Γùï /casino-types/fast-withdrawal          297 B         164 kB
+Γö£ Γùï /casino-types/live                     297 B         164 kB
+Γö£ Γùï /casino-types/low-deposit              297 B         164 kB
+Γö£ Γùï /casino-types/mobile                   297 B         164 kB
+Γö£ Γùï /casino-types/no-kyc                   297 B         164 kB
+Γö£ ΓùÅ /casino/[country]                    1.39 kB         168 kB
+Γö£   Γö£ /casino/united-states
+Γö£   Γö£ /casino/australia
+Γö£   Γö£ /casino/united-kingdom
+Γö£   Γöö [+3968 more paths]
+Γö£ ΓùÅ /casino/details/[casino]               365 B         106 kB
+Γö£   Γö£ /casino/details/Gamblezen
+Γö£   Γö£ /casino/details/dolfwin
+Γö£   Γö£ /casino/details/everygame-classic
+Γö£   Γöö [+3957 more paths]
+Γö£ Γùï /comparisons                           297 B         164 kB
+Γö£ Γùï /contact                               297 B         164 kB
+Γö£ Γùï /countries                            257 kB         420 kB
+Γö£ Γùï /demo/user-progress                  4.98 kB         110 kB
+Γö£ Γùï /faq                                   297 B         164 kB
+Γö£ Γùï /free-spins                            297 B         164 kB          1h      1y
+Γö£ Γùï /games                               1.24 kB         165 kB
+Γö£ Γùï /guides                                411 B         164 kB          1h      1y
+Γö£ ΓùÅ /guides/[slug]                       1.88 kB         165 kB
+Γö£   Γö£ /guides/how-to-play-slots
+Γö£   Γö£ /guides/casino-bonuses-explained
+Γö£   Γö£ /guides/responsible-gambling
+Γö£   Γöö /guides/blackjack-strategy
+Γö£ Γùï /how-we-review                         297 B         164 kB
+Γö£ Γùï /info/about-us                         297 B         164 kB
+Γö£ Γùï /info/contact                          297 B         164 kB
+Γö£ Γùï /info/privacy-policy                   297 B         164 kB
+Γö£ Γùï /info/terms-of-service                 297 B         164 kB
+Γö£ Γùï /new-casinos                           297 B         164 kB          1h      1y
+Γö£ Γùï /no-deposit-bonuses                    297 B         164 kB          1h      1y
+Γö£ Γùï /payment/bank-transfer                 297 B         164 kB
+Γö£ Γùï /payment/bitcoin                       297 B         164 kB
+Γö£ Γùï /payment/paypal                        297 B         164 kB
+Γö£ Γùï /payment/skrill-neteller               297 B         164 kB
+Γö£ Γùï /payment/visa-mastercard               297 B         164 kB
+Γö£ Γùï /responsible-gambling                  297 B         164 kB
+Γö£ Γùï /reviews                               297 B         164 kB          1h      1y
+Γö£ Γùï /strategies                            297 B         164 kB
+Γö£ Γùï /tools/bankroll-simulator              297 B         164 kB
+Γö£ Γùï /tools/betting-calculator              297 B         164 kB
+Γö£ Γùï /tools/odds-converter                  297 B         164 kB
+Γö£ Γùï /tools/rtp-calculator                1.17 kB         165 kB
+Γö£ Γùï /top-casinos-2026                      297 B         164 kB          1h      1y
+Γö£ Γùï /top-lists/beginners                   297 B         164 kB
+Γö£ Γùï /top-lists/best-overall                297 B         164 kB
+Γö£ Γùï /top-lists/fast-payout                 297 B         164 kB
+Γö£ Γùï /top-lists/high-roller                 297 B         164 kB
+Γö£ Γùï /top-lists/top-bonuses                 297 B         164 kB
+Γö£ Γùï /top-lists/top-online-casinos          297 B         164 kB
+Γö£ Γùï /top-lists/top-slots                   297 B         164 kB
+Γö£ Γùï /top-lists/trusted                     297 B         164 kB
+Γö£ ╞Æ /user/[page]                          7.5 kB         171 kB
+Γöö Γùï /user/dashboard                      4.68 kB         168 kB
++ First Load JS shared by all             102 kB
+  Γö£ chunks/1255-df47d50fc1a2048b.js      45.8 kB
+  Γö£ chunks/4bd1b696-f785427dddbba9fb.js  54.2 kB
+  Γöö other shared chunks (total)          2.07 kB
+
+
+╞Æ Middleware                             34.7 kB
+
+Γùï  (Static)   prerendered as static content
+ΓùÅ  (SSG)      prerendered as static HTML (uses generateStaticParams)
+╞Æ  (Dynamic)  server-rendered on demand
+

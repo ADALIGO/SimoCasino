@@ -1,0 +1,32 @@
+{
+  "name": "Jackpotter Online",
+  "slug": "jackpotter-online",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 125% up to $100",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 44,
+  "providers": [
+    "Thunderkick",
+    "Genesis Gaming"
+  ],
+  "likes": 1234,
+  "comments": 83,
+  "operatingCountries": [
+    "Belgium",
+    "Denmark",
+    "Sweden",
+    "Morocco",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpotter-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

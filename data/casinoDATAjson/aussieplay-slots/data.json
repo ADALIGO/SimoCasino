@@ -1,0 +1,35 @@
+{
+  "name": "Aussieplay Slots",
+  "slug": "aussieplay-slots",
+  "country": "Morocco",
+  "bonus": "Deposit Bonus 250% up to $300",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 276,
+  "providers": [
+    "Visionary iGaming",
+    "Yggdrasil",
+    "Nolimit City",
+    "Saucify",
+    "EGT",
+    "Amatic Industries",
+    "IGT"
+  ],
+  "likes": 1732,
+  "comments": 225,
+  "operatingCountries": [
+    "Ireland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=aussieplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

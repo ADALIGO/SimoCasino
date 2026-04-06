@@ -1,0 +1,37 @@
+{
+  "name": "Jurassic Slots Slots",
+  "slug": "jurassic-slots-slots",
+  "country": "Sweden",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 154,
+  "providers": [
+    "Saucify",
+    "Gamomat",
+    "Evolution Gaming",
+    "Rival",
+    "Spinlogic Gaming",
+    "Microgaming",
+    "Aristocrat",
+    "Merkur"
+  ],
+  "likes": 1669,
+  "comments": 27,
+  "operatingCountries": [
+    "United Kingdom",
+    "Germany",
+    "Belgium",
+    "Italy",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jurassic-slots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

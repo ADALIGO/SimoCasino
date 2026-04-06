@@ -1,0 +1,29 @@
+{
+  "name": "EmirBet",
+  "slug": "emirbet",
+  "country": "Morocco",
+  "bonus": "125% up to €/$125 + 25 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1170,
+  "comments": 236,
+  "operatingCountries": [
+    "Czech Republic",
+    "Germany",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=apollo-slots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112"
+  ],
+  "reviewCount": 5
+}

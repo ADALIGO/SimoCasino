@@ -1,0 +1,31 @@
+{
+  "name": "Spin Rider Casino",
+  "slug": "spin-rider-casino",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 200% up to $2000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 464,
+  "providers": [
+    "Genesis Gaming",
+    "Yggdrasil",
+    "Visionary iGaming"
+  ],
+  "likes": 616,
+  "comments": 240,
+  "operatingCountries": [
+    "South Africa",
+    "Austria",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=96",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-rider-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

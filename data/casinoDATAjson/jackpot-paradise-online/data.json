@@ -1,0 +1,33 @@
+{
+  "name": "Jackpot Paradise Online",
+  "slug": "jackpot-paradise-online",
+  "country": "Italy",
+  "bonus": "Deposit Bonus 250% up to $100",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 23,
+  "providers": [
+    "Arrows Edge",
+    "Evolution Gaming",
+    "EGT",
+    "Wager Gaming",
+    "Microgaming"
+  ],
+  "likes": 970,
+  "comments": 241,
+  "operatingCountries": [
+    "Austria",
+    "New Zealand",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-paradise-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "EgoGames",
+  "slug": "egogames",
+  "country": "Morocco",
+  "bonus": "110% up to €500 + 110 Spins",
+  "rating": 2.5,
+  "revenueRank": 25,
+  "spins": 153,
+  "providers": [],
+  "likes": 989,
+  "comments": 490,
+  "operatingCountries": [
+    "Italy",
+    "Sweden",
+    "France",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-magic",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ],
+  "reviewCount": 5
+}

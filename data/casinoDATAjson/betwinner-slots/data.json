@@ -1,0 +1,32 @@
+{
+  "name": "BetWinner Slots",
+  "slug": "betwinner-slots",
+  "country": "Finland",
+  "bonus": "Deposit Bonus 300% up to $200",
+  "rating": 4.2,
+  "revenueRank": 46,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Habanero Systems",
+    "Gamomat",
+    "Thunderkick",
+    "Quickspin"
+  ],
+  "likes": 1030,
+  "comments": 441,
+  "operatingCountries": [
+    "Ireland",
+    "Austria",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=102",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwinner-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104"
+  ]
+}

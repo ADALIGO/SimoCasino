@@ -1,0 +1,34 @@
+{
+  "name": "Wishwin Casino",
+  "slug": "wishwin-casino",
+  "country": "South Africa",
+  "bonus": "125% Bonus up to $1000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 152,
+  "providers": [
+    "1x2gaming",
+    "Blueprint Gaming",
+    "Spinlogic Gaming",
+    "Ash Gaming",
+    "Red Tiger",
+    "BetSoft",
+    "Rival",
+    "WMS"
+  ],
+  "likes": 993,
+  "comments": 293,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wishwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

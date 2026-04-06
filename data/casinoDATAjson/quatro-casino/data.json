@@ -1,0 +1,33 @@
+{
+  "name": "Quatro Casino",
+  "slug": "quatro-casino",
+  "country": "Australia",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 37,
+  "providers": [
+    "Merkur",
+    "Blueprint Gaming"
+  ],
+  "likes": 1167,
+  "comments": 115,
+  "operatingCountries": [
+    "Poland",
+    "New Zealand",
+    "Czech Republic",
+    "Austria",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=136",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=quatro-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

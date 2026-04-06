@@ -1,0 +1,31 @@
+{
+  "name": "Casino Days Games",
+  "slug": "casino-days-games",
+  "country": "Belgium",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 353,
+  "providers": [
+    "Wager Gaming",
+    "WMS",
+    "Big Time Gaming"
+  ],
+  "likes": 1297,
+  "comments": 402,
+  "operatingCountries": [
+    "Poland",
+    "South Africa",
+    "Norway",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-days-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190"
+  ]
+}

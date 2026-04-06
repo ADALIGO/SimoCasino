@@ -1,0 +1,34 @@
+{
+  "name": "Riviera Casino",
+  "slug": "riviera-casino",
+  "country": "Spain",
+  "bonus": "Reload Bonus 300% up to $1000",
+  "rating": 3.4,
+  "revenueRank": 30,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "NetEnt",
+    "Relax Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 1360,
+  "comments": 244,
+  "operatingCountries": [
+    "South Africa",
+    "Sweden",
+    "United Kingdom",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=3",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=riviera-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ]
+}

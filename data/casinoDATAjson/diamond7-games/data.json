@@ -1,0 +1,35 @@
+{
+  "name": "Diamond7 Games",
+  "slug": "diamond7-games",
+  "country": "Morocco",
+  "bonus": "First Deposit 100% up to $2000 + 20 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Wager Gaming",
+    "ELK Studios",
+    "Arrows Edge",
+    "Ash Gaming",
+    "Gamomat",
+    "Blueprint Gaming"
+  ],
+  "likes": 284,
+  "comments": 374,
+  "operatingCountries": [
+    "Belgium",
+    "Spain",
+    "Sweden",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=diamond7-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "CasinOK Casino",
+  "slug": "casinok-casino",
+  "country": "United Kingdom",
+  "bonus": "First Deposit 300% up to $50 + 20 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 196,
+  "providers": [
+    "Amatic Industries",
+    "Yggdrasil",
+    "Greentube",
+    "WMS",
+    "Rival"
+  ],
+  "likes": 1708,
+  "comments": 491,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinok-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

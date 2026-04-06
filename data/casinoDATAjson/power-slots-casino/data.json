@@ -1,0 +1,31 @@
+{
+  "name": "Power Slots Casino",
+  "slug": "power-slots-casino",
+  "country": "Italy",
+  "bonus": "VIP Bonus 300% up to $200",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT"
+  ],
+  "likes": 1961,
+  "comments": 44,
+  "operatingCountries": [
+    "Netherlands",
+    "Czech Republic",
+    "France",
+    "United Kingdom",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=power-slots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ]
+}

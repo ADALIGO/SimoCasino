@@ -1,0 +1,28 @@
+{
+  "name": "Rise of Bets Online",
+  "slug": "rise-of-bets-online",
+  "country": "Netherlands",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 200,
+  "providers": [
+    "NextGen",
+    "BetSoft"
+  ],
+  "likes": 1509,
+  "comments": 207,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rise-of-bets-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ]
+}

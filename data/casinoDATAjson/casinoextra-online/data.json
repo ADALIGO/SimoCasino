@@ -1,0 +1,29 @@
+{
+  "name": "CasinoExtra Online",
+  "slug": "casinoextra-online",
+  "country": "New Zealand",
+  "bonus": "125% Bonus up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Relax Gaming"
+  ],
+  "likes": 662,
+  "comments": 278,
+  "operatingCountries": [
+    "Portugal",
+    "Poland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoextra-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

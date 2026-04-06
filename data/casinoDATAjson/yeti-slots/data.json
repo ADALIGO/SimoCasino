@@ -1,0 +1,31 @@
+{
+  "name": "Yeti Slots",
+  "slug": "yeti-slots",
+  "country": "Poland",
+  "bonus": "VIP Bonus 200% up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 122,
+  "providers": [
+    "WMS",
+    "Saucify",
+    "Rival"
+  ],
+  "likes": 1262,
+  "comments": 370,
+  "operatingCountries": [
+    "Spain",
+    "South Africa",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yeti-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ]
+}

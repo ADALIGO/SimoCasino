@@ -1,0 +1,37 @@
+{
+  "name": "Dafabet Casino",
+  "slug": "dafabet-casino",
+  "country": "United Kingdom",
+  "bonus": "Welcome Bonus 100% up to $50",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 90,
+  "providers": [
+    "Merkur",
+    "Aristocrat",
+    "Ash Gaming",
+    "Quickspin",
+    "Real Time Gaming",
+    "Big Time Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1156,
+  "comments": 469,
+  "operatingCountries": [
+    "Netherlands",
+    "United Kingdom",
+    "Italy",
+    "Norway",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dafabet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154"
+  ]
+}

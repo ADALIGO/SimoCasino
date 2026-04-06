@@ -1,0 +1,31 @@
+{
+  "name": "BetNeptune Games",
+  "slug": "betneptune-games",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 250% up to $200",
+  "rating": 4.1,
+  "revenueRank": 4,
+  "spins": 236,
+  "providers": [
+    "Yggdrasil",
+    "Iron Dog Studio",
+    "NextGen",
+    "Saucify",
+    "Thunderkick"
+  ],
+  "likes": 1627,
+  "comments": 154,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betneptune-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

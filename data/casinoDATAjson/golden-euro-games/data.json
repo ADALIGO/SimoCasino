@@ -1,0 +1,35 @@
+{
+  "name": "Golden Euro Games",
+  "slug": "golden-euro-games",
+  "country": "South Africa",
+  "bonus": "First Deposit 150% up to $500 + 250 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 101,
+  "providers": [
+    "Nolimit City",
+    "Saucify",
+    "Amatic Industries",
+    "Big Time Gaming",
+    "Iron Dog Studio",
+    "Novomatic"
+  ],
+  "likes": 748,
+  "comments": 447,
+  "operatingCountries": [
+    "Germany",
+    "United Kingdom",
+    "New Zealand",
+    "Ireland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-euro-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110"
+  ]
+}

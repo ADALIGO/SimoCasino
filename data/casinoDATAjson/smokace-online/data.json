@@ -1,0 +1,29 @@
+{
+  "name": "SmokAce Online",
+  "slug": "smokace-online",
+  "country": "Germany",
+  "bonus": "250% Bonus up to $1000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 318,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 1387,
+  "comments": 415,
+  "operatingCountries": [
+    "Poland",
+    "Germany",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=70",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=smokace-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

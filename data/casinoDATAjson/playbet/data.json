@@ -1,0 +1,29 @@
+{
+  "name": "Playbet",
+  "slug": "playbet",
+  "country": "Morocco",
+  "bonus": "130% up to ₮1500 + 150 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 93,
+  "providers": [],
+  "likes": 1984,
+  "comments": 111,
+  "operatingCountries": [
+    "Finland",
+    "Czech Republic",
+    "France",
+    "Ireland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=107",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-reef",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109"
+  ],
+  "reviewCount": 5
+}

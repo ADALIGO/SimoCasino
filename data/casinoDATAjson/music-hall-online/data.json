@@ -1,0 +1,36 @@
+{
+  "name": "Music Hall Online",
+  "slug": "music-hall-online",
+  "country": "Netherlands",
+  "bonus": "Cashback up to 150%",
+  "rating": 3,
+  "revenueRank": 60,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Red Tiger",
+    "Playtech",
+    "NextGen",
+    "Iron Dog Studio",
+    "Nolimit City",
+    "Microgaming",
+    "Novomatic"
+  ],
+  "likes": 214,
+  "comments": 349,
+  "operatingCountries": [
+    "United Kingdom",
+    "Germany",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=music-hall-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

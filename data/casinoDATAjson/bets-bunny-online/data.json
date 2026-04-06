@@ -1,0 +1,35 @@
+{
+  "name": "Bets Bunny Online",
+  "slug": "bets-bunny-online",
+  "country": "Belgium",
+  "bonus": "100% up to $2000 + 150 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 326,
+  "providers": [
+    "Arrows Edge",
+    "Rival",
+    "1x2gaming",
+    "Habanero Systems",
+    "Big Time Gaming",
+    "Relax Gaming",
+    "NetEnt",
+    "BetSoft"
+  ],
+  "likes": 1705,
+  "comments": 246,
+  "operatingCountries": [
+    "United Kingdom",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bets-bunny-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

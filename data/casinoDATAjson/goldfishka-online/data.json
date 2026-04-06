@@ -1,0 +1,33 @@
+{
+  "name": "Goldfishka Online",
+  "slug": "goldfishka-online",
+  "country": "Ireland",
+  "bonus": "Reload Bonus 200% up to $200",
+  "rating": 3.2,
+  "revenueRank": 45,
+  "spins": 418,
+  "providers": [
+    "Ash Gaming",
+    "Saucify",
+    "Aristocrat",
+    "NextGen",
+    "Iron Dog Studio"
+  ],
+  "likes": 1944,
+  "comments": 163,
+  "operatingCountries": [
+    "New Zealand",
+    "United Kingdom",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldfishka-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ]
+}

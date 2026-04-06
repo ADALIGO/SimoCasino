@@ -1,0 +1,31 @@
+{
+  "name": "Vegas Slot",
+  "slug": "vegas-slot",
+  "country": "Morocco",
+  "bonus": "100% up to €/$100",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1963,
+  "comments": 51,
+  "operatingCountries": [
+    "Netherlands",
+    "Ireland",
+    "Poland",
+    "Denmark",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-kingdom",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ],
+  "reviewCount": 5
+}

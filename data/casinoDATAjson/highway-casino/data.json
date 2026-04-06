@@ -1,0 +1,35 @@
+{
+  "name": "Highway Casino",
+  "slug": "highway-casino",
+  "country": "Switzerland",
+  "bonus": "VIP Bonus 300% up to $50",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 348,
+  "providers": [
+    "BetSoft",
+    "Visionary iGaming",
+    "Push Gaming",
+    "Microgaming",
+    "Aristocrat",
+    "Real Time Gaming",
+    "Big Time Gaming",
+    "Habanero Systems"
+  ],
+  "likes": 50,
+  "comments": 166,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=highway-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

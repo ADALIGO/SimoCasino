@@ -1,0 +1,34 @@
+{
+  "name": "Grand Mondial Online",
+  "slug": "grand-mondial-online",
+  "country": "Netherlands",
+  "bonus": "100% Bonus up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Arrows Edge",
+    "Amatic Industries",
+    "Red Tiger",
+    "Habanero Systems",
+    "Gamomat"
+  ],
+  "likes": 713,
+  "comments": 4,
+  "operatingCountries": [
+    "Czech Republic",
+    "Ireland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grand-mondial-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ]
+}

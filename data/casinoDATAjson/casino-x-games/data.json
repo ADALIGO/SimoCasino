@@ -1,0 +1,30 @@
+{
+  "name": "Casino-X Games",
+  "slug": "casino-x-games",
+  "country": "Italy",
+  "bonus": "Deposit Bonus 250% up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NetEnt"
+  ],
+  "likes": 1984,
+  "comments": 382,
+  "operatingCountries": [
+    "Ireland",
+    "United States",
+    "Finland",
+    "South Africa",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=132",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-x-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ]
+}

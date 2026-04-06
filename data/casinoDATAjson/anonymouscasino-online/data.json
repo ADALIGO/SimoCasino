@@ -1,0 +1,36 @@
+{
+  "name": "AnonymousCasino Online",
+  "slug": "anonymouscasino-online",
+  "country": "France",
+  "bonus": "Cashback up to 100%",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 491,
+  "providers": [
+    "ELK Studios",
+    "Evolution Gaming",
+    "BetSoft",
+    "Relax Gaming",
+    "Greentube",
+    "NextGen"
+  ],
+  "likes": 899,
+  "comments": 169,
+  "operatingCountries": [
+    "South Africa",
+    "New Zealand",
+    "Switzerland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=anonymouscasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ]
+}

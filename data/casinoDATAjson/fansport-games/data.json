@@ -1,0 +1,29 @@
+{
+  "name": "Fansport Games",
+  "slug": "fansport-games",
+  "country": "Sweden",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming"
+  ],
+  "likes": 1095,
+  "comments": 271,
+  "operatingCountries": [
+    "Germany",
+    "United Kingdom",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fansport-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

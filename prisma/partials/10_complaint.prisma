@@ -1,0 +1,99 @@
+/////////////////////
+// COMPLAINT
+
+/////////////////////
+
+model Complaint {
+  id                        String    @id @default(auto()) @map("_id") @db.ObjectId
+  user                      User      @relation(fields: [userId], references: [id])
+  userId                    String
+  casino                    Casino?   @relation(fields: [casinoId], references: [id])
+  casinoId                  String?
+  gameId                    String?
+  bonusId                   String?
+  complaintType             String    // e.g., payout_issue, bonus_issue, technical_issue
+  title                     String
+  description               String
+  priority                  String?   // low, medium, high, urgent
+  status                    String?   // pending, in_progress, resolved, rejected
+  resolutionNotes           String[]
+  resolvedByAdminId         String?
+  resolvedAt                DateTime?
+  createdAt                 DateTime  @default(now())
+  updatedAt                 DateTime  @updatedAt
+
+  // User Context
+  userTier                  UserTier?
+  userVIPLevel              Int?
+  totalComplaintsSubmitted  Int?
+  totalComplaintsResolved   Int?
+  totalComplaintsRejected   Int?
+  totalCasinoSessions       Int?
+  totalCasinoBets           Float?
+  avgBetSize                Float?
+  totalWins                 Float?
+  totalLosses               Float?
+
+  // Interaction Tracking
+  messagesExchanged         Int?
+  attachmentsCount          Int?
+  lastUserMessageAt         DateTime?
+  lastAdminMessageAt        DateTime?
+  firstResponseTimeSeconds  Int?
+  totalTimeToResolveSeconds Int?
+  escalationLevel           Int?
+  assignedToAdminId         String?
+  slaExceeded               Boolean?
+
+  // Device & Network
+  deviceType                DeviceType?
+  browser                   String?
+  os                        String?
+  ipAddress                 String?
+  country                   String?
+  region                    String?
+  city                      String?
+  proxyDetected             Boolean?
+  vpnDetected               Boolean?
+  datacenterDetected        Boolean?
+
+  // Fraud / Abuse Detection
+  suspiciousFlag            Boolean?
+  duplicateComplaintScore   Float?
+  repeatedBehaviorScore     Float?
+  autoFlagSuspicious        Boolean?
+  fraudScore                Float?
+  flaggedByAdmin            Boolean?
+
+  // Engagement / Feedback
+  userSatisfactionScore     Float?   // 0-10
+  userRatingAfterResolution Float?   // 0-5
+  reviewLinked              String?  // link to Review id if applicable
+  followUpRequired          Boolean?
+  followUpScheduledAt       DateTime?
+
+  // AI / Automation
+  aiPriorityScore           Float?
+  predictedResolutionTime   Int?     // in hours
+  aiSuggestedResponse       String?
+  aiEscalationRecommendation String?
+  recommendedAdmin          String?
+  
+  // Analytics / Reporting
+  category                  String?  // technical, financial, bonus, account, other
+  subCategory               String?
+  sentimentScore            Float?
+  flaggedKeywords           String[]
+  historicalTrends          Json?
+  marketingImpactScore      Float?
+  predictedChurnImpact      Float?
+  
+  // Admin / Misc
+  adminNotes                String[]
+  history                   Json?
+  attachments               Json?
+  tags                      String[]
+  notificationsSent         Int?
+  remindersSent             Int?
+}
+

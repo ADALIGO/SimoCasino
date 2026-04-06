@@ -1,0 +1,28 @@
+{
+  "name": "Bonus Blitz Games",
+  "slug": "bonus-blitz-games",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 89,
+  "providers": [
+    "Amatic Industries"
+  ],
+  "likes": 1262,
+  "comments": 329,
+  "operatingCountries": [
+    "Morocco",
+    "United Kingdom",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=113",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bonus-blitz-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115"
+  ]
+}

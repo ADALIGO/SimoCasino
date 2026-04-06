@@ -1,0 +1,28 @@
+{
+  "name": "Cash o' Lot",
+  "slug": "cash-o-lot",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.4,
+  "revenueRank": null,
+  "spins": 354,
+  "providers": [],
+  "likes": 1177,
+  "comments": 392,
+  "operatingCountries": [
+    "Netherlands",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=riviera",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ],
+  "reviewCount": 5
+}

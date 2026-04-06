@@ -1,0 +1,31 @@
+{
+  "name": "Casombie Games",
+  "slug": "casombie-games",
+  "country": "France",
+  "bonus": "First Deposit 125% up to $100 + 200 Free Spins",
+  "rating": 4.8,
+  "revenueRank": 18,
+  "spins": 0,
+  "providers": [
+    "Relax Gaming",
+    "Konami"
+  ],
+  "likes": 1610,
+  "comments": 496,
+  "operatingCountries": [
+    "Belgium",
+    "Finland",
+    "Spain",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casombie-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ]
+}

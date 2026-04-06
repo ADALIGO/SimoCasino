@@ -1,0 +1,29 @@
+{
+  "name": "Top Tally",
+  "slug": "top-tally",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1372,
+  "comments": 151,
+  "operatingCountries": [
+    "Germany",
+    "Ireland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betbona-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ],
+  "reviewCount": 5
+}

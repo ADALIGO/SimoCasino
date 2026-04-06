@@ -1,0 +1,36 @@
+{
+  "name": "TornadoBet Casino",
+  "slug": "tornadobet-casino",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 241,
+  "providers": [
+    "NextGen",
+    "ELK Studios",
+    "Saucify",
+    "Visionary iGaming",
+    "NetEnt",
+    "Habanero Systems",
+    "Novomatic",
+    "IGT"
+  ],
+  "likes": 140,
+  "comments": 375,
+  "operatingCountries": [
+    "Ireland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tornadobet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151"
+  ]
+}

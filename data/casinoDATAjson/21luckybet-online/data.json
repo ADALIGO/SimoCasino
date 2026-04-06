@@ -1,0 +1,32 @@
+{
+  "name": "21LuckyBet Online",
+  "slug": "21luckybet-online",
+  "country": "United Kingdom",
+  "bonus": "300% Bonus up to $2000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Microgaming"
+  ],
+  "likes": 105,
+  "comments": 237,
+  "operatingCountries": [
+    "Denmark",
+    "Finland",
+    "Italy",
+    "Ireland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=195",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21luckybet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198"
+  ]
+}

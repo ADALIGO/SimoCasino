@@ -1,0 +1,27 @@
+{
+  "name": "LOKI",
+  "slug": "loki",
+  "country": "Morocco",
+  "bonus": "125% up to €2000 + 100 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 23,
+  "providers": [],
+  "likes": 1910,
+  "comments": 403,
+  "operatingCountries": [
+    "Germany",
+    "Poland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ampm-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131"
+  ],
+  "reviewCount": 5
+}

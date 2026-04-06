@@ -1,0 +1,30 @@
+{
+  "name": "24Casino Games",
+  "slug": "24casino-games",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 50% up to $200",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 161,
+  "providers": [
+    "Red Tiger"
+  ],
+  "likes": 1384,
+  "comments": 156,
+  "operatingCountries": [
+    "United Kingdom",
+    "Portugal",
+    "Ireland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24casino-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

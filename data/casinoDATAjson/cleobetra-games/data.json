@@ -1,0 +1,29 @@
+{
+  "name": "Cleobetra Games",
+  "slug": "cleobetra-games",
+  "country": "United States",
+  "bonus": "First Deposit 100% up to $50 + 100 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Yggdrasil",
+    "Relax Gaming"
+  ],
+  "likes": 713,
+  "comments": 390,
+  "operatingCountries": [
+    "Australia",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=167",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cleobetra-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

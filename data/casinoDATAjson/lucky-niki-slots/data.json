@@ -1,0 +1,32 @@
+{
+  "name": "Lucky Niki Slots",
+  "slug": "lucky-niki-slots",
+  "country": "South Africa",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.1,
+  "revenueRank": 21,
+  "spins": 180,
+  "providers": [
+    "Quickspin",
+    "Amatic Industries",
+    "Saucify"
+  ],
+  "likes": 912,
+  "comments": 77,
+  "operatingCountries": [
+    "Morocco",
+    "Ireland",
+    "Belgium",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-niki-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38"
+  ]
+}

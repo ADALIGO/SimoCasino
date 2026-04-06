@@ -1,0 +1,30 @@
+{
+  "name": "Polestar Online",
+  "slug": "polestar-online",
+  "country": "Austria",
+  "bonus": "First Deposit 150% up to $2000 + 250 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 214,
+  "providers": [
+    "Thunderkick",
+    "Saucify"
+  ],
+  "likes": 656,
+  "comments": 348,
+  "operatingCountries": [
+    "Spain",
+    "Belgium",
+    "Sweden",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=189",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=polestar-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ]
+}

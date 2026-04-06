@@ -1,0 +1,39 @@
+{
+  "name": "Vegas Paradise Slots",
+  "slug": "vegas-paradise-slots",
+  "country": "Czech Republic",
+  "bonus": "100% Bonus up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 166,
+  "providers": [
+    "Amatic Industries",
+    "Evolution Gaming",
+    "Yggdrasil",
+    "Pragmatic Play",
+    "NextGen",
+    "Real Time Gaming",
+    "Nolimit City",
+    "IGT"
+  ],
+  "likes": 287,
+  "comments": 403,
+  "operatingCountries": [
+    "United Kingdom",
+    "Czech Republic",
+    "Ireland",
+    "Spain",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegas-paradise-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

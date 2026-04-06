@@ -1,0 +1,26 @@
+{
+  "name": "Winbig21",
+  "slug": "winbig21",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 0.9,
+  "revenueRank": null,
+  "spins": 471,
+  "providers": [],
+  "likes": 1610,
+  "comments": 124,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegaswinner",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74"
+  ],
+  "reviewCount": 5
+}

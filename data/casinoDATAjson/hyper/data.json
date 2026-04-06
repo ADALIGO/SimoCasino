@@ -1,0 +1,27 @@
+{
+  "name": "Hyper",
+  "slug": "hyper",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 490,
+  "providers": [],
+  "likes": 1461,
+  "comments": 274,
+  "operatingCountries": [
+    "Morocco",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yallabet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,28 @@
+{
+  "name": "BetKudos",
+  "slug": "betkudos",
+  "country": "Morocco",
+  "bonus": "100% up to €5000 + 20 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 300,
+  "providers": [],
+  "likes": 1465,
+  "comments": 344,
+  "operatingCountries": [
+    "Germany",
+    "Switzerland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bankonbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ],
+  "reviewCount": 5
+}

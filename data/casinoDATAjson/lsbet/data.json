@@ -1,0 +1,29 @@
+{
+  "name": "LSbet",
+  "slug": "lsbet",
+  "country": "Morocco",
+  "bonus": "100% up to €/$300",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 582,
+  "comments": 211,
+  "operatingCountries": [
+    "Australia",
+    "South Africa",
+    "Belgium",
+    "Morocco",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-dreams",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163"
+  ],
+  "reviewCount": 5
+}

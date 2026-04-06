@@ -1,0 +1,28 @@
+{
+  "name": "CasinoBet",
+  "slug": "casinobet",
+  "country": "Morocco",
+  "bonus": "125% up to ₿0.25 + 125 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 302,
+  "comments": 346,
+  "operatingCountries": [
+    "South Africa",
+    "Sweden",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=1",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cloudbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=1",
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4"
+  ],
+  "reviewCount": 5
+}

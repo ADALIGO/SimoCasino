@@ -1,0 +1,31 @@
+{
+  "name": "NineCasino Slots",
+  "slug": "ninecasino-slots",
+  "country": "Germany",
+  "bonus": "Reload Bonus 200% up to $1000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "IGT",
+    "NetEnt",
+    "Visionary iGaming",
+    "Arrows Edge"
+  ],
+  "likes": 655,
+  "comments": 408,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ninecasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

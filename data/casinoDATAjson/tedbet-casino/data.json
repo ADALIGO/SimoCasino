@@ -1,0 +1,33 @@
+{
+  "name": "Tedbet Casino",
+  "slug": "tedbet-casino",
+  "country": "France",
+  "bonus": "200% Bonus up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 456,
+  "providers": [
+    "Habanero Systems",
+    "Real Time Gaming",
+    "Genesis Gaming",
+    "Saucify",
+    "Rival",
+    "Blueprint Gaming",
+    "Wager Gaming"
+  ],
+  "likes": 680,
+  "comments": 55,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=116",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tedbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

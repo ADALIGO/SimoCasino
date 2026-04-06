@@ -1,0 +1,30 @@
+{
+  "name": "Great Britain",
+  "slug": "great-britain",
+  "country": "Morocco",
+  "bonus": "Up to 500 Spins",
+  "rating": 0,
+  "revenueRank": 47,
+  "spins": 463,
+  "providers": [
+    "T&C's Apply",
+    "2.7 / 5"
+  ],
+  "likes": 736,
+  "comments": 293,
+  "operatingCountries": [
+    "United Kingdom",
+    "Belgium",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotified",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131"
+  ],
+  "reviewCount": 0
+}

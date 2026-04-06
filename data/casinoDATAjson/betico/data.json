@@ -1,0 +1,28 @@
+{
+  "name": "Betico",
+  "slug": "betico",
+  "country": "Morocco",
+  "bonus": "50% up to ₮25 + 10 Spins",
+  "rating": 2.7,
+  "revenueRank": 30,
+  "spins": 0,
+  "providers": [],
+  "likes": 1034,
+  "comments": 266,
+  "operatingCountries": [
+    "Portugal",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=60",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bcgame-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64"
+  ],
+  "reviewCount": 5
+}

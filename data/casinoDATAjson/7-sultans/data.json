@@ -1,0 +1,26 @@
+{
+  "name": "7 Sultans",
+  "slug": "7-sultans",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 407,
+  "providers": [],
+  "likes": 1048,
+  "comments": 371,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=173",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=aussieplay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176"
+  ],
+  "reviewCount": 5
+}

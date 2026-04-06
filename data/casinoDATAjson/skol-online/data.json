@@ -1,0 +1,30 @@
+{
+  "name": "Skol Online",
+  "slug": "skol-online",
+  "country": "Canada",
+  "bonus": "Welcome Bonus 125% up to $1000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Saucify",
+    "Blueprint Gaming"
+  ],
+  "likes": 1750,
+  "comments": 47,
+  "operatingCountries": [
+    "France",
+    "Belgium",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=32",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=skol-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

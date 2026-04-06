@@ -1,0 +1,29 @@
+{
+  "name": "Let's Lucky",
+  "slug": "lets-lucky",
+  "country": "Morocco",
+  "bonus": "150% up to €/$750 + 100 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 144,
+  "providers": [],
+  "likes": 1148,
+  "comments": 225,
+  "operatingCountries": [
+    "Finland",
+    "Portugal",
+    "Ireland",
+    "Canada",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=191",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinly",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193"
+  ],
+  "reviewCount": 5
+}

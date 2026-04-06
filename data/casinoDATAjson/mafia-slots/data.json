@@ -1,0 +1,35 @@
+{
+  "name": "Mafia Slots",
+  "slug": "mafia-slots",
+  "country": "Finland",
+  "bonus": "Deposit Bonus 125% up to $200",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Push Gaming",
+    "NextGen",
+    "WMS",
+    "Habanero Systems",
+    "Microgaming"
+  ],
+  "likes": 163,
+  "comments": 390,
+  "operatingCountries": [
+    "South Africa",
+    "Sweden",
+    "Poland",
+    "United States",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=167",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mafia-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169"
+  ]
+}

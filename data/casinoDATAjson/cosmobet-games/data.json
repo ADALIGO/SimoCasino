@@ -1,0 +1,33 @@
+{
+  "name": "Cosmobet Games",
+  "slug": "cosmobet-games",
+  "country": "Denmark",
+  "bonus": "Cashback up to 200%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Blueprint Gaming",
+    "WMS",
+    "Amatic Industries"
+  ],
+  "likes": 1639,
+  "comments": 104,
+  "operatingCountries": [
+    "Norway",
+    "Switzerland",
+    "South Africa",
+    "Netherlands",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cosmobet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

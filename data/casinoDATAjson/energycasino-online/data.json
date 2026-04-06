@@ -1,0 +1,36 @@
+{
+  "name": "EnergyCasino Online",
+  "slug": "energycasino-online",
+  "country": "Spain",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 90,
+  "providers": [
+    "EGT",
+    "Aristocrat",
+    "Nolimit City",
+    "Quickspin",
+    "Konami",
+    "BetSoft",
+    "NextGen"
+  ],
+  "likes": 980,
+  "comments": 198,
+  "operatingCountries": [
+    "Austria",
+    "South Africa",
+    "France",
+    "Finland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=150",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=energycasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

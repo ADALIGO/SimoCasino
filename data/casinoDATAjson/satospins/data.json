@@ -1,0 +1,30 @@
+{
+  "name": "SatoSpins",
+  "slug": "satospins",
+  "country": "Morocco",
+  "bonus": "100% up to ₮20000",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 488,
+  "providers": [],
+  "likes": 1009,
+  "comments": 397,
+  "operatingCountries": [
+    "Canada",
+    "Poland",
+    "Portugal",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bacanaplay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ],
+  "reviewCount": 5
+}

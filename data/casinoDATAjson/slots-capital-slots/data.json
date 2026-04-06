@@ -1,0 +1,30 @@
+{
+  "name": "Slots Capital Slots",
+  "slug": "slots-capital-slots",
+  "country": "South Africa",
+  "bonus": "Cashback up to 50%",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 131,
+  "providers": [
+    "NetEnt",
+    "Pragmatic Play",
+    "Arrows Edge",
+    "Spinlogic Gaming"
+  ],
+  "likes": 590,
+  "comments": 65,
+  "operatingCountries": [
+    "Poland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=175",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-capital-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177"
+  ]
+}

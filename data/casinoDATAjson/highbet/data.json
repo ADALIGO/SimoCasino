@@ -1,0 +1,27 @@
+{
+  "name": "Highbet",
+  "slug": "highbet",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 161,
+  "providers": [],
+  "likes": 55,
+  "comments": 445,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=70",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boo",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74"
+  ],
+  "reviewCount": 5
+}

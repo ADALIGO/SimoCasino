@@ -1,0 +1,31 @@
+{
+  "name": "Lukki Slots",
+  "slug": "lukki-slots",
+  "country": "United Kingdom",
+  "bonus": "Deposit Bonus 150% up to $500",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 303,
+  "providers": [
+    "NetEnt",
+    "Aristocrat"
+  ],
+  "likes": 1284,
+  "comments": 199,
+  "operatingCountries": [
+    "Morocco",
+    "Sweden",
+    "United States",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lukki-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Spinaro Slots",
+  "slug": "spinaro-slots",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 200% up to $1000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 153,
+  "providers": [
+    "Microgaming",
+    "NetEnt",
+    "Aristocrat",
+    "NextGen"
+  ],
+  "likes": 1668,
+  "comments": 448,
+  "operatingCountries": [
+    "Morocco",
+    "France",
+    "United Kingdom",
+    "South Africa",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinaro-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43"
+  ]
+}

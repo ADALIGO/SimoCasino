@@ -1,0 +1,33 @@
+{
+  "name": "Betinia Games",
+  "slug": "betinia-games",
+  "country": "Portugal",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 211,
+  "providers": [
+    "EGT",
+    "Thunderkick",
+    "Quickspin",
+    "Blueprint Gaming",
+    "Visionary iGaming",
+    "Rival"
+  ],
+  "likes": 379,
+  "comments": 342,
+  "operatingCountries": [
+    "Poland",
+    "Portugal",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=17",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betinia-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19"
+  ]
+}

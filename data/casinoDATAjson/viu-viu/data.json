@@ -1,0 +1,28 @@
+{
+  "name": "Viu Viu",
+  "slug": "viu-viu",
+  "country": "Morocco",
+  "bonus": "200 Spins",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 63,
+  "comments": 70,
+  "operatingCountries": [
+    "Belgium",
+    "Switzerland",
+    "Canada",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=132",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldenbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ],
+  "reviewCount": 5
+}

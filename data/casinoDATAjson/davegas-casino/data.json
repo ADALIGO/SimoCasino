@@ -1,0 +1,32 @@
+{
+  "name": "DaVegas Casino",
+  "slug": "davegas-casino",
+  "country": "Switzerland",
+  "bonus": "100% up to $500 + 200 Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming",
+    "EGT",
+    "Habanero Systems",
+    "Rival",
+    "Wager Gaming",
+    "Iron Dog Studio",
+    "Amatic Industries"
+  ],
+  "likes": 415,
+  "comments": 324,
+  "operatingCountries": [
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=40",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=davegas-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Win Rolla Casino",
+  "slug": "win-rolla-casino",
+  "country": "United States",
+  "bonus": "150% Bonus up to $50",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "BetSoft",
+    "ELK Studios",
+    "Amatic Industries",
+    "Blueprint Gaming",
+    "Habanero Systems",
+    "Evolution Gaming"
+  ],
+  "likes": 743,
+  "comments": 180,
+  "operatingCountries": [
+    "United States",
+    "South Africa",
+    "Ireland",
+    "Canada",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=181",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=win-rolla-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "KikoBet Slots",
+  "slug": "kikobet-slots",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 100% up to $300",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 240,
+  "providers": [
+    "Genesis Gaming"
+  ],
+  "likes": 766,
+  "comments": 209,
+  "operatingCountries": [
+    "Belgium",
+    "Sweden",
+    "United Kingdom",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kikobet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148"
+  ]
+}

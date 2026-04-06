@@ -1,0 +1,29 @@
+{
+  "name": "Mad",
+  "slug": "mad",
+  "country": "Czech Republic",
+  "bonus": "Deposit Bonus 200% up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 472,
+  "providers": [
+    "Visionary iGaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 795,
+  "comments": 400,
+  "operatingCountries": [
+    "Ireland",
+    "Denmark",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bookmakerxyz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

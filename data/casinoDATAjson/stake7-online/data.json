@@ -1,0 +1,31 @@
+{
+  "name": "Stake7 Online",
+  "slug": "stake7-online",
+  "country": "South Africa",
+  "bonus": "Deposit Bonus 125% up to $500",
+  "rating": 3.1,
+  "revenueRank": 82,
+  "spins": 0,
+  "providers": [
+    "NextGen",
+    "Amatic Industries",
+    "NetEnt",
+    "Novomatic",
+    "Push Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 1837,
+  "comments": 476,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stake7-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Nextbet Online",
+  "slug": "nextbet-online",
+  "country": "Netherlands",
+  "bonus": "Deposit Bonus 300% up to $1000",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 435,
+  "providers": [
+    "Gamomat",
+    "Push Gaming",
+    "Aristocrat",
+    "Visionary iGaming",
+    "Quickspin",
+    "Real Time Gaming",
+    "Red Tiger"
+  ],
+  "likes": 1588,
+  "comments": 460,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=152",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=nextbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ]
+}

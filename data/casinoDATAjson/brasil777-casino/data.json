@@ -1,0 +1,35 @@
+{
+  "name": "Brasil777 Casino",
+  "slug": "brasil777-casino",
+  "country": "Netherlands",
+  "bonus": "100% up to $50 + 250 Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 181,
+  "providers": [
+    "Pragmatic Play",
+    "Amatic Industries",
+    "Blueprint Gaming",
+    "Saucify",
+    "Greentube",
+    "ELK Studios",
+    "Big Time Gaming",
+    "Thunderkick"
+  ],
+  "likes": 568,
+  "comments": 231,
+  "operatingCountries": [
+    "Belgium",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brasil777-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Casino Estrella Slots",
+  "slug": "casino-estrella-slots",
+  "country": "France",
+  "bonus": "Welcome Bonus 125% up to $1000",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 375,
+  "providers": [
+    "Novomatic",
+    "Wager Gaming",
+    "Red Tiger",
+    "Playtech",
+    "Thunderkick",
+    "Gamomat"
+  ],
+  "likes": 1099,
+  "comments": 37,
+  "operatingCountries": [
+    "Germany",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-estrella-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

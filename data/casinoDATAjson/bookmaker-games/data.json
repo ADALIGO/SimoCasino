@@ -1,0 +1,37 @@
+{
+  "name": "Bookmaker Games",
+  "slug": "bookmaker-games",
+  "country": "Switzerland",
+  "bonus": "Welcome Bonus 200% up to $300",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NetEnt",
+    "1x2gaming",
+    "Nolimit City",
+    "BetSoft",
+    "IGT",
+    "Wager Gaming",
+    "NextGen"
+  ],
+  "likes": 1145,
+  "comments": 345,
+  "operatingCountries": [
+    "Sweden",
+    "Finland",
+    "Canada",
+    "Denmark",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bookmaker-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91"
+  ]
+}

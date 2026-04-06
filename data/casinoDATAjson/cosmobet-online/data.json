@@ -1,0 +1,36 @@
+{
+  "name": "Cosmobet Online",
+  "slug": "cosmobet-online",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.4,
+  "revenueRank": 48,
+  "spins": 321,
+  "providers": [
+    "Merkur",
+    "Wager Gaming",
+    "NetEnt",
+    "Visionary iGaming",
+    "1x2gaming",
+    "IGT",
+    "Real Time Gaming",
+    "Big Time Gaming"
+  ],
+  "likes": 338,
+  "comments": 347,
+  "operatingCountries": [
+    "Ireland",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cosmobet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144"
+  ]
+}

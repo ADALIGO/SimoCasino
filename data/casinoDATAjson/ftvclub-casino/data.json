@@ -1,0 +1,39 @@
+{
+  "name": "FTVClub Casino",
+  "slug": "ftvclub-casino",
+  "country": "United States",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 69,
+  "providers": [
+    "Big Time Gaming",
+    "NetEnt",
+    "Iron Dog Studio",
+    "Thunderkick",
+    "Konami",
+    "Pragmatic Play",
+    "Yggdrasil",
+    "Ash Gaming"
+  ],
+  "likes": 1214,
+  "comments": 5,
+  "operatingCountries": [
+    "Switzerland",
+    "Australia",
+    "South Africa",
+    "Belgium",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=103",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ftvclub-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107"
+  ]
+}

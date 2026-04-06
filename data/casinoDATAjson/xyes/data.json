@@ -1,0 +1,27 @@
+{
+  "name": "Xyes",
+  "slug": "xyes",
+  "country": "Morocco",
+  "bonus": "120% up to €500",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 187,
+  "providers": [],
+  "likes": 235,
+  "comments": 194,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rockstarwin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202",
+    "https://picsum.photos/380/260?random=203"
+  ],
+  "reviewCount": 5
+}

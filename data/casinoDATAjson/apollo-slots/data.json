@@ -1,0 +1,27 @@
+{
+  "name": "Apollo Slots",
+  "slug": "apollo-slots",
+  "country": "Morocco",
+  "bonus": "100% up to R2999",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1574,
+  "comments": 448,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jacksclub",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ],
+  "reviewCount": 5
+}

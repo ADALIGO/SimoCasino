@@ -1,0 +1,28 @@
+{
+  "name": "Chancer Slots",
+  "slug": "chancer-slots",
+  "country": "Canada",
+  "bonus": "First Deposit 125% up to $1000 + 300 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 46,
+  "providers": [
+    "Rival",
+    "Arrows Edge",
+    "Genesis Gaming"
+  ],
+  "likes": 1065,
+  "comments": 481,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=chancer-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

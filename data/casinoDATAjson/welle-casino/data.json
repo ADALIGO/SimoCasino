@@ -1,0 +1,31 @@
+{
+  "name": "Welle Casino",
+  "slug": "welle-casino",
+  "country": "Poland",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.2,
+  "revenueRank": 82,
+  "spins": 88,
+  "providers": [
+    "1x2gaming",
+    "Evolution Gaming",
+    "Nolimit City",
+    "Aristocrat"
+  ],
+  "likes": 143,
+  "comments": 73,
+  "operatingCountries": [
+    "Czech Republic",
+    "Poland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=welle-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201"
+  ]
+}

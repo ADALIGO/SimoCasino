@@ -1,0 +1,32 @@
+{
+  "name": "Asgard Slots Games",
+  "slug": "asgard-slots-games",
+  "country": "France",
+  "bonus": "VIP Bonus 250% up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 361,
+  "providers": [
+    "Rival",
+    "Evolution Gaming",
+    "Greentube"
+  ],
+  "likes": 907,
+  "comments": 275,
+  "operatingCountries": [
+    "Netherlands",
+    "Italy",
+    "Norway",
+    "Finland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=asgard-slots-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Jokersino",
+  "slug": "jokersino",
+  "country": "Morocco",
+  "bonus": "200% up to €400",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 404,
+  "providers": [],
+  "likes": 9,
+  "comments": 421,
+  "operatingCountries": [
+    "United States",
+    "Morocco",
+    "South Africa",
+    "Canada",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotnite",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178"
+  ],
+  "reviewCount": 5
+}

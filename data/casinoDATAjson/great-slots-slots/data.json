@@ -1,0 +1,33 @@
+{
+  "name": "Great Slots Slots",
+  "slug": "great-slots-slots",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 138,
+  "providers": [
+    "Relax Gaming",
+    "Spinlogic Gaming",
+    "Gamomat",
+    "Microgaming",
+    "Visionary iGaming",
+    "Merkur",
+    "Habanero Systems",
+    "BetSoft"
+  ],
+  "likes": 1130,
+  "comments": 245,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=156",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=great-slots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

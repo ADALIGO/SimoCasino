@@ -1,0 +1,37 @@
+{
+  "name": "Casino Infinity Games",
+  "slug": "casino-infinity-games",
+  "country": "Australia",
+  "bonus": "First Deposit 300% up to $2000 + 250 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 464,
+  "providers": [
+    "Rival",
+    "Big Time Gaming",
+    "Spinlogic Gaming",
+    "Visionary iGaming",
+    "Novomatic",
+    "EGT",
+    "Merkur",
+    "Gamomat"
+  ],
+  "likes": 1004,
+  "comments": 152,
+  "operatingCountries": [
+    "Portugal",
+    "Morocco",
+    "Italy",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-infinity-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

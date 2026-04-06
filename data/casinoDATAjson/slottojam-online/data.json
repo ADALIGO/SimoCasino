@@ -1,0 +1,35 @@
+{
+  "name": "SlottoJam Online",
+  "slug": "slottojam-online",
+  "country": "United States",
+  "bonus": "VIP Bonus 200% up to $1000",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 437,
+  "providers": [
+    "Habanero Systems",
+    "Aristocrat",
+    "Quickspin",
+    "Thunderkick",
+    "Novomatic",
+    "WMS"
+  ],
+  "likes": 497,
+  "comments": 238,
+  "operatingCountries": [
+    "Portugal",
+    "Austria",
+    "Finland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=70",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slottojam-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

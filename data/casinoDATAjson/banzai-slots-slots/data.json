@@ -1,0 +1,34 @@
+{
+  "name": "Banzai Slots Slots",
+  "slug": "banzai-slots-slots",
+  "country": "Poland",
+  "bonus": "Welcome Bonus 125% up to $1000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 138,
+  "providers": [
+    "Novomatic",
+    "Arrows Edge",
+    "Habanero Systems",
+    "Evolution Gaming",
+    "Playtech",
+    "1x2gaming",
+    "Push Gaming"
+  ],
+  "likes": 1174,
+  "comments": 143,
+  "operatingCountries": [
+    "Sweden",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=banzai-slots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ]
+}

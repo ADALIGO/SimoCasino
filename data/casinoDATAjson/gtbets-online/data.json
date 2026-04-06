@@ -1,0 +1,34 @@
+{
+  "name": "GTbets Online",
+  "slug": "gtbets-online",
+  "country": "United States",
+  "bonus": "First Deposit 250% up to $50 + 150 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 93,
+  "providers": [
+    "Thunderkick",
+    "Relax Gaming",
+    "Saucify",
+    "1x2gaming",
+    "Yggdrasil",
+    "Evolution Gaming"
+  ],
+  "likes": 1751,
+  "comments": 164,
+  "operatingCountries": [
+    "Austria",
+    "Sweden",
+    "Portugal",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gtbets-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

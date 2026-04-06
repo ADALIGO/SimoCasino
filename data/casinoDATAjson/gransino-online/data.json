@@ -1,0 +1,33 @@
+{
+  "name": "Gransino Online",
+  "slug": "gransino-online",
+  "country": "Canada",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.5,
+  "revenueRank": 55,
+  "spins": 166,
+  "providers": [
+    "Saucify",
+    "Quickspin",
+    "Pragmatic Play",
+    "1x2gaming",
+    "Blueprint Gaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 615,
+  "comments": 364,
+  "operatingCountries": [
+    "Sweden",
+    "Poland",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gransino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

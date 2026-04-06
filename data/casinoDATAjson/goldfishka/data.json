@@ -1,0 +1,26 @@
+{
+  "name": "Goldfishka",
+  "slug": "goldfishka",
+  "country": "Morocco",
+  "bonus": "100% up to руб50000",
+  "rating": 2.3,
+  "revenueRank": 74,
+  "spins": 477,
+  "providers": [],
+  "likes": 1193,
+  "comments": 208,
+  "operatingCountries": [
+    "Germany",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegas2web",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ],
+  "reviewCount": 5
+}

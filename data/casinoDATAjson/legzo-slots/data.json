@@ -1,0 +1,28 @@
+{
+  "name": "Legzo Slots",
+  "slug": "legzo-slots",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 318,
+  "providers": [
+    "Thunderkick"
+  ],
+  "likes": 1172,
+  "comments": 251,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=legzo-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

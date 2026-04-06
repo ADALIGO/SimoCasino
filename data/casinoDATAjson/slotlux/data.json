@@ -1,0 +1,27 @@
+{
+  "name": "SlotLux",
+  "slug": "slotlux",
+  "country": "Morocco",
+  "bonus": "100% up to €/$200 + 20 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 240,
+  "providers": [],
+  "likes": 583,
+  "comments": 132,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-star",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ],
+  "reviewCount": 5
+}

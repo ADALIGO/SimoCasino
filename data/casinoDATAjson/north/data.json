@@ -1,0 +1,31 @@
+{
+  "name": "North",
+  "slug": "north",
+  "country": "Morocco",
+  "bonus": "100% up to €/$1000 + 200 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 221,
+  "providers": [],
+  "likes": 53,
+  "comments": 21,
+  "operatingCountries": [
+    "Germany",
+    "Poland",
+    "France",
+    "Spain",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrwest",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ],
+  "reviewCount": 5
+}

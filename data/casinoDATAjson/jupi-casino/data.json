@@ -1,0 +1,34 @@
+{
+  "name": "Jupi Casino",
+  "slug": "jupi-casino",
+  "country": "Switzerland",
+  "bonus": "Cashback up to 300%",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Red Tiger",
+    "Gamomat"
+  ],
+  "likes": 1863,
+  "comments": 222,
+  "operatingCountries": [
+    "Germany",
+    "Italy",
+    "Morocco",
+    "Norway",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=6",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jupi-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10"
+  ]
+}

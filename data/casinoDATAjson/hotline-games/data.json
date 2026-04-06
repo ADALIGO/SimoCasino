@@ -1,0 +1,29 @@
+{
+  "name": "Hotline Games",
+  "slug": "hotline-games",
+  "country": "South Africa",
+  "bonus": "Welcome Bonus 150% up to $1000",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 477,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 286,
+  "comments": 206,
+  "operatingCountries": [
+    "Norway",
+    "United States",
+    "Denmark",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotline-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

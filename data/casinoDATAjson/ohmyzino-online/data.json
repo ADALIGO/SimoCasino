@@ -1,0 +1,35 @@
+{
+  "name": "OhMyZino Online",
+  "slug": "ohmyzino-online",
+  "country": "Finland",
+  "bonus": "First Deposit 250% up to $100 + 250 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 151,
+  "providers": [
+    "Iron Dog Studio",
+    "Evolution Gaming",
+    "EGT",
+    "Aristocrat",
+    "Blueprint Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 301,
+  "comments": 417,
+  "operatingCountries": [
+    "Portugal",
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=113",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ohmyzino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ]
+}

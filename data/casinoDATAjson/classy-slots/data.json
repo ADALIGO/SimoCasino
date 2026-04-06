@@ -1,0 +1,29 @@
+{
+  "name": "Classy Slots",
+  "slug": "classy-slots",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1777,
+  "comments": 51,
+  "operatingCountries": [
+    "New Zealand",
+    "Sweden",
+    "Germany",
+    "Italy",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=53",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=conquer",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55"
+  ],
+  "reviewCount": 5
+}

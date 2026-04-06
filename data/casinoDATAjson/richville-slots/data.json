@@ -1,0 +1,35 @@
+{
+  "name": "Richville Slots",
+  "slug": "richville-slots",
+  "country": "Norway",
+  "bonus": "100% up to $2000 + 150 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 134,
+  "providers": [
+    "Nolimit City",
+    "Konami",
+    "Thunderkick",
+    "Red Tiger",
+    "WMS",
+    "Yggdrasil"
+  ],
+  "likes": 614,
+  "comments": 89,
+  "operatingCountries": [
+    "Switzerland",
+    "Canada",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=richville-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

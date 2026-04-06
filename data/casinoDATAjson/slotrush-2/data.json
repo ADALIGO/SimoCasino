@@ -1,0 +1,28 @@
+{
+  "name": "SlotRush",
+  "slug": "slotrush",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 75 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 360,
+  "providers": [],
+  "likes": 440,
+  "comments": 439,
+  "operatingCountries": [
+    "United Kingdom",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=148",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotrush-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ],
+  "reviewCount": 5
+}

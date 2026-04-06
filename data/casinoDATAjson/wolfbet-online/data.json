@@ -1,0 +1,33 @@
+{
+  "name": "Wolf.Bet Online",
+  "slug": "wolfbet-online",
+  "country": "Austria",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 4,
+  "revenueRank": 61,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "BetSoft",
+    "Relax Gaming",
+    "Visionary iGaming",
+    "NetEnt",
+    "Nolimit City",
+    "Saucify"
+  ],
+  "likes": 609,
+  "comments": 303,
+  "operatingCountries": [
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wolfbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

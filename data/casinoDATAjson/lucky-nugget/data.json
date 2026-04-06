@@ -1,0 +1,27 @@
+{
+  "name": "Lucky Nugget",
+  "slug": "lucky-nugget",
+  "country": "Morocco",
+  "bonus": "40 Spins",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 451,
+  "providers": [],
+  "likes": 305,
+  "comments": 83,
+  "operatingCountries": [
+    "Czech Republic",
+    "Austria",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=196",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=svenplay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198"
+  ],
+  "reviewCount": 5
+}

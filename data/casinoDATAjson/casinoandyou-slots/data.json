@@ -1,0 +1,32 @@
+{
+  "name": "CasinoAndYou Slots",
+  "slug": "casinoandyou-slots",
+  "country": "Canada",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 12,
+  "providers": [
+    "Blueprint Gaming",
+    "Novomatic",
+    "Relax Gaming"
+  ],
+  "likes": 850,
+  "comments": 128,
+  "operatingCountries": [
+    "United Kingdom",
+    "United States",
+    "Canada",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoandyou-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122"
+  ]
+}

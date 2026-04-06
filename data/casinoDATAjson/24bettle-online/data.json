@@ -1,0 +1,34 @@
+{
+  "name": "24Bettle Online",
+  "slug": "24bettle-online",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 125% up to $1000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Arrows Edge",
+    "Konami",
+    "Greentube",
+    "Push Gaming",
+    "NextGen",
+    "Quickspin"
+  ],
+  "likes": 1856,
+  "comments": 292,
+  "operatingCountries": [
+    "Morocco",
+    "New Zealand",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24bettle-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

@@ -1,0 +1,53 @@
+@use './mobile/HOMEfooter.module.scss' as *;
+@use './tablet/HOMEfooter.module.scss' as *;
+@use './desktop/HOMEfooter.module.scss' as *;
+
+.footer-logo {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.footer-logo-image {
+  max-width: none;
+  max-height: none;
+  width: auto;
+  height: auto;
+}
+
+.footer-extra {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.footer-extra h4 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.footer-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.footer-logo-item {
+  display: inline-flex;
+}
+
+.footer-extra p {
+  margin: 0;
+  font-size: 13px;
+  color: #d1d1d1;
+  line-height: 1.6;
+}
+
+/* Mobile/tablet/desktop styles are now in subfolders. */

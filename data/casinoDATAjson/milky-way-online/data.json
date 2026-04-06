@@ -1,0 +1,29 @@
+{
+  "name": "Milky Way Online",
+  "slug": "milky-way-online",
+  "country": "Spain",
+  "bonus": "Deposit Bonus 100% up to $2000",
+  "rating": 4.8,
+  "revenueRank": 81,
+  "spins": 41,
+  "providers": [
+    "Amatic Industries"
+  ],
+  "likes": 1535,
+  "comments": 293,
+  "operatingCountries": [
+    "Italy",
+    "Czech Republic",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=milky-way-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ]
+}

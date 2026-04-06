@@ -1,0 +1,30 @@
+{
+  "name": "Metawin Casino",
+  "slug": "metawin-casino",
+  "country": "South Africa",
+  "bonus": "100% up to $50 + 100 Spins",
+  "rating": 3.7,
+  "revenueRank": 56,
+  "spins": 219,
+  "providers": [
+    "Konami",
+    "Push Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 1185,
+  "comments": 254,
+  "operatingCountries": [
+    "Czech Republic",
+    "Canada",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=metawin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

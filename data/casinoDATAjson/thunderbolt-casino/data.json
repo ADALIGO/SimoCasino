@@ -1,0 +1,33 @@
+{
+  "name": "Thunderbolt Casino",
+  "slug": "thunderbolt-casino",
+  "country": "Norway",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.1,
+  "revenueRank": 41,
+  "spins": 321,
+  "providers": [
+    "NetEnt",
+    "Rival",
+    "Nolimit City",
+    "Novomatic",
+    "Relax Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 785,
+  "comments": 121,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=thunderbolt-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

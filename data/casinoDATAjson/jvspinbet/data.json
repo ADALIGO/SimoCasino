@@ -1,0 +1,26 @@
+{
+  "name": "JVspinbet",
+  "slug": "jvspinbet",
+  "country": "Morocco",
+  "bonus": "100% up to €300 + 30 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 477,
+  "providers": [],
+  "likes": 1121,
+  "comments": 257,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=146",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=campeonbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ],
+  "reviewCount": 5
+}

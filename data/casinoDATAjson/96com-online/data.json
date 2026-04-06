@@ -1,0 +1,27 @@
+{
+  "name": "96.com Online",
+  "slug": "96com-online",
+  "country": "Morocco",
+  "bonus": "Cashback up to 250%",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 401,
+  "providers": [
+    "BetSoft"
+  ],
+  "likes": 1413,
+  "comments": 61,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=96com-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

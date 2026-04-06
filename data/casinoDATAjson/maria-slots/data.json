@@ -1,0 +1,35 @@
+{
+  "name": "Maria Slots",
+  "slug": "maria-slots",
+  "country": "Belgium",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 239,
+  "providers": [
+    "NetEnt",
+    "Konami",
+    "Big Time Gaming",
+    "1x2gaming",
+    "Yggdrasil"
+  ],
+  "likes": 10,
+  "comments": 463,
+  "operatingCountries": [
+    "Netherlands",
+    "Switzerland",
+    "New Zealand",
+    "Finland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=5",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maria-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Slotage",
+  "slug": "slotage",
+  "country": "Morocco",
+  "bonus": "100% + 50 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 277,
+  "providers": [],
+  "likes": 697,
+  "comments": 347,
+  "operatingCountries": [
+    "Germany",
+    "Netherlands",
+    "Belgium",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinrollz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ],
+  "reviewCount": 5
+}

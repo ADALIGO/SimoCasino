@@ -1,0 +1,27 @@
+{
+  "name": "Casino Napoli",
+  "slug": "casino-napoli",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 32,
+  "providers": [],
+  "likes": 577,
+  "comments": 54,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24bettle-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ],
+  "reviewCount": 5
+}

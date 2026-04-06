@@ -1,0 +1,29 @@
+{
+  "name": "Uptown Aces Online",
+  "slug": "uptown-aces-online",
+  "country": "Switzerland",
+  "bonus": "Reload Bonus 250% up to $300",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 214,
+  "providers": [
+    "Big Time Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1080,
+  "comments": 141,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=uptown-aces-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ]
+}

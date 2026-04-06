@@ -1,0 +1,25 @@
+{
+  "name": "True Poker",
+  "slug": "true-poker",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 340,
+  "providers": [],
+  "likes": 408,
+  "comments": 339,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=richville",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ],
+  "reviewCount": 5
+}

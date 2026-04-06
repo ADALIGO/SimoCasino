@@ -1,0 +1,34 @@
+{
+  "name": "BetAlice Games",
+  "slug": "betalice-games",
+  "country": "Germany",
+  "bonus": "Cashback up to 250%",
+  "rating": 4.6,
+  "revenueRank": 82,
+  "spins": 482,
+  "providers": [
+    "Quickspin",
+    "Spinlogic Gaming",
+    "Relax Gaming",
+    "IGT"
+  ],
+  "likes": 1377,
+  "comments": 6,
+  "operatingCountries": [
+    "Germany",
+    "Netherlands",
+    "Italy",
+    "Canada",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betalice-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

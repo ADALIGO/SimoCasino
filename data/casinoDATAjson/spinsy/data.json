@@ -1,0 +1,30 @@
+{
+  "name": "Spinsy",
+  "slug": "spinsy",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500 + 200 Spins",
+  "rating": 2.8,
+  "revenueRank": 61,
+  "spins": 474,
+  "providers": [],
+  "likes": 1828,
+  "comments": 27,
+  "operatingCountries": [
+    "Finland",
+    "Canada",
+    "France",
+    "Belgium",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=150",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21luckybet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153"
+  ],
+  "reviewCount": 5
+}

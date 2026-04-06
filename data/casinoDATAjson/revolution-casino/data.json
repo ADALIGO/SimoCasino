@@ -1,0 +1,37 @@
+{
+  "name": "Revolution Casino",
+  "slug": "revolution-casino",
+  "country": "Czech Republic",
+  "bonus": "125% Bonus up to $200",
+  "rating": 3.6,
+  "revenueRank": 69,
+  "spins": 385,
+  "providers": [
+    "NextGen",
+    "Wager Gaming",
+    "Real Time Gaming",
+    "EGT",
+    "Ash Gaming",
+    "Merkur",
+    "Genesis Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 1943,
+  "comments": 58,
+  "operatingCountries": [
+    "Norway",
+    "Portugal",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=revolution-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

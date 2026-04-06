@@ -1,0 +1,33 @@
+{
+  "name": "CrownPlay Games",
+  "slug": "crownplay-games",
+  "country": "United States",
+  "bonus": "100% up to $1000 + 200 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Arrows Edge",
+    "1x2gaming",
+    "Yggdrasil",
+    "NetEnt"
+  ],
+  "likes": 712,
+  "comments": 189,
+  "operatingCountries": [
+    "Morocco",
+    "United States",
+    "Spain",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crownplay-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ]
+}

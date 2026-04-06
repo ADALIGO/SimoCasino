@@ -1,0 +1,32 @@
+{
+  "name": "Slotpal Slots",
+  "slug": "slotpal-slots",
+  "country": "New Zealand",
+  "bonus": "Welcome Bonus 200% up to $1000",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 130,
+  "providers": [
+    "Relax Gaming",
+    "Arrows Edge",
+    "Saucify",
+    "Genesis Gaming"
+  ],
+  "likes": 1410,
+  "comments": 396,
+  "operatingCountries": [
+    "Germany",
+    "United Kingdom",
+    "Czech Republic",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotpal-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

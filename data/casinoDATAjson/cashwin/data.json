@@ -1,0 +1,28 @@
+{
+  "name": "Cashwin",
+  "slug": "cashwin",
+  "country": "Morocco",
+  "bonus": "100% up to €1000 + 50 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 322,
+  "providers": [],
+  "likes": 1824,
+  "comments": 10,
+  "operatingCountries": [
+    "Canada",
+    "Spain",
+    "South Africa",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=canada777",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ],
+  "reviewCount": 5
+}

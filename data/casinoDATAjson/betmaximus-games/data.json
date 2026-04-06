@@ -1,0 +1,28 @@
+{
+  "name": "BetMaximus Games",
+  "slug": "betmaximus-games",
+  "country": "United Kingdom",
+  "bonus": "250% Bonus up to $200",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 277,
+  "providers": [
+    "Red Tiger"
+  ],
+  "likes": 215,
+  "comments": 333,
+  "operatingCountries": [
+    "Switzerland",
+    "Spain",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betmaximus-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ]
+}

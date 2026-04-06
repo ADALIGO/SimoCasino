@@ -1,0 +1,35 @@
+{
+  "name": "Golden Tiger Slots",
+  "slug": "golden-tiger-slots",
+  "country": "Ireland",
+  "bonus": "First Deposit 100% up to $50 + 200 Free Spins",
+  "rating": 4.4,
+  "revenueRank": 21,
+  "spins": 171,
+  "providers": [
+    "Big Time Gaming",
+    "NextGen",
+    "Gamomat",
+    "Spinlogic Gaming",
+    "NetEnt",
+    "Nolimit City",
+    "Greentube",
+    "IGT"
+  ],
+  "likes": 1585,
+  "comments": 43,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-tiger-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135"
+  ]
+}

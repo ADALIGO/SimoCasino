@@ -1,0 +1,35 @@
+{
+  "name": "Ace Lucky Games",
+  "slug": "ace-lucky-games",
+  "country": "Austria",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 383,
+  "providers": [
+    "Iron Dog Studio",
+    "Big Time Gaming",
+    "Quickspin",
+    "Microgaming",
+    "Real Time Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 198,
+  "comments": 211,
+  "operatingCountries": [
+    "Norway",
+    "Australia",
+    "Spain",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ace-lucky-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

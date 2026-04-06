@@ -1,0 +1,30 @@
+{
+  "name": "God Of Games",
+  "slug": "god-of-games",
+  "country": "France",
+  "bonus": "Cashback up to 200%",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming"
+  ],
+  "likes": 1771,
+  "comments": 461,
+  "operatingCountries": [
+    "Canada",
+    "Morocco",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=god-of-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ]
+}

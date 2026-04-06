@@ -1,0 +1,39 @@
+{
+  "name": "Spinmills Online",
+  "slug": "spinmills-online",
+  "country": "Switzerland",
+  "bonus": "First Deposit 300% up to $2000 + 150 Free Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 330,
+  "providers": [
+    "Merkur",
+    "Aristocrat",
+    "Visionary iGaming",
+    "NetEnt",
+    "Pragmatic Play",
+    "Konami",
+    "Habanero Systems",
+    "Gamomat"
+  ],
+  "likes": 861,
+  "comments": 484,
+  "operatingCountries": [
+    "United States",
+    "New Zealand",
+    "Sweden",
+    "United Kingdom",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinmills-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13"
+  ]
+}

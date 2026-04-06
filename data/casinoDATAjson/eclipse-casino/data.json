@@ -1,0 +1,29 @@
+{
+  "name": "Eclipse Casino",
+  "slug": "eclipse-casino",
+  "country": "Ireland",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 379,
+  "providers": [
+    "Evolution Gaming",
+    "NextGen"
+  ],
+  "likes": 1982,
+  "comments": 342,
+  "operatingCountries": [
+    "Sweden",
+    "France",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=181",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eclipse-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183"
+  ]
+}

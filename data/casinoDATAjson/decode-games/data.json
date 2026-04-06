@@ -1,0 +1,32 @@
+{
+  "name": "Decode Games",
+  "slug": "decode-games",
+  "country": "Sweden",
+  "bonus": "First Deposit 125% up to $1000 + 20 Free Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 156,
+  "providers": [
+    "Amatic Industries",
+    "Iron Dog Studio",
+    "NextGen",
+    "Blueprint Gaming",
+    "Greentube"
+  ],
+  "likes": 190,
+  "comments": 406,
+  "operatingCountries": [
+    "Norway",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=60",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=decode-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63"
+  ]
+}

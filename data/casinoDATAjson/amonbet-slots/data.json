@@ -1,0 +1,28 @@
+{
+  "name": "Amonbet Slots",
+  "slug": "amonbet-slots",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 125% up to $1000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 175,
+  "providers": [
+    "Spinlogic Gaming",
+    "1x2gaming"
+  ],
+  "likes": 461,
+  "comments": 207,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=amonbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "arcanebet Casino",
+  "slug": "arcanebet-casino",
+  "country": "Netherlands",
+  "bonus": "Deposit Bonus 50% up to $50",
+  "rating": 3.4,
+  "revenueRank": 11,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Yggdrasil",
+    "Evolution Gaming"
+  ],
+  "likes": 1185,
+  "comments": 487,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=arcanebet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

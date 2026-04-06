@@ -1,0 +1,28 @@
+{
+  "name": "Sunrise Slots",
+  "slug": "sunrise-slots",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 441,
+  "comments": 182,
+  "operatingCountries": [
+    "Denmark",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=god-of",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14"
+  ],
+  "reviewCount": 5
+}

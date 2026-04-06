@@ -1,0 +1,33 @@
+{
+  "name": "Wintopia Slots",
+  "slug": "wintopia-slots",
+  "country": "Canada",
+  "bonus": "150% Bonus up to $100",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 448,
+  "providers": [
+    "1x2gaming",
+    "WMS",
+    "Saucify"
+  ],
+  "likes": 1433,
+  "comments": 26,
+  "operatingCountries": [
+    "New Zealand",
+    "Poland",
+    "Sweden",
+    "Australia",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=144",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wintopia-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ]
+}

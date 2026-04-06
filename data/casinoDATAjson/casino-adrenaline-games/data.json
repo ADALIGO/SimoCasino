@@ -1,0 +1,39 @@
+{
+  "name": "Casino Adrenaline Games",
+  "slug": "casino-adrenaline-games",
+  "country": "Australia",
+  "bonus": "100% up to $500 + 250 Spins",
+  "rating": 3.2,
+  "revenueRank": 46,
+  "spins": 255,
+  "providers": [
+    "Genesis Gaming",
+    "Quickspin",
+    "Yggdrasil",
+    "Red Tiger",
+    "Big Time Gaming",
+    "ELK Studios",
+    "Iron Dog Studio",
+    "Ash Gaming"
+  ],
+  "likes": 1,
+  "comments": 340,
+  "operatingCountries": [
+    "Sweden",
+    "United States",
+    "Denmark",
+    "Netherlands",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=90",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-adrenaline-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "HotSlots",
+  "slug": "hotslots",
+  "country": "Morocco",
+  "bonus": "100% up to €200 + 50 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1499,
+  "comments": 282,
+  "operatingCountries": [
+    "Australia",
+    "Austria",
+    "Finland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=8",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotslots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,39 @@
+{
+  "name": "MrPacho Casino",
+  "slug": "mrpacho-casino",
+  "country": "Norway",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 258,
+  "providers": [
+    "Rival",
+    "Genesis Gaming",
+    "Nolimit City",
+    "Aristocrat",
+    "Saucify",
+    "Habanero Systems",
+    "IGT",
+    "Thunderkick"
+  ],
+  "likes": 1580,
+  "comments": 490,
+  "operatingCountries": [
+    "Poland",
+    "Australia",
+    "Netherlands",
+    "Morocco",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrpacho-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

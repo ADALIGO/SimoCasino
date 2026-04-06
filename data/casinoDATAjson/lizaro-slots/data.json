@@ -1,0 +1,31 @@
+{
+  "name": "Lizaro Slots",
+  "slug": "lizaro-slots",
+  "country": "New Zealand",
+  "bonus": "First Deposit 125% up to $2000 + 300 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Iron Dog Studio"
+  ],
+  "likes": 1028,
+  "comments": 50,
+  "operatingCountries": [
+    "New Zealand",
+    "Switzerland",
+    "United Kingdom",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=16",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lizaro-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20"
+  ]
+}

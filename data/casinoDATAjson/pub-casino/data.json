@@ -1,0 +1,37 @@
+{
+  "name": "PUB Casino",
+  "slug": "pub-casino",
+  "country": "Poland",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming",
+    "Greentube",
+    "Rival",
+    "Visionary iGaming",
+    "Gamomat",
+    "NextGen",
+    "Saucify"
+  ],
+  "likes": 585,
+  "comments": 52,
+  "operatingCountries": [
+    "Sweden",
+    "Morocco",
+    "United Kingdom",
+    "Poland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=68",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pub-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71"
+  ]
+}

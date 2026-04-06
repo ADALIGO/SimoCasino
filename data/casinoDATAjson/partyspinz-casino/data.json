@@ -1,0 +1,34 @@
+{
+  "name": "PartySpinz Casino",
+  "slug": "partyspinz-casino",
+  "country": "Portugal",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 75,
+  "providers": [
+    "Iron Dog Studio",
+    "Microgaming",
+    "Novomatic",
+    "Visionary iGaming",
+    "Evolution Gaming",
+    "Playtech",
+    "WMS",
+    "Quickspin"
+  ],
+  "likes": 261,
+  "comments": 149,
+  "operatingCountries": [
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=46",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=partyspinz-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49"
+  ]
+}

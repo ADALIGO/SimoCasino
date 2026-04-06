@@ -1,0 +1,37 @@
+{
+  "name": "Bizzo Slots",
+  "slug": "bizzo-slots",
+  "country": "Austria",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Real Time Gaming",
+    "ELK Studios",
+    "Blueprint Gaming",
+    "BetSoft",
+    "Rival",
+    "Habanero Systems",
+    "NetEnt"
+  ],
+  "likes": 424,
+  "comments": 342,
+  "operatingCountries": [
+    "Poland",
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bizzo-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

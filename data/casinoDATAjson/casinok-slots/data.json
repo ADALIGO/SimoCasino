@@ -1,0 +1,36 @@
+{
+  "name": "CasinOK Slots",
+  "slug": "casinok-slots",
+  "country": "Portugal",
+  "bonus": "Reload Bonus 50% up to $200",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 162,
+  "providers": [
+    "Big Time Gaming",
+    "Relax Gaming",
+    "1x2gaming",
+    "Microgaming",
+    "WMS",
+    "IGT"
+  ],
+  "likes": 1092,
+  "comments": 267,
+  "operatingCountries": [
+    "Italy",
+    "United States",
+    "Canada",
+    "Poland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinok-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58"
+  ]
+}

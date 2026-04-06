@@ -1,0 +1,30 @@
+{
+  "name": "DaVegas Slots",
+  "slug": "davegas-slots",
+  "country": "Switzerland",
+  "bonus": "First Deposit 300% up to $500 + 100 Free Spins",
+  "rating": 4.7,
+  "revenueRank": 17,
+  "spins": 384,
+  "providers": [
+    "Relax Gaming",
+    "IGT",
+    "Aristocrat",
+    "Iron Dog Studio",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1876,
+  "comments": 350,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=davegas-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

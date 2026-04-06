@@ -1,0 +1,35 @@
+{
+  "name": "BetMaximus Online",
+  "slug": "betmaximus-online",
+  "country": "Germany",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 322,
+  "providers": [
+    "Merkur",
+    "Amatic Industries",
+    "BetSoft",
+    "Push Gaming",
+    "Red Tiger",
+    "NextGen"
+  ],
+  "likes": 563,
+  "comments": 341,
+  "operatingCountries": [
+    "Czech Republic",
+    "Italy",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=84",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betmaximus-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

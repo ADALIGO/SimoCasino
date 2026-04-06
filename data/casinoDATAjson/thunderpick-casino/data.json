@@ -1,0 +1,34 @@
+{
+  "name": "Thunderpick Casino",
+  "slug": "thunderpick-casino",
+  "country": "Italy",
+  "bonus": "250% Bonus up to $200",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Habanero Systems",
+    "Konami",
+    "Visionary iGaming"
+  ],
+  "likes": 1908,
+  "comments": 112,
+  "operatingCountries": [
+    "France",
+    "New Zealand",
+    "Netherlands",
+    "Austria",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=thunderpick-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "TripleSeven Online",
+  "slug": "tripleseven-online",
+  "country": "Netherlands",
+  "bonus": "Cashback up to 100%",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 259,
+  "providers": [
+    "Ash Gaming",
+    "Blueprint Gaming",
+    "ELK Studios",
+    "Evolution Gaming",
+    "Pragmatic Play",
+    "Spinlogic Gaming",
+    "WMS",
+    "Gamomat"
+  ],
+  "likes": 378,
+  "comments": 71,
+  "operatingCountries": [
+    "Netherlands",
+    "South Africa",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tripleseven-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43"
+  ]
+}

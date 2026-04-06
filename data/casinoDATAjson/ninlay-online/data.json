@@ -1,0 +1,29 @@
+{
+  "name": "Ninlay Online",
+  "slug": "ninlay-online",
+  "country": "Canada",
+  "bonus": "Welcome Package up to $50",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Spinlogic Gaming",
+    "Habanero Systems"
+  ],
+  "likes": 616,
+  "comments": 101,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=137",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ninlay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

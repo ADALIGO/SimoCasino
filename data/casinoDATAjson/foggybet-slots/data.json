@@ -1,0 +1,34 @@
+{
+  "name": "FoggyBet Slots",
+  "slug": "foggybet-slots",
+  "country": "United States",
+  "bonus": "VIP Bonus 125% up to $200",
+  "rating": 4.4,
+  "revenueRank": 87,
+  "spins": 6,
+  "providers": [
+    "ELK Studios",
+    "Habanero Systems",
+    "Spinlogic Gaming",
+    "Quickspin",
+    "Relax Gaming",
+    "Genesis Gaming"
+  ],
+  "likes": 169,
+  "comments": 363,
+  "operatingCountries": [
+    "Sweden",
+    "Austria",
+    "Netherlands",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=foggybet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

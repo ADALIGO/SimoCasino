@@ -1,0 +1,26 @@
+{
+  "name": "DaVinci's Gold",
+  "slug": "davincis-gold",
+  "country": "Morocco",
+  "bonus": "200% up to €/$3000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 77,
+  "providers": [],
+  "likes": 1188,
+  "comments": 263,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tombriches",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ],
+  "reviewCount": 5
+}

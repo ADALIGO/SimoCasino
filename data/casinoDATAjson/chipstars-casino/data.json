@@ -1,0 +1,35 @@
+{
+  "name": "Chipstars Casino",
+  "slug": "chipstars-casino",
+  "country": "Ireland",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 424,
+  "providers": [
+    "Big Time Gaming",
+    "Thunderkick",
+    "Novomatic",
+    "Merkur",
+    "Red Tiger",
+    "ELK Studios"
+  ],
+  "likes": 1101,
+  "comments": 383,
+  "operatingCountries": [
+    "Austria",
+    "Australia",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=65",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=chipstars-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

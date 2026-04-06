@@ -1,0 +1,31 @@
+{
+  "name": "TombRiches Casino",
+  "slug": "tombriches-casino",
+  "country": "Spain",
+  "bonus": "First Deposit 125% up to $300 + 150 Free Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 280,
+  "providers": [
+    "Evolution Gaming",
+    "Microgaming",
+    "Playtech"
+  ],
+  "likes": 1457,
+  "comments": 40,
+  "operatingCountries": [
+    "Morocco",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tombriches-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

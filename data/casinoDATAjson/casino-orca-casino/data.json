@@ -1,0 +1,35 @@
+{
+  "name": "Casino Orca Casino",
+  "slug": "casino-orca-casino",
+  "country": "Finland",
+  "bonus": "Reload Bonus 300% up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 481,
+  "providers": [
+    "Novomatic",
+    "Nolimit City",
+    "Push Gaming",
+    "Genesis Gaming",
+    "Merkur",
+    "Konami",
+    "Playtech"
+  ],
+  "likes": 1848,
+  "comments": 29,
+  "operatingCountries": [
+    "United States",
+    "New Zealand",
+    "Netherlands",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-orca-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

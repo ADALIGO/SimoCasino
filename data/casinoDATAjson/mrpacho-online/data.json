@@ -1,0 +1,33 @@
+{
+  "name": "MrPacho Online",
+  "slug": "mrpacho-online",
+  "country": "Poland",
+  "bonus": "Reload Bonus 250% up to $1000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Playtech",
+    "Wager Gaming",
+    "Real Time Gaming",
+    "ELK Studios",
+    "Nolimit City"
+  ],
+  "likes": 1960,
+  "comments": 477,
+  "operatingCountries": [
+    "Portugal",
+    "Australia",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrpacho-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

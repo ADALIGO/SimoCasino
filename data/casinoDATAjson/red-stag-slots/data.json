@@ -1,0 +1,32 @@
+{
+  "name": "Red Stag Slots",
+  "slug": "red-stag-slots",
+  "country": "Finland",
+  "bonus": "100% Bonus up to $500",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 241,
+  "providers": [
+    "Quickspin",
+    "Ash Gaming",
+    "1x2gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 1177,
+  "comments": 52,
+  "operatingCountries": [
+    "Australia",
+    "Canada",
+    "Denmark",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=52",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=red-stag-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

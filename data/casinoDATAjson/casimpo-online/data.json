@@ -1,0 +1,32 @@
+{
+  "name": "Casimpo Online",
+  "slug": "casimpo-online",
+  "country": "Denmark",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "EGT",
+    "Push Gaming",
+    "Novomatic",
+    "Saucify",
+    "Aristocrat",
+    "Merkur"
+  ],
+  "likes": 1211,
+  "comments": 281,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=193",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casimpo-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195"
+  ]
+}

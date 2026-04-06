@@ -1,0 +1,27 @@
+{
+  "name": "Rembrandt",
+  "slug": "rembrandt",
+  "country": "Morocco",
+  "bonus": "100% up to €200",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1864,
+  "comments": 33,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=113",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-hammer",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ],
+  "reviewCount": 5
+}

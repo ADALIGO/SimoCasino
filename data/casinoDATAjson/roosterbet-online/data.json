@@ -1,0 +1,36 @@
+{
+  "name": "Rooster.bet Online",
+  "slug": "roosterbet-online",
+  "country": "Finland",
+  "bonus": "300% Bonus up to $100",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Yggdrasil",
+    "Big Time Gaming",
+    "Ash Gaming",
+    "Rival",
+    "Merkur",
+    "Spinlogic Gaming",
+    "WMS"
+  ],
+  "likes": 1519,
+  "comments": 428,
+  "operatingCountries": [
+    "Spain",
+    "Czech Republic",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=roosterbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

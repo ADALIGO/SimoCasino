@@ -1,0 +1,31 @@
+{
+  "name": "Coins.Game Online",
+  "slug": "coinsgame-online",
+  "country": "Finland",
+  "bonus": "Deposit Bonus 150% up to $2000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 203,
+  "providers": [
+    "Playtech",
+    "EGT"
+  ],
+  "likes": 1137,
+  "comments": 158,
+  "operatingCountries": [
+    "South Africa",
+    "Belgium",
+    "New Zealand",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coinsgame-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ]
+}

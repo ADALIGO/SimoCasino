@@ -1,0 +1,35 @@
+{
+  "name": "Captain Cooks Casino",
+  "slug": "captain-cooks-casino",
+  "country": "Poland",
+  "bonus": "200% Bonus up to $500",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 498,
+  "providers": [
+    "Quickspin",
+    "Habanero Systems",
+    "Amatic Industries",
+    "Playtech",
+    "BetSoft",
+    "Merkur",
+    "Red Tiger"
+  ],
+  "likes": 990,
+  "comments": 221,
+  "operatingCountries": [
+    "Czech Republic",
+    "Germany",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=captain-cooks-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Zet Slots",
+  "slug": "zet-slots",
+  "country": "Ireland",
+  "bonus": "150% Bonus up to $50",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 261,
+  "providers": [
+    "Konami",
+    "Wager Gaming",
+    "Push Gaming",
+    "Rival",
+    "BetSoft",
+    "Yggdrasil",
+    "Quickspin",
+    "Spinlogic Gaming"
+  ],
+  "likes": 354,
+  "comments": 309,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=193",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197"
+  ]
+}

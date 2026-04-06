@@ -1,0 +1,26 @@
+{
+  "name": "Golden Reef",
+  "slug": "golden-reef",
+  "country": "Morocco",
+  "bonus": "100% up to $100",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 389,
+  "comments": 23,
+  "operatingCountries": [
+    "United Kingdom",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=173",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1red-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ],
+  "reviewCount": 5
+}

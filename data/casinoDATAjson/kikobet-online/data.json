@@ -1,0 +1,34 @@
+{
+  "name": "KikoBet Online",
+  "slug": "kikobet-online",
+  "country": "Poland",
+  "bonus": "200% Bonus up to $200",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Blueprint Gaming",
+    "Arrows Edge",
+    "Real Time Gaming",
+    "Red Tiger",
+    "Gamomat",
+    "ELK Studios",
+    "Amatic Industries",
+    "Merkur"
+  ],
+  "likes": 728,
+  "comments": 320,
+  "operatingCountries": [
+    "Switzerland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kikobet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

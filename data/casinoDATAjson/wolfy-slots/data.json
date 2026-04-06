@@ -1,0 +1,36 @@
+{
+  "name": "Wolfy Slots",
+  "slug": "wolfy-slots",
+  "country": "South Africa",
+  "bonus": "Welcome Bonus 50% up to $1000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 314,
+  "providers": [
+    "Red Tiger",
+    "1x2gaming",
+    "Novomatic",
+    "Evolution Gaming",
+    "Big Time Gaming",
+    "Ash Gaming",
+    "EGT",
+    "Thunderkick"
+  ],
+  "likes": 482,
+  "comments": 278,
+  "operatingCountries": [
+    "Switzerland",
+    "Netherlands",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=127",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wolfy-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

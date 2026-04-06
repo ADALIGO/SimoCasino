@@ -1,0 +1,36 @@
+{
+  "name": "BoaBoa Casino",
+  "slug": "boaboa-casino",
+  "country": "Belgium",
+  "bonus": "Deposit Bonus 300% up to $300",
+  "rating": 4.5,
+  "revenueRank": 60,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "NextGen",
+    "Merkur",
+    "Iron Dog Studio",
+    "Arrows Edge",
+    "BetSoft"
+  ],
+  "likes": 798,
+  "comments": 459,
+  "operatingCountries": [
+    "France",
+    "Poland",
+    "Austria",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boaboa-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13"
+  ]
+}

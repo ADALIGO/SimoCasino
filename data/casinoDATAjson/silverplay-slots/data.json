@@ -1,0 +1,31 @@
+{
+  "name": "Silverplay Slots",
+  "slug": "silverplay-slots",
+  "country": "Italy",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 421,
+  "providers": [
+    "Novomatic",
+    "Pragmatic Play",
+    "BetSoft",
+    "Microgaming",
+    "Evolution Gaming"
+  ],
+  "likes": 427,
+  "comments": 238,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=197",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=silverplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198",
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200"
+  ]
+}

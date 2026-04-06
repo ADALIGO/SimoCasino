@@ -1,0 +1,32 @@
+{
+  "name": "Omni Slots Casino",
+  "slug": "omni-slots-casino",
+  "country": "Finland",
+  "bonus": "100% up to $500 + 150 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 228,
+  "providers": [
+    "Playtech",
+    "Nolimit City",
+    "Quickspin",
+    "Evolution Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 1401,
+  "comments": 248,
+  "operatingCountries": [
+    "Portugal",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=175",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=omni-slots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178"
+  ]
+}

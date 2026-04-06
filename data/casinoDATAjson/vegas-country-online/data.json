@@ -1,0 +1,34 @@
+{
+  "name": "Vegas Country Online",
+  "slug": "vegas-country-online",
+  "country": "Spain",
+  "bonus": "100% up to $2000 + 250 Spins",
+  "rating": 4.6,
+  "revenueRank": 79,
+  "spins": 442,
+  "providers": [
+    "Push Gaming",
+    "NetEnt",
+    "Thunderkick",
+    "Visionary iGaming"
+  ],
+  "likes": 410,
+  "comments": 75,
+  "operatingCountries": [
+    "Finland",
+    "Poland",
+    "Sweden",
+    "Belgium",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegas-country-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Bspin Slots",
+  "slug": "bspin-slots",
+  "country": "Norway",
+  "bonus": "Welcome Bonus 125% up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "Nolimit City"
+  ],
+  "likes": 180,
+  "comments": 428,
+  "operatingCountries": [
+    "Australia",
+    "Norway",
+    "Netherlands",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bspin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ]
+}

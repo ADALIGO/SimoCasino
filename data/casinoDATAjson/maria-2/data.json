@@ -1,0 +1,26 @@
+{
+  "name": "Maria",
+  "slug": "maria",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 83,
+  "providers": [],
+  "likes": 1579,
+  "comments": 315,
+  "operatingCountries": [
+    "France",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=32",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maria-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ],
+  "reviewCount": 5
+}

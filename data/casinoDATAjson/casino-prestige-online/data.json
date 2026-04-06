@@ -1,0 +1,29 @@
+{
+  "name": "Casino Prestige Online",
+  "slug": "casino-prestige-online",
+  "country": "Czech Republic",
+  "bonus": "100% up to $500 + 200 Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Quickspin"
+  ],
+  "likes": 1467,
+  "comments": 51,
+  "operatingCountries": [
+    "Morocco",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-prestige-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

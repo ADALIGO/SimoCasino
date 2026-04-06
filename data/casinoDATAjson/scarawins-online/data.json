@@ -1,0 +1,35 @@
+{
+  "name": "Scarawins Online",
+  "slug": "scarawins-online",
+  "country": "Czech Republic",
+  "bonus": "250% Bonus up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Amatic Industries",
+    "Yggdrasil",
+    "NextGen",
+    "Iron Dog Studio",
+    "WMS",
+    "Rival",
+    "Thunderkick"
+  ],
+  "likes": 1663,
+  "comments": 143,
+  "operatingCountries": [
+    "New Zealand",
+    "Poland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=17",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=scarawins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19"
+  ]
+}

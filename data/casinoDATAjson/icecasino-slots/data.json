@@ -1,0 +1,32 @@
+{
+  "name": "IceCasino Slots",
+  "slug": "icecasino-slots",
+  "country": "Morocco",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Habanero Systems",
+    "Visionary iGaming",
+    "Playtech",
+    "Quickspin"
+  ],
+  "likes": 739,
+  "comments": 32,
+  "operatingCountries": [
+    "Switzerland",
+    "France",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=icecasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "SlotsPalace Slots",
+  "slug": "slotspalace-slots",
+  "country": "Canada",
+  "bonus": "100% up to $500 + 100 Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 75,
+  "providers": [
+    "Genesis Gaming",
+    "NextGen",
+    "Real Time Gaming",
+    "Microgaming",
+    "Pragmatic Play",
+    "Big Time Gaming",
+    "Push Gaming"
+  ],
+  "likes": 629,
+  "comments": 269,
+  "operatingCountries": [
+    "Poland",
+    "Netherlands",
+    "Portugal",
+    "Czech Republic",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=92",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotspalace-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ]
+}

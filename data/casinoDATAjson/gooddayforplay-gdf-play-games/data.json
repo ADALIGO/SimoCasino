@@ -1,0 +1,35 @@
+{
+  "name": "GoodDayForPlay (GDF Play) Games",
+  "slug": "gooddayforplay-gdf-play-games",
+  "country": "Norway",
+  "bonus": "Deposit Bonus 100% up to $2000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Aristocrat",
+    "Rival",
+    "Evolution Gaming",
+    "EGT",
+    "Amatic Industries"
+  ],
+  "likes": 733,
+  "comments": 54,
+  "operatingCountries": [
+    "Sweden",
+    "Ireland",
+    "Italy",
+    "Austria",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gooddayforplay-gdf-play-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

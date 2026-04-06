@@ -1,0 +1,35 @@
+{
+  "name": "BitcoinVIP Games",
+  "slug": "bitcoinvip-games",
+  "country": "South Africa",
+  "bonus": "Deposit Bonus 100% up to $2000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 173,
+  "providers": [
+    "Genesis Gaming",
+    "EGT",
+    "Big Time Gaming",
+    "NextGen",
+    "Rival",
+    "Pragmatic Play"
+  ],
+  "likes": 1491,
+  "comments": 55,
+  "operatingCountries": [
+    "Netherlands",
+    "Ireland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitcoinvip-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ]
+}

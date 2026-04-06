@@ -1,0 +1,31 @@
+{
+  "name": "Slots Gallery Casino",
+  "slug": "slots-gallery-casino",
+  "country": "Austria",
+  "bonus": "Deposit Bonus 100% up to $50",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 27,
+  "providers": [
+    "IGT"
+  ],
+  "likes": 17,
+  "comments": 332,
+  "operatingCountries": [
+    "Denmark",
+    "Spain",
+    "Italy",
+    "United States",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=74",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-gallery-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

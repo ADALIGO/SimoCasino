@@ -1,0 +1,31 @@
+{
+  "name": "TrueFortune Slots",
+  "slug": "truefortune-slots",
+  "country": "France",
+  "bonus": "Reload Bonus 250% up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 420,
+  "providers": [
+    "1x2gaming",
+    "Yggdrasil",
+    "IGT",
+    "NetEnt",
+    "WMS"
+  ],
+  "likes": 1336,
+  "comments": 435,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=truefortune-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

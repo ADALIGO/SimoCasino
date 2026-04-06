@@ -1,0 +1,31 @@
+{
+  "name": "BetOnline Games",
+  "slug": "betonline-games",
+  "country": "Switzerland",
+  "bonus": "200% Bonus up to $50",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 204,
+  "providers": [
+    "Novomatic",
+    "Microgaming",
+    "Thunderkick"
+  ],
+  "likes": 1479,
+  "comments": 187,
+  "operatingCountries": [
+    "Canada",
+    "Ireland",
+    "Poland",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betonline-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ]
+}

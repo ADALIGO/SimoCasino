@@ -1,0 +1,33 @@
+{
+  "name": "Lucy's Casino",
+  "slug": "lucys-casino",
+  "country": "Norway",
+  "bonus": "Reload Bonus 100% up to $500",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 328,
+  "providers": [
+    "Relax Gaming",
+    "Quickspin",
+    "ELK Studios",
+    "Red Tiger",
+    "Evolution Gaming",
+    "Playtech"
+  ],
+  "likes": 1903,
+  "comments": 372,
+  "operatingCountries": [
+    "Morocco",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=81",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucys-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84"
+  ]
+}

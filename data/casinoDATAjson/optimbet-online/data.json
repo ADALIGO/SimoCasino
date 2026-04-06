@@ -1,0 +1,38 @@
+{
+  "name": "OptimBet Online",
+  "slug": "optimbet-online",
+  "country": "Denmark",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4,
+  "revenueRank": 56,
+  "spins": 0,
+  "providers": [
+    "Yggdrasil",
+    "Pragmatic Play",
+    "Genesis Gaming",
+    "Arrows Edge",
+    "Spinlogic Gaming",
+    "NextGen",
+    "IGT"
+  ],
+  "likes": 1302,
+  "comments": 470,
+  "operatingCountries": [
+    "Portugal",
+    "Poland",
+    "Morocco",
+    "Australia",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=1",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=optimbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=1",
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5"
+  ]
+}

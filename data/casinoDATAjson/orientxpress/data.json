@@ -1,0 +1,29 @@
+{
+  "name": "OrientXpress",
+  "slug": "orientxpress",
+  "country": "Morocco",
+  "bonus": "100% up to €750 + 50 Spins",
+  "rating": 1.5,
+  "revenueRank": null,
+  "spins": 317,
+  "providers": [],
+  "likes": 1948,
+  "comments": 362,
+  "operatingCountries": [
+    "Switzerland",
+    "Germany",
+    "Czech Republic",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=132",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=nomini",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135"
+  ],
+  "reviewCount": 5
+}

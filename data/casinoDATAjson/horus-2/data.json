@@ -1,0 +1,29 @@
+{
+  "name": "Horus",
+  "slug": "horus",
+  "country": "Morocco",
+  "bonus": "100% up to €/$200 + 25 Spins",
+  "rating": 2.7,
+  "revenueRank": 86,
+  "spins": 219,
+  "providers": [],
+  "likes": 1206,
+  "comments": 220,
+  "operatingCountries": [
+    "Australia",
+    "Sweden",
+    "Norway",
+    "United Kingdom",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=horus-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ],
+  "reviewCount": 5
+}

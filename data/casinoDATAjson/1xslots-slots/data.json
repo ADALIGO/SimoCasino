@@ -1,0 +1,32 @@
+{
+  "name": "1xSlots Slots",
+  "slug": "1xslots-slots",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 125% up to $200",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 288,
+  "providers": [
+    "Saucify",
+    "Iron Dog Studio",
+    "Push Gaming",
+    "Konami",
+    "EGT"
+  ],
+  "likes": 729,
+  "comments": 401,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xslots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

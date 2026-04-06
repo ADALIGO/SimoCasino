@@ -1,0 +1,32 @@
+{
+  "name": "Coins.Game Games",
+  "slug": "coinsgame-games",
+  "country": "Canada",
+  "bonus": "Cashback up to 125%",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "Saucify",
+    "Thunderkick"
+  ],
+  "likes": 110,
+  "comments": 392,
+  "operatingCountries": [
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=46",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coinsgame-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bet It All Online",
+  "slug": "bet-it-all-online",
+  "country": "Morocco",
+  "bonus": "Deposit Bonus 300% up to $500",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 384,
+  "providers": [
+    "Thunderkick",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1064,
+  "comments": 19,
+  "operatingCountries": [
+    "Finland",
+    "Morocco",
+    "Netherlands",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=53",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bet-it-all-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56"
+  ]
+}

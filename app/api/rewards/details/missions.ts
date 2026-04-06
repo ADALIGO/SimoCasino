@@ -1,0 +1,68 @@
+import { MissionEntry } from './types';
+
+export const MISSIONS: MissionEntry[] = [
+  {
+    mission: 'Visit 5 casinos',
+    requirement: '5 pages',
+    xp: 10,
+    coins: 3,
+    details: 'Easy starter mission',
+    notes: '✅ Safe',
+  },
+  {
+    mission: 'Stay 10 minutes total',
+    requirement: 'session time',
+    xp: 15,
+    coins: 5,
+    details: 'Encourages retention',
+    notes: '✅ Safe',
+  },
+  {
+    mission: 'Click 3 bonuses',
+    requirement: 'bonus clicks',
+    xp: 12,
+    coins: 4,
+    details: 'Drives affiliate clicks',
+    notes: '⚠️ Risky — track & limit',
+  },
+  {
+    mission: 'Register 1 casino',
+    requirement: 'affiliate register',
+    xp: 25,
+    coins: 10,
+    details: 'High value conversion',
+    notes: '⚠️ Risky — ensure TOS compliant',
+  },
+  {
+    mission: 'Deposit 1 time',
+    requirement: 'confirmed deposit',
+    xp: 50,
+    coins: 20,
+    details: 'Highest monetization',
+    notes: '⚠️ Risky — verified only',
+  },
+  {
+    mission: 'Write 2 reviews',
+    requirement: 'content',
+    xp: 20,
+    coins: 6,
+    details: 'Builds SEO content',
+    notes: '✅ Safe',
+  },
+  {
+    mission: 'Daily activity (3 actions)',
+    requirement: 'mixed',
+    xp: 10,
+    coins: 3,
+    details: 'Keeps daily engagement',
+    notes: '✅ Safe',
+  },
+  {
+    mission: 'Weekly engagement',
+    requirement: '20 actions',
+    xp: 40,
+    coins: 15,
+    details: 'Long-term retention',
+    notes: '✅ Safe',
+  },
+];

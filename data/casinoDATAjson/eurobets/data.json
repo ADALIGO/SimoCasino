@@ -1,0 +1,25 @@
+{
+  "name": "EuroBets",
+  "slug": "eurobets",
+  "country": "Morocco",
+  "bonus": "55 Spins",
+  "rating": 2,
+  "revenueRank": 34,
+  "spins": 0,
+  "providers": [],
+  "likes": 621,
+  "comments": 71,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cactus",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ],
+  "reviewCount": 5
+}

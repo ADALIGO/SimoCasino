@@ -1,0 +1,299 @@
+// UserProgressHeader.module.scss
+// Base styles for the progress header component.
+// All responsive @media rules are located in the corresponding partials:
+//   components/mobile/UserProgressHeader.module.scss
+//   components/tablet/UserProgressHeader.module.scss
+//   components/desktop/UserProgressHeader.module.scss
+@use './mobile/UserProgressHeader.module.scss' as *;
+@use './tablet/UserProgressHeader.module.scss' as *;
+@use './desktop/UserProgressHeader.module.scss' as *;
+
+// Keep the progress section visible on all screen sizes, including under 1188px.
+@media (max-width: 1188px) {
+  .progress-section {
+    display: flex !important;
+  }
+}
+
+.progress-header {
+  position: relative;
+  width: 100%;
+  margin: 16px 0;
+  padding: 20px;
+  background-color: rgba(20, 20, 30, 0.85);
+  overflow: hidden;
+
+  .bg-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(53, 255, 70, 0.1), rgba(255, 0, 0, 0.05));
+    filter: blur(20px);
+    pointer-events: none;
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    background: rgba(20, 20, 30, 0.6);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+    border-radius: 16px;
+    padding: 20px;
+    border: 1px solid rgba(255, 107, 53, 0.2);
+    box-shadow: 0 8px 32px rgba(255, 0, 0, 0.3);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    &:hover {
+      border-color: rgba(255, 107, 53, 0.4);
+      box-shadow: 0 12px 48px rgba(255, 107, 53, 0.15);
+    }
+  }
+}
+
+/* Level Section */
+.level-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 140px;
+
+  .level-badge {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #FF6B35;
+    background: linear-gradient(135deg, rgba(255, 107, 53, 0.15), rgba(255, 0, 0, 0.05));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+
+    &:hover {
+      transform: scale(1.05);
+    }
+
+    .badge-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+
+      .trophy-animate {
+        animation: bounce-trophy 2s infinite;
+      }
+
+      .level-number {
+        font-size: 28px;
+        font-weight: 700;
+        color: #FFD700;
+        text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+      }
+    }
+  }
+
+  .level-label {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+    .level-text {
+      font-size: 16px;
+      font-weight: 700;
+      color: #ffffff;
+      margin: 0;
+    }
+
+    .max-level {
+      font-size: 11px;
+      font-weight: 700;
+      color: #FFD700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin: 0;
+      padding: 2px 6px;
+      background: rgba(255, 215, 0, 0.2);
+      border-radius: 4px;
+      text-shadow: 0 0 8px rgba(255, 215, 0, 0.6);
+    }
+  }
+}
+
+/* Progress Section */
+.progress-section {
+  flex: 1;
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.points-display {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 107, 53, 0.1);
+
+  .points-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    .points-value {
+      font-size: 18px;
+      font-weight: 700;
+      color: #FFD700;
+      min-width: 60px;
+    }
+
+    .points-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: #999;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .xp-value {
+      font-size: 14px;
+      font-weight: 600;
+      color: #FF6B35;
+      min-width: 80px;
+    }
+
+    .xp-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: #999;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+  }
+}
+
+.divider {
+  width: 1px;
+  height: 30px;
+  background: rgba(255, 107, 53, 0.2);
+}
+
+/* Progress Bar */
+.progress-bar-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  .progress-bar-container {
+    flex: 1;
+    position: relative;
+    height: 28px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 107, 53, 0.2);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+
+    .progress-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #FF6B35, #F25C54, #FF6B35);
+      border-radius: 14px;
+      transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      box-shadow: 0 0 20px rgba(255, 107, 53, 0.6);
+
+      &::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+        animation: shimmer 2s infinite;
+      }
+    }
+
+    .progress-bar-shimmer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+      animation: shimmer 2s infinite;
+      pointer-events: none;
+    }
+  }
+
+  .progress-text {
+    font-size: 13px;
+    font-weight: 700;
+    color: #FF6B35;
+    min-width: 40px;
+    text-align: right;
+  }
+}
+
+.next-level-info {
+  .next-level-text {
+    font-size: 12px;
+    color: #bbb;
+    margin: 0;
+    font-weight: 500;
+  }
+}
+
+/* Decorative Stars */
+.decorative-stars {
+  display: flex;
+  gap: 8px;
+  opacity: 0.4;
+
+  .star {
+    color: #FFD700;
+    animation: float-star 3s ease-in-out infinite;
+  }
+}
+
+/* Animations */
+@keyframes bounce-trophy {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes float-star {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 0.4;
+  }
+  50% {
+    transform: translateY(-4px) scale(1.1);
+    opacity: 0.8;
+  }
+}
+

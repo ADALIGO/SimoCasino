@@ -1,0 +1,30 @@
+{
+  "name": "The Godbunny",
+  "slug": "the-godbunny",
+  "country": "Morocco",
+  "bonus": "100% up to €/$250 + 50 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 11,
+  "providers": [],
+  "likes": 1520,
+  "comments": 169,
+  "operatingCountries": [
+    "Belgium",
+    "Spain",
+    "Finland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=183",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kinbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ],
+  "reviewCount": 5
+}

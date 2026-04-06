@@ -1,0 +1,30 @@
+{
+  "name": "Casino Kings",
+  "slug": "casino-kings",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 185,
+  "providers": [],
+  "likes": 262,
+  "comments": 455,
+  "operatingCountries": [
+    "Netherlands",
+    "Denmark",
+    "Austria",
+    "Spain",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=136",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=love2play",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ],
+  "reviewCount": 5
+}

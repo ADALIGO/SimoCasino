@@ -1,0 +1,26 @@
+{
+  "name": "Slottica",
+  "slug": "slottica",
+  "country": "Morocco",
+  "bonus": "200%",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 371,
+  "providers": [],
+  "likes": 138,
+  "comments": 30,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=34",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sushi",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ],
+  "reviewCount": 5
+}

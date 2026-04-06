@@ -1,0 +1,31 @@
+{
+  "name": "Black Chip Poker Online",
+  "slug": "black-chip-poker-online",
+  "country": "United States",
+  "bonus": "Reload Bonus 150% up to $1000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 203,
+  "providers": [
+    "Aristocrat",
+    "Visionary iGaming",
+    "Nolimit City",
+    "Pragmatic Play",
+    "Greentube"
+  ],
+  "likes": 1436,
+  "comments": 481,
+  "operatingCountries": [
+    "United States",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=black-chip-poker-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

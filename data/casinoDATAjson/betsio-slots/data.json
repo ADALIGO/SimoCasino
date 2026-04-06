@@ -1,0 +1,32 @@
+{
+  "name": "bets.io Slots",
+  "slug": "betsio-slots",
+  "country": "Italy",
+  "bonus": "Welcome Bonus 125% up to $1000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 4,
+  "providers": [
+    "NetEnt",
+    "Evolution Gaming",
+    "EGT"
+  ],
+  "likes": 909,
+  "comments": 61,
+  "operatingCountries": [
+    "Ireland",
+    "Finland",
+    "Sweden",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsio-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

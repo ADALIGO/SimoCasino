@@ -1,0 +1,29 @@
+{
+  "name": "Wild7",
+  "slug": "wild7",
+  "country": "Morocco",
+  "bonus": "125% up to $250 + 100 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 335,
+  "providers": [],
+  "likes": 309,
+  "comments": 258,
+  "operatingCountries": [
+    "Australia",
+    "Czech Republic",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=196",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bb-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198",
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200"
+  ],
+  "reviewCount": 5
+}

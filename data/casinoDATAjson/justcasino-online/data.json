@@ -1,0 +1,34 @@
+{
+  "name": "JustCasino Online",
+  "slug": "justcasino-online",
+  "country": "Czech Republic",
+  "bonus": "Deposit Bonus 150% up to $1000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Pragmatic Play",
+    "Greentube",
+    "Visionary iGaming",
+    "Habanero Systems",
+    "Aristocrat",
+    "Novomatic",
+    "Nolimit City",
+    "Thunderkick"
+  ],
+  "likes": 514,
+  "comments": 483,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=148",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=justcasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151"
+  ]
+}

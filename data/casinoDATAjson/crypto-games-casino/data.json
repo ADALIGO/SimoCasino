@@ -1,0 +1,35 @@
+{
+  "name": "Crypto Games Casino",
+  "slug": "crypto-games-casino",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 250% up to $50",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 350,
+  "providers": [
+    "Playtech",
+    "Merkur",
+    "Quickspin",
+    "Saucify",
+    "Visionary iGaming",
+    "Yggdrasil",
+    "Novomatic"
+  ],
+  "likes": 675,
+  "comments": 132,
+  "operatingCountries": [
+    "Belgium",
+    "Czech Republic",
+    "Germany",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crypto-games-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11"
+  ]
+}

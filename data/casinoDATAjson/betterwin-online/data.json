@@ -1,0 +1,36 @@
+{
+  "name": "BetterWin Online",
+  "slug": "betterwin-online",
+  "country": "Norway",
+  "bonus": "Welcome Bonus 300% up to $50",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Playtech",
+    "Pragmatic Play",
+    "Habanero Systems",
+    "Visionary iGaming",
+    "Greentube",
+    "Push Gaming"
+  ],
+  "likes": 169,
+  "comments": 240,
+  "operatingCountries": [
+    "South Africa",
+    "Finland",
+    "Netherlands",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betterwin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ]
+}

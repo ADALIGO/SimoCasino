@@ -1,0 +1,34 @@
+{
+  "name": "Euro Palace Slots",
+  "slug": "euro-palace-slots",
+  "country": "France",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 3.9,
+  "revenueRank": 21,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Greentube",
+    "Visionary iGaming",
+    "Rival"
+  ],
+  "likes": 591,
+  "comments": 341,
+  "operatingCountries": [
+    "United States",
+    "Portugal",
+    "France",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euro-palace-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

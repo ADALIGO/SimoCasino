@@ -1,0 +1,31 @@
+{
+  "name": "House of Jack Casino",
+  "slug": "house-of-jack-casino",
+  "country": "Denmark",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "NetEnt"
+  ],
+  "likes": 1377,
+  "comments": 82,
+  "operatingCountries": [
+    "Ireland",
+    "Denmark",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=112",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=house-of-jack-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Spinathlon Online",
+  "slug": "spinathlon-online",
+  "country": "Portugal",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 107,
+  "providers": [
+    "Real Time Gaming",
+    "Saucify",
+    "Nolimit City",
+    "WMS",
+    "Spinlogic Gaming",
+    "Evolution Gaming",
+    "ELK Studios",
+    "Rival"
+  ],
+  "likes": 1180,
+  "comments": 97,
+  "operatingCountries": [
+    "Portugal",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=183",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinathlon-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

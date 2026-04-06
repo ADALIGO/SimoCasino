@@ -1,0 +1,32 @@
+{
+  "name": "JackMillion Online",
+  "slug": "jackmillion-online",
+  "country": "Morocco",
+  "bonus": "Reload Bonus 50% up to $100",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 47,
+  "providers": [
+    "Amatic Industries",
+    "Konami",
+    "Playtech",
+    "Spinlogic Gaming",
+    "Greentube"
+  ],
+  "likes": 1474,
+  "comments": 54,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=195",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackmillion-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198",
+    "https://picsum.photos/380/260?random=199"
+  ]
+}

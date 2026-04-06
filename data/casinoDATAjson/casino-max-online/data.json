@@ -1,0 +1,39 @@
+{
+  "name": "Casino Max Online",
+  "slug": "casino-max-online",
+  "country": "Czech Republic",
+  "bonus": "VIP Bonus 300% up to $100",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "Quickspin",
+    "Merkur",
+    "Visionary iGaming",
+    "Real Time Gaming",
+    "Blueprint Gaming",
+    "Wager Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 1792,
+  "comments": 398,
+  "operatingCountries": [
+    "Poland",
+    "Belgium",
+    "Switzerland",
+    "Australia",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=180",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-max-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Shazam Casino",
+  "slug": "shazam-casino",
+  "country": "Switzerland",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 325,
+  "providers": [
+    "EGT"
+  ],
+  "likes": 1947,
+  "comments": 195,
+  "operatingCountries": [
+    "Italy",
+    "Belgium",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=shazam-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

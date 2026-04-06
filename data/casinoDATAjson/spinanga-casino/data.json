@@ -1,0 +1,33 @@
+{
+  "name": "Spinanga Casino",
+  "slug": "spinanga-casino",
+  "country": "South Africa",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "Gamomat",
+    "Rival"
+  ],
+  "likes": 1308,
+  "comments": 152,
+  "operatingCountries": [
+    "Finland",
+    "Portugal",
+    "Norway",
+    "Netherlands",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinanga-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

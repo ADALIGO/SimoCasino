@@ -1,0 +1,32 @@
+{
+  "name": "Horus Slots",
+  "slug": "horus-slots",
+  "country": "United States",
+  "bonus": "Reload Bonus 300% up to $50",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 118,
+  "providers": [
+    "Visionary iGaming",
+    "Thunderkick",
+    "Big Time Gaming",
+    "Wager Gaming",
+    "Push Gaming"
+  ],
+  "likes": 1063,
+  "comments": 142,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=horus-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43"
+  ]
+}

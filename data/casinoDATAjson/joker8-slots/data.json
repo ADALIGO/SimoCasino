@@ -1,0 +1,31 @@
+{
+  "name": "Joker8 Slots",
+  "slug": "joker8-slots",
+  "country": "New Zealand",
+  "bonus": "100% up to $100 + 250 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 325,
+  "providers": [
+    "1x2gaming",
+    "IGT",
+    "Blueprint Gaming",
+    "Thunderkick",
+    "Ash Gaming",
+    "Red Tiger"
+  ],
+  "likes": 389,
+  "comments": 355,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=5",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=joker8-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Jackbit Games",
+  "slug": "jackbit-games",
+  "country": "Poland",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 154,
+  "providers": [
+    "Arrows Edge"
+  ],
+  "likes": 255,
+  "comments": 194,
+  "operatingCountries": [
+    "France",
+    "Austria",
+    "United Kingdom",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackbit-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

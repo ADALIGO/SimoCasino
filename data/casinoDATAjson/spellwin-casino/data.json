@@ -1,0 +1,32 @@
+{
+  "name": "Spellwin Casino",
+  "slug": "spellwin-casino",
+  "country": "United Kingdom",
+  "bonus": "Deposit Bonus 100% up to $2000",
+  "rating": 3.8,
+  "revenueRank": 56,
+  "spins": 0,
+  "providers": [
+    "ELK Studios",
+    "Thunderkick",
+    "Quickspin",
+    "Push Gaming",
+    "Playtech",
+    "Merkur"
+  ],
+  "likes": 248,
+  "comments": 446,
+  "operatingCountries": [
+    "Ireland",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spellwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

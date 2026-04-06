@@ -1,0 +1,37 @@
+{
+  "name": "BC.Game Games",
+  "slug": "bcgame-games",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 277,
+  "providers": [
+    "NextGen",
+    "Amatic Industries",
+    "Saucify",
+    "Microgaming",
+    "Rival",
+    "Aristocrat"
+  ],
+  "likes": 1322,
+  "comments": 305,
+  "operatingCountries": [
+    "United States",
+    "Switzerland",
+    "Germany",
+    "Canada",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bcgame-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ]
+}

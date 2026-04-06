@@ -1,0 +1,36 @@
+{
+  "name": "Yeti Online",
+  "slug": "yeti-online",
+  "country": "Canada",
+  "bonus": "100% up to $2000 + 20 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 180,
+  "providers": [
+    "Arrows Edge",
+    "Quickspin",
+    "Genesis Gaming",
+    "Nolimit City",
+    "Novomatic",
+    "Rival",
+    "Yggdrasil",
+    "Real Time Gaming"
+  ],
+  "likes": 477,
+  "comments": 209,
+  "operatingCountries": [
+    "Portugal",
+    "Netherlands",
+    "Norway",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yeti-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

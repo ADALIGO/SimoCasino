@@ -1,0 +1,32 @@
+{
+  "name": "Lucky7even Casino",
+  "slug": "lucky7even-casino",
+  "country": "Belgium",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 245,
+  "providers": [
+    "Merkur",
+    "Relax Gaming",
+    "Push Gaming",
+    "Red Tiger",
+    "Big Time Gaming",
+    "Quickspin",
+    "1x2gaming"
+  ],
+  "likes": 1248,
+  "comments": 185,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky7even-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "National Slots",
+  "slug": "national-slots",
+  "country": "Germany",
+  "bonus": "Welcome Bonus 300% up to $200",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 450,
+  "providers": [
+    "Push Gaming",
+    "Iron Dog Studio",
+    "Arrows Edge",
+    "NetEnt",
+    "Spinlogic Gaming",
+    "Wager Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1258,
+  "comments": 201,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=102",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=national-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105"
+  ]
+}

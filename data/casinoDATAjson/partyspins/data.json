@@ -1,0 +1,26 @@
+{
+  "name": "PartySpins",
+  "slug": "partyspins",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 100 Spins",
+  "rating": 2.9,
+  "revenueRank": 30,
+  "spins": 16,
+  "providers": [],
+  "likes": 1088,
+  "comments": 40,
+  "operatingCountries": [
+    "France",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=36",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinoloco",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Jackpot City Slots",
+  "slug": "jackpot-city-slots",
+  "country": "Australia",
+  "bonus": "First Deposit 300% up to $2000 + 200 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Amatic Industries",
+    "Microgaming",
+    "BetSoft"
+  ],
+  "likes": 734,
+  "comments": 50,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-city-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118"
+  ]
+}

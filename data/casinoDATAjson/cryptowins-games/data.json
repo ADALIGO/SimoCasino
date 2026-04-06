@@ -1,0 +1,30 @@
+{
+  "name": "CryptoWins Games",
+  "slug": "cryptowins-games",
+  "country": "France",
+  "bonus": "250% Bonus up to $100",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 475,
+  "providers": [
+    "Konami"
+  ],
+  "likes": 376,
+  "comments": 470,
+  "operatingCountries": [
+    "South Africa",
+    "Italy",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=100",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptowins-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104"
+  ]
+}

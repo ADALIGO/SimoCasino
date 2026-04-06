@@ -1,0 +1,31 @@
+{
+  "name": "daddy Casino",
+  "slug": "daddy-casino",
+  "country": "Switzerland",
+  "bonus": "First Deposit 300% up to $50 + 50 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NextGen",
+    "Evolution Gaming",
+    "Rival",
+    "Push Gaming",
+    "Iron Dog Studio",
+    "ELK Studios"
+  ],
+  "likes": 897,
+  "comments": 170,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=180",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=daddy-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ]
+}

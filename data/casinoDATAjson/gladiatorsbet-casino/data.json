@@ -1,0 +1,31 @@
+{
+  "name": "GladiatorsBet Casino",
+  "slug": "gladiatorsbet-casino",
+  "country": "Spain",
+  "bonus": "Welcome Bonus 125% up to $2000",
+  "rating": 3.3,
+  "revenueRank": 27,
+  "spins": 355,
+  "providers": [
+    "Big Time Gaming",
+    "IGT"
+  ],
+  "likes": 706,
+  "comments": 405,
+  "operatingCountries": [
+    "New Zealand",
+    "South Africa",
+    "Czech Republic",
+    "Norway",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gladiatorsbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

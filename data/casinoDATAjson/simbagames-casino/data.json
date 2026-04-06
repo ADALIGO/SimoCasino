@@ -1,0 +1,34 @@
+{
+  "name": "SimbaGames Casino",
+  "slug": "simbagames-casino",
+  "country": "Austria",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 451,
+  "providers": [
+    "Konami",
+    "Visionary iGaming",
+    "Nolimit City",
+    "EGT",
+    "Wager Gaming",
+    "Red Tiger",
+    "Habanero Systems"
+  ],
+  "likes": 1612,
+  "comments": 218,
+  "operatingCountries": [
+    "Portugal",
+    "United Kingdom",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=simbagames-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ]
+}

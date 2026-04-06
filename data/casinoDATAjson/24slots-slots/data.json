@@ -1,0 +1,30 @@
+{
+  "name": "24Slots Slots",
+  "slug": "24slots-slots",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 300% up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 374,
+  "providers": [
+    "Big Time Gaming"
+  ],
+  "likes": 1542,
+  "comments": 194,
+  "operatingCountries": [
+    "United States",
+    "Czech Republic",
+    "Finland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24slots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72"
+  ]
+}

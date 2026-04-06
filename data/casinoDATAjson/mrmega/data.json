@@ -1,0 +1,29 @@
+{
+  "name": "MrMega",
+  "slug": "mrmega",
+  "country": "Morocco",
+  "bonus": "100% up to €/$200 + 20 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 417,
+  "providers": [],
+  "likes": 1999,
+  "comments": 332,
+  "operatingCountries": [
+    "Norway",
+    "Portugal",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=depositwin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ],
+  "reviewCount": 5
+}

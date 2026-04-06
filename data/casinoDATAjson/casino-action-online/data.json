@@ -1,0 +1,36 @@
+{
+  "name": "Casino Action Online",
+  "slug": "casino-action-online",
+  "country": "Australia",
+  "bonus": "100% up to $2000 + 300 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 237,
+  "providers": [
+    "Red Tiger",
+    "Ash Gaming",
+    "Greentube",
+    "Amatic Industries",
+    "Evolution Gaming",
+    "Novomatic",
+    "1x2gaming"
+  ],
+  "likes": 210,
+  "comments": 303,
+  "operatingCountries": [
+    "Denmark",
+    "Czech Republic",
+    "France",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=4",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-action-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ]
+}

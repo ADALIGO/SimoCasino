@@ -1,0 +1,29 @@
+{
+  "name": "Betssen",
+  "slug": "betssen",
+  "country": "Morocco",
+  "bonus": "125% up to €/$500 + 150 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1380,
+  "comments": 449,
+  "operatingCountries": [
+    "Ireland",
+    "Norway",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotuna",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ],
+  "reviewCount": 5
+}

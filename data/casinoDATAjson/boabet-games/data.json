@@ -1,0 +1,37 @@
+{
+  "name": "BoaBet Games",
+  "slug": "boabet-games",
+  "country": "France",
+  "bonus": "First Deposit 125% up to $2000 + 20 Free Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "NetEnt",
+    "Ash Gaming",
+    "Push Gaming",
+    "Habanero Systems",
+    "NextGen",
+    "Red Tiger",
+    "Visionary iGaming"
+  ],
+  "likes": 304,
+  "comments": 90,
+  "operatingCountries": [
+    "South Africa",
+    "Poland",
+    "Australia",
+    "Norway",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=172",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boabet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174"
+  ]
+}

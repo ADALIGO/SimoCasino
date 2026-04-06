@@ -1,0 +1,27 @@
+{
+  "name": "SpinSamba Slots",
+  "slug": "spinsamba-slots",
+  "country": "Austria",
+  "bonus": "Welcome Bonus 125% up to $200",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 389,
+  "providers": [
+    "Playtech"
+  ],
+  "likes": 837,
+  "comments": 466,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinsamba-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Casinia Casino",
+  "slug": "casinia-casino",
+  "country": "New Zealand",
+  "bonus": "100% up to $2000 + 100 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 79,
+  "providers": [
+    "Merkur",
+    "Big Time Gaming"
+  ],
+  "likes": 1651,
+  "comments": 109,
+  "operatingCountries": [
+    "Germany",
+    "Portugal",
+    "Belgium",
+    "Spain",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinia-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ]
+}

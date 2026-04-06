@@ -1,0 +1,36 @@
+{
+  "name": "Jackpotter Slots",
+  "slug": "jackpotter-slots",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 257,
+  "providers": [
+    "Merkur",
+    "WMS",
+    "BetSoft",
+    "Evolution Gaming",
+    "Big Time Gaming",
+    "Push Gaming",
+    "Quickspin",
+    "Amatic Industries"
+  ],
+  "likes": 1741,
+  "comments": 47,
+  "operatingCountries": [
+    "Switzerland",
+    "Spain",
+    "Morocco",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpotter-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

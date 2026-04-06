@@ -1,0 +1,30 @@
+{
+  "name": "Cadoola",
+  "slug": "cadoola",
+  "country": "Morocco",
+  "bonus": "120% up to €500 + 200 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 496,
+  "comments": 307,
+  "operatingCountries": [
+    "United Kingdom",
+    "Canada",
+    "Germany",
+    "New Zealand",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=200",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=horse-racing-betting",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202",
+    "https://picsum.photos/380/260?random=203"
+  ],
+  "reviewCount": 5
+}

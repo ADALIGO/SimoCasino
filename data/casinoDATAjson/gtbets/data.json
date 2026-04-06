@@ -1,0 +1,34 @@
+{
+  "name": "GTbets",
+  "slug": "gtbets",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 0,
+  "revenueRank": null,
+  "spins": 458,
+  "providers": [
+    "Examples of deposits:",
+    "Visa Credit",
+    "2.2 / 5"
+  ],
+  "likes": 1265,
+  "comments": 376,
+  "operatingCountries": [
+    "Portugal",
+    "Netherlands",
+    "Ireland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=moana",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ],
+  "reviewCount": 0
+}

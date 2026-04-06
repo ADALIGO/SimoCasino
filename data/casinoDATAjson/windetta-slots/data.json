@@ -1,0 +1,31 @@
+{
+  "name": "Windetta Slots",
+  "slug": "windetta-slots",
+  "country": "Italy",
+  "bonus": "First Deposit 200% up to $500 + 50 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 256,
+  "providers": [
+    "1x2gaming",
+    "Pragmatic Play",
+    "Big Time Gaming",
+    "Ash Gaming",
+    "Saucify"
+  ],
+  "likes": 301,
+  "comments": 172,
+  "operatingCountries": [
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=windetta-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

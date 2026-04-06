@@ -1,0 +1,30 @@
+{
+  "name": "Liberty Slots Online",
+  "slug": "liberty-slots-online",
+  "country": "France",
+  "bonus": "VIP Bonus 200% up to $100",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 152,
+  "providers": [
+    "NetEnt",
+    "Merkur",
+    "Pragmatic Play"
+  ],
+  "likes": 60,
+  "comments": 403,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=liberty-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

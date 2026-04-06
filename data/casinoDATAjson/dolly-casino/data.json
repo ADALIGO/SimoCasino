@@ -1,0 +1,38 @@
+{
+  "name": "Dolly Casino",
+  "slug": "dolly-casino",
+  "country": "Netherlands",
+  "bonus": "VIP Bonus 50% up to $200",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 65,
+  "providers": [
+    "Aristocrat",
+    "ELK Studios",
+    "Thunderkick",
+    "Rival",
+    "Gamomat",
+    "Wager Gaming",
+    "Novomatic",
+    "NetEnt"
+  ],
+  "likes": 368,
+  "comments": 369,
+  "operatingCountries": [
+    "Denmark",
+    "New Zealand",
+    "United Kingdom",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dolly-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

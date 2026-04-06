@@ -1,0 +1,32 @@
+{
+  "name": "Pistolo Slots",
+  "slug": "pistolo-slots",
+  "country": "Switzerland",
+  "bonus": "Reload Bonus 125% up to $100",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "1x2gaming",
+    "Aristocrat",
+    "Konami"
+  ],
+  "likes": 1780,
+  "comments": 238,
+  "operatingCountries": [
+    "Netherlands",
+    "Spain",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=170",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pistolo-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

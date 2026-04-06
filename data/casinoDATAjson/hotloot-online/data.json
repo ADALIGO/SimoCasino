@@ -1,0 +1,26 @@
+{
+  "name": "HotLoot Online",
+  "slug": "hotloot-online",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 200% up to $2000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 185,
+  "providers": [
+    "Visionary iGaming"
+  ],
+  "likes": 1037,
+  "comments": 247,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=23",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotloot-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

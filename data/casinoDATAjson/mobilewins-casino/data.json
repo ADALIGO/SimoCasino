@@ -1,0 +1,33 @@
+{
+  "name": "MobileWins Casino",
+  "slug": "mobilewins-casino",
+  "country": "France",
+  "bonus": "Welcome Bonus 125% up to $50",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 312,
+  "providers": [
+    "Blueprint Gaming",
+    "Ash Gaming",
+    "NextGen",
+    "Quickspin",
+    "Habanero Systems",
+    "ELK Studios",
+    "Rival",
+    "BetSoft"
+  ],
+  "likes": 204,
+  "comments": 424,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mobilewins-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

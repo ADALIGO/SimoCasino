@@ -1,0 +1,29 @@
+{
+  "name": "Bookmaker.XYZ",
+  "slug": "bookmakerxyz",
+  "country": "Morocco",
+  "bonus": "100% up to ₮250",
+  "rating": 2.8,
+  "revenueRank": 55,
+  "spins": 499,
+  "providers": [],
+  "likes": 1784,
+  "comments": 212,
+  "operatingCountries": [
+    "Switzerland",
+    "Netherlands",
+    "Sweden",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=minebit",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OceanSpin Online",
+  "slug": "oceanspin-online",
+  "country": "Belgium",
+  "bonus": "Welcome Package up to $300",
+  "rating": 3.2,
+  "revenueRank": 38,
+  "spins": 285,
+  "providers": [
+    "Novomatic"
+  ],
+  "likes": 1819,
+  "comments": 342,
+  "operatingCountries": [
+    "New Zealand",
+    "Denmark",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=174",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oceanspin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176"
+  ]
+}

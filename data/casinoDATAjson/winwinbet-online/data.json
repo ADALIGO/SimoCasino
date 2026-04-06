@@ -1,0 +1,30 @@
+{
+  "name": "WinWin.Bet Online",
+  "slug": "winwinbet-online",
+  "country": "Austria",
+  "bonus": "First Deposit 250% up to $50 + 250 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 301,
+  "providers": [
+    "Arrows Edge",
+    "BetSoft"
+  ],
+  "likes": 1938,
+  "comments": 426,
+  "operatingCountries": [
+    "Spain",
+    "Switzerland",
+    "Denmark",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=124",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winwinbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126"
+  ]
+}

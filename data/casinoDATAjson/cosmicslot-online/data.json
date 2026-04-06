@@ -1,0 +1,38 @@
+{
+  "name": "CosmicSlot Online",
+  "slug": "cosmicslot-online",
+  "country": "Austria",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4.2,
+  "revenueRank": 77,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Thunderkick",
+    "Quickspin",
+    "Genesis Gaming",
+    "Playtech",
+    "EGT",
+    "NextGen",
+    "Habanero Systems"
+  ],
+  "likes": 1026,
+  "comments": 482,
+  "operatingCountries": [
+    "Switzerland",
+    "Italy",
+    "Canada",
+    "Sweden",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=90",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cosmicslot-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

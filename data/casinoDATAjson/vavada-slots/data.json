@@ -1,0 +1,38 @@
+{
+  "name": "VAVADA Slots",
+  "slug": "vavada-slots",
+  "country": "United Kingdom",
+  "bonus": "Cashback up to 100%",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Pragmatic Play",
+    "Novomatic",
+    "NextGen",
+    "Thunderkick",
+    "Evolution Gaming",
+    "Wager Gaming",
+    "Nolimit City"
+  ],
+  "likes": 367,
+  "comments": 467,
+  "operatingCountries": [
+    "Morocco",
+    "Germany",
+    "South Africa",
+    "Finland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=191",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vavada-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

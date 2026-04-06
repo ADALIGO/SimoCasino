@@ -1,0 +1,35 @@
+{
+  "name": "Spin Galaxy Online",
+  "slug": "spin-galaxy-online",
+  "country": "Ireland",
+  "bonus": "First Deposit 300% up to $300 + 200 Free Spins",
+  "rating": 3.8,
+  "revenueRank": 37,
+  "spins": 138,
+  "providers": [
+    "Relax Gaming",
+    "Playtech",
+    "NextGen",
+    "Visionary iGaming",
+    "IGT",
+    "Amatic Industries",
+    "EGT"
+  ],
+  "likes": 934,
+  "comments": 101,
+  "operatingCountries": [
+    "United States",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-galaxy-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Flappy Casino",
+  "slug": "flappy-casino",
+  "country": "New Zealand",
+  "bonus": "VIP Bonus 300% up to $300",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 401,
+  "providers": [
+    "Yggdrasil",
+    "Habanero Systems",
+    "IGT",
+    "Aristocrat"
+  ],
+  "likes": 492,
+  "comments": 111,
+  "operatingCountries": [
+    "Netherlands",
+    "Poland",
+    "Belgium",
+    "Morocco",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=102",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flappy-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "All Jackpots",
+  "slug": "all-jackpots",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 36,
+  "providers": [],
+  "likes": 1473,
+  "comments": 306,
+  "operatingCountries": [
+    "Portugal",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=118",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=myempire",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ],
+  "reviewCount": 5
+}

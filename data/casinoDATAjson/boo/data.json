@@ -1,0 +1,28 @@
+{
+  "name": "Boo",
+  "slug": "boo",
+  "country": "Morocco",
+  "bonus": "35 Spins",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 699,
+  "comments": 202,
+  "operatingCountries": [
+    "Italy",
+    "Australia",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=beef",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ],
+  "reviewCount": 5
+}

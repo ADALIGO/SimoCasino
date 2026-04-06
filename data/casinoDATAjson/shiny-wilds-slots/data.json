@@ -1,0 +1,35 @@
+{
+  "name": "Shiny Wilds Slots",
+  "slug": "shiny-wilds-slots",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 100% up to $200",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 141,
+  "providers": [
+    "Pragmatic Play",
+    "Iron Dog Studio",
+    "Spinlogic Gaming",
+    "Novomatic",
+    "Ash Gaming",
+    "Real Time Gaming",
+    "Wager Gaming",
+    "Greentube"
+  ],
+  "likes": 1211,
+  "comments": 9,
+  "operatingCountries": [
+    "New Zealand",
+    "Canada",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=96",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=shiny-wilds-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98"
+  ]
+}

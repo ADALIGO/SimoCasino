@@ -1,0 +1,30 @@
+{
+  "name": "Jackpot Cash Online",
+  "slug": "jackpot-cash-online",
+  "country": "Netherlands",
+  "bonus": "200% Bonus up to $2000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 296,
+  "providers": [
+    "Ash Gaming",
+    "Aristocrat",
+    "Saucify",
+    "BetSoft",
+    "Novomatic"
+  ],
+  "likes": 1238,
+  "comments": 131,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-cash-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110"
+  ]
+}

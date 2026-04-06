@@ -1,0 +1,29 @@
+{
+  "name": "12BET Games",
+  "slug": "12bet-games",
+  "country": "Sweden",
+  "bonus": "First Deposit 200% up to $300 + 50 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 250,
+  "providers": [
+    "Playtech"
+  ],
+  "likes": 1681,
+  "comments": 72,
+  "operatingCountries": [
+    "Spain",
+    "Canada",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=92",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=12bet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95"
+  ]
+}

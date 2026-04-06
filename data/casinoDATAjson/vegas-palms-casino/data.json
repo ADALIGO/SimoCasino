@@ -1,0 +1,35 @@
+{
+  "name": "Vegas Palms Casino",
+  "slug": "vegas-palms-casino",
+  "country": "Norway",
+  "bonus": "VIP Bonus 250% up to $1000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Thunderkick",
+    "Spinlogic Gaming",
+    "Wager Gaming",
+    "Aristocrat"
+  ],
+  "likes": 1026,
+  "comments": 25,
+  "operatingCountries": [
+    "South Africa",
+    "Ireland",
+    "France",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=101",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegas-palms-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105"
+  ]
+}

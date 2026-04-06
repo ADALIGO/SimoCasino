@@ -1,0 +1,30 @@
+{
+  "name": "Limitless Online",
+  "slug": "limitless-online",
+  "country": "Germany",
+  "bonus": "100% up to $100 + 20 Spins",
+  "rating": 4.9,
+  "revenueRank": 54,
+  "spins": 215,
+  "providers": [
+    "Arrows Edge",
+    "Konami",
+    "1x2gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 457,
+  "comments": 291,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=limitless-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "WeezyBet.com Online",
+  "slug": "weezybetcom-online",
+  "country": "United States",
+  "bonus": "Deposit Bonus 50% up to $500",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 396,
+  "providers": [
+    "Thunderkick",
+    "Habanero Systems",
+    "Amatic Industries",
+    "Red Tiger",
+    "Pragmatic Play",
+    "NetEnt",
+    "Konami"
+  ],
+  "likes": 283,
+  "comments": 490,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=weezybetcom-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168"
+  ]
+}

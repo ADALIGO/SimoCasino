@@ -1,0 +1,32 @@
+{
+  "name": "SpinStation Slots",
+  "slug": "spinstation-slots",
+  "country": "Czech Republic",
+  "bonus": "250% Bonus up to $500",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 170,
+  "providers": [
+    "EGT",
+    "1x2gaming",
+    "Habanero Systems",
+    "Merkur"
+  ],
+  "likes": 553,
+  "comments": 246,
+  "operatingCountries": [
+    "Italy",
+    "Norway",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinstation-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

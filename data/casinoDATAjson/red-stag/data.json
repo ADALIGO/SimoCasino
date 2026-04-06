@@ -1,0 +1,29 @@
+{
+  "name": "Red Stag",
+  "slug": "red-stag",
+  "country": "Morocco",
+  "bonus": "$20",
+  "rating": 3.7,
+  "revenueRank": 41,
+  "spins": 0,
+  "providers": [],
+  "likes": 818,
+  "comments": 334,
+  "operatingCountries": [
+    "Australia",
+    "Poland",
+    "Netherlands",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bizzo",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ],
+  "reviewCount": 5
+}

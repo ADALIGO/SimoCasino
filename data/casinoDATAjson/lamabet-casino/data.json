@@ -1,0 +1,36 @@
+{
+  "name": "Lamabet Casino",
+  "slug": "lamabet-casino",
+  "country": "Austria",
+  "bonus": "100% Bonus up to $2000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 287,
+  "providers": [
+    "IGT",
+    "Wager Gaming",
+    "Merkur",
+    "Spinlogic Gaming",
+    "EGT",
+    "Arrows Edge",
+    "Saucify",
+    "Red Tiger"
+  ],
+  "likes": 1320,
+  "comments": 476,
+  "operatingCountries": [
+    "France",
+    "Germany",
+    "Morocco",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lamabet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

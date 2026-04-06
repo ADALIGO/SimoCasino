@@ -1,0 +1,36 @@
+{
+  "name": "MrO Online",
+  "slug": "mro-online",
+  "country": "Denmark",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Habanero Systems",
+    "Microgaming",
+    "Real Time Gaming",
+    "EGT",
+    "NextGen",
+    "Arrows Edge",
+    "Gamomat"
+  ],
+  "likes": 487,
+  "comments": 201,
+  "operatingCountries": [
+    "Norway",
+    "Denmark",
+    "Morocco",
+    "France",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mro-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

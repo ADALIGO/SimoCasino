@@ -1,0 +1,31 @@
+{
+  "name": "21Prive Online",
+  "slug": "21prive-online",
+  "country": "France",
+  "bonus": "Cashback up to 200%",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 83,
+  "providers": [
+    "Evolution Gaming",
+    "Habanero Systems"
+  ],
+  "likes": 372,
+  "comments": 325,
+  "operatingCountries": [
+    "Netherlands",
+    "Spain",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21prive-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "UBET Slots",
+  "slug": "ubet-slots",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 250% up to $300",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 4,
+  "providers": [
+    "Konami",
+    "WMS",
+    "Yggdrasil"
+  ],
+  "likes": 186,
+  "comments": 51,
+  "operatingCountries": [
+    "Canada",
+    "Sweden",
+    "Poland",
+    "Spain",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ubet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

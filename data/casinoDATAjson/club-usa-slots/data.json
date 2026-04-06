@@ -1,0 +1,33 @@
+{
+  "name": "Club USA Slots",
+  "slug": "club-usa-slots",
+  "country": "Australia",
+  "bonus": "VIP Bonus 150% up to $300",
+  "rating": 3.3,
+  "revenueRank": 71,
+  "spins": 349,
+  "providers": [
+    "Ash Gaming",
+    "Konami",
+    "Merkur",
+    "NetEnt",
+    "Push Gaming",
+    "Genesis Gaming"
+  ],
+  "likes": 1278,
+  "comments": 450,
+  "operatingCountries": [
+    "Spain",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=club-usa-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

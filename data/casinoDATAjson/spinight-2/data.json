@@ -1,0 +1,29 @@
+{
+  "name": "Spinight",
+  "slug": "spinight",
+  "country": "Morocco",
+  "bonus": "100% up to €1000 + 100 Spins",
+  "rating": 2.9,
+  "revenueRank": 42,
+  "spins": 121,
+  "providers": [],
+  "likes": 1088,
+  "comments": 49,
+  "operatingCountries": [
+    "Canada",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=160",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinight-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ],
+  "reviewCount": 5
+}

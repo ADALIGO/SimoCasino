@@ -1,0 +1,30 @@
+{
+  "name": "1xSlots Online",
+  "slug": "1xslots-online",
+  "country": "Denmark",
+  "bonus": "Reload Bonus 125% up to $200",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 437,
+  "providers": [
+    "Blueprint Gaming"
+  ],
+  "likes": 1232,
+  "comments": 33,
+  "operatingCountries": [
+    "Germany",
+    "Belgium",
+    "Spain",
+    "Switzerland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xslots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Luckyblock Casino",
+  "slug": "luckyblock-casino",
+  "country": "Portugal",
+  "bonus": "Welcome Bonus 50% up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 233,
+  "providers": [
+    "Nolimit City",
+    "Rival",
+    "Aristocrat",
+    "Spinlogic Gaming",
+    "Playtech",
+    "Real Time Gaming"
+  ],
+  "likes": 1092,
+  "comments": 350,
+  "operatingCountries": [
+    "Sweden",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckyblock-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

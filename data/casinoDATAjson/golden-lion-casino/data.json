@@ -1,0 +1,31 @@
+{
+  "name": "Golden Lion Casino",
+  "slug": "golden-lion-casino",
+  "country": "Norway",
+  "bonus": "First Deposit 50% up to $300 + 200 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 450,
+  "providers": [
+    "Aristocrat",
+    "Iron Dog Studio",
+    "Big Time Gaming",
+    "Genesis Gaming",
+    "Novomatic",
+    "Push Gaming"
+  ],
+  "likes": 1327,
+  "comments": 392,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=153",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-lion-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "GalacticWins Slots",
+  "slug": "galacticwins-slots",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 490,
+  "providers": [
+    "Greentube",
+    "Relax Gaming",
+    "Saucify"
+  ],
+  "likes": 818,
+  "comments": 175,
+  "operatingCountries": [
+    "Canada",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=galacticwins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "BitStarz",
+  "slug": "bitstarz",
+  "country": "Morocco",
+  "bonus": "135% up to €/$/₮100 + 180 Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 311,
+  "providers": [],
+  "likes": 418,
+  "comments": 69,
+  "operatingCountries": [
+    "Finland",
+    "Australia",
+    "France",
+    "New Zealand",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=200",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=irwin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202",
+    "https://picsum.photos/380/260?random=203",
+    "https://picsum.photos/380/260?random=204"
+  ],
+  "reviewCount": 5
+}

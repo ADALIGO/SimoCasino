@@ -1,0 +1,25 @@
+{
+  "name": "Cazimbo",
+  "slug": "cazimbo",
+  "country": "Morocco",
+  "bonus": "200% up to €500",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 611,
+  "comments": 184,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rocketpot",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178"
+  ],
+  "reviewCount": 5
+}

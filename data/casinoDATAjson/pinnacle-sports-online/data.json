@@ -1,0 +1,30 @@
+{
+  "name": "Pinnacle Sports Online",
+  "slug": "pinnacle-sports-online",
+  "country": "Australia",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 74,
+  "providers": [
+    "Playtech"
+  ],
+  "likes": 878,
+  "comments": 244,
+  "operatingCountries": [
+    "United Kingdom",
+    "Denmark",
+    "Spain",
+    "South Africa",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pinnacle-sports-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ]
+}

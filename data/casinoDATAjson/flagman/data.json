@@ -1,0 +1,29 @@
+{
+  "name": "Flagman",
+  "slug": "flagman",
+  "country": "Morocco",
+  "bonus": "150% up to €600",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 273,
+  "providers": [],
+  "likes": 791,
+  "comments": 483,
+  "operatingCountries": [
+    "United Kingdom",
+    "South Africa",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cherry-gold",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86"
+  ],
+  "reviewCount": 5
+}

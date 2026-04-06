@@ -1,0 +1,34 @@
+{
+  "name": "Wolf.Bet Slots",
+  "slug": "wolfbet-slots",
+  "country": "France",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 272,
+  "providers": [
+    "Quickspin",
+    "Blueprint Gaming",
+    "Visionary iGaming",
+    "EGT",
+    "Nolimit City"
+  ],
+  "likes": 1068,
+  "comments": 413,
+  "operatingCountries": [
+    "United States",
+    "New Zealand",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=17",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wolfbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ]
+}

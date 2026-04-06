@@ -1,0 +1,28 @@
+{
+  "name": "RioBet",
+  "slug": "riobet",
+  "country": "Morocco",
+  "bonus": "50 Spins",
+  "rating": 2.6,
+  "revenueRank": 56,
+  "spins": 0,
+  "providers": [],
+  "likes": 1645,
+  "comments": 166,
+  "operatingCountries": [
+    "United States",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=haz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189"
+  ],
+  "reviewCount": 5
+}

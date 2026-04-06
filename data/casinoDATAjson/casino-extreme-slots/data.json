@@ -1,0 +1,30 @@
+{
+  "name": "Casino Extreme Slots",
+  "slug": "casino-extreme-slots",
+  "country": "Norway",
+  "bonus": "Reload Bonus 150% up to $100",
+  "rating": 5,
+  "revenueRank": 27,
+  "spins": 270,
+  "providers": [
+    "Visionary iGaming",
+    "Real Time Gaming",
+    "NextGen"
+  ],
+  "likes": 892,
+  "comments": 71,
+  "operatingCountries": [
+    "South Africa",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-extreme-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

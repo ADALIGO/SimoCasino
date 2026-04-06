@@ -1,0 +1,37 @@
+{
+  "name": "MyStake Slots",
+  "slug": "mystake-slots",
+  "country": "Switzerland",
+  "bonus": "125% Bonus up to $100",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 447,
+  "providers": [
+    "Relax Gaming",
+    "Playtech",
+    "NextGen",
+    "EGT",
+    "Quickspin",
+    "Nolimit City",
+    "Amatic Industries",
+    "Pragmatic Play"
+  ],
+  "likes": 964,
+  "comments": 109,
+  "operatingCountries": [
+    "Australia",
+    "Sweden",
+    "Spain",
+    "Ireland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mystake-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106"
+  ]
+}

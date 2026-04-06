@@ -1,0 +1,29 @@
+{
+  "name": "Forvetbet Slots",
+  "slug": "forvetbet-slots",
+  "country": "Poland",
+  "bonus": "100% Bonus up to $300",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 266,
+  "providers": [
+    "Pragmatic Play",
+    "Yggdrasil"
+  ],
+  "likes": 406,
+  "comments": 460,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=forvetbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ]
+}

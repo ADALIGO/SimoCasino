@@ -1,0 +1,27 @@
+{
+  "name": "TikTok Online",
+  "slug": "tiktok-online",
+  "country": "Italy",
+  "bonus": "100% Bonus up to $1000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 486,
+  "providers": [
+    "Real Time Gaming"
+  ],
+  "likes": 1744,
+  "comments": 441,
+  "operatingCountries": [
+    "Denmark",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=130",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tiktok-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

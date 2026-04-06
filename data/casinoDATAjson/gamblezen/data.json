@@ -1,0 +1,181 @@
+{
+  "name": "Gamblezen ",
+  "slug": "Gamblezen ",
+  "country": "Curacao",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 4,
+  "revenueRank": 937,
+  "spins": 6722,
+  "providers": [],
+  "likes": 5421,
+  "comments": 191,
+  "operatingCountries": [
+    "Morocco",
+    "United Kingdom",
+    "Germany",
+    "Italy",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-27T03:45:00.000000+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=308",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=308",
+    "https://picsum.photos/380/260?random=309",
+    "https://picsum.photos/380/260?random=310",
+    "https://picsum.photos/380/260?random=311"
+  ],
+  "vipProgram": {
+    "tiers": [
+      "Copper",
+      "Bronze",
+      "Silver",
+      "Gold",
+      "Ruby",
+      "Sapphire",
+      "Diamond",
+      "Exclusive"
+    ],
+    "pointsRequired": [
+      300000,
+      1000000,
+      2000000,
+      5000000,
+      15000000,
+      25000000,
+      75000000
+    ],
+    "cashback": "Wager-free, % varies by tier"
+  },
+  "cryptoSupport": [
+    "BTC",
+    "ETH",
+    "ADA",
+    "LTC",
+    "DOGE",
+    "TRX",
+    "USDT",
+    "USDC",
+    "XRP"
+  ],
+  "liveCasino": true,
+  "games": {
+    "slots": [
+      "Starburst",
+      "Legends of the Colosseum Megaways",
+      "Book of Dead",
+      "Book of Ra Deluxe",
+      "Twin Wins Mystery",
+      "Wild Buffalo Cluster Wins",
+      "Midway Money",
+      "Cleopatra’s Diamonds"
+    ],
+    "tableGames": [
+      "Blackjack",
+      "Baccarat",
+      "Roulette",
+      "Three Card Poker",
+      "Sic Bo",
+      "Pai Gow",
+      "Caribbean Stud"
+    ],
+    "videoPoker": [
+      "Jacks or Better",
+      "Double Double Bonus Poker",
+      "All American",
+      "Deuces Wild",
+      "Joker Poker"
+    ],
+    "liveGames": [
+      "Blackjack Platinum VIP",
+      "Immersive Roulette",
+      "Royal Poker",
+      "Speed Cricket Baccarat",
+      "Dragon Tiger",
+      "Las Vegas Blackjack",
+      "Casino Hold’em",
+      "Ultimate Texas Hold’em"
+    ]
+  },
+  "banking": {
+    "minDeposit": 1,
+    "minWithdrawal": 1.5,
+    "cashoutLimit": "No limit",
+    "depositMethods": [
+      "Visa",
+      "MasterCard",
+      "Skrill",
+      "Neteller",
+      "AstroPay",
+      "Bitcoin",
+      "Binance",
+      "Boleto Bancario",
+      "PayPal"
+    ],
+    "withdrawalTimes": {
+      "eWallets": "15 minutes",
+      "CreditDebit": "up to 7 business days",
+      "BTC": "instant",
+      "KYCVerification": "up to 72 hours"
+    }
+  },
+  "certifications": [
+    "Affiliate Guard Dog Certified",
+    "LCB Tested"
+  ],
+  "languages": [
+    "Arabic",
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Russian",
+    "Turkish",
+    "Czech",
+    "Danish"
+  ],
+  "customerSupport": {
+    "liveChat": true,
+    "email": [
+      "info-en@1xbet-team.com",
+      "accounting@1xbet-team.com"
+    ],
+    "phone": "+44 127 325-69-87",
+    "hours": "24/7"
+  },
+  "reviews": [
+    {
+      "username": "ickovci",
+      "country": "Bulgaria",
+      "level": "Newbie",
+      "rating": 2.6,
+      "comment": "No longer available for my country, however there are tons of 1xbet clones offering same betting markets and games."
+    },
+    {
+      "username": "shift",
+      "country": "Egypt",
+      "level": "Sr. Newbie",
+      "rating": 4.3,
+      "comment": "Very fast, lots of variety of games, trusted platform, favorite after Melbet."
+    },
+    {
+      "username": "Lars M.",
+      "country": "Australia",
+      "level": "Sr. Newbie",
+      "rating": 4.5,
+      "comment": "My favourite online casino to play at, good banking methods, instant payouts."
+    }
+  ],
+  "social": {
+    "forumThreads": [
+      "US Players NOT Allowed",
+      "1XBET Casino Support and Complaints",
+      "1XBET Casino Tournaments"
+    ],
+    "followers": 15234
+  },
+  "reviewCount": 5
+}

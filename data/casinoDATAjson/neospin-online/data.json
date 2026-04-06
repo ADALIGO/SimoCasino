@@ -1,0 +1,32 @@
+{
+  "name": "neospin Online",
+  "slug": "neospin-online",
+  "country": "United States",
+  "bonus": "50% Bonus up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Thunderkick",
+    "IGT"
+  ],
+  "likes": 1602,
+  "comments": 306,
+  "operatingCountries": [
+    "Finland",
+    "Switzerland",
+    "Germany",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=neospin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

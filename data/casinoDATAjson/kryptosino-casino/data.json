@@ -1,0 +1,29 @@
+{
+  "name": "Kryptosino Casino",
+  "slug": "kryptosino-casino",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 100% up to $1000 + 150 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 211,
+  "providers": [
+    "Saucify",
+    "NetEnt"
+  ],
+  "likes": 191,
+  "comments": 362,
+  "operatingCountries": [
+    "Denmark",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kryptosino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ]
+}

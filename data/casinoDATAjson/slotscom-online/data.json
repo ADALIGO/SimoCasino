@@ -1,0 +1,33 @@
+{
+  "name": "Slots.com Online",
+  "slug": "slotscom-online",
+  "country": "Poland",
+  "bonus": "Reload Bonus 125% up to $500",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 485,
+  "providers": [
+    "Real Time Gaming",
+    "Konami",
+    "Iron Dog Studio",
+    "NextGen"
+  ],
+  "likes": 906,
+  "comments": 368,
+  "operatingCountries": [
+    "Czech Republic",
+    "United Kingdom",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=180",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotscom-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

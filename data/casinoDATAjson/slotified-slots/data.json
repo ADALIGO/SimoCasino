@@ -1,0 +1,37 @@
+{
+  "name": "Slotified Slots",
+  "slug": "slotified-slots",
+  "country": "Switzerland",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 365,
+  "providers": [
+    "Thunderkick",
+    "Nolimit City",
+    "1x2gaming",
+    "Saucify",
+    "Big Time Gaming",
+    "Habanero Systems",
+    "Gamomat"
+  ],
+  "likes": 226,
+  "comments": 403,
+  "operatingCountries": [
+    "Netherlands",
+    "France",
+    "United States",
+    "Sweden",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=113",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotified-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116"
+  ]
+}

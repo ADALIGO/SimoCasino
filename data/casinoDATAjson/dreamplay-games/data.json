@@ -1,0 +1,34 @@
+{
+  "name": "Dreamplay Games",
+  "slug": "dreamplay-games",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 262,
+  "providers": [
+    "Push Gaming",
+    "Habanero Systems",
+    "Playtech",
+    "Quickspin",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1772,
+  "comments": 132,
+  "operatingCountries": [
+    "Sweden",
+    "Morocco",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dreamplay-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

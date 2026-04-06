@@ -1,0 +1,31 @@
+{
+  "name": "1bet100.com Slots",
+  "slug": "1bet100com-slots",
+  "country": "Australia",
+  "bonus": "Deposit Bonus 200% up to $500",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Spinlogic Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 1321,
+  "comments": 133,
+  "operatingCountries": [
+    "South Africa",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1bet100com-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

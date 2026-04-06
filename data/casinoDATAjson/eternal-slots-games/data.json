@@ -1,0 +1,34 @@
+{
+  "name": "Eternal Slots Games",
+  "slug": "eternal-slots-games",
+  "country": "Morocco",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 25,
+  "providers": [
+    "Arrows Edge",
+    "Konami",
+    "NetEnt",
+    "Blueprint Gaming",
+    "BetSoft",
+    "Microgaming",
+    "Gamomat",
+    "NextGen"
+  ],
+  "likes": 309,
+  "comments": 496,
+  "operatingCountries": [
+    "South Africa",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eternal-slots-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

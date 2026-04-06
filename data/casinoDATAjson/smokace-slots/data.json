@@ -1,0 +1,32 @@
+{
+  "name": "SmokAce Slots",
+  "slug": "smokace-slots",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 50% up to $200",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Yggdrasil"
+  ],
+  "likes": 1412,
+  "comments": 495,
+  "operatingCountries": [
+    "Sweden",
+    "United Kingdom",
+    "Italy",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=smokace-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

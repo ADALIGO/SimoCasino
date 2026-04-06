@@ -1,0 +1,32 @@
+{
+  "name": "KnightSlots Slots",
+  "slug": "knightslots-slots",
+  "country": "Czech Republic",
+  "bonus": "Deposit Bonus 100% up to $50",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 281,
+  "providers": [
+    "Amatic Industries",
+    "Nolimit City",
+    "Genesis Gaming",
+    "Playtech",
+    "Push Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1799,
+  "comments": 60,
+  "operatingCountries": [
+    "Australia",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=106",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=knightslots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

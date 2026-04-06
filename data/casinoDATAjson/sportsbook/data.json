@@ -1,0 +1,31 @@
+{
+  "name": "Sportsbook",
+  "slug": "sportsbook",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.7,
+  "revenueRank": 63,
+  "spins": 7,
+  "providers": [],
+  "likes": 1568,
+  "comments": 463,
+  "operatingCountries": [
+    "New Zealand",
+    "Norway",
+    "Belgium",
+    "Finland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24casino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ],
+  "reviewCount": 5
+}

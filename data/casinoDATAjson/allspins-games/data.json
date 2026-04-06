@@ -1,0 +1,34 @@
+{
+  "name": "AllSpins Games",
+  "slug": "allspins-games",
+  "country": "Ireland",
+  "bonus": "Cashback up to 150%",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 497,
+  "providers": [
+    "Push Gaming",
+    "Gamomat",
+    "Nolimit City",
+    "EGT",
+    "Pragmatic Play",
+    "IGT",
+    "Visionary iGaming"
+  ],
+  "likes": 338,
+  "comments": 489,
+  "operatingCountries": [
+    "Australia",
+    "Morocco",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=allspins-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

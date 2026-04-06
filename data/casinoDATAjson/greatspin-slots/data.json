@@ -1,0 +1,31 @@
+{
+  "name": "GreatSpin Slots",
+  "slug": "greatspin-slots",
+  "country": "Sweden",
+  "bonus": "100% Bonus up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "Visionary iGaming"
+  ],
+  "likes": 792,
+  "comments": 19,
+  "operatingCountries": [
+    "United States",
+    "Denmark",
+    "New Zealand",
+    "Austria",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=93",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=greatspin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95"
+  ]
+}

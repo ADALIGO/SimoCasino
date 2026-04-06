@@ -1,0 +1,39 @@
+{
+  "name": "Cocoa Slots",
+  "slug": "cocoa-slots",
+  "country": "United Kingdom",
+  "bonus": "250% Bonus up to $200",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 107,
+  "providers": [
+    "Wager Gaming",
+    "Habanero Systems",
+    "Greentube",
+    "Thunderkick",
+    "Novomatic",
+    "Red Tiger",
+    "1x2gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 1709,
+  "comments": 443,
+  "operatingCountries": [
+    "Norway",
+    "Finland",
+    "Denmark",
+    "Morocco",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cocoa-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91"
+  ]
+}

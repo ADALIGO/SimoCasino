@@ -1,0 +1,30 @@
+{
+  "name": "Fonbet Slots",
+  "slug": "fonbet-slots",
+  "country": "Switzerland",
+  "bonus": "Reload Bonus 300% up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 344,
+  "providers": [
+    "Amatic Industries",
+    "Genesis Gaming"
+  ],
+  "likes": 581,
+  "comments": 159,
+  "operatingCountries": [
+    "Canada",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fonbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Bet It All Slots",
+  "slug": "bet-it-all-slots",
+  "country": "Finland",
+  "bonus": "Deposit Bonus 300% up to $300",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 110,
+  "providers": [
+    "BetSoft",
+    "Amatic Industries",
+    "Playtech",
+    "Spinlogic Gaming",
+    "Aristocrat",
+    "Evolution Gaming",
+    "ELK Studios",
+    "EGT"
+  ],
+  "likes": 606,
+  "comments": 206,
+  "operatingCountries": [
+    "United States",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=61",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bet-it-all-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63"
+  ]
+}

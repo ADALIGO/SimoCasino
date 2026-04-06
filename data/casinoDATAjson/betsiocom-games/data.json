@@ -1,0 +1,31 @@
+{
+  "name": "Betsio.com Games",
+  "slug": "betsiocom-games",
+  "country": "Sweden",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 248,
+  "providers": [
+    "Real Time Gaming",
+    "Playtech",
+    "NextGen",
+    "Rival"
+  ],
+  "likes": 1000,
+  "comments": 297,
+  "operatingCountries": [
+    "Morocco",
+    "Ireland",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=152",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsiocom-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154"
+  ]
+}

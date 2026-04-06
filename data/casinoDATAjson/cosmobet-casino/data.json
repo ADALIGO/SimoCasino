@@ -1,0 +1,29 @@
+{
+  "name": "Cosmobet Casino",
+  "slug": "cosmobet-casino",
+  "country": "New Zealand",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 494,
+  "providers": [
+    "Ash Gaming",
+    "BetSoft",
+    "Iron Dog Studio"
+  ],
+  "likes": 156,
+  "comments": 94,
+  "operatingCountries": [
+    "Germany",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cosmobet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

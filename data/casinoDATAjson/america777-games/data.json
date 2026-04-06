@@ -1,0 +1,32 @@
+{
+  "name": "America777 Games",
+  "slug": "america777-games",
+  "country": "South Africa",
+  "bonus": "Deposit Bonus 100% up to $100",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Aristocrat",
+    "IGT"
+  ],
+  "likes": 620,
+  "comments": 218,
+  "operatingCountries": [
+    "Canada",
+    "Ireland",
+    "Australia",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=113",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=america777-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116"
+  ]
+}

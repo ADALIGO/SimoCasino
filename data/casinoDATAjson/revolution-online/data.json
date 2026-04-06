@@ -1,0 +1,33 @@
+{
+  "name": "Revolution Online",
+  "slug": "revolution-online",
+  "country": "Canada",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 344,
+  "providers": [
+    "Microgaming",
+    "NextGen",
+    "Blueprint Gaming",
+    "Habanero Systems"
+  ],
+  "likes": 268,
+  "comments": 313,
+  "operatingCountries": [
+    "Germany",
+    "Spain",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=revolution-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49"
+  ]
+}

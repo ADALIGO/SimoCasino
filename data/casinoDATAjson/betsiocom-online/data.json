@@ -1,0 +1,34 @@
+{
+  "name": "Betsio.com Online",
+  "slug": "betsiocom-online",
+  "country": "France",
+  "bonus": "VIP Bonus 125% up to $500",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 334,
+  "providers": [
+    "Gamomat",
+    "Iron Dog Studio",
+    "Habanero Systems",
+    "Red Tiger",
+    "Aristocrat",
+    "Genesis Gaming",
+    "Blueprint Gaming",
+    "ELK Studios"
+  ],
+  "likes": 191,
+  "comments": 308,
+  "operatingCountries": [
+    "Italy",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsiocom-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

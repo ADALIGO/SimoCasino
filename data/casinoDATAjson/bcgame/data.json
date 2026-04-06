@@ -1,0 +1,26 @@
+{
+  "name": "BC.Game",
+  "slug": "bcgame",
+  "country": "Morocco",
+  "bonus": "120% up to $1000 + 100 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 497,
+  "providers": [],
+  "likes": 1671,
+  "comments": 378,
+  "operatingCountries": [
+    "Czech Republic",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=placebetio",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ],
+  "reviewCount": 5
+}

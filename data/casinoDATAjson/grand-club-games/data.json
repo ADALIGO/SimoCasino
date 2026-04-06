@@ -1,0 +1,33 @@
+{
+  "name": "Grand Club Games",
+  "slug": "grand-club-games",
+  "country": "Norway",
+  "bonus": "Deposit Bonus 50% up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 11,
+  "providers": [
+    "NextGen",
+    "Gamomat",
+    "Ash Gaming",
+    "Real Time Gaming",
+    "Rival"
+  ],
+  "likes": 1385,
+  "comments": 46,
+  "operatingCountries": [
+    "Canada",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grand-club-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "BetliveCasino Online",
+  "slug": "betlivecasino-online",
+  "country": "Spain",
+  "bonus": "Reload Bonus 200% up to $200",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 81,
+  "providers": [
+    "BetSoft"
+  ],
+  "likes": 1514,
+  "comments": 33,
+  "operatingCountries": [
+    "Finland",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betlivecasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138"
+  ]
+}

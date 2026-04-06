@@ -1,0 +1,37 @@
+{
+  "name": "Casino Brango Games",
+  "slug": "casino-brango-games",
+  "country": "Germany",
+  "bonus": "Reload Bonus 125% up to $500",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 281,
+  "providers": [
+    "Ash Gaming",
+    "ELK Studios",
+    "Aristocrat",
+    "Amatic Industries",
+    "Yggdrasil",
+    "Konami",
+    "Pragmatic Play"
+  ],
+  "likes": 936,
+  "comments": 498,
+  "operatingCountries": [
+    "Ireland",
+    "Austria",
+    "Netherlands",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=183",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-brango-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ]
+}

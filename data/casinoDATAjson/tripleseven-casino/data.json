@@ -1,0 +1,36 @@
+{
+  "name": "TripleSeven Casino",
+  "slug": "tripleseven-casino",
+  "country": "Sweden",
+  "bonus": "Deposit Bonus 200% up to $1000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 439,
+  "providers": [
+    "Evolution Gaming",
+    "Real Time Gaming",
+    "Ash Gaming",
+    "1x2gaming",
+    "Gamomat",
+    "EGT",
+    "Rival",
+    "WMS"
+  ],
+  "likes": 532,
+  "comments": 160,
+  "operatingCountries": [
+    "Spain",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tripleseven-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133"
+  ]
+}

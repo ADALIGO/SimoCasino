@@ -1,0 +1,34 @@
+{
+  "name": "White Lotus Online",
+  "slug": "white-lotus-online",
+  "country": "Belgium",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 458,
+  "providers": [
+    "1x2gaming",
+    "Push Gaming",
+    "Saucify",
+    "Habanero Systems",
+    "Yggdrasil"
+  ],
+  "likes": 1401,
+  "comments": 25,
+  "operatingCountries": [
+    "Norway",
+    "Austria",
+    "Finland",
+    "Denmark",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=23",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=white-lotus-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Megapari Slots",
+  "slug": "megapari-slots",
+  "country": "Ireland",
+  "bonus": "Reload Bonus 125% up to $2000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 359,
+  "providers": [
+    "Ash Gaming",
+    "Amatic Industries",
+    "EGT"
+  ],
+  "likes": 1686,
+  "comments": 389,
+  "operatingCountries": [
+    "Belgium",
+    "New Zealand",
+    "United Kingdom",
+    "Portugal",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=170",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=megapari-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

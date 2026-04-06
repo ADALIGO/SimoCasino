@@ -1,0 +1,35 @@
+{
+  "name": "Hyper Games",
+  "slug": "hyper-games",
+  "country": "Sweden",
+  "bonus": "Welcome Bonus 100% up to $200",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 44,
+  "providers": [
+    "Genesis Gaming",
+    "Konami",
+    "Relax Gaming",
+    "Novomatic",
+    "Pragmatic Play",
+    "IGT"
+  ],
+  "likes": 858,
+  "comments": 272,
+  "operatingCountries": [
+    "Finland",
+    "United Kingdom",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hyper-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

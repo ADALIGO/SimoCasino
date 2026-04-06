@@ -1,0 +1,27 @@
+{
+  "name": "Stupid",
+  "slug": "stupid",
+  "country": "Morocco",
+  "bonus": "15 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 364,
+  "providers": [],
+  "likes": 1196,
+  "comments": 298,
+  "operatingCountries": [
+    "Norway",
+    "Poland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wills",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106"
+  ],
+  "reviewCount": 5
+}

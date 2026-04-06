@@ -1,0 +1,36 @@
+{
+  "name": "BetterWin Casino",
+  "slug": "betterwin-casino",
+  "country": "France",
+  "bonus": "VIP Bonus 50% up to $100",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 272,
+  "providers": [
+    "Gamomat",
+    "Evolution Gaming",
+    "Rival",
+    "Thunderkick",
+    "Relax Gaming",
+    "BetSoft"
+  ],
+  "likes": 1357,
+  "comments": 80,
+  "operatingCountries": [
+    "United States",
+    "Ireland",
+    "Finland",
+    "Germany",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betterwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

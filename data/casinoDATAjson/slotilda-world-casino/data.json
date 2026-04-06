@@ -1,0 +1,31 @@
+{
+  "name": "Slotilda World Casino",
+  "slug": "slotilda-world-casino",
+  "country": "Norway",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 466,
+  "providers": [
+    "Konami",
+    "Gamomat"
+  ],
+  "likes": 70,
+  "comments": 292,
+  "operatingCountries": [
+    "Czech Republic",
+    "United Kingdom",
+    "Poland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=165",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotilda-world-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168"
+  ]
+}

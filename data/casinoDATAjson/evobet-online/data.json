@@ -1,0 +1,33 @@
+{
+  "name": "EvoBet Online",
+  "slug": "evobet-online",
+  "country": "New Zealand",
+  "bonus": "First Deposit 300% up to $100 + 300 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 170,
+  "providers": [
+    "Big Time Gaming",
+    "Saucify",
+    "Konami",
+    "Real Time Gaming",
+    "Playtech"
+  ],
+  "likes": 1735,
+  "comments": 497,
+  "operatingCountries": [
+    "Czech Republic",
+    "United Kingdom",
+    "Spain",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=evobet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ]
+}

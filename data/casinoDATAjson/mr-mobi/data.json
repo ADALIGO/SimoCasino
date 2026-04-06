@@ -1,0 +1,26 @@
+{
+  "name": "Mr Mobi",
+  "slug": "mr-mobi",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1425,
+  "comments": 328,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=109",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=del-oro",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112"
+  ],
+  "reviewCount": 5
+}

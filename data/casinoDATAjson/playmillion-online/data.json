@@ -1,0 +1,32 @@
+{
+  "name": "PlayMillion Online",
+  "slug": "playmillion-online",
+  "country": "Morocco",
+  "bonus": "Welcome Bonus 125% up to $50",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 118,
+  "providers": [
+    "WMS",
+    "IGT",
+    "NextGen",
+    "1x2gaming",
+    "Relax Gaming",
+    "Microgaming"
+  ],
+  "likes": 622,
+  "comments": 376,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playmillion-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

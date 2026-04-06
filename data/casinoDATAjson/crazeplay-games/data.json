@@ -1,0 +1,36 @@
+{
+  "name": "CrazePlay Games",
+  "slug": "crazeplay-games",
+  "country": "United Kingdom",
+  "bonus": "Deposit Bonus 250% up to $1000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Microgaming",
+    "Visionary iGaming",
+    "Push Gaming",
+    "Aristocrat",
+    "Merkur",
+    "Thunderkick",
+    "Amatic Industries",
+    "NetEnt"
+  ],
+  "likes": 1560,
+  "comments": 500,
+  "operatingCountries": [
+    "Sweden",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crazeplay-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

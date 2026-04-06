@@ -1,0 +1,30 @@
+{
+  "name": "Primaplay Online",
+  "slug": "primaplay-online",
+  "country": "Denmark",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 124,
+  "providers": [
+    "NextGen"
+  ],
+  "likes": 683,
+  "comments": 229,
+  "operatingCountries": [
+    "Czech Republic",
+    "Belgium",
+    "Norway",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=92",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=primaplay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95"
+  ]
+}

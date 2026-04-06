@@ -1,0 +1,38 @@
+{
+  "name": "MrO Slots",
+  "slug": "mro-slots",
+  "country": "South Africa",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 339,
+  "providers": [
+    "1x2gaming",
+    "Wager Gaming",
+    "ELK Studios",
+    "Pragmatic Play",
+    "NetEnt",
+    "Amatic Industries",
+    "Iron Dog Studio",
+    "Thunderkick"
+  ],
+  "likes": 422,
+  "comments": 6,
+  "operatingCountries": [
+    "Denmark",
+    "Austria",
+    "Czech Republic",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mro-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Rocketpot Slots",
+  "slug": "rocketpot-slots",
+  "country": "Poland",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 72,
+  "providers": [
+    "NextGen",
+    "Arrows Edge"
+  ],
+  "likes": 618,
+  "comments": 196,
+  "operatingCountries": [
+    "United States",
+    "Netherlands",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rocketpot-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "MyStake Online",
+  "slug": "mystake-online",
+  "country": "France",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Aristocrat",
+    "Red Tiger",
+    "Amatic Industries",
+    "NextGen",
+    "Rival",
+    "Playtech"
+  ],
+  "likes": 701,
+  "comments": 453,
+  "operatingCountries": [
+    "Germany",
+    "Czech Republic",
+    "Belgium",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=105",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mystake-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

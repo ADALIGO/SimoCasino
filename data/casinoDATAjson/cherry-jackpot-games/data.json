@@ -1,0 +1,33 @@
+{
+  "name": "Cherry Jackpot Games",
+  "slug": "cherry-jackpot-games",
+  "country": "Norway",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 409,
+  "providers": [
+    "Merkur",
+    "Microgaming",
+    "NextGen",
+    "Yggdrasil",
+    "Amatic Industries",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1502,
+  "comments": 332,
+  "operatingCountries": [
+    "Austria",
+    "Belgium",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=36",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cherry-jackpot-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38"
+  ]
+}

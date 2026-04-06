@@ -1,0 +1,30 @@
+{
+  "name": "BetterWin",
+  "slug": "betterwin",
+  "country": "Morocco",
+  "bonus": "100% up to $100 + 20 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1098,
+  "comments": 169,
+  "operatingCountries": [
+    "Austria",
+    "France",
+    "Italy",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=76",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bacanaplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Free Spin Casino",
+  "slug": "free-spin-casino",
+  "country": "Finland",
+  "bonus": "Cashback up to 250%",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 389,
+  "providers": [
+    "Nolimit City",
+    "Gamomat",
+    "Real Time Gaming"
+  ],
+  "likes": 1630,
+  "comments": 440,
+  "operatingCountries": [
+    "Poland",
+    "Netherlands",
+    "Norway",
+    "United Kingdom",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=free-spin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

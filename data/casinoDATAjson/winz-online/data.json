@@ -1,0 +1,35 @@
+{
+  "name": "Winz Online",
+  "slug": "winz-online",
+  "country": "Switzerland",
+  "bonus": "First Deposit 100% up to $50 + 300 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Greentube",
+    "EGT",
+    "Konami",
+    "Iron Dog Studio"
+  ],
+  "likes": 1115,
+  "comments": 366,
+  "operatingCountries": [
+    "United States",
+    "Germany",
+    "Finland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159"
+  ]
+}

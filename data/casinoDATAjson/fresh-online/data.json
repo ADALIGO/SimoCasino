@@ -1,0 +1,33 @@
+{
+  "name": "Fresh Online",
+  "slug": "fresh-online",
+  "country": "South Africa",
+  "bonus": "300% Bonus up to $50",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Konami",
+    "Evolution Gaming",
+    "Arrows Edge",
+    "Pragmatic Play",
+    "Relax Gaming"
+  ],
+  "likes": 695,
+  "comments": 19,
+  "operatingCountries": [
+    "Netherlands",
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=192",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fresh-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Playfast Online",
+  "slug": "playfast-online",
+  "country": "Canada",
+  "bonus": "Reload Bonus 125% up to $200",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 347,
+  "providers": [
+    "Ash Gaming",
+    "IGT",
+    "Real Time Gaming",
+    "Saucify",
+    "WMS",
+    "EGT"
+  ],
+  "likes": 1821,
+  "comments": 110,
+  "operatingCountries": [
+    "Canada",
+    "United Kingdom",
+    "Poland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=56",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playfast-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ]
+}

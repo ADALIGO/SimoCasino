@@ -1,0 +1,38 @@
+.layout-wrapper {
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+  min-height: 100vh;
+  background: var(--page-background, transparent);
+}
+
+.main-content {
+  display: flex;
+  flex: 1;
+  transition: margin-left 0.3s ease;
+
+
+  &.sidebar-open {
+    margin-left: 22.1rem; // Match sidebar width on desktop
+  }
+
+  &.right-sidebar-open {
+    margin-right: 22.1rem;
+  }
+
+  &.sidebar-hidden {
+    margin-left: 0;
+  }
+
+  // On mobile, don't add margin since sidebar overlays
+  @media (max-width: 768px) {
+    &.sidebar-open {
+      margin-left: 0;
+    }
+
+    &.right-sidebar-open {
+      margin-right: 0;
+    }
+  }
+}

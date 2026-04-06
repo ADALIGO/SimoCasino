@@ -1,0 +1,26 @@
+{
+  "name": "Wcasino Online",
+  "slug": "wcasino-online",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.5,
+  "revenueRank": 71,
+  "spins": 0,
+  "providers": [],
+  "likes": 1706,
+  "comments": 226,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hercules",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ],
+  "reviewCount": 5
+}

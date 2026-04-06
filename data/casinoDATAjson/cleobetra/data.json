@@ -1,0 +1,28 @@
+{
+  "name": "Cleobetra",
+  "slug": "cleobetra",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 137,
+  "providers": [],
+  "likes": 373,
+  "comments": 1,
+  "operatingCountries": [
+    "Spain",
+    "Poland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dachbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ],
+  "reviewCount": 5
+}

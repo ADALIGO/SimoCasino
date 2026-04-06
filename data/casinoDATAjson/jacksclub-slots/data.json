@@ -1,0 +1,28 @@
+{
+  "name": "JacksClub Slots",
+  "slug": "jacksclub-slots",
+  "country": "Poland",
+  "bonus": "100% Bonus up to $2000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 10,
+  "providers": [
+    "NextGen"
+  ],
+  "likes": 633,
+  "comments": 420,
+  "operatingCountries": [
+    "Australia",
+    "Portugal",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jacksclub-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ]
+}

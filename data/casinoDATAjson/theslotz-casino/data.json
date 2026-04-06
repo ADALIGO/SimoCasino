@@ -1,0 +1,34 @@
+{
+  "name": "TheSlotz Casino",
+  "slug": "theslotz-casino",
+  "country": "Netherlands",
+  "bonus": "Deposit Bonus 250% up to $100",
+  "rating": 3.8,
+  "revenueRank": 57,
+  "spins": 494,
+  "providers": [
+    "Merkur",
+    "Evolution Gaming",
+    "Spinlogic Gaming",
+    "Relax Gaming",
+    "Quickspin",
+    "Visionary iGaming",
+    "Yggdrasil"
+  ],
+  "likes": 1341,
+  "comments": 421,
+  "operatingCountries": [
+    "Czech Republic",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=17",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=theslotz-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20"
+  ]
+}

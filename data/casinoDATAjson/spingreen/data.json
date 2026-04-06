@@ -1,0 +1,33 @@
+{
+  "name": "SpinGreen",
+  "slug": "spingreen",
+  "country": "Germany",
+  "bonus": "Deposit Bonus 150% up to $500",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 332,
+  "providers": [
+    "Big Time Gaming",
+    "EGT",
+    "Push Gaming",
+    "Visionary iGaming",
+    "Wager Gaming"
+  ],
+  "likes": 90,
+  "comments": 133,
+  "operatingCountries": [
+    "United States",
+    "Spain",
+    "Canada",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=113",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=detective-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115"
+  ]
+}

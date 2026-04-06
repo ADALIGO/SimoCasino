@@ -1,0 +1,33 @@
+{
+  "name": "Voltslot Online",
+  "slug": "voltslot-online",
+  "country": "Canada",
+  "bonus": "VIP Bonus 300% up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 49,
+  "providers": [
+    "Saucify",
+    "Quickspin",
+    "Big Time Gaming"
+  ],
+  "likes": 1477,
+  "comments": 243,
+  "operatingCountries": [
+    "Ireland",
+    "Germany",
+    "Morocco",
+    "Poland",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=voltslot-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179"
+  ]
+}

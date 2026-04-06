@@ -1,0 +1,36 @@
+{
+  "name": "BB Online",
+  "slug": "bb-online",
+  "country": "Finland",
+  "bonus": "Deposit Bonus 250% up to $200",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 79,
+  "providers": [
+    "IGT",
+    "Big Time Gaming",
+    "Arrows Edge",
+    "Visionary iGaming",
+    "Evolution Gaming",
+    "Push Gaming",
+    "Wager Gaming",
+    "Red Tiger"
+  ],
+  "likes": 1082,
+  "comments": 400,
+  "operatingCountries": [
+    "United Kingdom",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bb-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "All Slots Games",
+  "slug": "all-slots-games",
+  "country": "Ireland",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 438,
+  "providers": [
+    "Evolution Gaming",
+    "1x2gaming",
+    "Thunderkick",
+    "Yggdrasil",
+    "Quickspin",
+    "Arrows Edge",
+    "IGT"
+  ],
+  "likes": 1781,
+  "comments": 218,
+  "operatingCountries": [
+    "Czech Republic",
+    "Finland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=36",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=all-slots-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ]
+}

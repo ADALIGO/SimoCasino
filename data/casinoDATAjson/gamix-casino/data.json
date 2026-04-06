@@ -1,0 +1,31 @@
+{
+  "name": "Gamix Casino",
+  "slug": "gamix-casino",
+  "country": "Poland",
+  "bonus": "125% Bonus up to $2000",
+  "rating": 4.4,
+  "revenueRank": 53,
+  "spins": 173,
+  "providers": [
+    "Playtech",
+    "Habanero Systems",
+    "EGT"
+  ],
+  "likes": 972,
+  "comments": 283,
+  "operatingCountries": [
+    "Finland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gamix-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Galaxy.bet Casino",
+  "slug": "galaxybet-casino",
+  "country": "Italy",
+  "bonus": "VIP Bonus 200% up to $2000",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Saucify",
+    "Wager Gaming",
+    "Blueprint Gaming",
+    "Big Time Gaming"
+  ],
+  "likes": 795,
+  "comments": 152,
+  "operatingCountries": [
+    "Switzerland",
+    "France",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=galaxybet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ]
+}

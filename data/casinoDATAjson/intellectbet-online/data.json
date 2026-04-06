@@ -1,0 +1,30 @@
+{
+  "name": "IntellectBet Online",
+  "slug": "intellectbet-online",
+  "country": "Spain",
+  "bonus": "Deposit Bonus 150% up to $500",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 325,
+  "providers": [
+    "Gamomat"
+  ],
+  "likes": 1106,
+  "comments": 32,
+  "operatingCountries": [
+    "Czech Republic",
+    "South Africa",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=intellectbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

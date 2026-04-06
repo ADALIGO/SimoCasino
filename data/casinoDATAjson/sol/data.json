@@ -1,0 +1,29 @@
+{
+  "name": "Sol",
+  "slug": "sol",
+  "country": "Morocco",
+  "bonus": "50% up to €300",
+  "rating": 3.7,
+  "revenueRank": 44,
+  "spins": 251,
+  "providers": [],
+  "likes": 1029,
+  "comments": 302,
+  "operatingCountries": [
+    "Netherlands",
+    "Finland",
+    "Denmark",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=herospin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ],
+  "reviewCount": 5
+}

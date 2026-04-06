@@ -1,0 +1,35 @@
+{
+  "name": "Housebets Casino",
+  "slug": "housebets-casino",
+  "country": "Poland",
+  "bonus": "125% Bonus up to $100",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 461,
+  "providers": [
+    "Evolution Gaming",
+    "Nolimit City",
+    "Konami",
+    "1x2gaming",
+    "IGT",
+    "Novomatic",
+    "Habanero Systems",
+    "Quickspin"
+  ],
+  "likes": 411,
+  "comments": 56,
+  "operatingCountries": [
+    "Finland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=housebets-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169"
+  ]
+}

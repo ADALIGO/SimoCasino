@@ -1,0 +1,27 @@
+{
+  "name": "Slots Empire",
+  "slug": "slots-empire",
+  "country": "Morocco",
+  "bonus": "$40",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1794,
+  "comments": 82,
+  "operatingCountries": [
+    "Denmark",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=anarchy",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Sushi",
+  "slug": "sushi",
+  "country": "Morocco",
+  "bonus": "100% up to €1000 + 50 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 50,
+  "providers": [],
+  "likes": 310,
+  "comments": 48,
+  "operatingCountries": [
+    "Morocco",
+    "Australia",
+    "Netherlands",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckygem",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ],
+  "reviewCount": 5
+}

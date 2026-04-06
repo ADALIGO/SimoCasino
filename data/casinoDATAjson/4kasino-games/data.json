@@ -1,0 +1,29 @@
+{
+  "name": "4Kasino Games",
+  "slug": "4kasino-games",
+  "country": "New Zealand",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "Merkur"
+  ],
+  "likes": 1241,
+  "comments": 481,
+  "operatingCountries": [
+    "Switzerland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=4kasino-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ]
+}

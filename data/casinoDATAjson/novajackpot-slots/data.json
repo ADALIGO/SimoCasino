@@ -1,0 +1,32 @@
+{
+  "name": "Novajackpot Slots",
+  "slug": "novajackpot-slots",
+  "country": "Ireland",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 303,
+  "providers": [
+    "BetSoft",
+    "Playtech",
+    "ELK Studios",
+    "EGT",
+    "Ash Gaming"
+  ],
+  "likes": 1465,
+  "comments": 84,
+  "operatingCountries": [
+    "Canada",
+    "United States",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=53",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=novajackpot-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55"
+  ]
+}

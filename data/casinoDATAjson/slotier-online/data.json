@@ -1,0 +1,30 @@
+{
+  "name": "Slotier Online",
+  "slug": "slotier-online",
+  "country": "France",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4,
+  "revenueRank": 6,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Merkur",
+    "IGT"
+  ],
+  "likes": 144,
+  "comments": 172,
+  "operatingCountries": [
+    "Belgium",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotier-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154"
+  ]
+}

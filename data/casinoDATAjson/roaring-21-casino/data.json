@@ -1,0 +1,28 @@
+{
+  "name": "Roaring 21 Casino",
+  "slug": "roaring-21-casino",
+  "country": "New Zealand",
+  "bonus": "100% up to $50 + 20 Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 348,
+  "providers": [
+    "Genesis Gaming",
+    "BetSoft"
+  ],
+  "likes": 212,
+  "comments": 261,
+  "operatingCountries": [
+    "Ireland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=roaring-21-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106"
+  ]
+}

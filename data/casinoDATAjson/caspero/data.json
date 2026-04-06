@@ -1,0 +1,30 @@
+{
+  "name": "Caspero",
+  "slug": "caspero",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500 + 200 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 836,
+  "comments": 208,
+  "operatingCountries": [
+    "Morocco",
+    "Switzerland",
+    "Austria",
+    "South Africa",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=the-stake-house",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ],
+  "reviewCount": 5
+}

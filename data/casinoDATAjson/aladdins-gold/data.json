@@ -1,0 +1,27 @@
+{
+  "name": "Aladdins Gold",
+  "slug": "aladdins-gold",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.4,
+  "revenueRank": null,
+  "spins": 414,
+  "providers": [],
+  "likes": 143,
+  "comments": 345,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrpunter",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172"
+  ],
+  "reviewCount": 5
+}

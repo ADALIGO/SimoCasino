@@ -1,0 +1,29 @@
+{
+  "name": "Gamdom Slots",
+  "slug": "gamdom-slots",
+  "country": "South Africa",
+  "bonus": "Welcome Bonus 100% up to $200",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 14,
+  "providers": [
+    "Merkur",
+    "NextGen"
+  ],
+  "likes": 1506,
+  "comments": 39,
+  "operatingCountries": [
+    "Ireland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=4",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gamdom-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ]
+}

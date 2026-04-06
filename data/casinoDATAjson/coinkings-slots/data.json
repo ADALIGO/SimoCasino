@@ -1,0 +1,30 @@
+{
+  "name": "CoinKings Slots",
+  "slug": "coinkings-slots",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 39,
+  "providers": [
+    "Push Gaming",
+    "Microgaming",
+    "NextGen"
+  ],
+  "likes": 1447,
+  "comments": 27,
+  "operatingCountries": [
+    "Finland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coinkings-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

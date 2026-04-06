@@ -1,0 +1,36 @@
+{
+  "name": "Royale500 Online",
+  "slug": "royale500-online",
+  "country": "Germany",
+  "bonus": "First Deposit 125% up to $500 + 20 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 8,
+  "providers": [
+    "1x2gaming",
+    "Arrows Edge",
+    "Red Tiger",
+    "Thunderkick",
+    "Real Time Gaming",
+    "EGT",
+    "Saucify"
+  ],
+  "likes": 1340,
+  "comments": 34,
+  "operatingCountries": [
+    "Austria",
+    "Belgium",
+    "Finland",
+    "France",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royale500-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17"
+  ]
+}

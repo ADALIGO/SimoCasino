@@ -1,0 +1,29 @@
+{
+  "name": "Gate777 Slots",
+  "slug": "gate777-slots",
+  "country": "Canada",
+  "bonus": "100% Bonus up to $100",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 331,
+  "providers": [
+    "Konami"
+  ],
+  "likes": 515,
+  "comments": 290,
+  "operatingCountries": [
+    "Poland",
+    "Sweden",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gate777-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ]
+}

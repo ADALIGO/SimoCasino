@@ -1,0 +1,29 @@
+{
+  "name": "Verde",
+  "slug": "verde",
+  "country": "Morocco",
+  "bonus": "50 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 365,
+  "providers": [],
+  "likes": 1314,
+  "comments": 60,
+  "operatingCountries": [
+    "Portugal",
+    "Sweden",
+    "Norway",
+    "Germany",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xbit",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ],
+  "reviewCount": 5
+}

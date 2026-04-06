@@ -1,0 +1,30 @@
+{
+  "name": "Dragonara Online",
+  "slug": "dragonara-online",
+  "country": "Netherlands",
+  "bonus": "Deposit Bonus 250% up to $50",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Red Tiger",
+    "Real Time Gaming"
+  ],
+  "likes": 536,
+  "comments": 436,
+  "operatingCountries": [
+    "Australia",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dragonara-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ]
+}

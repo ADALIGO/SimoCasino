@@ -1,0 +1,31 @@
+{
+  "name": "Casinia Slots",
+  "slug": "casinia-slots",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 50% up to $2000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 162,
+  "providers": [
+    "Habanero Systems",
+    "Gamomat",
+    "Microgaming"
+  ],
+  "likes": 552,
+  "comments": 388,
+  "operatingCountries": [
+    "Poland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinia-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14"
+  ]
+}

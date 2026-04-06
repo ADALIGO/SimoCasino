@@ -1,0 +1,33 @@
+{
+  "name": "SpinDragons Casino",
+  "slug": "spindragons-casino",
+  "country": "Sweden",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.6,
+  "revenueRank": 31,
+  "spins": 136,
+  "providers": [
+    "NetEnt",
+    "EGT"
+  ],
+  "likes": 1236,
+  "comments": 18,
+  "operatingCountries": [
+    "Spain",
+    "Sweden",
+    "Czech Republic",
+    "Switzerland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spindragons-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163"
+  ]
+}

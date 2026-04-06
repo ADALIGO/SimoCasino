@@ -1,0 +1,37 @@
+{
+  "name": "Royal Reels Online",
+  "slug": "royal-reels-online",
+  "country": "Australia",
+  "bonus": "Deposit Bonus 250% up to $2000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 461,
+  "providers": [
+    "Wager Gaming",
+    "Gamomat",
+    "Spinlogic Gaming",
+    "Konami",
+    "Real Time Gaming",
+    "NetEnt"
+  ],
+  "likes": 856,
+  "comments": 379,
+  "operatingCountries": [
+    "Czech Republic",
+    "Belgium",
+    "Sweden",
+    "New Zealand",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-reels-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Del Oro",
+  "slug": "del-oro",
+  "country": "Morocco",
+  "bonus": "150% up to €10000",
+  "rating": 3.5,
+  "revenueRank": 31,
+  "spins": 243,
+  "providers": [],
+  "likes": 1098,
+  "comments": 336,
+  "operatingCountries": [
+    "Canada",
+    "Spain",
+    "Denmark",
+    "New Zealand",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=platinum-play",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Dublinbet Casino",
+  "slug": "dublinbet-casino",
+  "country": "Czech Republic",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 217,
+  "providers": [
+    "Blueprint Gaming",
+    "Saucify",
+    "1x2gaming",
+    "Konami",
+    "Habanero Systems"
+  ],
+  "likes": 982,
+  "comments": 123,
+  "operatingCountries": [
+    "Ireland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=52",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dublinbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

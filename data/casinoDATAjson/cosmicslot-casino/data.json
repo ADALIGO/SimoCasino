@@ -1,0 +1,35 @@
+{
+  "name": "CosmicSlot Casino",
+  "slug": "cosmicslot-casino",
+  "country": "Finland",
+  "bonus": "300% Bonus up to $500",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 113,
+  "providers": [
+    "1x2gaming",
+    "Blueprint Gaming",
+    "Real Time Gaming",
+    "Playtech",
+    "NetEnt",
+    "Merkur",
+    "Nolimit City",
+    "Big Time Gaming"
+  ],
+  "likes": 150,
+  "comments": 51,
+  "operatingCountries": [
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=157",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cosmicslot-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

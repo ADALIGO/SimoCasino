@@ -1,0 +1,34 @@
+{
+  "name": "PowerUp Slots",
+  "slug": "powerup-slots",
+  "country": "New Zealand",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 298,
+  "providers": [
+    "Rival",
+    "NextGen",
+    "Saucify",
+    "NetEnt",
+    "Arrows Edge",
+    "IGT",
+    "Gamomat"
+  ],
+  "likes": 450,
+  "comments": 212,
+  "operatingCountries": [
+    "Morocco",
+    "Belgium",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=78",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=powerup-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ]
+}

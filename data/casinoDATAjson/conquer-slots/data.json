@@ -1,0 +1,37 @@
+{
+  "name": "Conquer Slots",
+  "slug": "conquer-slots",
+  "country": "Norway",
+  "bonus": "100% up to $500 + 300 Spins",
+  "rating": 4.1,
+  "revenueRank": 35,
+  "spins": 90,
+  "providers": [
+    "Thunderkick",
+    "Greentube",
+    "Microgaming",
+    "Evolution Gaming",
+    "Saucify",
+    "Iron Dog Studio"
+  ],
+  "likes": 308,
+  "comments": 99,
+  "operatingCountries": [
+    "United States",
+    "South Africa",
+    "Germany",
+    "Austria",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=conquer-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

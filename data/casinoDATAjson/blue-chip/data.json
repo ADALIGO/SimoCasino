@@ -1,0 +1,31 @@
+{
+  "name": "Blue Chip",
+  "slug": "blue-chip",
+  "country": "Morocco",
+  "bonus": "150% up to €/$100",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1886,
+  "comments": 394,
+  "operatingCountries": [
+    "Portugal",
+    "United Kingdom",
+    "Sweden",
+    "Germany",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=40",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=22bet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ],
+  "reviewCount": 5
+}

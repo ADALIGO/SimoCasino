@@ -1,0 +1,29 @@
+{
+  "name": "Las Atlantis",
+  "slug": "las-atlantis",
+  "country": "Morocco",
+  "bonus": "$2800",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 233,
+  "providers": [],
+  "likes": 911,
+  "comments": 427,
+  "operatingCountries": [
+    "Belgium",
+    "Denmark",
+    "Finland",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ovitoons",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,35 @@
+{
+  "name": "ZenBetting Online",
+  "slug": "zenbetting-online",
+  "country": "Poland",
+  "bonus": "150% Bonus up to $500",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 73,
+  "providers": [
+    "Ash Gaming",
+    "NextGen",
+    "NetEnt",
+    "Habanero Systems",
+    "Yggdrasil",
+    "BetSoft",
+    "Gamomat"
+  ],
+  "likes": 1939,
+  "comments": 205,
+  "operatingCountries": [
+    "Portugal",
+    "France",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zenbetting-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "OptimBet Slots",
+  "slug": "optimbet-slots",
+  "country": "Switzerland",
+  "bonus": "Cashback up to 125%",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 413,
+  "providers": [
+    "Red Tiger",
+    "Quickspin"
+  ],
+  "likes": 378,
+  "comments": 215,
+  "operatingCountries": [
+    "Sweden",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=61",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=optimbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63"
+  ]
+}

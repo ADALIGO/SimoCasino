@@ -1,0 +1,36 @@
+{
+  "name": "ZenCasino",
+  "slug": "zencasino",
+  "country": "Norway",
+  "bonus": "100% Bonus up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 75,
+  "providers": [
+    "Big Time Gaming",
+    "Novomatic",
+    "Push Gaming",
+    "Iron Dog Studio",
+    "Ash Gaming",
+    "Real Time Gaming"
+  ],
+  "likes": 1746,
+  "comments": 301,
+  "operatingCountries": [
+    "Australia",
+    "Italy",
+    "Norway",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=95",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zodiac",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

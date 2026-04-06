@@ -1,0 +1,30 @@
+{
+  "name": "Pacific Spins",
+  "slug": "pacific-spins",
+  "country": "Morocco",
+  "bonus": "$125",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1790,
+  "comments": 368,
+  "operatingCountries": [
+    "United Kingdom",
+    "Italy",
+    "South Africa",
+    "Poland",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=1",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-euro",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=1",
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4"
+  ],
+  "reviewCount": 5
+}

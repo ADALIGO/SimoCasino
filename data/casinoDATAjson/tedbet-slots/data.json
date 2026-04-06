@@ -1,0 +1,31 @@
+{
+  "name": "Tedbet Slots",
+  "slug": "tedbet-slots",
+  "country": "Australia",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 443,
+  "providers": [
+    "Genesis Gaming",
+    "NextGen"
+  ],
+  "likes": 661,
+  "comments": 173,
+  "operatingCountries": [
+    "United Kingdom",
+    "Ireland",
+    "Poland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tedbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ]
+}

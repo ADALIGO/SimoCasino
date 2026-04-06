@@ -1,0 +1,29 @@
+{
+  "name": "Oh My Spins Online",
+  "slug": "oh-my-spins-online",
+  "country": "Canada",
+  "bonus": "Deposit Bonus 150% up to $2000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Novomatic",
+    "NextGen"
+  ],
+  "likes": 1641,
+  "comments": 326,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=65",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oh-my-spins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

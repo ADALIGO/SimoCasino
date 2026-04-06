@@ -1,0 +1,35 @@
+{
+  "name": "Instant Online",
+  "slug": "instant-online",
+  "country": "Norway",
+  "bonus": "Deposit Bonus 200% up to $100",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 153,
+  "providers": [
+    "Novomatic",
+    "Pragmatic Play",
+    "Konami",
+    "Spinlogic Gaming",
+    "NextGen"
+  ],
+  "likes": 1918,
+  "comments": 31,
+  "operatingCountries": [
+    "Denmark",
+    "France",
+    "Ireland",
+    "Belgium",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=instant-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169"
+  ]
+}

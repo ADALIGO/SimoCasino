@@ -1,0 +1,34 @@
+{
+  "name": "Rox Casino",
+  "slug": "rox-casino",
+  "country": "Switzerland",
+  "bonus": "First Deposit 200% up to $50 + 150 Free Spins",
+  "rating": 4.5,
+  "revenueRank": 36,
+  "spins": 240,
+  "providers": [
+    "Pragmatic Play",
+    "Wager Gaming",
+    "Aristocrat",
+    "NextGen",
+    "Arrows Edge",
+    "Blueprint Gaming"
+  ],
+  "likes": 1038,
+  "comments": 337,
+  "operatingCountries": [
+    "United Kingdom",
+    "New Zealand",
+    "Belgium",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rox-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

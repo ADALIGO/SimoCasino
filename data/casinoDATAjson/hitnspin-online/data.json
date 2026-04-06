@@ -1,0 +1,30 @@
+{
+  "name": "Hit'n'Spin Online",
+  "slug": "hitnspin-online",
+  "country": "Spain",
+  "bonus": "100% up to $300 + 250 Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Novomatic"
+  ],
+  "likes": 1343,
+  "comments": 323,
+  "operatingCountries": [
+    "Spain",
+    "Portugal",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hitnspin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ]
+}

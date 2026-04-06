@@ -1,0 +1,27 @@
+{
+  "name": "TripleSeven",
+  "slug": "tripleseven",
+  "country": "Morocco",
+  "bonus": "$10",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 413,
+  "providers": [],
+  "likes": 675,
+  "comments": 179,
+  "operatingCountries": [
+    "Belgium",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-dimension",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126"
+  ],
+  "reviewCount": 5
+}

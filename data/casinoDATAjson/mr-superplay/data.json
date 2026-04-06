@@ -1,0 +1,33 @@
+{
+  "name": "Mr SuperPlay",
+  "slug": "mr-superplay",
+  "country": "France",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Real Time Gaming",
+    "Evolution Gaming",
+    "NextGen",
+    "BetSoft",
+    "IGT",
+    "Konami",
+    "Genesis Gaming"
+  ],
+  "likes": 106,
+  "comments": 142,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crypto-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ]
+}

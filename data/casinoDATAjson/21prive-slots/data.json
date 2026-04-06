@@ -1,0 +1,36 @@
+{
+  "name": "21Prive Slots",
+  "slug": "21prive-slots",
+  "country": "Ireland",
+  "bonus": "First Deposit 150% up to $1000 + 250 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Genesis Gaming",
+    "Relax Gaming",
+    "Thunderkick",
+    "Big Time Gaming",
+    "Novomatic",
+    "Greentube",
+    "Playtech"
+  ],
+  "likes": 1928,
+  "comments": 232,
+  "operatingCountries": [
+    "Portugal",
+    "Italy",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21prive-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ]
+}

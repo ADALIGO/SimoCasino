@@ -1,0 +1,30 @@
+{
+  "name": "Nords",
+  "slug": "nords",
+  "country": "Morocco",
+  "bonus": "125% up to €400",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 270,
+  "providers": [],
+  "likes": 908,
+  "comments": 313,
+  "operatingCountries": [
+    "Czech Republic",
+    "Germany",
+    "Poland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=177",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckylouis",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ],
+  "reviewCount": 5
+}

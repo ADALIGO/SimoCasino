@@ -1,0 +1,35 @@
+{
+  "name": "Vegas2Web Online",
+  "slug": "vegas2web-online",
+  "country": "Switzerland",
+  "bonus": "200% Bonus up to $1000",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 403,
+  "providers": [
+    "Evolution Gaming",
+    "Yggdrasil",
+    "Playtech",
+    "Iron Dog Studio",
+    "Relax Gaming",
+    "Red Tiger",
+    "NetEnt"
+  ],
+  "likes": 1600,
+  "comments": 82,
+  "operatingCountries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegas2web-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ]
+}

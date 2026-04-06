@@ -1,0 +1,34 @@
+{
+  "name": "Horus",
+  "slug": "horus",
+  "country": "Portugal",
+  "bonus": "Welcome Package up to $300",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 29,
+  "providers": [
+    "Blueprint Gaming",
+    "Real Time Gaming",
+    "NextGen",
+    "1x2gaming",
+    "Rival",
+    "Ash Gaming",
+    "Yggdrasil",
+    "Quickspin"
+  ],
+  "likes": 944,
+  "comments": 135,
+  "operatingCountries": [
+    "Sweden",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=32",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rabona",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

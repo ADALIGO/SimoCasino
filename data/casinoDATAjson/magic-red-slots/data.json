@@ -1,0 +1,29 @@
+{
+  "name": "Magic Red Slots",
+  "slug": "magic-red-slots",
+  "country": "Portugal",
+  "bonus": "Welcome Bonus 125% up to $500",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 357,
+  "providers": [
+    "NetEnt"
+  ],
+  "likes": 1082,
+  "comments": 460,
+  "operatingCountries": [
+    "Netherlands",
+    "Belgium",
+    "Austria",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=magic-red-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

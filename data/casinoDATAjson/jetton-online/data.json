@@ -1,0 +1,32 @@
+{
+  "name": "Jetton Online",
+  "slug": "jetton-online",
+  "country": "Norway",
+  "bonus": "Welcome Bonus 300% up to $200",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 314,
+  "providers": [
+    "Push Gaming",
+    "NetEnt",
+    "Quickspin",
+    "BetSoft"
+  ],
+  "likes": 1148,
+  "comments": 114,
+  "operatingCountries": [
+    "Czech Republic",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jetton-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

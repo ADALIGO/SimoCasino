@@ -1,0 +1,35 @@
+{
+  "name": "Lucky Kong Online",
+  "slug": "lucky-kong-online",
+  "country": "Portugal",
+  "bonus": "100% up to $500 + 200 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 355,
+  "providers": [
+    "ELK Studios",
+    "NetEnt",
+    "Saucify",
+    "Visionary iGaming",
+    "Thunderkick",
+    "Evolution Gaming",
+    "Wager Gaming",
+    "Gamomat"
+  ],
+  "likes": 45,
+  "comments": 360,
+  "operatingCountries": [
+    "France",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-kong-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

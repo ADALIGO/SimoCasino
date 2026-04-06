@@ -1,0 +1,33 @@
+{
+  "name": "Grand Hotel Games",
+  "slug": "grand-hotel-games",
+  "country": "Netherlands",
+  "bonus": "VIP Bonus 200% up to $50",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 312,
+  "providers": [
+    "Aristocrat",
+    "Quickspin",
+    "Playtech",
+    "Saucify",
+    "Iron Dog Studio",
+    "Push Gaming",
+    "Novomatic"
+  ],
+  "likes": 538,
+  "comments": 198,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=180",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grand-hotel-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183"
+  ]
+}

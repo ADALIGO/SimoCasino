@@ -1,0 +1,28 @@
+{
+  "name": "Betory Games",
+  "slug": "betory-games",
+  "country": "Australia",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.4,
+  "revenueRank": 46,
+  "spins": 85,
+  "providers": [
+    "Spinlogic Gaming"
+  ],
+  "likes": 1077,
+  "comments": 479,
+  "operatingCountries": [
+    "Spain",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=137",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betory-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

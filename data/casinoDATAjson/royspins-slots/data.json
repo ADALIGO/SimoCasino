@@ -1,0 +1,32 @@
+{
+  "name": "Royspins Slots",
+  "slug": "royspins-slots",
+  "country": "United States",
+  "bonus": "VIP Bonus 100% up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 136,
+  "providers": [
+    "Blueprint Gaming",
+    "Yggdrasil",
+    "Habanero Systems"
+  ],
+  "likes": 1237,
+  "comments": 313,
+  "operatingCountries": [
+    "Finland",
+    "Sweden",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=175",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royspins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179"
+  ]
+}

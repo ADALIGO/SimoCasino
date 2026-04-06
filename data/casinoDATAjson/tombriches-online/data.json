@@ -1,0 +1,29 @@
+{
+  "name": "TombRiches Online",
+  "slug": "tombriches-online",
+  "country": "Belgium",
+  "bonus": "VIP Bonus 250% up to $100",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 294,
+  "providers": [
+    "Relax Gaming",
+    "Merkur",
+    "NextGen"
+  ],
+  "likes": 1572,
+  "comments": 218,
+  "operatingCountries": [
+    "South Africa",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tombriches-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cactus Slots",
+  "slug": "cactus-slots",
+  "country": "Switzerland",
+  "bonus": "Cashback up to 200%",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Iron Dog Studio",
+    "ELK Studios",
+    "Blueprint Gaming"
+  ],
+  "likes": 528,
+  "comments": 448,
+  "operatingCountries": [
+    "Finland",
+    "United Kingdom",
+    "France",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cactus-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

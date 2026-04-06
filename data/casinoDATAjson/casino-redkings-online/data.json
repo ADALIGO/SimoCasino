@@ -1,0 +1,30 @@
+{
+  "name": "Casino RedKings Online",
+  "slug": "casino-redkings-online",
+  "country": "Italy",
+  "bonus": "First Deposit 100% up to $1000 + 150 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 312,
+  "providers": [
+    "Push Gaming",
+    "Saucify",
+    "Aristocrat",
+    "Merkur",
+    "Wager Gaming"
+  ],
+  "likes": 1830,
+  "comments": 221,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=124",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-redkings-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126"
+  ]
+}

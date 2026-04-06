@@ -1,0 +1,31 @@
+{
+  "name": "GoodDayForPlay (GDF Play)",
+  "slug": "gooddayforplay-(gdf-play)",
+  "country": "Morocco",
+  "bonus": "€/$15",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 473,
+  "providers": [],
+  "likes": 1954,
+  "comments": 55,
+  "operatingCountries": [
+    "Switzerland",
+    "New Zealand",
+    "South Africa",
+    "Belgium",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotage",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114"
+  ],
+  "reviewCount": 5
+}

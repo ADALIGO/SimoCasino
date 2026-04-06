@@ -1,0 +1,29 @@
+{
+  "name": "Zet",
+  "slug": "zet",
+  "country": "Morocco",
+  "bonus": "150% up to €500 + 250 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 162,
+  "providers": [],
+  "likes": 1202,
+  "comments": 94,
+  "operatingCountries": [
+    "Switzerland",
+    "Czech Republic",
+    "Belgium",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oceanspin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13"
+  ],
+  "reviewCount": 5
+}

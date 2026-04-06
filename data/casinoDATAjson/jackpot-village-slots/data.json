@@ -1,0 +1,34 @@
+{
+  "name": "Jackpot Village Slots",
+  "slug": "jackpot-village-slots",
+  "country": "Spain",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 57,
+  "providers": [
+    "Iron Dog Studio",
+    "Saucify",
+    "Playtech",
+    "Pragmatic Play",
+    "Nolimit City",
+    "EGT"
+  ],
+  "likes": 1928,
+  "comments": 307,
+  "operatingCountries": [
+    "New Zealand",
+    "United States",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-village-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

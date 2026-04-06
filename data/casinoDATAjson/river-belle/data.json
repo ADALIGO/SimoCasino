@@ -1,0 +1,31 @@
+{
+  "name": "River Belle",
+  "slug": "river-belle",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 369,
+  "providers": [],
+  "likes": 273,
+  "comments": 481,
+  "operatingCountries": [
+    "Switzerland",
+    "Poland",
+    "Belgium",
+    "Ireland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winport",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ],
+  "reviewCount": 5
+}

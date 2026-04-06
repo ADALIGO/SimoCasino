@@ -1,0 +1,35 @@
+{
+  "name": "EvoBet Casino",
+  "slug": "evobet-casino",
+  "country": "Portugal",
+  "bonus": "Welcome Bonus 150% up to $50",
+  "rating": 3.5,
+  "revenueRank": 13,
+  "spins": 248,
+  "providers": [
+    "ELK Studios",
+    "Genesis Gaming",
+    "NextGen",
+    "Spinlogic Gaming"
+  ],
+  "likes": 694,
+  "comments": 295,
+  "operatingCountries": [
+    "United States",
+    "Spain",
+    "Denmark",
+    "New Zealand",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=evobet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17"
+  ]
+}

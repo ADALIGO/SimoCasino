@@ -1,0 +1,37 @@
+{
+  "name": "Leon Slots",
+  "slug": "leon-slots",
+  "country": "Norway",
+  "bonus": "Deposit Bonus 200% up to $300",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Habanero Systems",
+    "Push Gaming",
+    "Yggdrasil",
+    "Real Time Gaming",
+    "Spinlogic Gaming",
+    "Merkur",
+    "Quickspin"
+  ],
+  "likes": 1236,
+  "comments": 225,
+  "operatingCountries": [
+    "United Kingdom",
+    "Norway",
+    "South Africa",
+    "Canada",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=leon-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101"
+  ]
+}

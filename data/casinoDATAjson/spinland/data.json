@@ -1,0 +1,32 @@
+{
+  "name": "Spinland",
+  "slug": "spinland",
+  "country": "Morocco",
+  "bonus": "200% up to €3000 + 50 Spins",
+  "rating": 0,
+  "revenueRank": null,
+  "spins": 334,
+  "providers": [
+    "T&C's Apply",
+    "2.7 / 5"
+  ],
+  "likes": 1700,
+  "comments": 339,
+  "operatingCountries": [
+    "New Zealand",
+    "Austria",
+    "Spain",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=staxino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ],
+  "reviewCount": 0
+}

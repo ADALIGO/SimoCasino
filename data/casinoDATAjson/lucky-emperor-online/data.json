@@ -1,0 +1,37 @@
+{
+  "name": "Lucky Emperor Online",
+  "slug": "lucky-emperor-online",
+  "country": "United States",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Microgaming",
+    "Red Tiger",
+    "Big Time Gaming",
+    "Genesis Gaming",
+    "Nolimit City",
+    "IGT"
+  ],
+  "likes": 52,
+  "comments": 55,
+  "operatingCountries": [
+    "Ireland",
+    "Australia",
+    "United Kingdom",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-emperor-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95"
+  ]
+}

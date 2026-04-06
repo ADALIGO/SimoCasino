@@ -1,0 +1,31 @@
+{
+  "name": "Villento",
+  "slug": "villento",
+  "country": "Morocco",
+  "bonus": "100% up to €/$150",
+  "rating": 0,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "T&C's Apply",
+    "3 / 5"
+  ],
+  "likes": 1627,
+  "comments": 30,
+  "operatingCountries": [
+    "United Kingdom",
+    "Spain",
+    "Belgium",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spingreen",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ],
+  "reviewCount": 0
+}

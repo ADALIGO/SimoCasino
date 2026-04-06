@@ -1,0 +1,30 @@
+{
+  "name": "Dukes",
+  "slug": "dukes",
+  "country": "Morocco",
+  "bonus": "33 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 441,
+  "providers": [],
+  "likes": 1181,
+  "comments": 321,
+  "operatingCountries": [
+    "Sweden",
+    "South Africa",
+    "Germany",
+    "Italy",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=133",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bonus-blitz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ],
+  "reviewCount": 5
+}

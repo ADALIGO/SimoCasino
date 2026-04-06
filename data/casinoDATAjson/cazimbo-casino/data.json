@@ -1,0 +1,29 @@
+{
+  "name": "Cazimbo Casino",
+  "slug": "cazimbo-casino",
+  "country": "Norway",
+  "bonus": "100% up to $2000 + 50 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 115,
+  "providers": [
+    "Evolution Gaming",
+    "WMS",
+    "Ash Gaming",
+    "Genesis Gaming"
+  ],
+  "likes": 633,
+  "comments": 283,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=109",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cazimbo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

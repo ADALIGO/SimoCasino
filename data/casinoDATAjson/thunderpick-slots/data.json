@@ -1,0 +1,33 @@
+{
+  "name": "Thunderpick Slots",
+  "slug": "thunderpick-slots",
+  "country": "Italy",
+  "bonus": "Welcome Bonus 50% up to $2000",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 350,
+  "providers": [
+    "Pragmatic Play",
+    "Amatic Industries",
+    "Greentube",
+    "Yggdrasil",
+    "Nolimit City",
+    "Real Time Gaming",
+    "Thunderkick"
+  ],
+  "likes": 1860,
+  "comments": 168,
+  "operatingCountries": [
+    "Italy",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=thunderpick-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

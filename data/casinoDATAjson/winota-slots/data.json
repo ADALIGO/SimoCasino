@@ -1,0 +1,34 @@
+{
+  "name": "Winota Slots",
+  "slug": "winota-slots",
+  "country": "South Africa",
+  "bonus": "Welcome Bonus 125% up to $2000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 450,
+  "providers": [
+    "WMS",
+    "Saucify",
+    "Playtech",
+    "Konami"
+  ],
+  "likes": 165,
+  "comments": 318,
+  "operatingCountries": [
+    "Canada",
+    "United Kingdom",
+    "Switzerland",
+    "Australia",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winota-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

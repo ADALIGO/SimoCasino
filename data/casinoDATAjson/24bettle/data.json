@@ -1,0 +1,26 @@
+{
+  "name": "24Bettle",
+  "slug": "24bettle",
+  "country": "Morocco",
+  "bonus": "100% up to €240 + 24 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1520,
+  "comments": 106,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitstarz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ],
+  "reviewCount": 5
+}

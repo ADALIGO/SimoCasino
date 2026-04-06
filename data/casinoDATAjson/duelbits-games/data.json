@@ -1,0 +1,31 @@
+{
+  "name": "Duelbits Games",
+  "slug": "duelbits-games",
+  "country": "Norway",
+  "bonus": "Cashback up to 50%",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Arrows Edge",
+    "Big Time Gaming"
+  ],
+  "likes": 926,
+  "comments": 183,
+  "operatingCountries": [
+    "Canada",
+    "Spain",
+    "New Zealand",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=duelbits-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49"
+  ]
+}

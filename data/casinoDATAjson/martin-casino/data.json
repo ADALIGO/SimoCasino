@@ -1,0 +1,36 @@
+{
+  "name": "Martin Casino",
+  "slug": "martin-casino",
+  "country": "South Africa",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 180,
+  "providers": [
+    "Big Time Gaming",
+    "Aristocrat",
+    "Genesis Gaming",
+    "WMS",
+    "Playtech",
+    "Microgaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 635,
+  "comments": 407,
+  "operatingCountries": [
+    "Czech Republic",
+    "United States",
+    "Spain",
+    "Poland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=72",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=martin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74"
+  ]
+}

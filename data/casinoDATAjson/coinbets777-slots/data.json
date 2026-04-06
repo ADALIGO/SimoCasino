@@ -1,0 +1,31 @@
+{
+  "name": "Coinbets777 Slots",
+  "slug": "coinbets777-slots",
+  "country": "Spain",
+  "bonus": "Welcome Bonus 250% up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Push Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 1824,
+  "comments": 231,
+  "operatingCountries": [
+    "Netherlands",
+    "Denmark",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coinbets777-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ]
+}

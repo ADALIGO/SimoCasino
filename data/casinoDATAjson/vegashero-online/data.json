@@ -1,0 +1,30 @@
+{
+  "name": "VegasHero Online",
+  "slug": "vegashero-online",
+  "country": "Denmark",
+  "bonus": "Cashback up to 100%",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 326,
+  "providers": [
+    "Relax Gaming",
+    "Ash Gaming",
+    "Microgaming"
+  ],
+  "likes": 291,
+  "comments": 139,
+  "operatingCountries": [
+    "Belgium",
+    "Spain",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegashero-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

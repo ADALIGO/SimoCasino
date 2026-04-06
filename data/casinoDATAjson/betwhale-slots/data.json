@@ -1,0 +1,37 @@
+{
+  "name": "BetWhale Slots",
+  "slug": "betwhale-slots",
+  "country": "Austria",
+  "bonus": "250% Bonus up to $50",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Push Gaming",
+    "Red Tiger",
+    "IGT",
+    "Nolimit City",
+    "Merkur",
+    "NetEnt",
+    "ELK Studios"
+  ],
+  "likes": 1964,
+  "comments": 164,
+  "operatingCountries": [
+    "Denmark",
+    "Sweden",
+    "South Africa",
+    "Norway",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=60",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwhale-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62"
+  ]
+}

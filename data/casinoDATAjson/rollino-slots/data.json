@@ -1,0 +1,31 @@
+{
+  "name": "rollino Slots",
+  "slug": "rollino-slots",
+  "country": "Finland",
+  "bonus": "VIP Bonus 200% up to $50",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "Rival",
+    "Wager Gaming",
+    "Playtech",
+    "Iron Dog Studio"
+  ],
+  "likes": 1281,
+  "comments": 339,
+  "operatingCountries": [
+    "Belgium",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rollino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

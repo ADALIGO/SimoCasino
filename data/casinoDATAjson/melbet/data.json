@@ -1,0 +1,28 @@
+{
+  "name": "MELBET",
+  "slug": "melbet",
+  "country": "Morocco",
+  "bonus": "50% up to €350 + 30 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 179,
+  "providers": [],
+  "likes": 827,
+  "comments": 39,
+  "operatingCountries": [
+    "Italy",
+    "Belgium",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=192",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfouru",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195"
+  ],
+  "reviewCount": 5
+}

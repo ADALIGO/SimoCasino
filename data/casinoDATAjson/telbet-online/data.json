@@ -1,0 +1,34 @@
+{
+  "name": "TelBet Online",
+  "slug": "telbet-online",
+  "country": "Belgium",
+  "bonus": "100% up to $500 + 50 Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 445,
+  "providers": [
+    "Wager Gaming",
+    "Quickspin",
+    "1x2gaming",
+    "Big Time Gaming",
+    "Real Time Gaming"
+  ],
+  "likes": 1559,
+  "comments": 30,
+  "operatingCountries": [
+    "New Zealand",
+    "Spain",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=3",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=telbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ]
+}

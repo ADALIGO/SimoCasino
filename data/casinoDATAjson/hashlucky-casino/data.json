@@ -1,0 +1,32 @@
+{
+  "name": "HashLucky Casino",
+  "slug": "hashlucky-casino",
+  "country": "Spain",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 460,
+  "providers": [
+    "BetSoft",
+    "Playtech",
+    "Iron Dog Studio"
+  ],
+  "likes": 710,
+  "comments": 438,
+  "operatingCountries": [
+    "Sweden",
+    "Finland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hashlucky-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172"
+  ]
+}

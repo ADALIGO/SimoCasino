@@ -1,0 +1,28 @@
+{
+  "name": "Mummys Gold",
+  "slug": "mummys-gold",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 39,
+  "providers": [],
+  "likes": 1923,
+  "comments": 387,
+  "operatingCountries": [
+    "Portugal",
+    "United States",
+    "Ireland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=98",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwinner",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ],
+  "reviewCount": 5
+}

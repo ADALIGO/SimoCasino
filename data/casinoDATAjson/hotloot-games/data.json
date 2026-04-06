@@ -1,0 +1,33 @@
+{
+  "name": "HotLoot Games",
+  "slug": "hotloot-games",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 100% up to $50",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 352,
+  "providers": [
+    "Konami",
+    "Visionary iGaming"
+  ],
+  "likes": 1234,
+  "comments": 218,
+  "operatingCountries": [
+    "Switzerland",
+    "Czech Republic",
+    "Spain",
+    "Norway",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=160",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotloot-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "ExclusiveBet Casino",
+  "slug": "exclusivebet-casino",
+  "country": "Poland",
+  "bonus": "First Deposit 150% up to $500 + 300 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 218,
+  "providers": [
+    "Greentube",
+    "BetSoft",
+    "Novomatic",
+    "Nolimit City",
+    "Amatic Industries",
+    "Push Gaming",
+    "Konami",
+    "NetEnt"
+  ],
+  "likes": 928,
+  "comments": 278,
+  "operatingCountries": [
+    "Germany",
+    "South Africa",
+    "Portugal",
+    "Finland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=exclusivebet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

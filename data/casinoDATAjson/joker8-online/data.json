@@ -1,0 +1,34 @@
+{
+  "name": "Joker8 Online",
+  "slug": "joker8-online",
+  "country": "Norway",
+  "bonus": "Deposit Bonus 50% up to $2000",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 358,
+  "providers": [
+    "Habanero Systems",
+    "Arrows Edge",
+    "Relax Gaming",
+    "Visionary iGaming",
+    "Push Gaming",
+    "Iron Dog Studio",
+    "Evolution Gaming"
+  ],
+  "likes": 764,
+  "comments": 139,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=joker8-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159"
+  ]
+}

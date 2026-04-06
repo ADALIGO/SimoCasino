@@ -1,0 +1,30 @@
+{
+  "name": "Eclipse Slots",
+  "slug": "eclipse-slots",
+  "country": "Finland",
+  "bonus": "First Deposit 125% up to $200 + 200 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 301,
+  "providers": [
+    "Greentube",
+    "ELK Studios",
+    "Thunderkick",
+    "Yggdrasil"
+  ],
+  "likes": 415,
+  "comments": 347,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=200",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eclipse-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202",
+    "https://picsum.photos/380/260?random=203"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Detective Slots Casino",
+  "slug": "detective-slots-casino",
+  "country": "Switzerland",
+  "bonus": "First Deposit 150% up to $2000 + 20 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Genesis Gaming",
+    "NetEnt",
+    "Saucify",
+    "Visionary iGaming",
+    "Red Tiger",
+    "Nolimit City",
+    "Big Time Gaming"
+  ],
+  "likes": 633,
+  "comments": 151,
+  "operatingCountries": [
+    "Morocco",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=124",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=detective-slots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128"
+  ]
+}

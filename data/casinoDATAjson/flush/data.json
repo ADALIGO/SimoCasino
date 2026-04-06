@@ -1,0 +1,29 @@
+{
+  "name": "Flush",
+  "slug": "flush",
+  "country": "Morocco",
+  "bonus": "100% up to $200",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 253,
+  "providers": [],
+  "likes": 67,
+  "comments": 263,
+  "operatingCountries": [
+    "Portugal",
+    "Sweden",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bassbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ],
+  "reviewCount": 5
+}

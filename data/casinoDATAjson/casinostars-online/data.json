@@ -1,0 +1,30 @@
+{
+  "name": "CasinoStars Online",
+  "slug": "casinostars-online",
+  "country": "Ireland",
+  "bonus": "First Deposit 250% up to $100 + 200 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 259,
+  "providers": [
+    "Big Time Gaming",
+    "Nolimit City",
+    "Push Gaming"
+  ],
+  "likes": 1394,
+  "comments": 170,
+  "operatingCountries": [
+    "Netherlands",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinostars-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

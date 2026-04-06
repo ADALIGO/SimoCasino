@@ -1,0 +1,29 @@
+{
+  "name": "Thrill",
+  "slug": "thrill",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 4,
+  "providers": [],
+  "likes": 1443,
+  "comments": 27,
+  "operatingCountries": [
+    "Portugal",
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=93",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betico",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97"
+  ],
+  "reviewCount": 5
+}

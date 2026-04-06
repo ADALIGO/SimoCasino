@@ -1,0 +1,30 @@
+{
+  "name": "MonoPlay Casino",
+  "slug": "monoplay-casino",
+  "country": "Canada",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 284,
+  "providers": [
+    "ELK Studios",
+    "NextGen"
+  ],
+  "likes": 758,
+  "comments": 237,
+  "operatingCountries": [
+    "United Kingdom",
+    "Norway",
+    "Morocco",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=4",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=monoplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6"
+  ]
+}

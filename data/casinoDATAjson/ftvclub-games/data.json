@@ -1,0 +1,32 @@
+{
+  "name": "FTVClub Games",
+  "slug": "ftvclub-games",
+  "country": "Austria",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 310,
+  "providers": [
+    "Microgaming",
+    "Arrows Edge",
+    "NetEnt"
+  ],
+  "likes": 1324,
+  "comments": 130,
+  "operatingCountries": [
+    "Austria",
+    "Finland",
+    "United States",
+    "Sweden",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=109",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ftvclub-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

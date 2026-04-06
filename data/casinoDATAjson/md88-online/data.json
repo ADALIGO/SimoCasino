@@ -1,0 +1,33 @@
+{
+  "name": "MD88 Online",
+  "slug": "md88-online",
+  "country": "Australia",
+  "bonus": "VIP Bonus 125% up to $500",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 341,
+  "providers": [
+    "Iron Dog Studio",
+    "1x2gaming"
+  ],
+  "likes": 887,
+  "comments": 127,
+  "operatingCountries": [
+    "Spain",
+    "Finland",
+    "Czech Republic",
+    "United States",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=192",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=md88-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196"
+  ]
+}

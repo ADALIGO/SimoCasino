@@ -1,0 +1,31 @@
+{
+  "name": "Oscarspin Online",
+  "slug": "oscarspin-online",
+  "country": "Denmark",
+  "bonus": "250% Bonus up to $300",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Microgaming",
+    "Yggdrasil",
+    "NextGen",
+    "Konami"
+  ],
+  "likes": 1101,
+  "comments": 455,
+  "operatingCountries": [
+    "South Africa",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=137",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oscarspin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Bonus Blitz Slots",
+  "slug": "bonus-blitz-slots",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 250% up to $1000",
+  "rating": 4.1,
+  "revenueRank": 58,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Ash Gaming",
+    "Konami",
+    "Real Time Gaming",
+    "Playtech",
+    "Thunderkick",
+    "Genesis Gaming",
+    "Novomatic"
+  ],
+  "likes": 1146,
+  "comments": 148,
+  "operatingCountries": [
+    "Ireland",
+    "Netherlands",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=5",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bonus-blitz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9"
+  ]
+}

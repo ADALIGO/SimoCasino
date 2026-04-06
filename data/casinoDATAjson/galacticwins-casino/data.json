@@ -1,0 +1,33 @@
+{
+  "name": "GalacticWins Casino",
+  "slug": "galacticwins-casino",
+  "country": "Spain",
+  "bonus": "First Deposit 100% up to $500 + 150 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 372,
+  "providers": [
+    "BetSoft",
+    "Arrows Edge",
+    "Nolimit City",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1285,
+  "comments": 449,
+  "operatingCountries": [
+    "France",
+    "South Africa",
+    "Poland",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=galacticwins-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

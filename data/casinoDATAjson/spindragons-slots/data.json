@@ -1,0 +1,31 @@
+{
+  "name": "SpinDragons Slots",
+  "slug": "spindragons-slots",
+  "country": "Morocco",
+  "bonus": "Reload Bonus 200% up to $50",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Playtech",
+    "Real Time Gaming",
+    "Visionary iGaming",
+    "Pragmatic Play",
+    "Habanero Systems",
+    "Amatic Industries"
+  ],
+  "likes": 1150,
+  "comments": 330,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=106",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spindragons-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

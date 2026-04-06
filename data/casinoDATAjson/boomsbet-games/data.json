@@ -1,0 +1,31 @@
+{
+  "name": "Booms.Bet Games",
+  "slug": "boomsbet-games",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 250% up to $2000 + 200 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 363,
+  "providers": [
+    "EGT",
+    "Arrows Edge"
+  ],
+  "likes": 631,
+  "comments": 257,
+  "operatingCountries": [
+    "Portugal",
+    "Spain",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=84",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boomsbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

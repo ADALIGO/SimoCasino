@@ -1,0 +1,38 @@
+{
+  "name": "Lucky Hunter Slots",
+  "slug": "lucky-hunter-slots",
+  "country": "Poland",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 402,
+  "providers": [
+    "IGT",
+    "ELK Studios",
+    "Gamomat",
+    "Visionary iGaming",
+    "Genesis Gaming",
+    "Relax Gaming",
+    "Nolimit City",
+    "Pragmatic Play"
+  ],
+  "likes": 1750,
+  "comments": 31,
+  "operatingCountries": [
+    "Netherlands",
+    "Czech Republic",
+    "Poland",
+    "United Kingdom",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-hunter-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ]
+}

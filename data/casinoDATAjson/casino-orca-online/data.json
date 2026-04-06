@@ -1,0 +1,34 @@
+{
+  "name": "Casino Orca Online",
+  "slug": "casino-orca-online",
+  "country": "Netherlands",
+  "bonus": "Welcome Bonus 100% up to $1000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 177,
+  "providers": [
+    "ELK Studios",
+    "Blueprint Gaming",
+    "Microgaming",
+    "Wager Gaming"
+  ],
+  "likes": 1727,
+  "comments": 189,
+  "operatingCountries": [
+    "Denmark",
+    "Sweden",
+    "Ireland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-orca-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

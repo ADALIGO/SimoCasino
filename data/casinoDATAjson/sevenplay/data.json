@@ -1,0 +1,29 @@
+{
+  "name": "SevenPlay",
+  "slug": "sevenplay",
+  "country": "Morocco",
+  "bonus": "100% up to €1000 + 150 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 319,
+  "providers": [],
+  "likes": 1944,
+  "comments": 431,
+  "operatingCountries": [
+    "Portugal",
+    "Norway",
+    "Canada",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=112",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1red",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115"
+  ],
+  "reviewCount": 5
+}

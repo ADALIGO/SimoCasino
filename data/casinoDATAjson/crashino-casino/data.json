@@ -1,0 +1,35 @@
+{
+  "name": "Crashino Casino",
+  "slug": "crashino-casino",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 93,
+  "providers": [
+    "WMS",
+    "Evolution Gaming",
+    "Visionary iGaming",
+    "Konami",
+    "ELK Studios"
+  ],
+  "likes": 137,
+  "comments": 200,
+  "operatingCountries": [
+    "Poland",
+    "Belgium",
+    "Morocco",
+    "Netherlands",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crashino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38"
+  ]
+}

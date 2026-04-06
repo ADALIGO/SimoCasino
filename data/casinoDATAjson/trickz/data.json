@@ -1,0 +1,29 @@
+{
+  "name": "Trickz",
+  "slug": "trickz",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 100 Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 391,
+  "providers": [],
+  "likes": 1407,
+  "comments": 0,
+  "operatingCountries": [
+    "Netherlands",
+    "France",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=redaxeplay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61"
+  ],
+  "reviewCount": 5
+}

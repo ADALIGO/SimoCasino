@@ -1,0 +1,37 @@
+{
+  "name": "NewVegas Online",
+  "slug": "newvegas-online",
+  "country": "Germany",
+  "bonus": "First Deposit 200% up to $2000 + 250 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 157,
+  "providers": [
+    "Genesis Gaming",
+    "IGT",
+    "Merkur",
+    "Relax Gaming",
+    "Spinlogic Gaming",
+    "Push Gaming",
+    "Saucify",
+    "Wager Gaming"
+  ],
+  "likes": 1246,
+  "comments": 321,
+  "operatingCountries": [
+    "Norway",
+    "Sweden",
+    "Morocco",
+    "France",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=newvegas-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

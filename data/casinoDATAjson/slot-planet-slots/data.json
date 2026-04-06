@@ -1,0 +1,31 @@
+{
+  "name": "Slot Planet Slots",
+  "slug": "slot-planet-slots",
+  "country": "Germany",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.3,
+  "revenueRank": 11,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Blueprint Gaming",
+    "Spinlogic Gaming",
+    "BetSoft",
+    "Greentube"
+  ],
+  "likes": 1474,
+  "comments": 164,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slot-planet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

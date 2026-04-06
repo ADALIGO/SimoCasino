@@ -1,0 +1,29 @@
+{
+  "name": "1XBET Games",
+  "slug": "1xbet-games",
+  "country": "United States",
+  "bonus": "Deposit Bonus 200% up to $50",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 131,
+  "providers": [
+    "Big Time Gaming",
+    "NetEnt"
+  ],
+  "likes": 121,
+  "comments": 247,
+  "operatingCountries": [
+    "Finland",
+    "New Zealand",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

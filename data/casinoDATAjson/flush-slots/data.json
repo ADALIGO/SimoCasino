@@ -1,0 +1,31 @@
+{
+  "name": "Flush Slots",
+  "slug": "flush-slots",
+  "country": "United Kingdom",
+  "bonus": "First Deposit 50% up to $2000 + 50 Free Spins",
+  "rating": 3.6,
+  "revenueRank": 33,
+  "spins": 228,
+  "providers": [
+    "Aristocrat",
+    "Relax Gaming",
+    "Iron Dog Studio",
+    "Red Tiger",
+    "Ash Gaming",
+    "Big Time Gaming"
+  ],
+  "likes": 655,
+  "comments": 115,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=32",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flush-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "BoaBoa Online",
+  "slug": "boaboa-online",
+  "country": "Morocco",
+  "bonus": "First Deposit 50% up to $500 + 50 Free Spins",
+  "rating": 4.2,
+  "revenueRank": 16,
+  "spins": 229,
+  "providers": [
+    "Playtech",
+    "Arrows Edge",
+    "Real Time Gaming",
+    "Nolimit City",
+    "BetSoft",
+    "Quickspin"
+  ],
+  "likes": 1447,
+  "comments": 268,
+  "operatingCountries": [
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=170",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boaboa-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172"
+  ]
+}

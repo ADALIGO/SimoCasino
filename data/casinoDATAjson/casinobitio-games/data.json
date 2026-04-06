@@ -1,0 +1,28 @@
+{
+  "name": "Casinobit.io Games",
+  "slug": "casinobitio-games",
+  "country": "Finland",
+  "bonus": "VIP Bonus 300% up to $1000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Playtech"
+  ],
+  "likes": 182,
+  "comments": 233,
+  "operatingCountries": [
+    "Morocco",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinobitio-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163"
+  ]
+}

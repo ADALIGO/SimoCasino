@@ -1,0 +1,27 @@
+{
+  "name": "BoaBet Casino",
+  "slug": "boabet-casino",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 175,
+  "providers": [
+    "Pragmatic Play"
+  ],
+  "likes": 1093,
+  "comments": 361,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boabet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

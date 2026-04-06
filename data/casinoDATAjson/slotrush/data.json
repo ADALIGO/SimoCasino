@@ -1,0 +1,34 @@
+{
+  "name": "SlotRush",
+  "slug": "slotrush",
+  "country": "Czech Republic",
+  "bonus": "VIP Bonus 250% up to $500",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 179,
+  "providers": [
+    "BetSoft",
+    "Nolimit City",
+    "Greentube",
+    "ELK Studios",
+    "Arrows Edge"
+  ],
+  "likes": 307,
+  "comments": 317,
+  "operatingCountries": [
+    "Denmark",
+    "Portugal",
+    "Canada",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flappy",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ]
+}

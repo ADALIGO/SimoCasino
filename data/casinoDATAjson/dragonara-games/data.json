@@ -1,0 +1,37 @@
+{
+  "name": "Dragonara Games",
+  "slug": "dragonara-games",
+  "country": "Netherlands",
+  "bonus": "VIP Bonus 250% up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 172,
+  "providers": [
+    "Konami",
+    "Evolution Gaming",
+    "Ash Gaming",
+    "ELK Studios",
+    "Iron Dog Studio",
+    "Merkur",
+    "Greentube",
+    "Yggdrasil"
+  ],
+  "likes": 638,
+  "comments": 52,
+  "operatingCountries": [
+    "Austria",
+    "Poland",
+    "Czech Republic",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=70",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dragonara-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

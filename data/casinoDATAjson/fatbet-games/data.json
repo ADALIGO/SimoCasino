@@ -1,0 +1,30 @@
+{
+  "name": "Fatbet Games",
+  "slug": "fatbet-games",
+  "country": "New Zealand",
+  "bonus": "100% up to $1000 + 300 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 248,
+  "providers": [
+    "Blueprint Gaming",
+    "NetEnt",
+    "Push Gaming",
+    "Microgaming"
+  ],
+  "likes": 1776,
+  "comments": 269,
+  "operatingCountries": [
+    "Ireland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fatbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

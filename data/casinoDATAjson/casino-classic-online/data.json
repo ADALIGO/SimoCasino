@@ -1,0 +1,27 @@
+{
+  "name": "Casino Classic Online",
+  "slug": "casino-classic-online",
+  "country": "Australia",
+  "bonus": "First Deposit 125% up to $500 + 20 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 222,
+  "providers": [
+    "Big Time Gaming"
+  ],
+  "likes": 1808,
+  "comments": 151,
+  "operatingCountries": [
+    "Czech Republic",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-classic-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

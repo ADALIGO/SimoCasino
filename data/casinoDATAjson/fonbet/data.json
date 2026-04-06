@@ -1,0 +1,29 @@
+{
+  "name": "Fonbet",
+  "slug": "fonbet",
+  "country": "Morocco",
+  "bonus": "100% up to €600 + 100 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 6,
+  "providers": [],
+  "likes": 218,
+  "comments": 377,
+  "operatingCountries": [
+    "Germany",
+    "Sweden",
+    "Ireland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=52",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betonline-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55"
+  ],
+  "reviewCount": 5
+}

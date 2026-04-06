@@ -1,0 +1,35 @@
+{
+  "name": "Omni Slots Online",
+  "slug": "omni-slots-online",
+  "country": "Poland",
+  "bonus": "Welcome Bonus 150% up to $1000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 158,
+  "providers": [
+    "ELK Studios",
+    "Nolimit City",
+    "Thunderkick",
+    "Iron Dog Studio",
+    "NextGen",
+    "Arrows Edge"
+  ],
+  "likes": 1072,
+  "comments": 347,
+  "operatingCountries": [
+    "Australia",
+    "Norway",
+    "Czech Republic",
+    "Belgium",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=omni-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

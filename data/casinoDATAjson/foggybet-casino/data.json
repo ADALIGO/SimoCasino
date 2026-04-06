@@ -1,0 +1,29 @@
+{
+  "name": "FoggyBet Casino",
+  "slug": "foggybet-casino",
+  "country": "Belgium",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 403,
+  "providers": [
+    "Iron Dog Studio",
+    "Quickspin",
+    "Spinlogic Gaming"
+  ],
+  "likes": 769,
+  "comments": 498,
+  "operatingCountries": [
+    "Netherlands",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=foggybet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

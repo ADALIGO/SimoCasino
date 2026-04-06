@@ -1,0 +1,32 @@
+{
+  "name": "Casino Kings Games",
+  "slug": "casino-kings-games",
+  "country": "United States",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 313,
+  "providers": [
+    "WMS",
+    "Greentube"
+  ],
+  "likes": 1877,
+  "comments": 108,
+  "operatingCountries": [
+    "France",
+    "New Zealand",
+    "Portugal",
+    "Italy",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-kings-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

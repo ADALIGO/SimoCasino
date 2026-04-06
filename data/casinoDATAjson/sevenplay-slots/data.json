@@ -1,0 +1,30 @@
+{
+  "name": "SevenPlay Slots",
+  "slug": "sevenplay-slots",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 100% up to $500",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 257,
+  "providers": [
+    "Aristocrat",
+    "Real Time Gaming",
+    "Saucify"
+  ],
+  "likes": 750,
+  "comments": 393,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sevenplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ]
+}

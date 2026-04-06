@@ -1,0 +1,28 @@
+{
+  "name": "Brutal Online",
+  "slug": "brutal-online",
+  "country": "Ireland",
+  "bonus": "VIP Bonus 150% up to $2000",
+  "rating": 3.8,
+  "revenueRank": 51,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming",
+    "IGT"
+  ],
+  "likes": 117,
+  "comments": 191,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brutal-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

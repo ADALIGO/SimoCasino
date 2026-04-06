@@ -1,0 +1,32 @@
+{
+  "name": "Rolletto Casino",
+  "slug": "rolletto-casino",
+  "country": "Sweden",
+  "bonus": "100% up to $1000 + 100 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 224,
+  "providers": [
+    "Playtech",
+    "Yggdrasil",
+    "Nolimit City"
+  ],
+  "likes": 755,
+  "comments": 222,
+  "operatingCountries": [
+    "Norway",
+    "New Zealand",
+    "Germany",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rolletto-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ]
+}

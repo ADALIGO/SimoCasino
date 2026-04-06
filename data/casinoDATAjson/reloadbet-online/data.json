@@ -1,0 +1,34 @@
+{
+  "name": "ReloadBet Online",
+  "slug": "reloadbet-online",
+  "country": "United Kingdom",
+  "bonus": "Deposit Bonus 200% up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 344,
+  "providers": [
+    "Iron Dog Studio",
+    "Saucify",
+    "ELK Studios",
+    "Red Tiger",
+    "Habanero Systems",
+    "Konami",
+    "Arrows Edge"
+  ],
+  "likes": 1119,
+  "comments": 296,
+  "operatingCountries": [
+    "Ireland",
+    "Poland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=reloadbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Weiss Online",
+  "slug": "weiss-online",
+  "country": "New Zealand",
+  "bonus": "200% Bonus up to $1000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 76,
+  "providers": [
+    "Push Gaming",
+    "Nolimit City",
+    "Big Time Gaming",
+    "Wager Gaming",
+    "NetEnt",
+    "Ash Gaming",
+    "Iron Dog Studio",
+    "Playtech"
+  ],
+  "likes": 1797,
+  "comments": 108,
+  "operatingCountries": [
+    "Poland",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=weiss-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

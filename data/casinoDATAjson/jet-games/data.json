@@ -1,0 +1,33 @@
+{
+  "name": "Jet Games",
+  "slug": "jet-games",
+  "country": "Poland",
+  "bonus": "100% Bonus up to $200",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 79,
+  "providers": [
+    "Yggdrasil",
+    "Konami",
+    "Merkur",
+    "Pragmatic Play",
+    "Playtech",
+    "Aristocrat",
+    "Quickspin"
+  ],
+  "likes": 1612,
+  "comments": 223,
+  "operatingCountries": [
+    "France",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=52",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

@@ -1,0 +1,92 @@
+/////////////////////
+// ARTICLES / CONTENT FOR SEO
+
+/////////////////////
+
+model Article {
+  id                        String    @id @default(auto()) @map("_id") @db.ObjectId
+  author                    User?     @relation(fields: [authorId], references: [id])
+  authorId                  String?
+  title                     String
+  slug                      String    @unique
+  summary                   String?
+  content                   String
+  category                  String?   // e.g., guide, review, news, bonus
+  subCategory               String?
+  tags                      String[]
+  coverImageUrl             String?
+  galleryImages             String[]
+  featured                  Boolean   @default(false)
+  isPublished               Boolean   @default(false)
+  publishedAt               DateTime?
+  createdAt                 DateTime  @default(now())
+  updatedAt                 DateTime  @updatedAt
+
+  // SEO / Marketing
+  metaTitle                 String?
+  metaDescription           String?
+  metaKeywords              String[]
+  canonicalUrl              String?
+  ogTitle                   String?
+  ogDescription             String?
+  ogImageUrl                String?
+  twitterCardType           String?
+  twitterTitle              String?
+  twitterDescription        String?
+  twitterImageUrl           String?
+
+  // Engagement Metrics
+  views                     Int?      @default(0)
+  likes                     Int?      @default(0)
+  dislikes                  Int?      @default(0)
+  commentsCount             Int?      @default(0)
+  shares                    Int?      @default(0)
+  readTimeMinutes           Int?
+  avgTimeSpent              Int?      // seconds
+  bounceRate                Float?
+  scrollDepthPercent        Float?
+  newsletterClicks          Int?
+  internalLinkClicks        Int?
+
+  // Gamification / Rewards
+  xpEarned                  Int?
+  coinsEarned               Int?
+  achievementsUnlocked      String[]
+  dailyReadStreak           Int?
+  weeklyReadStreak          Int?
+  recommendedForTier        UserTier?
+  suggestedArticles         String[]
+  
+  // AI / Recommendation
+  aiEngagementScore         Float?
+  predictedReadCompletion   Float?
+  predictedClickThrough     Float?
+  aiSuggestedTags           String[]
+  aiCategoryPrediction      String?
+  aiRecommendedUsers        String[]
+
+  // Author & Admin
+  authorNotes               String[]
+  editorNotes               String[]
+  statusHistory             Json?
+  flaggedForReview          Boolean?
+  reviewComments            String[]
+  priority                  String?   // low, medium, high
+  adminAssignedId           String?
+
+  // Device / Network
+  topDevicesViewing         DeviceType[]
+  topCountriesViewing       String[]
+  topRegionsViewing         String[]
+  topCitiesViewing          String[]
+  mobileVsDesktopRatio      Float?
+  
+  // Misc
+  attachments               Json?
+  references                String[]
+  affiliateLinks            String[]
+  isSponsored               Boolean?
+  sponsorName               String?
+  campaignId                String?
+}
+

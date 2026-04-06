@@ -1,0 +1,31 @@
+{
+  "name": "CasinoExtra",
+  "slug": "casinoextra",
+  "country": "Morocco",
+  "bonus": "100% up to €/$50 + 100 Spins",
+  "rating": 3,
+  "revenueRank": 96,
+  "spins": 129,
+  "providers": [],
+  "likes": 573,
+  "comments": 273,
+  "operatingCountries": [
+    "Australia",
+    "South Africa",
+    "Norway",
+    "New Zealand",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinok",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,31 @@
+{
+  "name": "BetAlice Slots",
+  "slug": "betalice-slots",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 33,
+  "providers": [
+    "ELK Studios",
+    "Amatic Industries",
+    "Wager Gaming"
+  ],
+  "likes": 1290,
+  "comments": 430,
+  "operatingCountries": [
+    "Poland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betalice-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

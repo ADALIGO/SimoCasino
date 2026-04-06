@@ -1,0 +1,37 @@
+{
+  "name": "Xyes Slots",
+  "slug": "xyes-slots",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 125% up to $2000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "NextGen",
+    "Konami",
+    "Amatic Industries",
+    "Pragmatic Play",
+    "Real Time Gaming"
+  ],
+  "likes": 775,
+  "comments": 463,
+  "operatingCountries": [
+    "Portugal",
+    "Sweden",
+    "Austria",
+    "Ireland",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=xyes-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

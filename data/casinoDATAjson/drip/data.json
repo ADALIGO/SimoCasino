@@ -1,0 +1,29 @@
+{
+  "name": "DRIP",
+  "slug": "drip",
+  "country": "Morocco",
+  "bonus": "50% up to €300",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 199,
+  "providers": [],
+  "likes": 652,
+  "comments": 278,
+  "operatingCountries": [
+    "Netherlands",
+    "Portugal",
+    "Germany",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=178",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=great-britain",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ],
+  "reviewCount": 5
+}

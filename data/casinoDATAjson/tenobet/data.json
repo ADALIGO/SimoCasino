@@ -1,0 +1,27 @@
+{
+  "name": "TenoBet",
+  "slug": "tenobet",
+  "country": "Morocco",
+  "bonus": "200% up to €500",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1202,
+  "comments": 180,
+  "operatingCountries": [
+    "South Africa",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=partyspinz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,36 @@
+{
+  "name": "CashiMashi Games",
+  "slug": "cashimashi-games",
+  "country": "Ireland",
+  "bonus": "Reload Bonus 200% up to $1000",
+  "rating": 3.1,
+  "revenueRank": 25,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Pragmatic Play",
+    "Iron Dog Studio",
+    "Spinlogic Gaming",
+    "EGT",
+    "Ash Gaming",
+    "Habanero Systems",
+    "IGT"
+  ],
+  "likes": 993,
+  "comments": 234,
+  "operatingCountries": [
+    "Morocco",
+    "Spain",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=1",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cashimashi-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=1",
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4"
+  ]
+}

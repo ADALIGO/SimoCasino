@@ -1,0 +1,1222 @@
+﻿
+============================================================
+English values in az:
+============================================================
+  About You: Siz Haqq─▒nda
+  Account: Hesab
+  Account Settings: Hesab Parametrl╔Öri
+  Account tier: Hesab S╔Öviyy╔Ösi
+  Active Bonuses: Aktiv Bonuslar
+  Activity: F╔Öaliyy╔Öt
+  Activity Log: F╔Öaliyy╔Öt G├╝nl├╝y├╝
+  Affiliate Program: T╔Ör╔Öfda┼ƒ Proqram─▒
+  Avatar: Avatar
+  Baccarat: Baccarat
+  Basic Information: ╞Åsas M╔Ölumat
+  Biggest win: ╞Ån B├╢y├╝k Qalib
+  Bingo: Bingo
+  Bio: Bioqrafiya
+  Blackjack: Blackjack
+  Bonus History: Bonus Tarixi
+  Bonuses: Bonuslar
+  Cancel: L╔Ö─ƒv Et
+  Change: D╔Öyi┼ƒdir
+  Change Password: Parolun D╔Öyi┼ƒdirilm╔Ösi
+  Choose a game type: Oyun N├╢v├╝n├╝ Se├ºin
+  Choose a type: Bir Tip Se├ºin
+  Claimed Bonuses: M├╝tal╔Ö╔Ö Edilmi┼ƒ Bonuslar
+  Click to upload or drag and drop: Y├╝kl╔Öm╔Ök ├╝├º├╝n bas─▒n v╔Ö ya s├╝r├╝kl╔Öyib burax─▒n
+  Coins: Sikk╔Öl╔Ör
+  Confirm Password: Parolun T╔Ösdiql╔Önm╔Ösi
+  Contact Support: D╔Öst╔Ökl╔Ö ╞Ålaq╔Ö Saxlay─▒n
+  Craps: Craps
+  Current Password: Cari Parol
+  Dashboard: Panell
+  Date of Birth: Do─ƒum Tarixi
+  Delete Account: Hesab─▒ Silm╔Ök
+  Disable 2FA: 2FA-n─▒ Deaktiv Edin
+  Earnings: Qazanmalar
+  Edit Profile: Profili Redakt╔Ö Edin
+  Email: E-po├ºt
+  Email Address: E-po├ºt ├£nvan─▒
+  Email Preferences: E-po├ºt Se├ºiml╔Öri
+  Email notifications: E-po├ºt Bildiri┼ƒl╔Öri
+  Enable 2FA: 2FA-n─▒ Aktivl╔Ö┼ƒdirin
+  Enable notifications: Bildiri┼ƒl╔Öri Aktivl╔Ö┼ƒdirin
+  Facebook profile: Facebook Profili
+  Favorite game type: Sevimli Oyun N├╢v├╝
+  Favorite meal: Sevimli Yem╔Ök
+  Favorite movie: Sevimli Film
+  Favorite music genre: Sevimli Musiqi Janr─▒
+  Favorite season: Favorite season
+  Female: Female
+  File size must be less than 5MB: File size must be less than 5MB
+  First Name: First Name
+  Gender: Cinsiyy╔Öt
+  Image Gallery: Image Gallery
+  Last Name: Last Name
+  Location: Location
+  Male: Male
+  Member: Member
+  My Bonuses: M╔Önim Bonuslar─▒m
+  My Profile: My Profile
+  New Password: New Password
+  Newsletter: Newsletter
+  Notifications: Bildiri┼ƒl╔Ör
+  Other: Other
+  Personal Information: Personal Information
+  Personal Quote: Personal Quote
+  Phone Number: Telefon N├╢mr╔Ösi
+  Please log in to access your profile: Please log in to access your profile
+  Please select an image file: Please select an image file
+  Prefer not to say: Prefer not to say
+  Preferred Currency: Preferred Currency
+  Preferred Language: ├£st├╝n Dil
+  Privacy & Security: Privacy & Security
+  Profile: Profil
+  Profile Images: Profile Images
+  Profile Video: Profile Video
+  Promotional Emails: Promotional Emails
+  Referral Link: Referral Link
+  Remove: Remove
+  Save Changes: Save Changes
+  Security: Security
+  Settings: Parametrl╔Ör
+  Total Earnings: C╔Ömi Qazan─▒lan
+  Two-Factor Authentication: Two-Factor Authentication
+  Unsubscribe: Unsubscribe
+  Update Email: Update Email
+  Upload: Upload
+  Upload failed: Upload failed
+  Upload failed. Please try again.: Upload failed. Please try again.
+  User Menu: User Menu
+  about: About
+  about_simocasino: About Simocasino
+  about_us: Biz Haqq─▒nda
+  about_us_subtitle: Your trusted guide to online casinos since 2020. Expert reviews, bonus comparisons, and gaming tips.
+  about_us_title: ≡ƒæÑ About Simocasino
+  account: Hesab
+  achievements: Nailiyy╔Ötl╔Ör
+  activity_bonus_unlocked_detail: VIP cashback 10%
+  activity_bonus_unlocked_label: New bonus unlocked
+  activity_daily_bonus_label: You claimed daily bonus
+  activity_earned_coins_detail: Daily streak reward
+  activity_earned_coins_label: You earned 30 coins
+  activity_feed_description: Keep scrolling and stay in the loop with your latest milestones.
+  activity_feed_title: Activity Feed
+  activity_reviewed_casino_detail: +50 XP
+  activity_reviewed_casino_label: You reviewed a casino
+  activity_time_2m_ago: 2m ago
+  activity_time_3h_ago: 3h ago
+  activity_time_58m_ago: 58m ago
+  activity_time_yesterday: Yesterday
+  all_rights_reserved: All rights reserved
+  authority_curacao_desc: International licensing authority
+  authority_curacao_title: Curacao eGaming
+  authority_malta_desc: MGA - Gold standard licensing
+  authority_malta_title: Malta Gaming Authority
+  authority_sweden_desc: Spelinspektionen - Player protection focus
+  authority_sweden_title: Swedish Gambling Authority
+  authority_uk_desc: UKGC - Strict regulatory standards
+  authority_uk_title: UK Gambling Commission
+  available_tickets_label: Available tickets
+  best_casinos: Best Online Casinos
+  best_overall_description: Our comprehensive ranking of the best online casinos based on bonuses, games, security, and user experience.
+  best_overall_title: ≡ƒÅå Best Casinos Overall
+  biggest_win_label: ╞Ån B├╢y├╝k Qalib
+  blog: Blog
+  bonus: Bonus
+  bonus_match_desc: Casino matches your deposit (e.g., 100% up to $200)
+  bonus_match_label: ≡ƒÆ░ Match Bonus
+  bonus_package_desc: Combination of match bonus and free spins
+  bonus_package_label: ≡ƒÄü Bonus Package
+  bonus_spins_desc: Free spins on popular slot games
+  bonus_spins_label: ≡ƒÄ░ Free Spins
+  bonus_term_cashout: ≡ƒÆ░ Maximum Cashout - Limits on how much you can withdraw
+  bonus_term_deposit: ≡ƒöÆ Deposit Requirements - Minimum deposit to qualify
+  bonus_term_games: ≡ƒÄ« Game Restrictions - Which games contribute to wagering
+  bonus_term_time: ΓÅ░ Time Limits - How long you have to use the bonus
+  bonus_term_wagering: ≡ƒôï Wagering Requirements - How many times you need to play through the bonus
+  bonuses: Bonuslar
+  bonuses_offers_description: Personalized deals based on your preferences.
+  bonuses_offers_title: Bonuses & Offers
+  careers: Careers
+  chat: Chat
+  claim_bonus: Claim Bonus
+  claim_daily_bonus: G├╝nl├╝k Bonusu M├╝tal╔Ö╔Ö Edin
+  close_to_top_1000: You are close to Top 1000!
+  coins_label: Sikk╔Öl╔Ör
+  community: Community
+  comparisons_description: Compare online casinos side by side. Find the best casino for your needs with our detailed comparison tools.
+  comparisons_title: ΓÜû∩╕Å Casino Comparisons
+  connect: Connect
+  contact: Contact
+  contact_business_desc: Partnership or business opportunities
+  contact_business_title: ≡ƒô¥ Business Inquiries
+  contact_casino_reviews_desc: Want us to review a casino? Contact
+  contact_casino_reviews_title: ≡ƒÄ░ Casino Reviews
+  contact_email_support_desc: For general inquiries, questions, or feedback
+  contact_email_support_title: ≡ƒôº Email Support
+  contact_responsible_desc: Questions about responsible gaming
+  contact_responsible_title: ≡ƒ¢í∩╕Å Responsible Gaming
+  contact_subtitle: Get in touch with the Simocasino team. We're here to help!
+  contact_support: D╔Öst╔Ökl╔Ö ╞Ålaq╔Ö Saxlay─▒n
+  contact_title: ≡ƒôº Contact Us
+  contact_us: Contact Us
+  convert_coins: Convert coins
+  cookie_policy: Cookie Policy
+  criteria_bonuses_desc: Welcome offers & promotions
+  criteria_bonuses_title: Bonuslar
+  criteria_games_desc: Slots, table games & live dealer
+  criteria_games_title: Game Selection
+  criteria_payments_desc: Fast deposits & withdrawals
+  criteria_payments_title: Payments
+  criteria_security_desc: Licensing & fair play
+  criteria_security_title: Security
+  crypto_advantage_amounts: Higher bonus amounts available
+  crypto_advantage_anonymous: Anonymous transactions and gaming
+  crypto_advantage_instant: Instant bonus credits
+  crypto_advantage_kyc: No KYC requirements for many crypto casinos
+  crypto_advantage_wagering: Lower wagering requirements
+  crypto_advantages_title: ≡ƒÜÇ Crypto Bonus Advantages
+  crypto_bitcoin_desc: BTC deposit bonuses
+  crypto_bitcoin_title: Bitcoin Bonuses
+  crypto_bonuses_description: Exclusive cryptocurrency bonuses at online casinos. Bitcoin, Ethereum, and crypto bonuses with fast payouts.
+  crypto_bonuses_title: Γé┐ Crypto Bonuses
+  crypto_casinos_description: Play at the best cryptocurrency casinos. Bitcoin, Ethereum, and other crypto payments with anonymous gaming.
+  crypto_casinos_title: Γé┐ Crypto Casinos
+  crypto_ethereum_desc: ETH exclusive offers
+  crypto_ethereum_title: Ethereum Bonuses
+  crypto_litecoin_desc: LTC fast bonuses
+  crypto_litecoin_title: Litecoin Bonuses
+  crypto_popular_title: Popular Crypto Bonuses
+  crypto_why_fees: ≡ƒÆ░ Lower Fees - Reduced transaction costs
+  crypto_why_global: ≡ƒîì Global Access - No geographic restrictions
+  crypto_why_instant: ΓÜí Instant Transactions - No waiting for bank transfers
+  crypto_why_processing: ≡ƒòÆ 24/7 Processing - Crypto never sleeps
+  crypto_why_security: ≡ƒöÆ Enhanced Security - Blockchain technology
+  crypto_why_title: Why Crypto Bonuses?
+  cta_button: Sign Up Now
+  cta_description: Get exclusive access to the best casino bonuses and promotions.
+  cta_title: Join Thousands of Happy Players
+  current_rank_label: Current rank
+  daily_bonus: Daily Bonus
+  daily_bonus_claimed: Daily Bonus Claimed
+  dashboard: Panell
+  dashboard_hero_subtitle: Your casino hub is loaded with rewards, challenges, and fresh offers.
+  difficulty_beginner: Beginner
+  difficulty_intermediate: Intermediate
+  earnings_label: Qazanmalar
+  edit_profile: Edit profile
+  external_links_notice: We do not offer gambling services. All links redirect to external operators.
+  faq: Tez-tez Soru┼ƒulan Suallar
+  faq_page_description: Find answers to common questions about online casinos, bonuses, and gaming.
+  faq_page_title: Γ¥ô Frequently Asked Questions
+  faq_q1_answer: An online casino is a virtual gambling platform that allows players to bet on casino games through the internet. These platforms offer various games like slots, blackjack, roulette, and more.
+  faq_q1_title: What is an online casino?
+  faq_q2_answer: Reputable online casinos are licensed and regulated by gaming authorities. Always check for proper licensing, SSL encryption, and positive player reviews before playing.
+  faq_q2_title: Are online casinos safe?
+  faq_q3_answer: Casino bonuses are free credits or spins offered by casinos to attract new players or reward existing ones. Common types include welcome bonuses, no deposit bonuses, and free spins.
+  faq_q3_title: What are casino bonuses?
+  faq_q4_answer: Withdrawal methods vary by casino and include bank transfers, credit cards, e-wallets like PayPal, and cryptocurrencies. Processing times range from instant to several days depending on the method.
+  faq_q4_title: How do I withdraw winnings?
+  fast_withdrawal_description: Find casinos with the fastest payout times. Get your winnings quickly with instant and fast withdrawal casinos.
+  fast_withdrawal_title: ΓÜí Fast Withdrawal Casinos
+  favorite_casinos: Favorite Casinos
+  favorites_description: Your followed casinos, recent visits, and top game types.
+  favorites_title: Favorites
+  featured_bonuses: Featured Bonuses
+  followed_casinos_label: Followed Casinos
+  forums: Forums
+  free_spins_bonus: ≡ƒÆ░ Bonus Free Spins - With deposit bonuses
+  free_spins_daily: ≡ƒÄ« Daily Free Spins - Regular promotions
+  free_spins_description: Get free spins at online casinos. No deposit free spins, bonus free spins, and exclusive spin offers for popular slot games.
+  free_spins_no_deposit: ≡ƒÄü No Deposit Free Spins - Play without depositing
+  free_spins_opportunities_title: Free Spins Opportunities:
+  free_spins_title: ≡ƒÄ░ Free Spins
+  free_spins_tournament: ≡ƒÅå Tournament Free Spins - Competition prizes
+  free_spins_vip: Γ¡É VIP Free Spins - Loyalty rewards
+  gambling_can_be_addictive: Gambling can be addictive. Please play responsibly. 18+
+  game_history: Game History
+  gaming: Gaming
+  glossary: Glossary
+  guide_blackjack_excerpt: Master the basics of blackjack and improve your odds with proven strategies.
+  guide_blackjack_title: Blackjack Strategy Guide
+  guide_bonuses_excerpt: Learn about welcome bonuses, free spins, and how to maximize your bonus benefits.
+  guide_bonuses_title: Casino Bonuses Explained
+  guide_responsible_excerpt: Important tips and strategies for maintaining a healthy relationship with gaming.
+  guide_responsible_title: Responsible Gambling
+  guide_slots_excerpt: A beginner-friendly guide to understanding and playing slot machines online.
+  guide_slots_title: How to Play Slots
+  guides: Guides
+  guides_page_subtitle: Learn how to play, maximize bonuses, and gamble responsibly
+  guides_page_title: Casino Guides
+  help_begambleaware: BeGambleAware:
+  help_center: Help Center
+  help_gamblers_anon: Gamblers Anonymous:
+  help_local: Gambling Helpline: Contact your local helpline
+  help_ncpg: National Council on Problem Gambling:
+  help_support_desc: If you or someone you know has a gambling problem, help is available:
+  help_support_title: ≡ƒåÿ Help & Support
+  helpful_votes_label: Helpful votes
+  hero_button: Kazinolar─▒ K╔Ö┼ƒf Edin
+  hero_subtitle: Discover trusted casino reviews, compare welcome offers, and choose the ideal casino for your country and play style.
+  hero_title: Find the Best Online Casinos, Bonuses & Free Spins for 2026
+  high_roller_description: Exclusive high roller casinos for big players. VIP programs, high limits, and premium gaming experiences.
+  high_roller_title: ≡ƒÆÄ High Roller Casinos
+  home: Home
+  how_we_review_description: Learn our comprehensive casino review methodology. Discover how we evaluate bonuses, games, security, and user experience.
+  how_we_review_title: ≡ƒöì How We Review Casinos
+  keep_playing_next_tier: Keep playing and hit the next tier.
+  language_all_languages: All languages
+  language_close: Close language selector
+  language_popular_languages: Popular languages
+  leaderboard: Leaderboard
+  leaderboard_description: See your rank, monthly climb, and reward momentum.
+  leaderboard_title: Leaderboard
+  level_label: S╔Öviyy╔Ö
+  level_up_fast: Level up fast
+  licensing_authorities_title: Licensing Authorities
+  loading_dashboard_description: Please wait while we build your hub.
+  loading_dashboard_title: Loading dashboard...
+  login: Daxil Ol
+  mission_daily_login: Daily login
+  mission_description: Complete these to earn coins, XP and streak boosts.
+  mission_title: Missions & Tasks
+  mission_visit_casinos: Visit 3 casinos
+  mission_write_review: Write 1 review
+  mobile_casinos_description: Play at the best mobile casinos. Enjoy casino games on your smartphone or tablet with optimized mobile experiences.
+  mobile_casinos_title: ≡ƒô▒ Mobile Casinos
+  monthly_performance_label: Monthly performance
+  monthly_raffle: Monthly raffle
+  no_deposit_bonus_description: Get no deposit bonuses at online casinos. Play for free with cash bonuses and free spins without making a deposit.
+  no_deposit_bonus_title: ≡ƒÄü No Deposit Bonus
+  no_deposit_cash: ≡ƒÆ╡ Cash Bonuses - Real money to play with
+  no_deposit_freeplay: ≡ƒÄ« Free Play - Access to casino games
+  no_deposit_spins: ≡ƒÄ░ Free Spins - Spin slot machines for free
+  no_deposit_tournament: ≡ƒÅå Tournament Entries - Compete in tournaments
+  no_deposit_types_title: Types of No Deposit Bonuses:
+  no_deposit_what_desc: A no deposit bonus allows you to play casino games for free without making an initial deposit. These bonuses come in various forms including free spins, cash bonuses, and free play credits.
+  no_deposit_what_title: What is a No Deposit Bonus?
+  no_kyc_casinos_description: Play at casinos without Know Your Customer verification. Anonymous gaming with no identity checks required.
+  no_kyc_casinos_title: ≡ƒÜ½ No KYC Casinos
+  notification_new_casino_update: New casino update
+  notification_new_casino_update_detail: VIP payout time reduced to 24h.
+  notification_personalized_offer: Personalized offer
+  notification_personalized_offer_detail: Recommended bonus just for you.
+  notification_reminder: Reminder
+  notification_reminder_detail: Complete your profile to earn extra coins.
+  notifications_community_description: Stay informed with platform alerts and social updates.
+  notifications_community_title: Notifications & Community
+  our_team: Our Team
+  play_games: Play Games
+  play_responsibly: Play Responsibly
+  player_default: Oyun├ºu
+  preferred_games_label: Preferred Games
+  press: Press
+  privacy_description: Read our privacy policy to understand how we collect, use, and protect your personal information.
+  privacy_policy: Gizlilik Siyas╔Öti
+  privacy_title: ≡ƒöÆ Privacy Policy
+  problem_gambling_signs_title: ≡ƒÜ¿ Signs of Problem Gambling
+  profile: Profil
+  progress_gamification_title: Progress & Gamification
+  quick_actions_description: Jump into the core actions that drive engagement.
+  quick_actions_title: Quick Actions
+  raffles_tickets_description: Track your ticket status and upcoming draws.
+  raffles_tickets_title: Raffles & Tickets
+  ranking_criteria_title: Ranking Criteria
+  ready_for_next_tier: You are ready for the next tier.
+  recent_games: Recent Games
+  recent_visits_label: Recent Visits
+  recommended_for_play_style: Recommended for your play style.
+  register: Register
+  resources: Resources
+  responsible_gambling: Responsible Gambling
+  responsible_gambling_description: Play responsibly at online casinos. Learn about gambling addiction, self-exclusion, and responsible gaming practices.
+  responsible_gambling_title: ≡ƒ¢í∩╕Å Responsible Gambling
+  responsible_gaming_tips_title: ≡ƒÆí Responsible Gaming Tips
+  reviews: Reviews
+  reviews_label: Reviews
+  rewards: M├╝kafatlar
+  rewards_history_label: Rewards history
+  security: Security
+  select_language: Select Language
+  settings: Parametrl╔Ör
+  shop_rewards_description: Convert coins, buy tickets and track your reward balance.
+  shop_rewards_title: Shop & Rewards
+  sidebar_about_us_menu: Biz Haqq─▒nda
+  sidebar_all_online_casinos: All Online Casinos
+  sidebar_australia: Australia
+  sidebar_bank_transfer: Bank Transfer
+  sidebar_bankroll_simulator: Bankroll Simulator
+  sidebar_best_casinos_overall: Best Casinos Overall
+  sidebar_best_for_beginners: Best for Beginners
+  sidebar_best_high_roller: Best High Roller Casinos
+  sidebar_betting_calculator: Betting Calculator
+  sidebar_bitcoin_casinos: Bitcoin Casinos
+  sidebar_blog_menu: Blog
+  sidebar_bonuses: BONUSES
+  sidebar_canada: Canada
+  sidebar_cashback_offers: Cashback Offers
+  sidebar_casinos: CASINOs
+  sidebar_comparisons_menu: Comparisons
+  sidebar_contact_menu: Contact
+  sidebar_countries: COUNTRIES
+  sidebar_crypto_bonuses_menu: Crypto Bonuses
+  sidebar_faq_menu: Tez-tez Soru┼ƒulan Suallar
+  sidebar_fast_withdrawal_casinos: Fast Withdrawal Casinos
+  sidebar_fastest_payout: Fastest Payout Casinos
+  sidebar_free_spins_menu: Pulsuz F─▒rlanmalar
+  sidebar_germany: Germany
+  sidebar_guides_menu: Guides
+  sidebar_high_roller_bonuses: High Roller Bonuses
+  sidebar_how_we_review_menu: Biz Nec╔Ö Bax─▒r─▒q
+  sidebar_live_casinos: Live Casinos
+  sidebar_low_deposit: Low Deposit Casinos ($1 / $5)
+  sidebar_main: MAIN
+  sidebar_mobile_casinos_menu: Mobil Kazinolar─▒
+  sidebar_morocco: Morocco
+  sidebar_netherlands: Netherlands
+  sidebar_new_casinos: New Casinos
+  sidebar_no_deposit_bonus: No Deposit Bonus
+  sidebar_no_kyc_casinos: No KYC Casinos
+  sidebar_odds_converter: Odds Converter
+  sidebar_payment_methods: PAYMENT METHODS
+  sidebar_paypal_casinos: PayPal Casinos
+  sidebar_resources: RESOURCES
+  sidebar_responsible_gambling_menu: Responsible Gambling
+  sidebar_reviews_menu: Reviews
+  sidebar_rtp_calculator: RTP Calculator
+  sidebar_skrill_neteller: Skrill / Neteller
+  sidebar_strategies: Strategies
+  sidebar_tools: TOOLS
+  sidebar_top_casinos_2026: Top Casinos 2026
+  sidebar_top_lists: TOP LISTS
+  sidebar_trust_info: TRUST & INFO
+  sidebar_trusted_casinos_menu: Etibar Edil╔Ön Kazinolar─▒
+  sidebar_united_kingdom: United Kingdom
+  sidebar_united_states: United States
+  sidebar_view_all_countries: View All Countries
+  sidebar_visa_mastercard: Visa / Mastercard
+  sidebar_welcome_bonus: Xo┼ƒ G╔Öldiniz Bonusu
+  sign_afford: Gambling more than you can afford
+  sign_anxious: Feeling anxious or depressed about gambling
+  sign_chasing: Chasing losses to win back money
+  sign_lying: Lying about gambling activities
+  sign_neglecting: Neglecting responsibilities due to gambling
+  sign_thinking: Thinking about gambling constantly
+  slot_categories_title: Slot Categories
+  slot_category_branded: Branded
+  slot_category_branded_desc: Movie and TV themed slots
+  slot_category_megaways: Megaways
+  slot_category_megaways_desc: Dynamic reel slots
+  slot_category_progressive: T╔Ödrici
+  slot_category_progressive_desc: Growing jackpot slots
+  slot_category_rtp: High RTP
+  slot_category_rtp_desc: Best return to player rates
+  slot_factor_features: ≡ƒÄ« Game Features - Bonus rounds and special symbols
+  slot_factor_graphics: ≡ƒÄ¿ Graphics & Sound - Visual and audio quality
+  slot_factor_jackpot: ≡ƒÆ░ Jackpot Size - Maximum payout potential
+  slot_factor_ratings: Γ¡É Player Ratings - User reviews and popularity
+  slot_factor_rtp: ≡ƒÄ» RTP Percentage - Return to player rates
+  slot_factor_volatility: ≡ƒôè Volatility Level - Risk and reward balance
+  slot_ranking_factors_title: Slot Ranking Factors
+  status_completed: Completed
+  status_in_progress: In progress
+  status_open: Open
+  status_page: Status Page
+  support_center: Support Center
+  terms_description: Read our terms of service to understand the rules and conditions for using Simocasino.
+  terms_of_service: Terms of Service
+  terms_title: ≡ƒôï Terms of Service
+  tip_breaks: Take regular breaks from gambling
+  tip_budget: Set a budget and stick to it
+  tip_chase_losses: Don't chase losses
+  tip_essentials: Never gamble with money needed for essentials
+  tip_fun: Gambling should be fun, not stressful
+  tip_self_exclusion: Use self-exclusion tools if needed
+  top_rankings_coming_soon: Coming Soon: Top Casino Rankings
+  top_rankings_coming_soon_desc: We're currently compiling comprehensive reviews of the best online casinos. Our rankings will include detailed analysis of bonuses, game libraries, payment methods, customer support, and overall user experience.
+  top_slots_description: Discover the best online slots of 2024. Our rankings of top slot games by RTP, volatility, and player ratings.
+  top_slots_title: ≡ƒÄ░ Top Slots
+  track_level_streak: Track your level, streak, and achievements in one addictive view.
+  trust_indicator_fair: ≡ƒÄ░ Fair Gaming - Certified random number generators
+  trust_indicator_licensing: ≡ƒô£ Valid Licensing - Regulated by reputable authorities
+  trust_indicator_longevity: Γ¡É Longevity - Established operators with proven track records
+  trust_indicator_payments: ≡ƒÆ░ Responsible Payments - Reliable withdrawal processing
+  trust_indicator_ssl: ≡ƒöÆ SSL Encryption - Secure data transmission
+  trust_indicator_support: ≡ƒô₧ 24/7 Support - Professional customer service
+  trust_indicators_title: Trust Indicators
+  trusted_casinos_description: Play at the most trusted online casinos. Licensed, secure, and reputable operators with proven track records.
+  trusted_casinos_title: ≡ƒ¢í∩╕Å Trusted Casinos
+  user_account: ACCOUNT
+  user_account_activity: Account Activity
+  user_activity: ACTIVITY
+  user_affiliate: AFFILIATE
+  user_affiliate_dashboard: Affiliate Dashboard
+  user_affiliate_links: Affiliate Links
+  user_bonus_history: Bonus Tarixi
+  user_dashboard: Panell
+  user_edit_profile: Profili Redakt╔Ö Edin
+  user_favorites: Favorites
+  user_instructions: Instructions
+  user_loading: Loading...
+  user_marketing_tools: Marketing Tools
+  user_member_tier: Member
+  user_messages: Messages
+  user_no_email: No email available
+  user_notifications: Bildiri┼ƒl╔Ör
+  user_payout_settings: Payout Settings
+  user_play_history: Play History
+  user_referrals: Referrals
+  user_reports: Reports
+  user_reviews: Reviews
+  user_reward_center: Reward Center
+  user_security: Security
+  user_settings: Parametrl╔Ör
+  user_stats_description: Top six stats that matter most to your casino journey.
+  user_stats_title: User Stats
+  user_support: SUPPORT
+  user_support_tickets: Support Tickets
+  vip_draw: VIP draw
+  visit_casino: Visit Casino
+  wallet_balance_label: Wallet balance
+  welcome: Welcome to Simocasino
+  welcome_back: Welcome Back
+  welcome_bonus_description: Get the best welcome bonuses at online casinos. Compare welcome offers, match bonuses, and free spins for new players.
+  welcome_bonus_terms_title: Welcome Bonus Terms
+  welcome_bonus_title: ≡ƒæï Welcome Bonus
+  welcome_bonus_types_title: Types of Welcome Bonuses
+  what_is_responsible_gambling_desc: Responsible gambling means understanding that gambling is a form of entertainment, not a way to make money. It involves setting limits, recognizing when gambling becomes a problem, and knowing when to stop.
+  what_is_responsible_gambling_title: ≡ƒÄ» What is Responsible Gambling?
+  win_rate_label: Win rate
+  write_review: Write Review
+  xp_progress_label: XP progress
+
+Total: 490
+
+============================================================
+English values in bg:
+============================================================
+  Favorite season: Favorite season
+  Female: Female
+  First Name: First Name
+  Image Gallery: Image Gallery
+  Last Name: Last Name
+  Location: Location
+  Male: Male
+  Member: Member
+  My Profile: My Profile
+  New Password: New Password
+  Newsletter: Newsletter
+  Other: Other
+  Personal Information: Personal Information
+  Personal Quote: Personal Quote
+  Please log in to access your profile: Please log in to access your profile
+  Prefer not to say: Prefer not to say
+  Preferred Currency: Preferred Currency
+  Privacy & Security: Privacy & Security
+  Profile Images: Profile Images
+  Profile Video: Profile Video
+  Promotional Emails: Promotional Emails
+  Referral Link: Referral Link
+  Save Changes: Save Changes
+  Security: Security
+  Two-Factor Authentication: Two-Factor Authentication
+  Unsubscribe: Unsubscribe
+  Update Email: Update Email
+  User Menu: User Menu
+  about_us_subtitle: Your trusted guide to online casinos since 2020. Expert reviews, bonus comparisons, and gaming tips.
+  about_us_title: ≡ƒæÑ About Simocasino
+  activity_bonus_unlocked_detail: VIP cashback 10%
+  activity_bonus_unlocked_label: New bonus unlocked
+  activity_daily_bonus_label: You claimed daily bonus
+  activity_earned_coins_detail: Daily streak reward
+  activity_earned_coins_label: You earned 30 coins
+  activity_feed_description: Keep scrolling and stay in the loop with your latest milestones.
+  activity_feed_title: Activity Feed
+  activity_reviewed_casino_detail: +50 XP
+  activity_reviewed_casino_label: You reviewed a casino
+  activity_time_2m_ago: 2m ago
+  activity_time_3h_ago: 3h ago
+  activity_time_58m_ago: 58m ago
+  activity_time_yesterday: Yesterday
+  authority_curacao_desc: International licensing authority
+  authority_curacao_title: Curacao eGaming
+  authority_malta_desc: MGA - Gold standard licensing
+  authority_malta_title: Malta Gaming Authority
+  authority_sweden_desc: Spelinspektionen - Player protection focus
+  authority_sweden_title: Swedish Gambling Authority
+  authority_uk_desc: UKGC - Strict regulatory standards
+  authority_uk_title: UK Gambling Commission
+  available_tickets_label: Available tickets
+  best_overall_description: Our comprehensive ranking of the best online casinos based on bonuses, games, security, and user experience.
+  best_overall_title: ≡ƒÅå Best Casinos Overall
+  bonus_match_desc: Casino matches your deposit (e.g., 100% up to $200)
+  bonus_match_label: ≡ƒÆ░ Match Bonus
+  bonus_package_desc: Combination of match bonus and free spins
+  bonus_package_label: ≡ƒÄü Bonus Package
+  bonus_spins_desc: Free spins on popular slot games
+  bonus_spins_label: ≡ƒÄ░ Free Spins
+  bonus_term_cashout: ≡ƒÆ░ Maximum Cashout - Limits on how much you can withdraw
+  bonus_term_deposit: ≡ƒöÆ Deposit Requirements - Minimum deposit to qualify
+  bonus_term_games: ≡ƒÄ« Game Restrictions - Which games contribute to wagering
+  bonus_term_time: ΓÅ░ Time Limits - How long you have to use the bonus
+  bonus_term_wagering: ≡ƒôï Wagering Requirements - How many times you need to play through the bonus
+  bonuses_offers_description: Personalized deals based on your preferences.
+  bonuses_offers_title: Bonuses & Offers
+  claim_bonus: Claim Bonus
+  close_to_top_1000: You are close to Top 1000!
+  comparisons_description: Compare online casinos side by side. Find the best casino for your needs with our detailed comparison tools.
+  comparisons_title: ΓÜû∩╕Å Casino Comparisons
+  contact_business_desc: Partnership or business opportunities
+  contact_business_title: ≡ƒô¥ Business Inquiries
+  contact_casino_reviews_desc: Want us to review a casino? Contact
+  contact_casino_reviews_title: ≡ƒÄ░ Casino Reviews
+  contact_email_support_desc: For general inquiries, questions, or feedback
+  contact_email_support_title: ≡ƒôº Email Support
+  contact_responsible_desc: Questions about responsible gaming
+  contact_responsible_title: ≡ƒ¢í∩╕Å Responsible Gaming
+  contact_subtitle: Get in touch with the Simocasino team. We're here to help!
+  contact_title: ≡ƒôº Contact Us
+  convert_coins: Convert coins
+  criteria_bonuses_desc: Welcome offers & promotions
+  criteria_games_desc: Slots, table games & live dealer
+  criteria_games_title: Game Selection
+  criteria_payments_desc: Fast deposits & withdrawals
+  criteria_payments_title: Payments
+  criteria_security_desc: Licensing & fair play
+  criteria_security_title: Security
+  crypto_advantage_amounts: Higher bonus amounts available
+  crypto_advantage_anonymous: Anonymous transactions and gaming
+  crypto_advantage_instant: Instant bonus credits
+  crypto_advantage_kyc: No KYC requirements for many crypto casinos
+  crypto_advantage_wagering: Lower wagering requirements
+  crypto_advantages_title: ≡ƒÜÇ Crypto Bonus Advantages
+  crypto_bitcoin_desc: BTC deposit bonuses
+  crypto_bitcoin_title: Bitcoin Bonuses
+  crypto_bonuses_description: Exclusive cryptocurrency bonuses at online casinos. Bitcoin, Ethereum, and crypto bonuses with fast payouts.
+  crypto_bonuses_title: Γé┐ Crypto Bonuses
+  crypto_casinos_description: Play at the best cryptocurrency casinos. Bitcoin, Ethereum, and other crypto payments with anonymous gaming.
+  crypto_casinos_title: Γé┐ Crypto Casinos
+  crypto_ethereum_desc: ETH exclusive offers
+  crypto_ethereum_title: Ethereum Bonuses
+  crypto_litecoin_desc: LTC fast bonuses
+  crypto_litecoin_title: Litecoin Bonuses
+  crypto_popular_title: Popular Crypto Bonuses
+  crypto_why_fees: ≡ƒÆ░ Lower Fees - Reduced transaction costs
+  crypto_why_global: ≡ƒîì Global Access - No geographic restrictions
+  crypto_why_instant: ΓÜí Instant Transactions - No waiting for bank transfers
+  crypto_why_processing: ≡ƒòÆ 24/7 Processing - Crypto never sleeps
+  crypto_why_security: ≡ƒöÆ Enhanced Security - Blockchain technology
+  crypto_why_title: Why Crypto Bonuses?
+  cta_button: Sign Up Now
+  cta_description: Get exclusive access to the best casino bonuses and promotions.
+  cta_title: Join Thousands of Happy Players
+  current_rank_label: Current rank
+  daily_bonus_claimed: Daily Bonus Claimed
+  dashboard_hero_subtitle: Your casino hub is loaded with rewards, challenges, and fresh offers.
+  difficulty_beginner: Beginner
+  difficulty_intermediate: Intermediate
+  edit_profile: Edit profile
+  faq_page_description: Find answers to common questions about online casinos, bonuses, and gaming.
+  faq_page_title: Γ¥ô Frequently Asked Questions
+  faq_q1_answer: An online casino is a virtual gambling platform that allows players to bet on casino games through the internet. These platforms offer various games like slots, blackjack, roulette, and more.
+  faq_q1_title: What is an online casino?
+  faq_q2_answer: Reputable online casinos are licensed and regulated by gaming authorities. Always check for proper licensing, SSL encryption, and positive player reviews before playing.
+  faq_q2_title: Are online casinos safe?
+  faq_q3_answer: Casino bonuses are free credits or spins offered by casinos to attract new players or reward existing ones. Common types include welcome bonuses, no deposit bonuses, and free spins.
+  faq_q3_title: What are casino bonuses?
+  faq_q4_answer: Withdrawal methods vary by casino and include bank transfers, credit cards, e-wallets like PayPal, and cryptocurrencies. Processing times range from instant to several days depending on the method.
+  faq_q4_title: How do I withdraw winnings?
+  fast_withdrawal_description: Find casinos with the fastest payout times. Get your winnings quickly with instant and fast withdrawal casinos.
+  fast_withdrawal_title: ΓÜí Fast Withdrawal Casinos
+  favorites_description: Your followed casinos, recent visits, and top game types.
+  favorites_title: Favorites
+  featured_bonuses: Featured Bonuses
+  followed_casinos_label: Followed Casinos
+  free_spins_bonus: ≡ƒÆ░ Bonus Free Spins - With deposit bonuses
+  free_spins_daily: ≡ƒÄ« Daily Free Spins - Regular promotions
+  free_spins_description: Get free spins at online casinos. No deposit free spins, bonus free spins, and exclusive spin offers for popular slot games.
+  free_spins_no_deposit: ≡ƒÄü No Deposit Free Spins - Play without depositing
+  free_spins_opportunities_title: Free Spins Opportunities:
+  free_spins_title: ≡ƒÄ░ Free Spins
+  free_spins_tournament: ≡ƒÅå Tournament Free Spins - Competition prizes
+  free_spins_vip: Γ¡É VIP Free Spins - Loyalty rewards
+  guide_blackjack_excerpt: Master the basics of blackjack and improve your odds with proven strategies.
+  guide_blackjack_title: Blackjack Strategy Guide
+  guide_bonuses_excerpt: Learn about welcome bonuses, free spins, and how to maximize your bonus benefits.
+  guide_bonuses_title: Casino Bonuses Explained
+  guide_responsible_excerpt: Important tips and strategies for maintaining a healthy relationship with gaming.
+  guide_responsible_title: Responsible Gambling
+  guide_slots_excerpt: A beginner-friendly guide to understanding and playing slot machines online.
+  guide_slots_title: How to Play Slots
+  guides_page_subtitle: Learn how to play, maximize bonuses, and gamble responsibly
+  guides_page_title: Casino Guides
+  help_begambleaware: BeGambleAware:
+  help_gamblers_anon: Gamblers Anonymous:
+  help_local: Gambling Helpline: Contact your local helpline
+  help_ncpg: National Council on Problem Gambling:
+  help_support_desc: If you or someone you know has a gambling problem, help is available:
+  help_support_title: ≡ƒåÿ Help & Support
+  helpful_votes_label: Helpful votes
+  hero_subtitle: Discover trusted casino reviews, compare welcome offers, and choose the ideal casino for your country and play style.
+  hero_title: Find the Best Online Casinos, Bonuses & Free Spins for 2026
+  high_roller_description: Exclusive high roller casinos for big players. VIP programs, high limits, and premium gaming experiences.
+  high_roller_title: ≡ƒÆÄ High Roller Casinos
+  how_we_review_description: Learn our comprehensive casino review methodology. Discover how we evaluate bonuses, games, security, and user experience.
+  how_we_review_title: ≡ƒöì How We Review Casinos
+  keep_playing_next_tier: Keep playing and hit the next tier.
+  language_all_languages: All languages
+  language_close: Close language selector
+  language_popular_languages: Popular languages
+  leaderboard_description: See your rank, monthly climb, and reward momentum.
+  leaderboard_title: Leaderboard
+  level_up_fast: Level up fast
+  licensing_authorities_title: Licensing Authorities
+  loading_dashboard_description: Please wait while we build your hub.
+  loading_dashboard_title: Loading dashboard...
+  mission_daily_login: Daily login
+  mission_description: Complete these to earn coins, XP and streak boosts.
+  mission_title: Missions & Tasks
+  mission_visit_casinos: Visit 3 casinos
+  mission_write_review: Write 1 review
+  mobile_casinos_description: Play at the best mobile casinos. Enjoy casino games on your smartphone or tablet with optimized mobile experiences.
+  mobile_casinos_title: ≡ƒô▒ Mobile Casinos
+  monthly_performance_label: Monthly performance
+  monthly_raffle: Monthly raffle
+  no_deposit_bonus_description: Get no deposit bonuses at online casinos. Play for free with cash bonuses and free spins without making a deposit.
+  no_deposit_bonus_title: ≡ƒÄü No Deposit Bonus
+  no_deposit_cash: ≡ƒÆ╡ Cash Bonuses - Real money to play with
+  no_deposit_freeplay: ≡ƒÄ« Free Play - Access to casino games
+  no_deposit_spins: ≡ƒÄ░ Free Spins - Spin slot machines for free
+  no_deposit_tournament: ≡ƒÅå Tournament Entries - Compete in tournaments
+  no_deposit_types_title: Types of No Deposit Bonuses:
+  no_deposit_what_desc: A no deposit bonus allows you to play casino games for free without making an initial deposit. These bonuses come in various forms including free spins, cash bonuses, and free play credits.
+  no_deposit_what_title: What is a No Deposit Bonus?
+  no_kyc_casinos_description: Play at casinos without Know Your Customer verification. Anonymous gaming with no identity checks required.
+  no_kyc_casinos_title: ≡ƒÜ½ No KYC Casinos
+  notification_new_casino_update: New casino update
+  notification_new_casino_update_detail: VIP payout time reduced to 24h.
+  notification_personalized_offer: Personalized offer
+  notification_personalized_offer_detail: Recommended bonus just for you.
+  notification_reminder: Reminder
+  notification_reminder_detail: Complete your profile to earn extra coins.
+  notifications_community_description: Stay informed with platform alerts and social updates.
+  notifications_community_title: Notifications & Community
+  play_games: Play Games
+  preferred_games_label: Preferred Games
+  privacy_description: Read our privacy policy to understand how we collect, use, and protect your personal information.
+  privacy_title: ≡ƒöÆ Privacy Policy
+  problem_gambling_signs_title: ≡ƒÜ¿ Signs of Problem Gambling
+  progress_gamification_title: Progress & Gamification
+  quick_actions_description: Jump into the core actions that drive engagement.
+  quick_actions_title: Quick Actions
+  raffles_tickets_description: Track your ticket status and upcoming draws.
+  raffles_tickets_title: Raffles & Tickets
+  ranking_criteria_title: Ranking Criteria
+  ready_for_next_tier: You are ready for the next tier.
+  recent_visits_label: Recent Visits
+  recommended_for_play_style: Recommended for your play style.
+  resources: Resources
+  responsible_gambling_description: Play responsibly at online casinos. Learn about gambling addiction, self-exclusion, and responsible gaming practices.
+  responsible_gambling_title: ≡ƒ¢í∩╕Å Responsible Gambling
+  responsible_gaming_tips_title: ≡ƒÆí Responsible Gaming Tips
+  reviews_label: Reviews
+  rewards_history_label: Rewards history
+  shop_rewards_description: Convert coins, buy tickets and track your reward balance.
+  shop_rewards_title: Shop & Rewards
+  sidebar_all_online_casinos: All Online Casinos
+  sidebar_australia: Australia
+  sidebar_bank_transfer: Bank Transfer
+  sidebar_bankroll_simulator: Bankroll Simulator
+  sidebar_best_casinos_overall: Best Casinos Overall
+  sidebar_best_for_beginners: Best for Beginners
+  sidebar_best_high_roller: Best High Roller Casinos
+  sidebar_betting_calculator: Betting Calculator
+  sidebar_bitcoin_casinos: Bitcoin Casinos
+  sidebar_blog_menu: Blog
+  sidebar_bonuses: BONUSES
+  sidebar_canada: Canada
+  sidebar_cashback_offers: Cashback Offers
+  sidebar_casinos: CASINOs
+  sidebar_comparisons_menu: Comparisons
+  sidebar_contact_menu: Contact
+  sidebar_countries: COUNTRIES
+  sidebar_crypto_bonuses_menu: Crypto Bonuses
+  sidebar_fast_withdrawal_casinos: Fast Withdrawal Casinos
+  sidebar_fastest_payout: Fastest Payout Casinos
+  sidebar_germany: Germany
+  sidebar_guides_menu: Guides
+  sidebar_high_roller_bonuses: High Roller Bonuses
+  sidebar_live_casinos: Live Casinos
+  sidebar_low_deposit: Low Deposit Casinos ($1 / $5)
+  sidebar_main: MAIN
+  sidebar_morocco: Morocco
+  sidebar_netherlands: Netherlands
+  sidebar_new_casinos: New Casinos
+  sidebar_no_deposit_bonus: No Deposit Bonus
+  sidebar_no_kyc_casinos: No KYC Casinos
+  sidebar_odds_converter: Odds Converter
+  sidebar_payment_methods: PAYMENT METHODS
+  sidebar_paypal_casinos: PayPal Casinos
+  sidebar_resources: RESOURCES
+  sidebar_responsible_gambling_menu: Responsible Gambling
+  sidebar_reviews_menu: Reviews
+  sidebar_rtp_calculator: RTP Calculator
+  sidebar_skrill_neteller: Skrill / Neteller
+  sidebar_strategies: Strategies
+  sidebar_tools: TOOLS
+  sidebar_top_casinos_2026: Top Casinos 2026
+  sidebar_top_lists: TOP LISTS
+  sidebar_trust_info: TRUST & INFO
+  sidebar_united_kingdom: United Kingdom
+  sidebar_united_states: United States
+  sidebar_view_all_countries: View All Countries
+  sidebar_visa_mastercard: Visa / Mastercard
+  sign_afford: Gambling more than you can afford
+  sign_anxious: Feeling anxious or depressed about gambling
+  sign_chasing: Chasing losses to win back money
+  sign_lying: Lying about gambling activities
+  sign_neglecting: Neglecting responsibilities due to gambling
+  sign_thinking: Thinking about gambling constantly
+  slot_categories_title: Slot Categories
+  slot_category_branded: Branded
+  slot_category_branded_desc: Movie and TV themed slots
+  slot_category_megaways: Megaways
+  slot_category_megaways_desc: Dynamic reel slots
+  slot_category_progressive_desc: Growing jackpot slots
+  slot_category_rtp: High RTP
+  slot_category_rtp_desc: Best return to player rates
+  slot_factor_features: ≡ƒÄ« Game Features - Bonus rounds and special symbols
+  slot_factor_graphics: ≡ƒÄ¿ Graphics & Sound - Visual and audio quality
+  slot_factor_jackpot: ≡ƒÆ░ Jackpot Size - Maximum payout potential
+  slot_factor_ratings: Γ¡É Player Ratings - User reviews and popularity
+  slot_factor_rtp: ≡ƒÄ» RTP Percentage - Return to player rates
+  slot_factor_volatility: ≡ƒôè Volatility Level - Risk and reward balance
+  slot_ranking_factors_title: Slot Ranking Factors
+  status_completed: Completed
+  status_in_progress: In progress
+  status_open: Open
+  terms_description: Read our terms of service to understand the rules and conditions for using Simocasino.
+  terms_title: ≡ƒôï Terms of Service
+  tip_breaks: Take regular breaks from gambling
+  tip_budget: Set a budget and stick to it
+  tip_chase_losses: Don't chase losses
+  tip_essentials: Never gamble with money needed for essentials
+  tip_fun: Gambling should be fun, not stressful
+  tip_self_exclusion: Use self-exclusion tools if needed
+  top_rankings_coming_soon: Coming Soon: Top Casino Rankings
+  top_rankings_coming_soon_desc: We're currently compiling comprehensive reviews of the best online casinos. Our rankings will include detailed analysis of bonuses, game libraries, payment methods, customer support, and overall user experience.
+  top_slots_description: Discover the best online slots of 2024. Our rankings of top slot games by RTP, volatility, and player ratings.
+  top_slots_title: ≡ƒÄ░ Top Slots
+  track_level_streak: Track your level, streak, and achievements in one addictive view.
+  trust_indicator_fair: ≡ƒÄ░ Fair Gaming - Certified random number generators
+  trust_indicator_licensing: ≡ƒô£ Valid Licensing - Regulated by reputable authorities
+  trust_indicator_longevity: Γ¡É Longevity - Established operators with proven track records
+  trust_indicator_payments: ≡ƒÆ░ Responsible Payments - Reliable withdrawal processing
+  trust_indicator_ssl: ≡ƒöÆ SSL Encryption - Secure data transmission
+  trust_indicator_support: ≡ƒô₧ 24/7 Support - Professional customer service
+  trust_indicators_title: Trust Indicators
+  trusted_casinos_description: Play at the most trusted online casinos. Licensed, secure, and reputable operators with proven track records.
+  trusted_casinos_title: ≡ƒ¢í∩╕Å Trusted Casinos
+  user_account: ACCOUNT
+  user_account_activity: Account Activity
+  user_activity: ACTIVITY
+  user_affiliate: AFFILIATE
+  user_affiliate_dashboard: Affiliate Dashboard
+  user_affiliate_links: Affiliate Links
+  user_favorites: Favorites
+  user_instructions: Instructions
+  user_loading: Loading...
+  user_marketing_tools: Marketing Tools
+  user_member_tier: Member
+  user_messages: Messages
+  user_no_email: No email available
+  user_payout_settings: Payout Settings
+  user_play_history: Play History
+  user_referrals: Referrals
+  user_reports: Reports
+  user_reviews: Reviews
+  user_reward_center: Reward Center
+  user_security: Security
+  user_stats_description: Top six stats that matter most to your casino journey.
+  user_stats_title: User Stats
+  user_support: SUPPORT
+  user_support_tickets: Support Tickets
+  vip_draw: VIP draw
+  wallet_balance_label: Wallet balance
+  welcome_bonus_description: Get the best welcome bonuses at online casinos. Compare welcome offers, match bonuses, and free spins for new players.
+  welcome_bonus_terms_title: Welcome Bonus Terms
+  welcome_bonus_title: ≡ƒæï Welcome Bonus
+  welcome_bonus_types_title: Types of Welcome Bonuses
+  what_is_responsible_gambling_desc: Responsible gambling means understanding that gambling is a form of entertainment, not a way to make money. It involves setting limits, recognizing when gambling becomes a problem, and knowing when to stop.
+  what_is_responsible_gambling_title: ≡ƒÄ» What is Responsible Gambling?
+  win_rate_label: Win rate
+  write_review: Write Review
+  xp_progress_label: XP progress
+
+Total: 357
+
+============================================================
+English values in bn:
+============================================================
+  Favorite season: Favorite season
+  Female: Female
+  First Name: First Name
+  Image Gallery: Image Gallery
+  Last Name: Last Name
+  Location: Location
+  Male: Male
+  Member: Member
+  My Profile: My Profile
+  New Password: New Password
+  Newsletter: Newsletter
+  Other: Other
+  Personal Information: Personal Information
+  Personal Quote: Personal Quote
+  Please log in to access your profile: Please log in to access your profile
+  Prefer not to say: Prefer not to say
+  Preferred Currency: Preferred Currency
+  Privacy & Security: Privacy & Security
+  Profile Images: Profile Images
+  Profile Video: Profile Video
+  Promotional Emails: Promotional Emails
+  Referral Link: Referral Link
+  Save Changes: Save Changes
+  Security: Security
+  Two-Factor Authentication: Two-Factor Authentication
+  Unsubscribe: Unsubscribe
+  Update Email: Update Email
+  User Menu: User Menu
+  about_us_subtitle: Your trusted guide to online casinos since 2020. Expert reviews, bonus comparisons, and gaming tips.
+  about_us_title: ≡ƒæÑ About Simocasino
+  activity_bonus_unlocked_detail: VIP cashback 10%
+  activity_bonus_unlocked_label: New bonus unlocked
+  activity_daily_bonus_label: You claimed daily bonus
+  activity_earned_coins_detail: Daily streak reward
+  activity_earned_coins_label: You earned 30 coins
+  activity_feed_description: Keep scrolling and stay in the loop with your latest milestones.
+  activity_feed_title: Activity Feed
+  activity_reviewed_casino_detail: +50 XP
+  activity_reviewed_casino_label: You reviewed a casino
+  activity_time_2m_ago: 2m ago
+  activity_time_3h_ago: 3h ago
+  activity_time_58m_ago: 58m ago
+  activity_time_yesterday: Yesterday
+  authority_curacao_desc: International licensing authority
+  authority_curacao_title: Curacao eGaming
+  authority_malta_desc: MGA - Gold standard licensing
+  authority_malta_title: Malta Gaming Authority
+  authority_sweden_desc: Spelinspektionen - Player protection focus
+  authority_sweden_title: Swedish Gambling Authority
+  authority_uk_desc: UKGC - Strict regulatory standards
+  authority_uk_title: UK Gambling Commission
+  available_tickets_label: Available tickets
+  best_overall_description: Our comprehensive ranking of the best online casinos based on bonuses, games, security, and user experience.
+  best_overall_title: ≡ƒÅå Best Casinos Overall
+  bonus_match_desc: Casino matches your deposit (e.g., 100% up to $200)
+  bonus_match_label: ≡ƒÆ░ Match Bonus
+  bonus_package_desc: Combination of match bonus and free spins
+  bonus_package_label: ≡ƒÄü Bonus Package
+  bonus_spins_desc: Free spins on popular slot games
+  bonus_spins_label: ≡ƒÄ░ Free Spins
+  bonus_term_cashout: ≡ƒÆ░ Maximum Cashout - Limits on how much you can withdraw
+  bonus_term_deposit: ≡ƒöÆ Deposit Requirements - Minimum deposit to qualify
+  bonus_term_games: ≡ƒÄ« Game Restrictions - Which games contribute to wagering
+  bonus_term_time: ΓÅ░ Time Limits - How long you have to use the bonus
+  bonus_term_wagering: ≡ƒôï Wagering Requirements - How many times you need to play through the bonus
+  bonuses_offers_description: Personalized deals based on your preferences.
+  bonuses_offers_title: Bonuses & Offers
+  claim_bonus: Claim Bonus
+  close_to_top_1000: You are close to Top 1000!
+  comparisons_description: Compare online casinos side by side. Find the best casino for your needs with our detailed comparison tools.
+  comparisons_title: ΓÜû∩╕Å Casino Comparisons
+  contact_business_desc: Partnership or business opportunities
+  contact_business_title: ≡ƒô¥ Business Inquiries
+  contact_casino_reviews_desc: Want us to review a casino? Contact
+  contact_casino_reviews_title: ≡ƒÄ░ Casino Reviews
+  contact_email_support_desc: For general inquiries, questions, or feedback
+  contact_email_support_title: ≡ƒôº Email Support
+  contact_responsible_desc: Questions about responsible gaming
+  contact_responsible_title: ≡ƒ¢í∩╕Å Responsible Gaming
+  contact_subtitle: Get in touch with the Simocasino team. We're here to help!
+  contact_title: ≡ƒôº Contact Us
+  convert_coins: Convert coins
+  criteria_bonuses_desc: Welcome offers & promotions
+  criteria_games_desc: Slots, table games & live dealer
+  criteria_games_title: Game Selection
+  criteria_payments_desc: Fast deposits & withdrawals
+  criteria_payments_title: Payments
+  criteria_security_desc: Licensing & fair play
+  criteria_security_title: Security
+  crypto_advantage_amounts: Higher bonus amounts available
+  crypto_advantage_anonymous: Anonymous transactions and gaming
+  crypto_advantage_instant: Instant bonus credits
+  crypto_advantage_kyc: No KYC requirements for many crypto casinos
+  crypto_advantage_wagering: Lower wagering requirements
+  crypto_advantages_title: ≡ƒÜÇ Crypto Bonus Advantages
+  crypto_bitcoin_desc: BTC deposit bonuses
+  crypto_bitcoin_title: Bitcoin Bonuses
+  crypto_bonuses_description: Exclusive cryptocurrency bonuses at online casinos. Bitcoin, Ethereum, and crypto bonuses with fast payouts.
+  crypto_bonuses_title: Γé┐ Crypto Bonuses
+  crypto_casinos_description: Play at the best cryptocurrency casinos. Bitcoin, Ethereum, and other crypto payments with anonymous gaming.
+  crypto_casinos_title: Γé┐ Crypto Casinos
+  crypto_ethereum_desc: ETH exclusive offers
+  crypto_ethereum_title: Ethereum Bonuses
+  crypto_litecoin_desc: LTC fast bonuses
+  crypto_litecoin_title: Litecoin Bonuses
+  crypto_popular_title: Popular Crypto Bonuses
+  crypto_why_fees: ≡ƒÆ░ Lower Fees - Reduced transaction costs
+  crypto_why_global: ≡ƒîì Global Access - No geographic restrictions
+  crypto_why_instant: ΓÜí Instant Transactions - No waiting for bank transfers
+  crypto_why_processing: ≡ƒòÆ 24/7 Processing - Crypto never sleeps
+  crypto_why_security: ≡ƒöÆ Enhanced Security - Blockchain technology
+  crypto_why_title: Why Crypto Bonuses?
+  cta_button: Sign Up Now
+  cta_description: Get exclusive access to the best casino bonuses and promotions.
+  cta_title: Join Thousands of Happy Players
+  current_rank_label: Current rank
+  daily_bonus_claimed: Daily Bonus Claimed
+  dashboard_hero_subtitle: Your casino hub is loaded with rewards, challenges, and fresh offers.
+  difficulty_beginner: Beginner
+  difficulty_intermediate: Intermediate
+  edit_profile: Edit profile
+  faq_page_description: Find answers to common questions about online casinos, bonuses, and gaming.
+  faq_page_title: Γ¥ô Frequently Asked Questions
+  faq_q1_answer: An online casino is a virtual gambling platform that allows players to bet on casino games through the internet. These platforms offer various games like slots, blackjack, roulette, and more.
+  faq_q1_title: What is an online casino?
+  faq_q2_answer: Reputable online casinos are licensed and regulated by gaming authorities. Always check for proper licensing, SSL encryption, and positive player reviews before playing.
+  faq_q2_title: Are online casinos safe?
+  faq_q3_answer: Casino bonuses are free credits or spins offered by casinos to attract new players or reward existing ones. Common types include welcome bonuses, no deposit bonuses, and free spins.
+  faq_q3_title: What are casino bonuses?
+  faq_q4_answer: Withdrawal methods vary by casino and include bank transfers, credit cards, e-wallets like PayPal, and cryptocurrencies. Processing times range from instant to several days depending on the method.
+  faq_q4_title: How do I withdraw winnings?
+  fast_withdrawal_description: Find casinos with the fastest payout times. Get your winnings quickly with instant and fast withdrawal casinos.
+  fast_withdrawal_title: ΓÜí Fast Withdrawal Casinos
+  favorites_description: Your followed casinos, recent visits, and top game types.
+  favorites_title: Favorites
+  featured_bonuses: Featured Bonuses
+  followed_casinos_label: Followed Casinos
+  free_spins_bonus: ≡ƒÆ░ Bonus Free Spins - With deposit bonuses
+  free_spins_daily: ≡ƒÄ« Daily Free Spins - Regular promotions
+  free_spins_description: Get free spins at online casinos. No deposit free spins, bonus free spins, and exclusive spin offers for popular slot games.
+  free_spins_no_deposit: ≡ƒÄü No Deposit Free Spins - Play without depositing
+  free_spins_opportunities_title: Free Spins Opportunities:
+  free_spins_title: ≡ƒÄ░ Free Spins
+  free_spins_tournament: ≡ƒÅå Tournament Free Spins - Competition prizes
+  free_spins_vip: Γ¡É VIP Free Spins - Loyalty rewards
+  guide_blackjack_excerpt: Master the basics of blackjack and improve your odds with proven strategies.
+  guide_blackjack_title: Blackjack Strategy Guide
+  guide_bonuses_excerpt: Learn about welcome bonuses, free spins, and how to maximize your bonus benefits.
+  guide_bonuses_title: Casino Bonuses Explained
+  guide_responsible_excerpt: Important tips and strategies for maintaining a healthy relationship with gaming.
+  guide_responsible_title: Responsible Gambling
+  guide_slots_excerpt: A beginner-friendly guide to understanding and playing slot machines online.
+  guide_slots_title: How to Play Slots
+  guides_page_subtitle: Learn how to play, maximize bonuses, and gamble responsibly
+  guides_page_title: Casino Guides
+  help_begambleaware: BeGambleAware:
+  help_gamblers_anon: Gamblers Anonymous:
+  help_local: Gambling Helpline: Contact your local helpline
+  help_ncpg: National Council on Problem Gambling:
+  help_support_desc: If you or someone you know has a gambling problem, help is available:
+  help_support_title: ≡ƒåÿ Help & Support
+  helpful_votes_label: Helpful votes
+  hero_subtitle: Discover trusted casino reviews, compare welcome offers, and choose the ideal casino for your country and play style.
+  hero_title: Find the Best Online Casinos, Bonuses & Free Spins for 2026
+  high_roller_description: Exclusive high roller casinos for big players. VIP programs, high limits, and premium gaming experiences.
+  high_roller_title: ≡ƒÆÄ High Roller Casinos
+  how_we_review_description: Learn our comprehensive casino review methodology. Discover how we evaluate bonuses, games, security, and user experience.
+  how_we_review_title: ≡ƒöì How We Review Casinos
+  keep_playing_next_tier: Keep playing and hit the next tier.
+  language_all_languages: All languages
+  language_close: Close language selector
+  language_popular_languages: Popular languages
+  leaderboard_description: See your rank, monthly climb, and reward momentum.
+  leaderboard_title: Leaderboard
+  level_up_fast: Level up fast
+  licensing_authorities_title: Licensing Authorities
+  loading_dashboard_description: Please wait while we build your hub.
+  loading_dashboard_title: Loading dashboard...
+  mission_daily_login: Daily login
+  mission_description: Complete these to earn coins, XP and streak boosts.
+  mission_title: Missions & Tasks
+  mission_visit_casinos: Visit 3 casinos
+  mission_write_review: Write 1 review
+  mobile_casinos_description: Play at the best mobile casinos. Enjoy casino games on your smartphone or tablet with optimized mobile experiences.
+  mobile_casinos_title: ≡ƒô▒ Mobile Casinos
+  monthly_performance_label: Monthly performance
+  monthly_raffle: Monthly raffle
+  no_deposit_bonus_description: Get no deposit bonuses at online casinos. Play for free with cash bonuses and free spins without making a deposit.
+  no_deposit_bonus_title: ≡ƒÄü No Deposit Bonus
+  no_deposit_cash: ≡ƒÆ╡ Cash Bonuses - Real money to play with
+  no_deposit_freeplay: ≡ƒÄ« Free Play - Access to casino games
+  no_deposit_spins: ≡ƒÄ░ Free Spins - Spin slot machines for free
+  no_deposit_tournament: ≡ƒÅå Tournament Entries - Compete in tournaments
+  no_deposit_types_title: Types of No Deposit Bonuses:
+  no_deposit_what_desc: A no deposit bonus allows you to play casino games for free without making an initial deposit. These bonuses come in various forms including free spins, cash bonuses, and free play credits.
+  no_deposit_what_title: What is a No Deposit Bonus?
+  no_kyc_casinos_description: Play at casinos without Know Your Customer verification. Anonymous gaming with no identity checks required.
+  no_kyc_casinos_title: ≡ƒÜ½ No KYC Casinos
+  notification_new_casino_update: New casino update
+  notification_new_casino_update_detail: VIP payout time reduced to 24h.
+  notification_personalized_offer: Personalized offer
+  notification_personalized_offer_detail: Recommended bonus just for you.
+  notification_reminder: Reminder
+  notification_reminder_detail: Complete your profile to earn extra coins.
+  notifications_community_description: Stay informed with platform alerts and social updates.
+  notifications_community_title: Notifications & Community
+  play_games: Play Games
+  preferred_games_label: Preferred Games
+  privacy_description: Read our privacy policy to understand how we collect, use, and protect your personal information.
+  privacy_title: ≡ƒöÆ Privacy Policy
+  problem_gambling_signs_title: ≡ƒÜ¿ Signs of Problem Gambling
+  progress_gamification_title: Progress & Gamification
+  quick_actions_description: Jump into the core actions that drive engagement.
+  quick_actions_title: Quick Actions
+  raffles_tickets_description: Track your ticket status and upcoming draws.
+  raffles_tickets_title: Raffles & Tickets
+  ranking_criteria_title: Ranking Criteria
+  ready_for_next_tier: You are ready for the next tier.
+  recent_visits_label: Recent Visits
+  recommended_for_play_style: Recommended for your play style.
+  resources: Resources
+  responsible_gambling_description: Play responsibly at online casinos. Learn about gambling addiction, self-exclusion, and responsible gaming practices.
+  responsible_gambling_title: ≡ƒ¢í∩╕Å Responsible Gambling
+  responsible_gaming_tips_title: ≡ƒÆí Responsible Gaming Tips
+  reviews_label: Reviews
+  rewards_history_label: Rewards history
+  shop_rewards_description: Convert coins, buy tickets and track your reward balance.
+  shop_rewards_title: Shop & Rewards
+  sidebar_all_online_casinos: All Online Casinos
+  sidebar_australia: Australia
+  sidebar_bank_transfer: Bank Transfer
+  sidebar_bankroll_simulator: Bankroll Simulator
+  sidebar_best_casinos_overall: Best Casinos Overall
+  sidebar_best_for_beginners: Best for Beginners
+  sidebar_best_high_roller: Best High Roller Casinos
+  sidebar_betting_calculator: Betting Calculator
+  sidebar_bitcoin_casinos: Bitcoin Casinos
+  sidebar_blog_menu: Blog
+  sidebar_bonuses: BONUSES
+  sidebar_canada: Canada
+  sidebar_cashback_offers: Cashback Offers
+  sidebar_casinos: CASINOs
+  sidebar_comparisons_menu: Comparisons
+  sidebar_contact_menu: Contact
+  sidebar_countries: COUNTRIES
+  sidebar_crypto_bonuses_menu: Crypto Bonuses
+  sidebar_fast_withdrawal_casinos: Fast Withdrawal Casinos
+  sidebar_fastest_payout: Fastest Payout Casinos
+  sidebar_germany: Germany
+  sidebar_guides_menu: Guides
+  sidebar_high_roller_bonuses: High Roller Bonuses
+  sidebar_live_casinos: Live Casinos
+  sidebar_low_deposit: Low Deposit Casinos ($1 / $5)
+  sidebar_main: MAIN
+  sidebar_morocco: Morocco
+  sidebar_netherlands: Netherlands
+  sidebar_new_casinos: New Casinos
+  sidebar_no_deposit_bonus: No Deposit Bonus
+  sidebar_no_kyc_casinos: No KYC Casinos
+  sidebar_odds_converter: Odds Converter
+  sidebar_payment_methods: PAYMENT METHODS
+  sidebar_paypal_casinos: PayPal Casinos
+  sidebar_resources: RESOURCES
+  sidebar_responsible_gambling_menu: Responsible Gambling
+  sidebar_reviews_menu: Reviews
+  sidebar_rtp_calculator: RTP Calculator
+  sidebar_skrill_neteller: Skrill / Neteller
+  sidebar_strategies: Strategies
+  sidebar_tools: TOOLS
+  sidebar_top_casinos_2026: Top Casinos 2026
+  sidebar_top_lists: TOP LISTS
+  sidebar_trust_info: TRUST & INFO
+  sidebar_united_kingdom: United Kingdom
+  sidebar_united_states: United States
+  sidebar_view_all_countries: View All Countries
+  sidebar_visa_mastercard: Visa / Mastercard
+  sign_afford: Gambling more than you can afford
+  sign_anxious: Feeling anxious or depressed about gambling
+  sign_chasing: Chasing losses to win back money
+  sign_lying: Lying about gambling activities
+  sign_neglecting: Neglecting responsibilities due to gambling
+  sign_thinking: Thinking about gambling constantly
+  slot_categories_title: Slot Categories
+  slot_category_branded: Branded
+  slot_category_branded_desc: Movie and TV themed slots
+  slot_category_megaways: Megaways
+  slot_category_megaways_desc: Dynamic reel slots
+  slot_category_progressive_desc: Growing jackpot slots
+  slot_category_rtp: High RTP
+  slot_category_rtp_desc: Best return to player rates
+  slot_factor_features: ≡ƒÄ« Game Features - Bonus rounds and special symbols
+  slot_factor_graphics: ≡ƒÄ¿ Graphics & Sound - Visual and audio quality
+  slot_factor_jackpot: ≡ƒÆ░ Jackpot Size - Maximum payout potential
+  slot_factor_ratings: Γ¡É Player Ratings - User reviews and popularity
+  slot_factor_rtp: ≡ƒÄ» RTP Percentage - Return to player rates
+  slot_factor_volatility: ≡ƒôè Volatility Level - Risk and reward balance
+  slot_ranking_factors_title: Slot Ranking Factors
+  status_completed: Completed
+  status_in_progress: In progress
+  status_open: Open
+  terms_description: Read our terms of service to understand the rules and conditions for using Simocasino.
+  terms_title: ≡ƒôï Terms of Service
+  tip_breaks: Take regular breaks from gambling
+  tip_budget: Set a budget and stick to it
+  tip_chase_losses: Don't chase losses
+  tip_essentials: Never gamble with money needed for essentials
+  tip_fun: Gambling should be fun, not stressful
+  tip_self_exclusion: Use self-exclusion tools if needed
+  top_rankings_coming_soon: Coming Soon: Top Casino Rankings
+  top_rankings_coming_soon_desc: We're currently compiling comprehensive reviews of the best online casinos. Our rankings will include detailed analysis of bonuses, game libraries, payment methods, customer support, and overall user experience.
+  top_slots_description: Discover the best online slots of 2024. Our rankings of top slot games by RTP, volatility, and player ratings.
+  top_slots_title: ≡ƒÄ░ Top Slots
+  track_level_streak: Track your level, streak, and achievements in one addictive view.
+  trust_indicator_fair: ≡ƒÄ░ Fair Gaming - Certified random number generators
+  trust_indicator_licensing: ≡ƒô£ Valid Licensing - Regulated by reputable authorities
+  trust_indicator_longevity: Γ¡É Longevity - Established operators with proven track records
+  trust_indicator_payments: ≡ƒÆ░ Responsible Payments - Reliable withdrawal processing
+  trust_indicator_ssl: ≡ƒöÆ SSL Encryption - Secure data transmission
+  trust_indicator_support: ≡ƒô₧ 24/7 Support - Professional customer service
+  trust_indicators_title: Trust Indicators
+  trusted_casinos_description: Play at the most trusted online casinos. Licensed, secure, and reputable operators with proven track records.
+  trusted_casinos_title: ≡ƒ¢í∩╕Å Trusted Casinos
+  user_account: ACCOUNT
+  user_account_activity: Account Activity
+  user_activity: ACTIVITY
+  user_affiliate: AFFILIATE
+  user_affiliate_dashboard: Affiliate Dashboard
+  user_affiliate_links: Affiliate Links
+  user_favorites: Favorites
+  user_instructions: Instructions
+  user_loading: Loading...
+  user_marketing_tools: Marketing Tools
+  user_member_tier: Member
+  user_messages: Messages
+  user_no_email: No email available
+  user_payout_settings: Payout Settings
+  user_play_history: Play History
+  user_referrals: Referrals
+  user_reports: Reports
+  user_reviews: Reviews
+  user_reward_center: Reward Center
+  user_security: Security
+  user_stats_description: Top six stats that matter most to your casino journey.
+  user_stats_title: User Stats
+  user_support: SUPPORT
+  user_support_tickets: Support Tickets
+  vip_draw: VIP draw
+  wallet_balance_label: Wallet balance
+  welcome_bonus_description: Get the best welcome bonuses at online casinos. Compare welcome offers, match bonuses, and free spins for new players.
+  welcome_bonus_terms_title: Welcome Bonus Terms
+  welcome_bonus_title: ≡ƒæï Welcome Bonus
+  welcome_bonus_types_title: Types of Welcome Bonuses
+  what_is_responsible_gambling_desc: Responsible gambling means understanding that gambling is a form of entertainment, not a way to make money. It involves setting limits, recognizing when gambling becomes a problem, and knowing when to stop.
+  what_is_responsible_gambling_title: ≡ƒÄ» What is Responsible Gambling?
+  win_rate_label: Win rate
+  write_review: Write Review
+  xp_progress_label: XP progress
+
+Total: 357

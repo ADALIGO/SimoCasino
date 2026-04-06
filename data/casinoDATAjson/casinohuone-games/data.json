@@ -1,0 +1,29 @@
+{
+  "name": "Casinohuone Games",
+  "slug": "casinohuone-games",
+  "country": "Austria",
+  "bonus": "Reload Bonus 125% up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Microgaming"
+  ],
+  "likes": 68,
+  "comments": 195,
+  "operatingCountries": [
+    "United Kingdom",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=96",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinohuone-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ]
+}

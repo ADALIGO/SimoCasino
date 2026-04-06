@@ -1,0 +1,32 @@
+{
+  "name": "VegasAces Online",
+  "slug": "vegasaces-online",
+  "country": "Canada",
+  "bonus": "VIP Bonus 250% up to $100",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 132,
+  "providers": [
+    "Konami",
+    "Habanero Systems",
+    "Rival",
+    "Nolimit City",
+    "BetSoft",
+    "Thunderkick"
+  ],
+  "likes": 1759,
+  "comments": 108,
+  "operatingCountries": [
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=95",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegasaces-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97"
+  ]
+}

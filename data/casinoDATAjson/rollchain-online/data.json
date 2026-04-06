@@ -1,0 +1,32 @@
+{
+  "name": "Rollchain Online",
+  "slug": "rollchain-online",
+  "country": "Canada",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 219,
+  "providers": [
+    "Amatic Industries",
+    "ELK Studios",
+    "Red Tiger",
+    "Playtech",
+    "Novomatic",
+    "Yggdrasil"
+  ],
+  "likes": 1820,
+  "comments": 413,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=56",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rollchain-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ]
+}

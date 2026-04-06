@@ -1,0 +1,36 @@
+{
+  "name": "Highbet Online",
+  "slug": "highbet-online",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 200% up to $50",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 348,
+  "providers": [
+    "Iron Dog Studio",
+    "ELK Studios",
+    "Novomatic",
+    "Aristocrat",
+    "Microgaming"
+  ],
+  "likes": 1271,
+  "comments": 433,
+  "operatingCountries": [
+    "New Zealand",
+    "Belgium",
+    "Czech Republic",
+    "South Africa",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=highbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ]
+}

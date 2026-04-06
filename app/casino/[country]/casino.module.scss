@@ -1,0 +1,141 @@
+.casino-page {
+  width: 100%;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #ff0404, #0415448e);
+  color: white;
+  padding: 60px 40px;
+  text-align: center;
+  border-radius: 12px;
+  margin-bottom: 40px;
+
+  @media (max-width: 768px) {
+    padding: 40px 20px;
+  }
+}
+
+.hero-title {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 12px;
+
+  @media (max-width: 768px) {
+    font-size: 28px;
+  }
+}
+
+.hero-subtitle {
+  font-size: 16px;
+  color: #e0e0e0;
+
+  @media (max-width: 768px) {
+    font-size: 14px;
+  }
+}
+
+.section-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: 32px;
+
+  @media (max-width: 768px) {
+    font-size: 22px;
+  }
+}
+
+.loading,
+.error,
+.no-data {
+  text-align: center;
+  padding: 40px;
+  background: white;
+  border-radius: 12px;
+  color: #666;
+  font-size: 16px;
+}
+
+.error {
+  background: rgba(239, 68, 68, 0.1);
+  color: #dc2626;
+  border: 1px solid #fecaca;
+}
+
+.casinos-section {
+  margin-bottom: 60px;
+}
+
+.casinos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  justify-content: center;
+
+  @media (max-width: 639px) {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  @media (min-width: 640px) and (max-width: 1023px) {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 22px;
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+  }
+}
+
+.load-more-wrapper {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.load-more-button {
+  padding: 12px 32px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #ff6b35;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.load-more-button:hover {
+  background-color: #e55a2b;
+}
+
+.info-section {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  margin-top: 40px;
+
+  h2 {
+    font-size: 24px;
+    color: #1a1a2e;
+    margin-bottom: 16px;
+  }
+
+  p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.8;
+  }
+
+  @media (max-width: 768px) {
+    padding: 24px;
+
+    h2 {
+      font-size: 20px;
+    }
+
+    p {
+      font-size: 14px;
+    }
+  }
+}

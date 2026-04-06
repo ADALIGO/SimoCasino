@@ -1,0 +1,66 @@
+.bonus-card {
+  background: linear-gradient(135deg, rgba(255, 107, 53, 0.1), rgba(242, 92, 84, 0.1));
+  border: 2px solid #FF6B35;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  transition: all 0.3s ease;
+
+  @media (max-width: 639px) {
+    padding: 16px;
+  }
+
+  @media (min-width: 640px) and (max-width: 1023px) {
+    padding: 18px;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 20px;
+  }
+
+  &:hover {
+    border-color: #F25C54;
+    box-shadow: 0 8px 24px rgba(255, 107, 53, 0.2);
+  }
+
+  .bonus-amount {
+    font-size: 32px;
+    font-weight: 700;
+    color: #FF6B35;
+    margin-bottom: 8px;
+
+    @media (max-width: 639px) {
+      font-size: 24px;
+    }
+
+    @media (min-width: 640px) and (max-width: 1023px) {
+      font-size: 28px;
+    }
+
+    @media (min-width: 1024px) {
+      font-size: 32px;
+    }
+  }
+
+  .bonus-type {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    @media (max-width: 639px) {
+      font-size: 12px;
+    }
+  }
+
+  .bonus-description {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.6;
+
+    @media (max-width: 639px) {
+      font-size: 12px;
+    }
+  }
+}

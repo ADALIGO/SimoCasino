@@ -1,0 +1,36 @@
+{
+  "name": "JacksClub Online",
+  "slug": "jacksclub-online",
+  "country": "Czech Republic",
+  "bonus": "Cashback up to 250%",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 452,
+  "providers": [
+    "BetSoft",
+    "Quickspin",
+    "Habanero Systems",
+    "Push Gaming",
+    "Thunderkick",
+    "Merkur"
+  ],
+  "likes": 1806,
+  "comments": 108,
+  "operatingCountries": [
+    "Norway",
+    "Sweden",
+    "Denmark",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jacksclub-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ]
+}

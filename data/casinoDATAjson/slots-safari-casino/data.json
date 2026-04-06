@@ -1,0 +1,34 @@
+{
+  "name": "Slots Safari Casino",
+  "slug": "slots-safari-casino",
+  "country": "Austria",
+  "bonus": "100% up to $100 + 300 Spins",
+  "rating": 3.7,
+  "revenueRank": 3,
+  "spins": 169,
+  "providers": [
+    "Thunderkick",
+    "WMS",
+    "Blueprint Gaming",
+    "Gamomat",
+    "Relax Gaming"
+  ],
+  "likes": 1679,
+  "comments": 469,
+  "operatingCountries": [
+    "Norway",
+    "Spain",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=66",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-safari-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70"
+  ]
+}

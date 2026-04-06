@@ -1,0 +1,29 @@
+{
+  "name": "Royal Vegas Casino",
+  "slug": "royal-vegas-casino",
+  "country": "Denmark",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 71,
+  "providers": [
+    "Novomatic"
+  ],
+  "likes": 1547,
+  "comments": 250,
+  "operatingCountries": [
+    "New Zealand",
+    "Sweden",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=58",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-vegas-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61"
+  ]
+}

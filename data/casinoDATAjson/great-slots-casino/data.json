@@ -1,0 +1,31 @@
+{
+  "name": "Great Slots Casino",
+  "slug": "great-slots-casino",
+  "country": "Italy",
+  "bonus": "Reload Bonus 300% up to $200",
+  "rating": 3.7,
+  "revenueRank": 48,
+  "spins": 8,
+  "providers": [
+    "Greentube",
+    "Rival",
+    "Red Tiger",
+    "Visionary iGaming"
+  ],
+  "likes": 1036,
+  "comments": 262,
+  "operatingCountries": [
+    "Sweden",
+    "Australia",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=194",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=great-slots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Dazzle Slots",
+  "slug": "dazzle-slots",
+  "country": "Australia",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Relax Gaming",
+    "Merkur",
+    "EGT",
+    "Visionary iGaming"
+  ],
+  "likes": 1425,
+  "comments": 164,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=114",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dazzle-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116"
+  ]
+}

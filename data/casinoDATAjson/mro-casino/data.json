@@ -1,0 +1,27 @@
+{
+  "name": "MrO Casino",
+  "slug": "mro-casino",
+  "country": "Czech Republic",
+  "bonus": "Reload Bonus 125% up to $2000",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 239,
+  "providers": [
+    "Konami"
+  ],
+  "likes": 702,
+  "comments": 449,
+  "operatingCountries": [
+    "Netherlands",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mro-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20"
+  ]
+}

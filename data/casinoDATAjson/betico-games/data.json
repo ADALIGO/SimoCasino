@@ -1,0 +1,30 @@
+{
+  "name": "Betico Games",
+  "slug": "betico-games",
+  "country": "New Zealand",
+  "bonus": "Welcome Bonus 300% up to $50",
+  "rating": 4,
+  "revenueRank": 5,
+  "spins": 116,
+  "providers": [
+    "Aristocrat",
+    "Big Time Gaming",
+    "NetEnt"
+  ],
+  "likes": 1552,
+  "comments": 76,
+  "operatingCountries": [
+    "Norway",
+    "Germany",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betico-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101"
+  ]
+}

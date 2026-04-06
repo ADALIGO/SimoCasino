@@ -1,0 +1,27 @@
+{
+  "name": "BetOnline",
+  "slug": "betonline",
+  "country": "Morocco",
+  "bonus": "100 Spins",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 861,
+  "comments": 419,
+  "operatingCountries": [
+    "Belgium",
+    "Portugal",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinmills",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ],
+  "reviewCount": 5
+}

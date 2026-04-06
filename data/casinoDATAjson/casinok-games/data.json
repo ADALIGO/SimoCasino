@@ -1,0 +1,36 @@
+{
+  "name": "CasinOK Games",
+  "slug": "casinok-games",
+  "country": "Netherlands",
+  "bonus": "100% up to $300 + 150 Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 420,
+  "providers": [
+    "Greentube",
+    "Saucify",
+    "Playtech",
+    "Amatic Industries",
+    "Visionary iGaming",
+    "Evolution Gaming",
+    "1x2gaming",
+    "EGT"
+  ],
+  "likes": 491,
+  "comments": 95,
+  "operatingCountries": [
+    "South Africa",
+    "United Kingdom",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=163",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinok-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

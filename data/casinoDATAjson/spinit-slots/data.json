@@ -1,0 +1,32 @@
+{
+  "name": "Spinit Slots",
+  "slug": "spinit-slots",
+  "country": "United Kingdom",
+  "bonus": "VIP Bonus 125% up to $2000",
+  "rating": 4.9,
+  "revenueRank": 78,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Quickspin",
+    "Microgaming"
+  ],
+  "likes": 1409,
+  "comments": 49,
+  "operatingCountries": [
+    "France",
+    "United States",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=165",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinit-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169"
+  ]
+}

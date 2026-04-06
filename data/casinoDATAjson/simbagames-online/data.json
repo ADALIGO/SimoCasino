@@ -1,0 +1,37 @@
+{
+  "name": "SimbaGames Online",
+  "slug": "simbagames-online",
+  "country": "Switzerland",
+  "bonus": "100% up to $50 + 150 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Relax Gaming",
+    "EGT",
+    "Konami",
+    "Push Gaming",
+    "Spinlogic Gaming",
+    "Genesis Gaming"
+  ],
+  "likes": 702,
+  "comments": 491,
+  "operatingCountries": [
+    "Sweden",
+    "Ireland",
+    "United States",
+    "Denmark",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=65",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=simbagames-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "BlackJack Ballroom Slots",
+  "slug": "blackjack-ballroom-slots",
+  "country": "Spain",
+  "bonus": "First Deposit 50% up to $500 + 20 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 127,
+  "providers": [
+    "Novomatic",
+    "Thunderkick",
+    "1x2gaming",
+    "Gamomat",
+    "ELK Studios",
+    "NetEnt",
+    "Big Time Gaming",
+    "Nolimit City"
+  ],
+  "likes": 897,
+  "comments": 111,
+  "operatingCountries": [
+    "Netherlands",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=125",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blackjack-ballroom-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ]
+}

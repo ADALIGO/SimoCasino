@@ -1,0 +1,27 @@
+{
+  "name": "Music Hall",
+  "slug": "music-hall",
+  "country": "Morocco",
+  "bonus": "25% up to $500",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 194,
+  "providers": [],
+  "likes": 1934,
+  "comments": 50,
+  "operatingCountries": [
+    "Finland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=7",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=freshbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10"
+  ],
+  "reviewCount": 5
+}

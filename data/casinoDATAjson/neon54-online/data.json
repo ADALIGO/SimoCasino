@@ -1,0 +1,32 @@
+{
+  "name": "Neon54 Online",
+  "slug": "neon54-online",
+  "country": "Netherlands",
+  "bonus": "First Deposit 100% up to $1000 + 50 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Iron Dog Studio",
+    "Real Time Gaming",
+    "Quickspin"
+  ],
+  "likes": 1791,
+  "comments": 437,
+  "operatingCountries": [
+    "Netherlands",
+    "Morocco",
+    "Italy",
+    "United Kingdom",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=156",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=neon54-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

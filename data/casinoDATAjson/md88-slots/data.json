@@ -1,0 +1,32 @@
+{
+  "name": "MD88 Slots",
+  "slug": "md88-slots",
+  "country": "Denmark",
+  "bonus": "VIP Bonus 125% up to $100",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 137,
+  "providers": [
+    "Greentube",
+    "Real Time Gaming",
+    "1x2gaming",
+    "Ash Gaming",
+    "Iron Dog Studio",
+    "Yggdrasil"
+  ],
+  "likes": 348,
+  "comments": 234,
+  "operatingCountries": [
+    "Norway",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=42",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=md88-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

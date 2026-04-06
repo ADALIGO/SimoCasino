@@ -1,0 +1,34 @@
+{
+  "name": "BetOspin Slots",
+  "slug": "betospin-slots",
+  "country": "Denmark",
+  "bonus": "150% Bonus up to $1000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 137,
+  "providers": [
+    "Ash Gaming",
+    "Microgaming",
+    "Rival"
+  ],
+  "likes": 1510,
+  "comments": 418,
+  "operatingCountries": [
+    "Morocco",
+    "Switzerland",
+    "Denmark",
+    "New Zealand",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=130",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betospin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ]
+}

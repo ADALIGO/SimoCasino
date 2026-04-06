@@ -1,0 +1,28 @@
+{
+  "name": "Betroom24 Slots",
+  "slug": "betroom24-slots",
+  "country": "New Zealand",
+  "bonus": "125% Bonus up to $50",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat"
+  ],
+  "likes": 1306,
+  "comments": 430,
+  "operatingCountries": [
+    "Morocco",
+    "Austria",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betroom24-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

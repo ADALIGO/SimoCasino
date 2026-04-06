@@ -1,0 +1,32 @@
+{
+  "name": "Betandyou Online",
+  "slug": "betandyou-online",
+  "country": "Belgium",
+  "bonus": "First Deposit 150% up to $1000 + 300 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "WMS",
+    "Amatic Industries",
+    "Ash Gaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 1721,
+  "comments": 154,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=79",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betandyou-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ]
+}

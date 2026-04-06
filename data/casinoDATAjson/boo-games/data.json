@@ -1,0 +1,35 @@
+{
+  "name": "Boo Games",
+  "slug": "boo-games",
+  "country": "United Kingdom",
+  "bonus": "Welcome Bonus 200% up to $300",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 447,
+  "providers": [
+    "Quickspin",
+    "Real Time Gaming",
+    "IGT",
+    "NetEnt"
+  ],
+  "likes": 478,
+  "comments": 366,
+  "operatingCountries": [
+    "Netherlands",
+    "South Africa",
+    "Poland",
+    "Morocco",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=7",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boo-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Bloody Slots Online",
+  "slug": "bloody-slots-online",
+  "country": "South Africa",
+  "bonus": "125% Bonus up to $2000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 427,
+  "providers": [
+    "Arrows Edge"
+  ],
+  "likes": 502,
+  "comments": 371,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bloody-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168"
+  ]
+}

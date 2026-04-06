@@ -1,0 +1,31 @@
+{
+  "name": "BetChip",
+  "slug": "betchip",
+  "country": "Morocco",
+  "bonus": "100% up to ₺3000 + 150 Spins",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 76,
+  "providers": [],
+  "likes": 1274,
+  "comments": 110,
+  "operatingCountries": [
+    "Morocco",
+    "South Africa",
+    "New Zealand",
+    "United States",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rise-of-bets",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ],
+  "reviewCount": 5
+}

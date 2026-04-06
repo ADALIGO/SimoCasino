@@ -1,0 +1,30 @@
+{
+  "name": "GreatSpin Casino",
+  "slug": "greatspin-casino",
+  "country": "Canada",
+  "bonus": "100% Bonus up to $50",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 319,
+  "providers": [
+    "Pragmatic Play"
+  ],
+  "likes": 1323,
+  "comments": 269,
+  "operatingCountries": [
+    "France",
+    "Netherlands",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=greatspin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

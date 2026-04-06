@@ -1,0 +1,29 @@
+{
+  "name": "DepositWin Games",
+  "slug": "depositwin-games",
+  "country": "Canada",
+  "bonus": "100% up to $200 + 250 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 79,
+  "providers": [
+    "Arrows Edge",
+    "NetEnt",
+    "Big Time Gaming"
+  ],
+  "likes": 554,
+  "comments": 25,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=depositwin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

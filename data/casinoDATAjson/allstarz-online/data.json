@@ -1,0 +1,35 @@
+{
+  "name": "allStarz Online",
+  "slug": "allstarz-online",
+  "country": "Spain",
+  "bonus": "Reload Bonus 150% up to $2000",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 448,
+  "providers": [
+    "Genesis Gaming",
+    "NetEnt",
+    "Visionary iGaming",
+    "Yggdrasil",
+    "Quickspin",
+    "Nolimit City"
+  ],
+  "likes": 56,
+  "comments": 138,
+  "operatingCountries": [
+    "Germany",
+    "Poland",
+    "Ireland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=allstarz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Lucky Bonanza Slots",
+  "slug": "lucky-bonanza-slots",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 100% up to $1000",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 61,
+  "providers": [
+    "BetSoft",
+    "Playtech",
+    "Iron Dog Studio",
+    "1x2gaming",
+    "Aristocrat"
+  ],
+  "likes": 749,
+  "comments": 277,
+  "operatingCountries": [
+    "Switzerland",
+    "Belgium",
+    "Ireland",
+    "Sweden",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-bonanza-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

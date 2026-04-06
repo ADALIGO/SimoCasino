@@ -1,0 +1,33 @@
+{
+  "name": "GladiatorsBet Games",
+  "slug": "gladiatorsbet-games",
+  "country": "Germany",
+  "bonus": "First Deposit 300% up to $200 + 300 Free Spins",
+  "rating": 4,
+  "revenueRank": 84,
+  "spins": 306,
+  "providers": [
+    "Novomatic",
+    "Iron Dog Studio",
+    "Big Time Gaming",
+    "Thunderkick",
+    "Habanero Systems",
+    "Blueprint Gaming"
+  ],
+  "likes": 20,
+  "comments": 262,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gladiatorsbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ]
+}

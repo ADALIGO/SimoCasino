@@ -1,0 +1,35 @@
+{
+  "name": "FreshBet Online",
+  "slug": "freshbet-online",
+  "country": "Spain",
+  "bonus": "Cashback up to 100%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 5,
+  "providers": [
+    "Amatic Industries",
+    "EGT",
+    "Greentube",
+    "Gamomat",
+    "Genesis Gaming"
+  ],
+  "likes": 331,
+  "comments": 259,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria",
+    "United Kingdom",
+    "Morocco",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=freshbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193"
+  ]
+}

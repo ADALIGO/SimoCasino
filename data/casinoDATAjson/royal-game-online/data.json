@@ -1,0 +1,33 @@
+{
+  "name": "Royal Game Online",
+  "slug": "royal-game-online",
+  "country": "Italy",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Rival",
+    "Novomatic"
+  ],
+  "likes": 646,
+  "comments": 227,
+  "operatingCountries": [
+    "Finland",
+    "Switzerland",
+    "Morocco",
+    "France",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-game-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

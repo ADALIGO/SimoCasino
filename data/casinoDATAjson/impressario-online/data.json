@@ -1,0 +1,33 @@
+{
+  "name": "Impressario Online",
+  "slug": "impressario-online",
+  "country": "Morocco",
+  "bonus": "Deposit Bonus 250% up to $100",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "Arrows Edge",
+    "Push Gaming"
+  ],
+  "likes": 1283,
+  "comments": 187,
+  "operatingCountries": [
+    "Sweden",
+    "New Zealand",
+    "Germany",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=impressario-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

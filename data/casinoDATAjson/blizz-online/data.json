@@ -1,0 +1,36 @@
+{
+  "name": "Blizz Online",
+  "slug": "blizz-online",
+  "country": "United Kingdom",
+  "bonus": "Welcome Package up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 435,
+  "providers": [
+    "Red Tiger",
+    "Evolution Gaming",
+    "NextGen",
+    "Gamomat",
+    "Push Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1269,
+  "comments": 137,
+  "operatingCountries": [
+    "Poland",
+    "Spain",
+    "United Kingdom",
+    "Australia",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=8",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blizz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11"
+  ]
+}

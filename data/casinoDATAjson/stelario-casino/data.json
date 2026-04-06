@@ -1,0 +1,34 @@
+{
+  "name": "Stelario Casino",
+  "slug": "stelario-casino",
+  "country": "Belgium",
+  "bonus": "Deposit Bonus 50% up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 293,
+  "providers": [
+    "WMS",
+    "Novomatic",
+    "Evolution Gaming",
+    "Pragmatic Play",
+    "Amatic Industries",
+    "Visionary iGaming",
+    "Push Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1451,
+  "comments": 478,
+  "operatingCountries": [
+    "Norway",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stelario-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

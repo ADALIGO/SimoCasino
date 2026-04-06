@@ -1,0 +1,33 @@
+{
+  "name": "Omni Casino",
+  "slug": "omni-casino",
+  "country": "Norway",
+  "bonus": "First Deposit 150% up to $2000 + 100 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 22,
+  "providers": [
+    "Wager Gaming",
+    "Konami",
+    "Thunderkick",
+    "Playtech",
+    "Arrows Edge",
+    "Iron Dog Studio",
+    "Ash Gaming"
+  ],
+  "likes": 1023,
+  "comments": 139,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=172",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=omni-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "CryptoRoyal Casino",
+  "slug": "cryptoroyal-casino",
+  "country": "Canada",
+  "bonus": "Welcome Bonus 50% up to $500",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 322,
+  "providers": [
+    "Nolimit City",
+    "Relax Gaming",
+    "Genesis Gaming",
+    "Wager Gaming",
+    "Habanero Systems"
+  ],
+  "likes": 978,
+  "comments": 458,
+  "operatingCountries": [
+    "Netherlands",
+    "United Kingdom",
+    "Australia",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=148",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptoroyal-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cazeus Online",
+  "slug": "cazeus-online",
+  "country": "Australia",
+  "bonus": "Welcome Bonus 125% up to $50",
+  "rating": 4.5,
+  "revenueRank": 45,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "1x2gaming",
+    "Thunderkick",
+    "NetEnt",
+    "ELK Studios"
+  ],
+  "likes": 1801,
+  "comments": 291,
+  "operatingCountries": [
+    "Ireland",
+    "Switzerland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cazeus-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

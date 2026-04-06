@@ -1,0 +1,36 @@
+{
+  "name": "Casino Extreme Online",
+  "slug": "casino-extreme-online",
+  "country": "Morocco",
+  "bonus": "100% Bonus up to $200",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 360,
+  "providers": [
+    "Novomatic",
+    "Wager Gaming",
+    "Pragmatic Play",
+    "Habanero Systems",
+    "Greentube",
+    "NextGen",
+    "Push Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 844,
+  "comments": 155,
+  "operatingCountries": [
+    "Netherlands",
+    "Poland",
+    "Czech Republic",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-extreme-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65"
+  ]
+}

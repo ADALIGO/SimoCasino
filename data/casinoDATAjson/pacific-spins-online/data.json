@@ -1,0 +1,29 @@
+{
+  "name": "Pacific Spins Online",
+  "slug": "pacific-spins-online",
+  "country": "New Zealand",
+  "bonus": "Welcome Bonus 300% up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 110,
+  "providers": [
+    "Blueprint Gaming"
+  ],
+  "likes": 665,
+  "comments": 27,
+  "operatingCountries": [
+    "Switzerland",
+    "Canada",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=189",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pacific-spins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

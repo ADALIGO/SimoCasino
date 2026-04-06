@@ -1,0 +1,35 @@
+{
+  "name": "TouchCasino Slots",
+  "slug": "touchcasino-slots",
+  "country": "Italy",
+  "bonus": "Reload Bonus 100% up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "Pragmatic Play",
+    "Gamomat",
+    "ELK Studios",
+    "Blueprint Gaming",
+    "Nolimit City",
+    "WMS"
+  ],
+  "likes": 1358,
+  "comments": 27,
+  "operatingCountries": [
+    "Sweden",
+    "Australia",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=118",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=touchcasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

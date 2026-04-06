@@ -1,0 +1,29 @@
+{
+  "name": "Skol",
+  "slug": "skol",
+  "country": "Morocco",
+  "bonus": "100% up to €300 + 100 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 156,
+  "providers": [],
+  "likes": 1482,
+  "comments": 230,
+  "operatingCountries": [
+    "Switzerland",
+    "United States",
+    "Poland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=31bet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107"
+  ],
+  "reviewCount": 5
+}

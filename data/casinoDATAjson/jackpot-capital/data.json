@@ -1,0 +1,28 @@
+{
+  "name": "Jackpot Capital",
+  "slug": "jackpot-capital",
+  "country": "Morocco",
+  "bonus": "$15",
+  "rating": 3,
+  "revenueRank": 26,
+  "spins": 0,
+  "providers": [],
+  "likes": 1103,
+  "comments": 430,
+  "operatingCountries": [
+    "Portugal",
+    "Austria",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hype-kasino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ],
+  "reviewCount": 5
+}

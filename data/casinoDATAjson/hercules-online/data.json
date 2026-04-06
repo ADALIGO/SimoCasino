@@ -1,0 +1,32 @@
+{
+  "name": "Hercules Online",
+  "slug": "hercules-online",
+  "country": "Netherlands",
+  "bonus": "First Deposit 150% up to $100 + 100 Free Spins",
+  "rating": 3.5,
+  "revenueRank": 49,
+  "spins": 482,
+  "providers": [
+    "Real Time Gaming",
+    "Konami",
+    "Amatic Industries"
+  ],
+  "likes": 350,
+  "comments": 192,
+  "operatingCountries": [
+    "Finland",
+    "Spain",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hercules-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

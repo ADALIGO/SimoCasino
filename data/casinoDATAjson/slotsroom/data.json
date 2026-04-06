@@ -1,0 +1,29 @@
+{
+  "name": "Slotsroom",
+  "slug": "slotsroom",
+  "country": "Morocco",
+  "bonus": "210% up to $2100 + 200 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1261,
+  "comments": 155,
+  "operatingCountries": [
+    "Canada",
+    "Netherlands",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=25",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dragonara",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ],
+  "reviewCount": 5
+}

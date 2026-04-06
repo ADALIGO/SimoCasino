@@ -1,0 +1,37 @@
+{
+  "name": "Bet105 Slots",
+  "slug": "bet105-slots",
+  "country": "Italy",
+  "bonus": "125% Bonus up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 224,
+  "providers": [
+    "IGT",
+    "Genesis Gaming",
+    "Rival",
+    "1x2gaming",
+    "Yggdrasil",
+    "Greentube",
+    "Microgaming",
+    "Big Time Gaming"
+  ],
+  "likes": 542,
+  "comments": 57,
+  "operatingCountries": [
+    "France",
+    "Spain",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=11",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bet105-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

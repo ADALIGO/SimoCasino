@@ -1,0 +1,33 @@
+{
+  "name": "JeetCity Casino",
+  "slug": "jeetcity-casino",
+  "country": "Finland",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 494,
+  "providers": [
+    "Iron Dog Studio",
+    "Quickspin",
+    "Visionary iGaming",
+    "Evolution Gaming",
+    "Thunderkick",
+    "Microgaming",
+    "WMS"
+  ],
+  "likes": 116,
+  "comments": 434,
+  "operatingCountries": [
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jeetcity-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

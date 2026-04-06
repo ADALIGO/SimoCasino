@@ -1,0 +1,33 @@
+{
+  "name": "True Poker Online",
+  "slug": "true-poker-online",
+  "country": "Switzerland",
+  "bonus": "200% Bonus up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 152,
+  "providers": [
+    "Genesis Gaming",
+    "Evolution Gaming",
+    "ELK Studios",
+    "Quickspin",
+    "IGT"
+  ],
+  "likes": 1093,
+  "comments": 184,
+  "operatingCountries": [
+    "Ireland",
+    "Denmark",
+    "Austria",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=true-poker-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

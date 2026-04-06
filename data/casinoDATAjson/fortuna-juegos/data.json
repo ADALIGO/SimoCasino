@@ -1,0 +1,28 @@
+{
+  "name": "Fortuna Juegos",
+  "slug": "fortuna-juegos",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 280,
+  "comments": 499,
+  "operatingCountries": [
+    "Czech Republic",
+    "Sweden",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=173",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=big5",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176"
+  ],
+  "reviewCount": 5
+}

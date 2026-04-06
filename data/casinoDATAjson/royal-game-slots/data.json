@@ -1,0 +1,35 @@
+{
+  "name": "Royal Game Slots",
+  "slug": "royal-game-slots",
+  "country": "United Kingdom",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 204,
+  "providers": [
+    "NetEnt",
+    "Rival",
+    "Konami",
+    "Gamomat",
+    "WMS",
+    "Nolimit City"
+  ],
+  "likes": 1210,
+  "comments": 352,
+  "operatingCountries": [
+    "Finland",
+    "France",
+    "Australia",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-game-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167"
+  ]
+}

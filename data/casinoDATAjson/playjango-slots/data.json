@@ -1,0 +1,38 @@
+{
+  "name": "PlayJango Slots",
+  "slug": "playjango-slots",
+  "country": "Spain",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 28,
+  "providers": [
+    "EGT",
+    "Rival",
+    "Real Time Gaming",
+    "WMS",
+    "Wager Gaming",
+    "Push Gaming",
+    "NextGen"
+  ],
+  "likes": 833,
+  "comments": 310,
+  "operatingCountries": [
+    "Belgium",
+    "Austria",
+    "Finland",
+    "Poland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=173",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playjango-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "ComicPlay Online",
+  "slug": "comicplay-online",
+  "country": "United Kingdom",
+  "bonus": "Reload Bonus 250% up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 131,
+  "providers": [
+    "Blueprint Gaming",
+    "Novomatic",
+    "Merkur",
+    "Saucify",
+    "Habanero Systems"
+  ],
+  "likes": 1188,
+  "comments": 406,
+  "operatingCountries": [
+    "Portugal",
+    "France",
+    "Ireland",
+    "Switzerland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=156",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=comicplay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

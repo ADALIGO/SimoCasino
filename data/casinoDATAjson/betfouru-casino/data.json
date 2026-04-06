@@ -1,0 +1,31 @@
+{
+  "name": "BetfourU Casino",
+  "slug": "betfouru-casino",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 250% up to $100",
+  "rating": 4.4,
+  "revenueRank": 79,
+  "spins": 53,
+  "providers": [
+    "Quickspin",
+    "EGT",
+    "Spinlogic Gaming",
+    "IGT",
+    "Playtech"
+  ],
+  "likes": 204,
+  "comments": 67,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfouru-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "BetRepublic Slots",
+  "slug": "betrepublic-slots",
+  "country": "Netherlands",
+  "bonus": "Reload Bonus 125% up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "Genesis Gaming",
+    "Rival",
+    "Greentube",
+    "ELK Studios",
+    "Evolution Gaming"
+  ],
+  "likes": 1626,
+  "comments": 123,
+  "operatingCountries": [
+    "Poland",
+    "Switzerland",
+    "Sweden",
+    "South Africa",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=156",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betrepublic-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

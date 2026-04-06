@@ -1,0 +1,38 @@
+{
+  "name": "Miami Club Slots",
+  "slug": "miami-club-slots",
+  "country": "Sweden",
+  "bonus": "100% up to $500 + 20 Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 54,
+  "providers": [
+    "Novomatic",
+    "Gamomat",
+    "Red Tiger",
+    "Arrows Edge",
+    "Yggdrasil",
+    "Konami",
+    "Quickspin"
+  ],
+  "likes": 1815,
+  "comments": 202,
+  "operatingCountries": [
+    "Italy",
+    "Morocco",
+    "Finland",
+    "Australia",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=53",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=miami-club-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Tournaverse",
+  "slug": "tournaverse",
+  "country": "Morocco",
+  "bonus": "100% up to €777",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 291,
+  "providers": [],
+  "likes": 427,
+  "comments": 227,
+  "operatingCountries": [
+    "Poland",
+    "United States",
+    "Canada",
+    "France",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinland",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Jackpotter Casino",
+  "slug": "jackpotter-casino",
+  "country": "United States",
+  "bonus": "Welcome Bonus 125% up to $50",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 420,
+  "providers": [
+    "Iron Dog Studio"
+  ],
+  "likes": 1920,
+  "comments": 121,
+  "operatingCountries": [
+    "Ireland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpotter-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17"
+  ]
+}

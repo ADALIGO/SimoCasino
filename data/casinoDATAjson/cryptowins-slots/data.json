@@ -1,0 +1,35 @@
+{
+  "name": "CryptoWins Slots",
+  "slug": "cryptowins-slots",
+  "country": "United Kingdom",
+  "bonus": "First Deposit 50% up to $100 + 20 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 180,
+  "providers": [
+    "Red Tiger",
+    "Amatic Industries",
+    "Wager Gaming",
+    "EGT",
+    "BetSoft",
+    "Habanero Systems",
+    "ELK Studios",
+    "Evolution Gaming"
+  ],
+  "likes": 1053,
+  "comments": 269,
+  "operatingCountries": [
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptowins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "LadyLuck Online",
+  "slug": "ladyluck-online",
+  "country": "Netherlands",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 85,
+  "providers": [
+    "NextGen",
+    "WMS",
+    "Amatic Industries",
+    "Microgaming"
+  ],
+  "likes": 1469,
+  "comments": 262,
+  "operatingCountries": [
+    "Portugal",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=16",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ladyluck-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

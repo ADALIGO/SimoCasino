@@ -1,0 +1,38 @@
+{
+  "name": "Big5 Casino",
+  "slug": "big5-casino",
+  "country": "Spain",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 55,
+  "providers": [
+    "Novomatic",
+    "Relax Gaming",
+    "Real Time Gaming",
+    "Blueprint Gaming",
+    "Pragmatic Play",
+    "WMS",
+    "Rival",
+    "Spinlogic Gaming"
+  ],
+  "likes": 351,
+  "comments": 112,
+  "operatingCountries": [
+    "Czech Republic",
+    "Poland",
+    "New Zealand",
+    "Portugal",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=big5-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

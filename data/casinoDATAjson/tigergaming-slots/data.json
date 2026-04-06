@@ -1,0 +1,37 @@
+{
+  "name": "TigerGaming Slots",
+  "slug": "tigergaming-slots",
+  "country": "Austria",
+  "bonus": "First Deposit 50% up to $2000 + 150 Free Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 422,
+  "providers": [
+    "Saucify",
+    "Microgaming",
+    "Push Gaming",
+    "Habanero Systems",
+    "Konami",
+    "Arrows Edge"
+  ],
+  "likes": 242,
+  "comments": 467,
+  "operatingCountries": [
+    "United States",
+    "Portugal",
+    "France",
+    "Netherlands",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=76",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tigergaming-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ]
+}

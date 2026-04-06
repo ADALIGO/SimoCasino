@@ -1,0 +1,26 @@
+{
+  "name": "Nitro",
+  "slug": "nitro",
+  "country": "Morocco",
+  "bonus": "15% Cashback",
+  "rating": 1.6,
+  "revenueRank": null,
+  "spins": 241,
+  "providers": [],
+  "likes": 284,
+  "comments": 304,
+  "operatingCountries": [
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=93",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=acebet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96"
+  ],
+  "reviewCount": 5
+}

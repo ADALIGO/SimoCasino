@@ -1,0 +1,30 @@
+{
+  "name": "Slots Capital Online",
+  "slug": "slots-capital-online",
+  "country": "Austria",
+  "bonus": "150% Bonus up to $500",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Blueprint Gaming",
+    "Greentube"
+  ],
+  "likes": 1779,
+  "comments": 467,
+  "operatingCountries": [
+    "Poland",
+    "Norway",
+    "Portugal",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-capital-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

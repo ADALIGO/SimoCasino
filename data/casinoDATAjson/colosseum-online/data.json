@@ -1,0 +1,34 @@
+{
+  "name": "Colosseum Online",
+  "slug": "colosseum-online",
+  "country": "United States",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 92,
+  "providers": [
+    "Relax Gaming",
+    "Ash Gaming",
+    "Big Time Gaming",
+    "Pragmatic Play",
+    "Greentube",
+    "WMS",
+    "Novomatic",
+    "IGT"
+  ],
+  "likes": 705,
+  "comments": 264,
+  "operatingCountries": [
+    "New Zealand",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=colosseum-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

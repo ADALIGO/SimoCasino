@@ -1,0 +1,38 @@
+{
+  "name": "Wishwin Slots",
+  "slug": "wishwin-slots",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 300% up to $1000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 445,
+  "providers": [
+    "NextGen",
+    "Nolimit City",
+    "Quickspin",
+    "Aristocrat",
+    "Novomatic",
+    "Wager Gaming",
+    "Genesis Gaming",
+    "ELK Studios"
+  ],
+  "likes": 1938,
+  "comments": 299,
+  "operatingCountries": [
+    "Finland",
+    "France",
+    "Austria",
+    "Denmark",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wishwin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

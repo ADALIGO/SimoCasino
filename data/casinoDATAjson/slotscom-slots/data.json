@@ -1,0 +1,36 @@
+{
+  "name": "Slots.com Slots",
+  "slug": "slotscom-slots",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 250% up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 284,
+  "providers": [
+    "Saucify",
+    "Ash Gaming",
+    "WMS",
+    "Arrows Edge",
+    "Iron Dog Studio",
+    "Pragmatic Play",
+    "Real Time Gaming",
+    "Visionary iGaming"
+  ],
+  "likes": 1401,
+  "comments": 159,
+  "operatingCountries": [
+    "Czech Republic",
+    "New Zealand",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotscom-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70"
+  ]
+}

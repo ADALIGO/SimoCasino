@@ -1,0 +1,38 @@
+{
+  "name": "Betsio.com Casino",
+  "slug": "betsiocom-casino",
+  "country": "United Kingdom",
+  "bonus": "Reload Bonus 300% up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 194,
+  "providers": [
+    "Relax Gaming",
+    "IGT",
+    "Yggdrasil",
+    "Habanero Systems",
+    "EGT",
+    "Rival",
+    "Saucify"
+  ],
+  "likes": 897,
+  "comments": 267,
+  "operatingCountries": [
+    "Sweden",
+    "Czech Republic",
+    "Ireland",
+    "France",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=146",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsiocom-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150"
+  ]
+}

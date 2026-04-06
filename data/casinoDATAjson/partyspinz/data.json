@@ -1,0 +1,29 @@
+{
+  "name": "PartySpinz",
+  "slug": "partyspinz",
+  "country": "Morocco",
+  "bonus": "400% up to €1000 + 75 Spins",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 276,
+  "providers": [],
+  "likes": 214,
+  "comments": 35,
+  "operatingCountries": [
+    "Poland",
+    "United States",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gate777",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Fairpari Slots",
+  "slug": "fairpari-slots",
+  "country": "Belgium",
+  "bonus": "Deposit Bonus 250% up to $2000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 50,
+  "providers": [
+    "Yggdrasil"
+  ],
+  "likes": 285,
+  "comments": 65,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=16",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fairpari-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

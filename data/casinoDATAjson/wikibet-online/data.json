@@ -1,0 +1,31 @@
+{
+  "name": "Wikibet Online",
+  "slug": "wikibet-online",
+  "country": "Finland",
+  "bonus": "First Deposit 100% up to $200 + 100 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 196,
+  "providers": [
+    "Greentube"
+  ],
+  "likes": 239,
+  "comments": 406,
+  "operatingCountries": [
+    "United Kingdom",
+    "Poland",
+    "Norway",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wikibet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

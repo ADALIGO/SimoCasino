@@ -1,0 +1,35 @@
+{
+  "name": "Casino Sieger Online",
+  "slug": "casino-sieger-online",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $50",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 132,
+  "providers": [
+    "Iron Dog Studio",
+    "ELK Studios",
+    "Genesis Gaming",
+    "Real Time Gaming",
+    "Gamomat",
+    "Quickspin"
+  ],
+  "likes": 1476,
+  "comments": 182,
+  "operatingCountries": [
+    "Italy",
+    "Finland",
+    "Czech Republic",
+    "Ireland",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=193",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-sieger-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Winning Slots",
+  "slug": "winning-slots",
+  "country": "Ireland",
+  "bonus": "VIP Bonus 100% up to $2000",
+  "rating": 4.8,
+  "revenueRank": 51,
+  "spins": 90,
+  "providers": [
+    "Habanero Systems",
+    "Saucify",
+    "Novomatic",
+    "Arrows Edge",
+    "Push Gaming",
+    "IGT",
+    "BetSoft",
+    "1x2gaming"
+  ],
+  "likes": 150,
+  "comments": 470,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winning-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122"
+  ]
+}

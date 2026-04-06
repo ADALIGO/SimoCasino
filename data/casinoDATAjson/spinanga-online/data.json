@@ -1,0 +1,35 @@
+{
+  "name": "Spinanga Online",
+  "slug": "spinanga-online",
+  "country": "Austria",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 113,
+  "providers": [
+    "Konami",
+    "Greentube",
+    "NetEnt",
+    "EGT",
+    "Merkur",
+    "ELK Studios"
+  ],
+  "likes": 1360,
+  "comments": 454,
+  "operatingCountries": [
+    "Australia",
+    "Spain",
+    "Portugal",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinanga-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

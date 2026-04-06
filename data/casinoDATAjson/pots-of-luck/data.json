@@ -1,0 +1,29 @@
+{
+  "name": "Pots of Luck",
+  "slug": "pots-of-luck",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.7,
+  "revenueRank": 22,
+  "spins": 27,
+  "providers": [],
+  "likes": 423,
+  "comments": 24,
+  "operatingCountries": [
+    "Finland",
+    "Portugal",
+    "United Kingdom",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=omni",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179"
+  ],
+  "reviewCount": 5
+}

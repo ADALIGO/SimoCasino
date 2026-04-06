@@ -1,0 +1,29 @@
+{
+  "name": "7 Sultans Games",
+  "slug": "7-sultans-games",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 377,
+  "providers": [
+    "Ash Gaming",
+    "Push Gaming"
+  ],
+  "likes": 502,
+  "comments": 340,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=90",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=7-sultans-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Impressario Games",
+  "slug": "impressario-games",
+  "country": "Spain",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 178,
+  "providers": [
+    "Relax Gaming",
+    "Greentube",
+    "BetSoft",
+    "Nolimit City",
+    "Push Gaming",
+    "Amatic Industries",
+    "Genesis Gaming",
+    "Novomatic"
+  ],
+  "likes": 254,
+  "comments": 386,
+  "operatingCountries": [
+    "Ireland",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=130",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=impressario-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133"
+  ]
+}

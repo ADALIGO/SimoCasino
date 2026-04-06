@@ -1,0 +1,27 @@
+{
+  "name": "Lucky Bonanza",
+  "slug": "lucky-bonanza",
+  "country": "Morocco",
+  "bonus": "500% up to $5000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 295,
+  "providers": [],
+  "likes": 75,
+  "comments": 449,
+  "operatingCountries": [
+    "Italy",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=roaring-21",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,96 @@
+/////////////////////
+// USER BONUS
+
+/////////////////////
+
+model UserBonus {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  user                   User      @relation(fields: [userId], references: [id])
+  userId                 String
+  bonus                  Bonus     @relation(fields: [bonusId], references: [id])
+  bonusId                String
+  claimedAt              DateTime  @default(now())
+  usedAt                 DateTime?
+  isExpired              Boolean   @default(false)
+  isVipBonus             Boolean   @default(false)
+
+  // Player / User Context
+  userTier               UserTier?
+  userVIPLevel           Int?
+  totalCasinoSessions    Int?
+  totalCasinoBets        Float?
+  avgBetSize             Float?
+  totalWins              Float?
+  totalLosses            Float?
+
+  // Bonus Usage Metrics
+  timesUsed              Int?
+  timesPartiallyUsed     Int?
+  totalWageredAmount     Float?
+  avgWageredAmount       Float?
+  totalWinsGenerated     Float?
+  avgWinPerBonus         Float?
+  maxWin                 Float?
+  minWin                 Float?
+  totalDepositsDuringBonus Float?
+  bonusEffectivenessScore Float?
+
+  // Engagement Metrics
+  likes                  Int?
+  dislikes               Int?
+  shares                 Int?
+  comments               Int?
+  socialEngagementScore  Float?
+  referralImpact         Float?
+  bonusClickThroughs     Int?
+  bonusRedemptionRate    Float?
+  favoriteGamesUsed      String[]
+  recommendedGamesUsed   String[]
+
+  // Gamification / Loyalty
+  streakBonusUsed        Boolean?
+  milestoneBonusUsed     Boolean?
+  achievementsUnlocked   String[]
+  leaderboardPoints      Float?
+  tournamentEligible     Boolean?
+  dailyBonusClaimStreak  Int?
+  weeklyBonusClaimStreak Int?
+  vipPointsEarned        Int?
+  loyaltyPointsEarned    Int?
+
+  // Fraud / Security
+  suspiciousUsage        Boolean?
+  flaggedForReview       Boolean?
+  duplicateClaimsScore   Float?
+  ipReputationScore      Float?
+  deviceReputationScore  Float?
+  autoFlagSuspicious     Boolean?
+
+  // Marketing / Campaign
+  campaignId             String?
+  campaignName           String?
+  campaignStartDate      DateTime?
+  campaignEndDate        DateTime?
+  campaignRegionTarget   String[]
+  campaignDeviceTarget   DeviceType[]
+  campaignLanguageTarget String[]
+  marketingScore         Float?
+  emailClickThroughs     Int?
+  pushClickThroughs      Int?
+
+  // AI & Recommendation
+  aiScore                Float?   // predicted engagement
+  predictedRedemption    Float?
+  predictedChurnScore    Float?
+  recommendedForTier     UserTier?
+  suggestedGames         String[]
+  suggestedCasinos       String[]
+
+  // Admin / Misc
+  adminNotes             String[]
+  history                Json?
+  lastUpdatedAt          DateTime?
+  resolvedFlagAt         DateTime?
+  resolutionComments     String[]
+}
+

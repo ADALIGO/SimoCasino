@@ -1,0 +1,32 @@
+{
+  "name": "Joker8 Games",
+  "slug": "joker8-games",
+  "country": "Czech Republic",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 259,
+  "providers": [
+    "Big Time Gaming",
+    "NetEnt",
+    "Nolimit City",
+    "EGT",
+    "Iron Dog Studio",
+    "Spinlogic Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 1427,
+  "comments": 150,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=40",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=joker8-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ]
+}

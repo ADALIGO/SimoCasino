@@ -1,0 +1,32 @@
+{
+  "name": "Jackpotter Games",
+  "slug": "jackpotter-games",
+  "country": "Portugal",
+  "bonus": "100% up to $500 + 300 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Real Time Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 1338,
+  "comments": 178,
+  "operatingCountries": [
+    "United Kingdom",
+    "Morocco",
+    "Austria",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpotter-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

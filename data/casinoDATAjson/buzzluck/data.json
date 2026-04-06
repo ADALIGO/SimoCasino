@@ -1,0 +1,29 @@
+{
+  "name": "Buzzluck",
+  "slug": "buzzluck",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 339,
+  "providers": [],
+  "likes": 1466,
+  "comments": 495,
+  "operatingCountries": [
+    "Belgium",
+    "United Kingdom",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=59",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=el-royale",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63"
+  ],
+  "reviewCount": 5
+}

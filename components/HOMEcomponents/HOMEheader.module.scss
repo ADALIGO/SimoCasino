@@ -1,0 +1,34 @@
+@use './mobile/HOMEheader.module.scss' as *;
+@use './tablet/HOMEheader.module.scss' as *;
+@use './desktop/HOMEheader.module.scss' as *;
+
+@media (min-width: 1401px) {
+  .header .nav {
+    display: flex !important;
+  }
+
+  .header .nav a {
+    color: white !important;
+  }
+}
+
+.logoImage {
+  width: 10px;
+  height: 10px;
+  max-width: 10px;
+  max-height: 10px;
+
+  border-radius: 8px;
+}
+
+@media (max-width: 860px) {
+  .logoImage {
+    width: 8px;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    border-radius: 6px;
+  }
+}
+
+/* Mobile/tablet/desktop styles are now maintained inside component-specific subfolders. */

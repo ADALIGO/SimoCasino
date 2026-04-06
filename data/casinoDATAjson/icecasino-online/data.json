@@ -1,0 +1,26 @@
+{
+  "name": "IceCasino Online",
+  "slug": "icecasino-online",
+  "country": "Portugal",
+  "bonus": "Reload Bonus 125% up to $500",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT"
+  ],
+  "likes": 325,
+  "comments": 209,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=icecasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

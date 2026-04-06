@@ -1,0 +1,32 @@
+{
+  "name": "Anonymous Slots",
+  "slug": "anonymous-slots",
+  "country": "Belgium",
+  "bonus": "VIP Bonus 150% up to $100",
+  "rating": 5,
+  "revenueRank": 71,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Merkur",
+    "Big Time Gaming"
+  ],
+  "likes": 581,
+  "comments": 103,
+  "operatingCountries": [
+    "Canada",
+    "France",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=anonymous-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

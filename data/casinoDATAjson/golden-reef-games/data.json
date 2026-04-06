@@ -1,0 +1,37 @@
+{
+  "name": "Golden Reef Games",
+  "slug": "golden-reef-games",
+  "country": "Finland",
+  "bonus": "Cashback up to 250%",
+  "rating": 3.2,
+  "revenueRank": 26,
+  "spins": 173,
+  "providers": [
+    "Habanero Systems",
+    "Ash Gaming",
+    "Aristocrat",
+    "WMS",
+    "Spinlogic Gaming",
+    "Saucify",
+    "Push Gaming"
+  ],
+  "likes": 1377,
+  "comments": 464,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria",
+    "Ireland",
+    "Canada",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=68",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-reef-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71"
+  ]
+}

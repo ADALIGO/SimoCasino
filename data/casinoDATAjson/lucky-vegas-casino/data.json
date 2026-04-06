@@ -1,0 +1,36 @@
+{
+  "name": "Lucky Vegas Casino",
+  "slug": "lucky-vegas-casino",
+  "country": "Sweden",
+  "bonus": "First Deposit 250% up to $100 + 50 Free Spins",
+  "rating": 4.7,
+  "revenueRank": 63,
+  "spins": 81,
+  "providers": [
+    "WMS",
+    "Real Time Gaming",
+    "BetSoft",
+    "Quickspin",
+    "Saucify",
+    "EGT",
+    "Nolimit City"
+  ],
+  "likes": 743,
+  "comments": 24,
+  "operatingCountries": [
+    "Italy",
+    "Morocco",
+    "Switzerland",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-vegas-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

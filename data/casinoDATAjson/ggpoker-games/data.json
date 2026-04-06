@@ -1,0 +1,33 @@
+{
+  "name": "GGPoker Games",
+  "slug": "ggpoker-games",
+  "country": "Portugal",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 99,
+  "providers": [
+    "Big Time Gaming",
+    "Push Gaming",
+    "EGT",
+    "Spinlogic Gaming",
+    "Nolimit City",
+    "Aristocrat",
+    "BetSoft"
+  ],
+  "likes": 398,
+  "comments": 149,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ggpoker-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102"
+  ]
+}

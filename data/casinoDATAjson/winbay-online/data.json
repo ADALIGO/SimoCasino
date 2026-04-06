@@ -1,0 +1,36 @@
+{
+  "name": "Winbay Online",
+  "slug": "winbay-online",
+  "country": "Portugal",
+  "bonus": "First Deposit 125% up to $200 + 250 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 410,
+  "providers": [
+    "WMS",
+    "NetEnt",
+    "Genesis Gaming",
+    "Novomatic",
+    "Wager Gaming",
+    "EGT"
+  ],
+  "likes": 1223,
+  "comments": 222,
+  "operatingCountries": [
+    "Germany",
+    "Belgium",
+    "Norway",
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winbay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

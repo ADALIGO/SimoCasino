@@ -1,0 +1,32 @@
+{
+  "name": "Casinado Games",
+  "slug": "casinado-games",
+  "country": "Austria",
+  "bonus": "125% Bonus up to $500",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Genesis Gaming",
+    "NextGen",
+    "WMS"
+  ],
+  "likes": 1669,
+  "comments": 278,
+  "operatingCountries": [
+    "Germany",
+    "South Africa",
+    "Spain",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinado-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "MobileWins",
+  "slug": "mobilewins",
+  "country": "Morocco",
+  "bonus": "200% up to €/$200 + 10 Spins",
+  "rating": 0,
+  "revenueRank": null,
+  "spins": 277,
+  "providers": [
+    "T&C's Apply",
+    "2.7 / 5"
+  ],
+  "likes": 370,
+  "comments": 430,
+  "operatingCountries": [
+    "Italy",
+    "Netherlands",
+    "Czech Republic",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=harrys",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144"
+  ],
+  "reviewCount": 0
+}

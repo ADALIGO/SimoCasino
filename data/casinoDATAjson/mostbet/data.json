@@ -1,0 +1,30 @@
+{
+  "name": "MOSTBET",
+  "slug": "mostbet",
+  "country": "Morocco",
+  "bonus": "125% up to €/$400 + 250 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 156,
+  "providers": [],
+  "likes": 1126,
+  "comments": 148,
+  "operatingCountries": [
+    "Portugal",
+    "Poland",
+    "France",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-prestige",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ],
+  "reviewCount": 5
+}

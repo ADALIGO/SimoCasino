@@ -1,0 +1,33 @@
+{
+  "name": "Golden Tiger Online",
+  "slug": "golden-tiger-online",
+  "country": "Denmark",
+  "bonus": "Reload Bonus 125% up to $100",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 449,
+  "providers": [
+    "Pragmatic Play",
+    "EGT",
+    "Greentube",
+    "1x2gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 39,
+  "comments": 441,
+  "operatingCountries": [
+    "Netherlands",
+    "Finland",
+    "Italy",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-tiger-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

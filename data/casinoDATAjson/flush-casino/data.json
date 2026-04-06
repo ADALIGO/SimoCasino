@@ -1,0 +1,31 @@
+{
+  "name": "Flush Casino",
+  "slug": "flush-casino",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 100% up to $50",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 461,
+  "providers": [
+    "WMS",
+    "Gamomat",
+    "Wager Gaming"
+  ],
+  "likes": 387,
+  "comments": 198,
+  "operatingCountries": [
+    "Czech Republic",
+    "Italy",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flush-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bonanza Game Online",
+  "slug": "bonanza-game-online",
+  "country": "Netherlands",
+  "bonus": "First Deposit 125% up to $2000 + 20 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Greentube"
+  ],
+  "likes": 1648,
+  "comments": 380,
+  "operatingCountries": [
+    "Finland",
+    "Czech Republic",
+    "United Kingdom",
+    "France",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=11",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bonanza-game-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

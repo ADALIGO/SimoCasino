@@ -1,0 +1,32 @@
+{
+  "name": "BoaBet Online",
+  "slug": "boabet-online",
+  "country": "Finland",
+  "bonus": "125% Bonus up to $1000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 276,
+  "providers": [
+    "Spinlogic Gaming",
+    "EGT",
+    "Rival"
+  ],
+  "likes": 347,
+  "comments": 32,
+  "operatingCountries": [
+    "France",
+    "Czech Republic",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boabet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

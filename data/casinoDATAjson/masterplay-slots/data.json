@@ -1,0 +1,34 @@
+{
+  "name": "MasterPlay Slots",
+  "slug": "masterplay-slots",
+  "country": "Switzerland",
+  "bonus": "First Deposit 300% up to $100 + 100 Free Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 349,
+  "providers": [
+    "WMS",
+    "Gamomat",
+    "Aristocrat",
+    "Novomatic"
+  ],
+  "likes": 342,
+  "comments": 410,
+  "operatingCountries": [
+    "United States",
+    "United Kingdom",
+    "Czech Republic",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=masterplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153"
+  ]
+}

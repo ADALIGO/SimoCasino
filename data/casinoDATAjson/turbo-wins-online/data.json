@@ -1,0 +1,32 @@
+{
+  "name": "Turbo Wins Online",
+  "slug": "turbo-wins-online",
+  "country": "Morocco",
+  "bonus": "VIP Bonus 150% up to $2000",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Blueprint Gaming",
+    "Microgaming",
+    "Evolution Gaming"
+  ],
+  "likes": 1569,
+  "comments": 31,
+  "operatingCountries": [
+    "South Africa",
+    "Australia",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=81",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=turbo-wins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85"
+  ]
+}

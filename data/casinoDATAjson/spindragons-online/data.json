@@ -1,0 +1,35 @@
+{
+  "name": "SpinDragons Online",
+  "slug": "spindragons-online",
+  "country": "Morocco",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 23,
+  "providers": [
+    "Microgaming",
+    "Real Time Gaming",
+    "Visionary iGaming",
+    "Playtech"
+  ],
+  "likes": 1639,
+  "comments": 67,
+  "operatingCountries": [
+    "Italy",
+    "Denmark",
+    "France",
+    "Canada",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=70",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spindragons-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "PuppyBet Casino",
+  "slug": "puppybet-casino",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 100% up to $1000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Pragmatic Play",
+    "Novomatic",
+    "Relax Gaming",
+    "Quickspin",
+    "Merkur",
+    "Thunderkick",
+    "NetEnt"
+  ],
+  "likes": 473,
+  "comments": 279,
+  "operatingCountries": [
+    "Belgium",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=puppybet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

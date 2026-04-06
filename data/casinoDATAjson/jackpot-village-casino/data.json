@@ -1,0 +1,36 @@
+{
+  "name": "Jackpot Village Casino",
+  "slug": "jackpot-village-casino",
+  "country": "Switzerland",
+  "bonus": "100% up to $300 + 300 Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 424,
+  "providers": [
+    "Saucify",
+    "Blueprint Gaming",
+    "Novomatic",
+    "BetSoft",
+    "ELK Studios",
+    "Evolution Gaming",
+    "IGT",
+    "Spinlogic Gaming"
+  ],
+  "likes": 216,
+  "comments": 456,
+  "operatingCountries": [
+    "United States",
+    "Australia",
+    "Czech Republic",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=76",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-village-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78"
+  ]
+}

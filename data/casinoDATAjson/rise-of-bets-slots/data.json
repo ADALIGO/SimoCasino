@@ -1,0 +1,31 @@
+{
+  "name": "Rise of Bets Slots",
+  "slug": "rise-of-bets-slots",
+  "country": "France",
+  "bonus": "Welcome Bonus 250% up to $300",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 480,
+  "providers": [
+    "Gamomat",
+    "Nolimit City",
+    "WMS"
+  ],
+  "likes": 372,
+  "comments": 66,
+  "operatingCountries": [
+    "Italy",
+    "New Zealand",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rise-of-bets-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

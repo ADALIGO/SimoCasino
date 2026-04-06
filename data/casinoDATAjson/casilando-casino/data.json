@@ -1,0 +1,36 @@
+{
+  "name": "Casilando Casino",
+  "slug": "casilando-casino",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.1,
+  "revenueRank": 79,
+  "spins": 378,
+  "providers": [
+    "Konami",
+    "Novomatic",
+    "IGT",
+    "Nolimit City",
+    "Amatic Industries",
+    "Microgaming",
+    "Spinlogic Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 511,
+  "comments": 175,
+  "operatingCountries": [
+    "Poland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casilando-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

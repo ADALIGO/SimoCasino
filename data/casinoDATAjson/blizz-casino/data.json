@@ -1,0 +1,32 @@
+{
+  "name": "Blizz Casino",
+  "slug": "blizz-casino",
+  "country": "United States",
+  "bonus": "300% Bonus up to $2000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 476,
+  "providers": [
+    "Nolimit City",
+    "NextGen",
+    "Quickspin",
+    "Rival",
+    "Evolution Gaming"
+  ],
+  "likes": 697,
+  "comments": 50,
+  "operatingCountries": [
+    "Czech Republic",
+    "Ireland",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=113",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blizz-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115"
+  ]
+}

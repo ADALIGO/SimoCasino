@@ -1,0 +1,28 @@
+{
+  "name": "Slots Safari",
+  "slug": "slots-safari",
+  "country": "Morocco",
+  "bonus": "300% up to €/$1000",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1213,
+  "comments": 64,
+  "operatingCountries": [
+    "Portugal",
+    "Switzerland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=primaplay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Flappy Games",
+  "slug": "flappy-games",
+  "country": "Morocco",
+  "bonus": "First Deposit 250% up to $100 + 300 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 32,
+  "providers": [
+    "IGT",
+    "Evolution Gaming",
+    "Thunderkick",
+    "Spinlogic Gaming",
+    "Nolimit City"
+  ],
+  "likes": 349,
+  "comments": 285,
+  "operatingCountries": [
+    "Portugal",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flappy-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85"
+  ]
+}

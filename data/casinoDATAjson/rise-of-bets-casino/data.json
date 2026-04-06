@@ -1,0 +1,35 @@
+{
+  "name": "Rise of Bets Casino",
+  "slug": "rise-of-bets-casino",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 200% up to $1000",
+  "rating": 3.7,
+  "revenueRank": 32,
+  "spins": 98,
+  "providers": [
+    "IGT",
+    "Aristocrat",
+    "1x2gaming",
+    "Nolimit City",
+    "Wager Gaming",
+    "ELK Studios",
+    "Pragmatic Play",
+    "Quickspin"
+  ],
+  "likes": 1243,
+  "comments": 196,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=173",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rise-of-bets-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177"
+  ]
+}

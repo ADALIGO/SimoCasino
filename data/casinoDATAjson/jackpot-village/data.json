@@ -1,0 +1,28 @@
+{
+  "name": "Jackpot Village",
+  "slug": "jackpot-village",
+  "country": "Morocco",
+  "bonus": "200% up to €500 + 50 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 748,
+  "comments": 421,
+  "operatingCountries": [
+    "Australia",
+    "Morocco",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=billybets",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ],
+  "reviewCount": 5
+}

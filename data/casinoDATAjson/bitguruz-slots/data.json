@@ -1,0 +1,31 @@
+{
+  "name": "BitGuruz Slots",
+  "slug": "bitguruz-slots",
+  "country": "Italy",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 200,
+  "providers": [
+    "IGT",
+    "Novomatic",
+    "Konami"
+  ],
+  "likes": 963,
+  "comments": 445,
+  "operatingCountries": [
+    "Australia",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitguruz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55"
+  ]
+}

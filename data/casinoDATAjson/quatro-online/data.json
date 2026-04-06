@@ -1,0 +1,36 @@
+{
+  "name": "Quatro Online",
+  "slug": "quatro-online",
+  "country": "Netherlands",
+  "bonus": "Deposit Bonus 200% up to $100",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "Blueprint Gaming",
+    "Novomatic",
+    "Relax Gaming",
+    "Red Tiger",
+    "Thunderkick",
+    "NetEnt"
+  ],
+  "likes": 1465,
+  "comments": 182,
+  "operatingCountries": [
+    "Austria",
+    "Australia",
+    "Belgium",
+    "New Zealand",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=103",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=quatro-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105"
+  ]
+}

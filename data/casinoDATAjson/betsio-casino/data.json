@@ -1,0 +1,27 @@
+{
+  "name": "bets.io Casino",
+  "slug": "betsio-casino",
+  "country": "Ireland",
+  "bonus": "300% Bonus up to $50",
+  "rating": 4.9,
+  "revenueRank": 53,
+  "spins": 0,
+  "providers": [
+    "Evolution Gaming"
+  ],
+  "likes": 212,
+  "comments": 54,
+  "operatingCountries": [
+    "Canada",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=189",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsio-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ]
+}

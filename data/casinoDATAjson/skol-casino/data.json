@@ -1,0 +1,32 @@
+{
+  "name": "Skol Casino",
+  "slug": "skol-casino",
+  "country": "Finland",
+  "bonus": "First Deposit 150% up to $200 + 150 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 465,
+  "providers": [
+    "Iron Dog Studio",
+    "Relax Gaming"
+  ],
+  "likes": 1341,
+  "comments": 12,
+  "operatingCountries": [
+    "Australia",
+    "Netherlands",
+    "Italy",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=skol-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ]
+}

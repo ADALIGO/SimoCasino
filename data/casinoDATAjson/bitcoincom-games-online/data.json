@@ -1,0 +1,30 @@
+{
+  "name": "Bitcoin.com Games Online",
+  "slug": "bitcoincom-games-online",
+  "country": "Italy",
+  "bonus": "200% Bonus up to $2000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 138,
+  "providers": [
+    "Wager Gaming",
+    "Konami",
+    "Iron Dog Studio",
+    "Merkur"
+  ],
+  "likes": 998,
+  "comments": 43,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=46",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitcoincom-games-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Stake Online",
+  "slug": "stake-online",
+  "country": "South Africa",
+  "bonus": "Welcome Bonus 50% up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming",
+    "Real Time Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1267,
+  "comments": 148,
+  "operatingCountries": [
+    "South Africa",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stake-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ]
+}

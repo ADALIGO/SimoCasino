@@ -1,0 +1,30 @@
+{
+  "name": "Spinational",
+  "slug": "spinational",
+  "country": "Morocco",
+  "bonus": "200% up to €500",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 51,
+  "providers": [],
+  "likes": 149,
+  "comments": 297,
+  "operatingCountries": [
+    "Germany",
+    "Australia",
+    "Austria",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitsler",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112"
+  ],
+  "reviewCount": 5
+}

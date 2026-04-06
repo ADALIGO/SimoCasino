@@ -1,0 +1,27 @@
+{
+  "name": "Dazzle Online",
+  "slug": "dazzle-online",
+  "country": "Czech Republic",
+  "bonus": "150% Bonus up to $300",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 277,
+  "providers": [
+    "Genesis Gaming",
+    "Nolimit City"
+  ],
+  "likes": 93,
+  "comments": 271,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dazzle-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

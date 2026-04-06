@@ -1,0 +1,38 @@
+{
+  "name": "BetWhale Games",
+  "slug": "betwhale-games",
+  "country": "Ireland",
+  "bonus": "Reload Bonus 125% up to $2000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 127,
+  "providers": [
+    "Yggdrasil",
+    "Aristocrat",
+    "Iron Dog Studio",
+    "Saucify",
+    "Microgaming",
+    "Genesis Gaming",
+    "NextGen",
+    "Wager Gaming"
+  ],
+  "likes": 955,
+  "comments": 478,
+  "operatingCountries": [
+    "Denmark",
+    "Ireland",
+    "Netherlands",
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwhale-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

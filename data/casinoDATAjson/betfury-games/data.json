@@ -1,0 +1,34 @@
+{
+  "name": "BetFury Games",
+  "slug": "betfury-games",
+  "country": "Switzerland",
+  "bonus": "VIP Bonus 50% up to $300",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 96,
+  "providers": [
+    "Novomatic",
+    "Microgaming",
+    "IGT",
+    "WMS",
+    "ELK Studios"
+  ],
+  "likes": 1529,
+  "comments": 371,
+  "operatingCountries": [
+    "France",
+    "South Africa",
+    "Italy",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfury-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "FortunePlay Slots",
+  "slug": "fortuneplay-slots",
+  "country": "Germany",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming",
+    "Gamomat"
+  ],
+  "likes": 1874,
+  "comments": 321,
+  "operatingCountries": [
+    "Poland",
+    "Denmark",
+    "South Africa",
+    "Ireland",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fortuneplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PlayToro Casino",
+  "slug": "playtoro-casino",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 125% up to $50",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "Wager Gaming"
+  ],
+  "likes": 723,
+  "comments": 123,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playtoro-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76"
+  ]
+}

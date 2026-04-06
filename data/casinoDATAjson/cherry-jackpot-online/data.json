@@ -1,0 +1,29 @@
+{
+  "name": "Cherry Jackpot Online",
+  "slug": "cherry-jackpot-online",
+  "country": "Belgium",
+  "bonus": "First Deposit 100% up to $200 + 250 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 426,
+  "providers": [
+    "Evolution Gaming",
+    "Rival"
+  ],
+  "likes": 1399,
+  "comments": 426,
+  "operatingCountries": [
+    "Canada",
+    "Spain",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=56",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cherry-jackpot-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58"
+  ]
+}

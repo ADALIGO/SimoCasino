@@ -1,0 +1,33 @@
+{
+  "name": "Rich Reels Slots",
+  "slug": "rich-reels-slots",
+  "country": "United States",
+  "bonus": "125% Bonus up to $2000",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 431,
+  "providers": [
+    "Yggdrasil",
+    "Pragmatic Play",
+    "Push Gaming",
+    "Blueprint Gaming",
+    "Merkur"
+  ],
+  "likes": 1075,
+  "comments": 7,
+  "operatingCountries": [
+    "Switzerland",
+    "Norway",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rich-reels-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

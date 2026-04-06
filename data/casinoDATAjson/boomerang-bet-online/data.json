@@ -1,0 +1,33 @@
+{
+  "name": "Boomerang Bet Online",
+  "slug": "boomerang-bet-online",
+  "country": "Norway",
+  "bonus": "VIP Bonus 150% up to $100",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 485,
+  "providers": [
+    "NextGen",
+    "Spinlogic Gaming",
+    "Gamomat",
+    "Thunderkick",
+    "Relax Gaming"
+  ],
+  "likes": 958,
+  "comments": 379,
+  "operatingCountries": [
+    "Denmark",
+    "Poland",
+    "Canada",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boomerang-bet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

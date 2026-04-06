@@ -1,0 +1,29 @@
+{
+  "name": "Roobet Casino",
+  "slug": "roobet-casino",
+  "country": "Switzerland",
+  "bonus": "100% Bonus up to $100",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 391,
+  "providers": [
+    "1x2gaming",
+    "Relax Gaming"
+  ],
+  "likes": 51,
+  "comments": 309,
+  "operatingCountries": [
+    "Portugal",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=roobet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

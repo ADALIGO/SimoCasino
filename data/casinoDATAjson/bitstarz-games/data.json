@@ -1,0 +1,31 @@
+{
+  "name": "BitStarz Games",
+  "slug": "bitstarz-games",
+  "country": "Belgium",
+  "bonus": "First Deposit 300% up to $300 + 200 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 457,
+  "providers": [
+    "Wager Gaming"
+  ],
+  "likes": 1224,
+  "comments": 194,
+  "operatingCountries": [
+    "France",
+    "Germany",
+    "Switzerland",
+    "United Kingdom",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=81",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitstarz-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84"
+  ]
+}

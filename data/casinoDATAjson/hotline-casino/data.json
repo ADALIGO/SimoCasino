@@ -1,0 +1,35 @@
+{
+  "name": "Hotline Casino",
+  "slug": "hotline-casino",
+  "country": "Australia",
+  "bonus": "First Deposit 300% up to $50 + 150 Free Spins",
+  "rating": 4.6,
+  "revenueRank": 30,
+  "spins": 204,
+  "providers": [
+    "ELK Studios",
+    "Pragmatic Play",
+    "Spinlogic Gaming",
+    "Gamomat",
+    "Saucify",
+    "Rival",
+    "Habanero Systems",
+    "IGT"
+  ],
+  "likes": 929,
+  "comments": 122,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotline-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

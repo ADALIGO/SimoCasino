@@ -1,0 +1,27 @@
+{
+  "name": "Chilli Spins",
+  "slug": "chilli-spins",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 30,
+  "providers": [],
+  "likes": 1899,
+  "comments": 364,
+  "operatingCountries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=174",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-vegas",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177"
+  ],
+  "reviewCount": 5
+}

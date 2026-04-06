@@ -1,0 +1,27 @@
+{
+  "name": "Frumzi",
+  "slug": "frumzi",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500 + 200 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 283,
+  "comments": 390,
+  "operatingCountries": [
+    "Portugal",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=76",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotilda-world",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ],
+  "reviewCount": 5
+}

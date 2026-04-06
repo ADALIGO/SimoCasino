@@ -1,0 +1,27 @@
+{
+  "name": "Coinplay",
+  "slug": "coinplay",
+  "country": "Morocco",
+  "bonus": "100% up to ₮5000 + 80 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 151,
+  "providers": [],
+  "likes": 503,
+  "comments": 233,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=40",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinsy",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ],
+  "reviewCount": 5
+}

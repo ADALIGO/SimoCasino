@@ -1,0 +1,33 @@
+{
+  "name": "Viggoslots Casino",
+  "slug": "viggoslots-casino",
+  "country": "France",
+  "bonus": "Welcome Bonus 150% up to $500",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 244,
+  "providers": [
+    "Konami",
+    "Quickspin",
+    "Ash Gaming",
+    "NextGen",
+    "Pragmatic Play",
+    "Microgaming",
+    "Big Time Gaming"
+  ],
+  "likes": 1088,
+  "comments": 338,
+  "operatingCountries": [
+    "Canada",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=viggoslots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ]
+}

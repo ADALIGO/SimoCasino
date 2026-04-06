@@ -1,0 +1,38 @@
+{
+  "name": "Spin Galaxy Casino",
+  "slug": "spin-galaxy-casino",
+  "country": "New Zealand",
+  "bonus": "Cashback up to 200%",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Real Time Gaming",
+    "Visionary iGaming",
+    "WMS",
+    "Relax Gaming",
+    "Gamomat",
+    "Pragmatic Play"
+  ],
+  "likes": 1699,
+  "comments": 174,
+  "operatingCountries": [
+    "Canada",
+    "Poland",
+    "Norway",
+    "Finland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-galaxy-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126"
+  ]
+}

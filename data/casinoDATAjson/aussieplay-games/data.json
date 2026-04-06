@@ -1,0 +1,31 @@
+{
+  "name": "Aussieplay Games",
+  "slug": "aussieplay-games",
+  "country": "Sweden",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 54,
+  "providers": [
+    "Ash Gaming",
+    "Novomatic",
+    "Blueprint Gaming"
+  ],
+  "likes": 1559,
+  "comments": 341,
+  "operatingCountries": [
+    "Netherlands",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=177",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=aussieplay-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ]
+}

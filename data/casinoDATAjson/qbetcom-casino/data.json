@@ -1,0 +1,35 @@
+{
+  "name": "Qbet.com Casino",
+  "slug": "qbetcom-casino",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 200% up to $1000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Real Time Gaming",
+    "Iron Dog Studio",
+    "Ash Gaming",
+    "NetEnt"
+  ],
+  "likes": 1154,
+  "comments": 170,
+  "operatingCountries": [
+    "Austria",
+    "Germany",
+    "Czech Republic",
+    "Italy",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=qbetcom-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159"
+  ]
+}

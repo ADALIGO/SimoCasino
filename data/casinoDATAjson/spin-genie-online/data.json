@@ -1,0 +1,31 @@
+{
+  "name": "Spin Genie Online",
+  "slug": "spin-genie-online",
+  "country": "Belgium",
+  "bonus": "100% up to $300 + 50 Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Playtech"
+  ],
+  "likes": 1141,
+  "comments": 166,
+  "operatingCountries": [
+    "Spain",
+    "South Africa",
+    "Australia",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-genie-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

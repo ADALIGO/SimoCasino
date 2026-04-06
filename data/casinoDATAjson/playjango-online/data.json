@@ -1,0 +1,35 @@
+{
+  "name": "PlayJango Online",
+  "slug": "playjango-online",
+  "country": "New Zealand",
+  "bonus": "VIP Bonus 50% up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 304,
+  "providers": [
+    "Evolution Gaming",
+    "Pragmatic Play",
+    "Genesis Gaming",
+    "Blueprint Gaming",
+    "Rival",
+    "EGT",
+    "Novomatic"
+  ],
+  "likes": 520,
+  "comments": 386,
+  "operatingCountries": [
+    "Belgium",
+    "Portugal",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playjango-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120"
+  ]
+}

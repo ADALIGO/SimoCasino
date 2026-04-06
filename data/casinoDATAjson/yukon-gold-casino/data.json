@@ -1,0 +1,35 @@
+{
+  "name": "Yukon Gold Casino",
+  "slug": "yukon-gold-casino",
+  "country": "Poland",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 37,
+  "providers": [
+    "IGT",
+    "Relax Gaming",
+    "Greentube",
+    "Yggdrasil",
+    "Wager Gaming",
+    "Konami"
+  ],
+  "likes": 500,
+  "comments": 269,
+  "operatingCountries": [
+    "Norway",
+    "Denmark",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yukon-gold-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61"
+  ]
+}

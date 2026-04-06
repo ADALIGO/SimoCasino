@@ -1,0 +1,36 @@
+{
+  "name": "SimbaGames Slots",
+  "slug": "simbagames-slots",
+  "country": "Italy",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 269,
+  "providers": [
+    "Push Gaming",
+    "Microgaming",
+    "Saucify",
+    "Habanero Systems",
+    "Real Time Gaming",
+    "Big Time Gaming",
+    "WMS",
+    "1x2gaming"
+  ],
+  "likes": 1609,
+  "comments": 298,
+  "operatingCountries": [
+    "Sweden",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=simbagames-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

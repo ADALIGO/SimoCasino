@@ -1,0 +1,30 @@
+{
+  "name": "Royal Vegas",
+  "slug": "royal-vegas",
+  "country": "Morocco",
+  "bonus": "30 Spins",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 357,
+  "providers": [],
+  "likes": 143,
+  "comments": 294,
+  "operatingCountries": [
+    "Austria",
+    "United States",
+    "France",
+    "Australia",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=76",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gentingcasino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ],
+  "reviewCount": 5
+}

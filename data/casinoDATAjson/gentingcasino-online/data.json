@@ -1,0 +1,30 @@
+{
+  "name": "GentingCasino Online",
+  "slug": "gentingcasino-online",
+  "country": "Denmark",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Arrows Edge"
+  ],
+  "likes": 899,
+  "comments": 233,
+  "operatingCountries": [
+    "Italy",
+    "France",
+    "Poland",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=34",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gentingcasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ]
+}

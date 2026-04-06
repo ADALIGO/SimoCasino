@@ -1,0 +1,28 @@
+{
+  "name": "Woopwin Casino",
+  "slug": "woopwin-casino",
+  "country": "Ireland",
+  "bonus": "First Deposit 250% up to $2000 + 50 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Arrows Edge",
+    "NextGen"
+  ],
+  "likes": 1148,
+  "comments": 257,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=woopwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

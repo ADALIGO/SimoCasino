@@ -1,0 +1,30 @@
+{
+  "name": "BitStarz Slots",
+  "slug": "bitstarz-slots",
+  "country": "Spain",
+  "bonus": "125% Bonus up to $2000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Push Gaming"
+  ],
+  "likes": 612,
+  "comments": 452,
+  "operatingCountries": [
+    "Ireland",
+    "Austria",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitstarz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ]
+}

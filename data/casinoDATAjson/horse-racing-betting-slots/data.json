@@ -1,0 +1,31 @@
+{
+  "name": "Horse Racing Betting Slots",
+  "slug": "horse-racing-betting-slots",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Arrows Edge",
+    "Saucify",
+    "ELK Studios",
+    "Push Gaming",
+    "Ash Gaming"
+  ],
+  "likes": 1406,
+  "comments": 463,
+  "operatingCountries": [
+    "Canada",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=101",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=horse-racing-betting-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103"
+  ]
+}

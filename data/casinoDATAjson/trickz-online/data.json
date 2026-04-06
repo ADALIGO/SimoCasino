@@ -1,0 +1,37 @@
+{
+  "name": "Trickz Online",
+  "slug": "trickz-online",
+  "country": "Canada",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 461,
+  "providers": [
+    "Pragmatic Play",
+    "Novomatic",
+    "Playtech",
+    "Red Tiger",
+    "Yggdrasil",
+    "Evolution Gaming",
+    "Gamomat"
+  ],
+  "likes": 1030,
+  "comments": 346,
+  "operatingCountries": [
+    "Germany",
+    "Canada",
+    "France",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=trickz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159"
+  ]
+}

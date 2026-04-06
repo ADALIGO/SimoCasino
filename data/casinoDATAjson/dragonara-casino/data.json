@@ -1,0 +1,33 @@
+{
+  "name": "Dragonara Casino",
+  "slug": "dragonara-casino",
+  "country": "South Africa",
+  "bonus": "150% Bonus up to $500",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 52,
+  "providers": [
+    "Konami",
+    "Wager Gaming"
+  ],
+  "likes": 1772,
+  "comments": 150,
+  "operatingCountries": [
+    "Ireland",
+    "Sweden",
+    "Spain",
+    "Italy",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dragonara-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ]
+}

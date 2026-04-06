@@ -1,0 +1,32 @@
+{
+  "name": "North Slots",
+  "slug": "north-slots",
+  "country": "Germany",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 34,
+  "providers": [
+    "Merkur",
+    "NetEnt",
+    "Novomatic",
+    "Genesis Gaming",
+    "Real Time Gaming"
+  ],
+  "likes": 1736,
+  "comments": 360,
+  "operatingCountries": [
+    "Switzerland",
+    "Spain",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=north-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ]
+}

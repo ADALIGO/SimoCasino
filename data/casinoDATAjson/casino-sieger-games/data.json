@@ -1,0 +1,35 @@
+{
+  "name": "Casino Sieger Games",
+  "slug": "casino-sieger-games",
+  "country": "Czech Republic",
+  "bonus": "Reload Bonus 50% up to $300",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Real Time Gaming",
+    "Relax Gaming",
+    "Rival",
+    "Visionary iGaming",
+    "Aristocrat"
+  ],
+  "likes": 263,
+  "comments": 246,
+  "operatingCountries": [
+    "United States",
+    "Australia",
+    "Switzerland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-sieger-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ]
+}

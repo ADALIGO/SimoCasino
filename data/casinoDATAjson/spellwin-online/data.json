@@ -1,0 +1,32 @@
+{
+  "name": "Spellwin Online",
+  "slug": "spellwin-online",
+  "country": "Ireland",
+  "bonus": "100% up to $300 + 150 Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 396,
+  "providers": [
+    "Novomatic",
+    "Thunderkick"
+  ],
+  "likes": 389,
+  "comments": 301,
+  "operatingCountries": [
+    "New Zealand",
+    "Portugal",
+    "Morocco",
+    "Australia",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spellwin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

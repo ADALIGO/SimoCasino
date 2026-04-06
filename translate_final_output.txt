@@ -1,0 +1,19 @@
+﻿
+Processing Azerbaijani (az)...
+============================================================
+Γ£ô Translated: 5 strings
+Γ£ô File saved: app/locales/az/translation.json
+
+Processing Bulgarian (bg)...
+============================================================
+Γ£ô Translated: 5 strings
+Γ£ô File saved: app/locales/bg/translation.json
+
+Processing Bengali (bn)...
+============================================================
+Γ£ô Translated: 5 strings
+Γ£ô File saved: app/locales/bn/translation.json
+============================================================
+COMPLETE!
+Total strings translated: 15
+============================================================

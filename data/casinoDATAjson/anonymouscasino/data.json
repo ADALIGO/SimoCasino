@@ -1,0 +1,30 @@
+{
+  "name": "AnonymousCasino",
+  "slug": "anonymouscasino",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 110,
+  "providers": [],
+  "likes": 1171,
+  "comments": 151,
+  "operatingCountries": [
+    "New Zealand",
+    "United Kingdom",
+    "Denmark",
+    "Czech Republic",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=156",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dream-vegas",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159"
+  ],
+  "reviewCount": 5
+}

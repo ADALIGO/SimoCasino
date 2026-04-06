@@ -1,0 +1,35 @@
+{
+  "name": "Pledoo Casino",
+  "slug": "pledoo-casino",
+  "country": "New Zealand",
+  "bonus": "Cashback up to 250%",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 440,
+  "providers": [
+    "Aristocrat",
+    "Visionary iGaming",
+    "NetEnt",
+    "Iron Dog Studio"
+  ],
+  "likes": 792,
+  "comments": 272,
+  "operatingCountries": [
+    "United Kingdom",
+    "Sweden",
+    "Morocco",
+    "Netherlands",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=160",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pledoo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ]
+}

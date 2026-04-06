@@ -1,0 +1,28 @@
+{
+  "name": "Big5 Online",
+  "slug": "big5-online",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 250% up to $500",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 375,
+  "providers": [
+    "NetEnt"
+  ],
+  "likes": 245,
+  "comments": 262,
+  "operatingCountries": [
+    "Finland",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=big5-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78"
+  ]
+}

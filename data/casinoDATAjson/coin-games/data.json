@@ -1,0 +1,31 @@
+{
+  "name": "Coin Games",
+  "slug": "coin-games",
+  "country": "Denmark",
+  "bonus": "First Deposit 250% up to $2000 + 100 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "Real Time Gaming",
+    "Yggdrasil",
+    "1x2gaming",
+    "Big Time Gaming",
+    "Quickspin"
+  ],
+  "likes": 1658,
+  "comments": 205,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

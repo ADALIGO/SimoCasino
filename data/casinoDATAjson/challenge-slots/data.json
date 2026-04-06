@@ -1,0 +1,31 @@
+{
+  "name": "Challenge Slots",
+  "slug": "challenge-slots",
+  "country": "Spain",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Quickspin"
+  ],
+  "likes": 345,
+  "comments": 152,
+  "operatingCountries": [
+    "Czech Republic",
+    "United States",
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=34",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=challenge-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "WonderLuck Casino",
+  "slug": "wonderluck-casino",
+  "country": "Denmark",
+  "bonus": "First Deposit 100% up to $500 + 20 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "NetEnt",
+    "Habanero Systems",
+    "Quickspin"
+  ],
+  "likes": 772,
+  "comments": 177,
+  "operatingCountries": [
+    "Czech Republic",
+    "New Zealand",
+    "France",
+    "Germany",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=127",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wonderluck-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

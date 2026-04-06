@@ -1,0 +1,34 @@
+{
+  "name": "LuckyGem Online",
+  "slug": "luckygem-online",
+  "country": "Morocco",
+  "bonus": "Cashback up to 125%",
+  "rating": 3.1,
+  "revenueRank": 22,
+  "spins": 109,
+  "providers": [
+    "Thunderkick",
+    "Aristocrat",
+    "Saucify",
+    "Novomatic",
+    "Nolimit City",
+    "Blueprint Gaming",
+    "Spinlogic Gaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 414,
+  "comments": 224,
+  "operatingCountries": [
+    "Canada",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckygem-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71"
+  ]
+}

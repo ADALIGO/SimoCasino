@@ -1,0 +1,39 @@
+{
+  "name": "MadCasino Online",
+  "slug": "madcasino-online",
+  "country": "Spain",
+  "bonus": "50% Bonus up to $2000",
+  "rating": 4.6,
+  "revenueRank": 24,
+  "spins": 169,
+  "providers": [
+    "Quickspin",
+    "Rival",
+    "Playtech",
+    "Real Time Gaming",
+    "Genesis Gaming",
+    "Merkur",
+    "Microgaming",
+    "Amatic Industries"
+  ],
+  "likes": 697,
+  "comments": 333,
+  "operatingCountries": [
+    "Netherlands",
+    "Czech Republic",
+    "United Kingdom",
+    "France",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=madcasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114"
+  ]
+}

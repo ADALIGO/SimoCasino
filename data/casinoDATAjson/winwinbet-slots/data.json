@@ -1,0 +1,31 @@
+{
+  "name": "WinWin.Bet Slots",
+  "slug": "winwinbet-slots",
+  "country": "France",
+  "bonus": "Reload Bonus 250% up to $2000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 27,
+  "providers": [
+    "Yggdrasil",
+    "Evolution Gaming",
+    "Saucify",
+    "Blueprint Gaming"
+  ],
+  "likes": 240,
+  "comments": 331,
+  "operatingCountries": [
+    "Germany",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winwinbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ]
+}

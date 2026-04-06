@@ -1,0 +1,35 @@
+{
+  "name": "Scarawins Casino",
+  "slug": "scarawins-casino",
+  "country": "United States",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 265,
+  "providers": [
+    "Iron Dog Studio",
+    "Blueprint Gaming",
+    "Playtech",
+    "Gamomat",
+    "Real Time Gaming",
+    "1x2gaming"
+  ],
+  "likes": 1701,
+  "comments": 73,
+  "operatingCountries": [
+    "United Kingdom",
+    "Poland",
+    "Netherlands",
+    "United States",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=scarawins-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

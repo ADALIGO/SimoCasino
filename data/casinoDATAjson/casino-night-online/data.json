@@ -1,0 +1,39 @@
+{
+  "name": "Casino Night Online",
+  "slug": "casino-night-online",
+  "country": "Italy",
+  "bonus": "VIP Bonus 250% up to $200",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 36,
+  "providers": [
+    "Rival",
+    "EGT",
+    "Iron Dog Studio",
+    "Gamomat",
+    "Nolimit City",
+    "1x2gaming",
+    "Playtech",
+    "Evolution Gaming"
+  ],
+  "likes": 1348,
+  "comments": 403,
+  "operatingCountries": [
+    "Spain",
+    "Belgium",
+    "Norway",
+    "South Africa",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-night-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

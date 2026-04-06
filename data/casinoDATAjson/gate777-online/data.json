@@ -1,0 +1,30 @@
+{
+  "name": "Gate777 Online",
+  "slug": "gate777-online",
+  "country": "Germany",
+  "bonus": "Cashback up to 250%",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 321,
+  "providers": [
+    "WMS",
+    "Pragmatic Play"
+  ],
+  "likes": 802,
+  "comments": 11,
+  "operatingCountries": [
+    "Finland",
+    "Belgium",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=54",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gate777-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "SpinMillion Casino",
+  "slug": "spinmillion-casino",
+  "country": "Austria",
+  "bonus": "150% Bonus up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Blueprint Gaming",
+    "Aristocrat",
+    "Pragmatic Play"
+  ],
+  "likes": 1634,
+  "comments": 327,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria",
+    "Norway",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinmillion-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ]
+}

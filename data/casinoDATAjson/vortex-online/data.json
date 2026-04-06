@@ -1,0 +1,35 @@
+{
+  "name": "Vortex Online",
+  "slug": "vortex-online",
+  "country": "Morocco",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Saucify",
+    "EGT",
+    "Big Time Gaming",
+    "Ash Gaming",
+    "Greentube"
+  ],
+  "likes": 159,
+  "comments": 138,
+  "operatingCountries": [
+    "Canada",
+    "Denmark",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vortex-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

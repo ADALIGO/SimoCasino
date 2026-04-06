@@ -1,0 +1,28 @@
+{
+  "name": "BetFoxx",
+  "slug": "betfoxx",
+  "country": "Morocco",
+  "bonus": "200% up to €/$10000 + 100 Spins",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 296,
+  "providers": [],
+  "likes": 297,
+  "comments": 295,
+  "operatingCountries": [
+    "United Kingdom",
+    "Australia",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=157",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=powerup",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160"
+  ],
+  "reviewCount": 5
+}

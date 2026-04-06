@@ -1,0 +1,29 @@
+{
+  "name": "BankonBet Slots",
+  "slug": "bankonbet-slots",
+  "country": "Spain",
+  "bonus": "50% Bonus up to $100",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat"
+  ],
+  "likes": 259,
+  "comments": 164,
+  "operatingCountries": [
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bankonbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ]
+}

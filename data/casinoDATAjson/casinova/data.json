@@ -1,0 +1,28 @@
+{
+  "name": "Casinova",
+  "slug": "casinova",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500 + 200 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 177,
+  "providers": [],
+  "likes": 966,
+  "comments": 45,
+  "operatingCountries": [
+    "South Africa",
+    "Denmark",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=160",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163"
+  ],
+  "reviewCount": 5
+}

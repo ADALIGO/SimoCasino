@@ -1,0 +1,36 @@
+{
+  "name": "CasinoCasino Slots",
+  "slug": "casinocasino-slots",
+  "country": "Czech Republic",
+  "bonus": "Cashback up to 125%",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 176,
+  "providers": [
+    "Novomatic",
+    "Playtech",
+    "Spinlogic Gaming",
+    "Ash Gaming",
+    "Thunderkick",
+    "1x2gaming",
+    "Habanero Systems"
+  ],
+  "likes": 497,
+  "comments": 181,
+  "operatingCountries": [
+    "Switzerland",
+    "Italy",
+    "United Kingdom",
+    "Germany",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinocasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

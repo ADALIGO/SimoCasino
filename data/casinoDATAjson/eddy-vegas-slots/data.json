@@ -1,0 +1,32 @@
+{
+  "name": "Eddy Vegas Slots",
+  "slug": "eddy-vegas-slots",
+  "country": "Belgium",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 103,
+  "providers": [
+    "Evolution Gaming",
+    "Real Time Gaming",
+    "Quickspin",
+    "BetSoft",
+    "NextGen",
+    "Big Time Gaming"
+  ],
+  "likes": 597,
+  "comments": 64,
+  "operatingCountries": [
+    "Australia",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eddy-vegas-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84"
+  ]
+}

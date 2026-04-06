@@ -1,0 +1,33 @@
+{
+  "name": "Spin Genie Slots",
+  "slug": "spin-genie-slots",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Novomatic",
+    "ELK Studios",
+    "Relax Gaming",
+    "Red Tiger"
+  ],
+  "likes": 1657,
+  "comments": 442,
+  "operatingCountries": [
+    "Finland",
+    "Portugal",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-genie-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

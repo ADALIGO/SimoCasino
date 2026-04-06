@@ -1,0 +1,30 @@
+{
+  "name": "betstro Slots",
+  "slug": "betstro-slots",
+  "country": "Denmark",
+  "bonus": "VIP Bonus 50% up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 7,
+  "providers": [
+    "1x2gaming",
+    "Arrows Edge",
+    "Konami"
+  ],
+  "likes": 1792,
+  "comments": 498,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betstro-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ]
+}

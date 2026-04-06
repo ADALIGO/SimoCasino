@@ -1,0 +1,28 @@
+{
+  "name": "11croco",
+  "slug": "11croco",
+  "country": "Morocco",
+  "bonus": "150% up to €500 + 200 Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 108,
+  "providers": [],
+  "likes": 643,
+  "comments": 13,
+  "operatingCountries": [
+    "Finland",
+    "South Africa",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=121",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rembrandt",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ],
+  "reviewCount": 5
+}

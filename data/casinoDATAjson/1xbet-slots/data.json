@@ -1,0 +1,35 @@
+{
+  "name": "1XBET Slots",
+  "slug": "1xbet-slots",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Merkur",
+    "Nolimit City",
+    "Yggdrasil",
+    "Iron Dog Studio",
+    "Red Tiger",
+    "Pragmatic Play",
+    "Real Time Gaming"
+  ],
+  "likes": 77,
+  "comments": 496,
+  "operatingCountries": [
+    "Sweden",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179"
+  ]
+}

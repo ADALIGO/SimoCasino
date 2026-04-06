@@ -1,0 +1,31 @@
+{
+  "name": "Apollo Slots Slots",
+  "slug": "apollo-slots-slots",
+  "country": "United States",
+  "bonus": "VIP Bonus 125% up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 297,
+  "providers": [
+    "Blueprint Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 789,
+  "comments": 225,
+  "operatingCountries": [
+    "United States",
+    "Denmark",
+    "Ireland",
+    "Spain",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=apollo-slots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

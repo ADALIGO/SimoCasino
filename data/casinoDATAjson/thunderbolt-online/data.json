@@ -1,0 +1,35 @@
+{
+  "name": "Thunderbolt Online",
+  "slug": "thunderbolt-online",
+  "country": "Austria",
+  "bonus": "First Deposit 200% up to $100 + 300 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 172,
+  "providers": [
+    "Habanero Systems",
+    "Nolimit City",
+    "NextGen",
+    "Amatic Industries",
+    "Greentube",
+    "Aristocrat",
+    "EGT"
+  ],
+  "likes": 299,
+  "comments": 372,
+  "operatingCountries": [
+    "France",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=thunderbolt-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

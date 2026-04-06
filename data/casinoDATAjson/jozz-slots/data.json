@@ -1,0 +1,33 @@
+{
+  "name": "Jozz Slots",
+  "slug": "jozz-slots",
+  "country": "Australia",
+  "bonus": "First Deposit 250% up to $300 + 100 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 406,
+  "providers": [
+    "Novomatic",
+    "Push Gaming",
+    "Playtech",
+    "Saucify",
+    "Pragmatic Play",
+    "Konami"
+  ],
+  "likes": 249,
+  "comments": 445,
+  "operatingCountries": [
+    "South Africa",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=94",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jozz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97"
+  ]
+}

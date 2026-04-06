@@ -1,0 +1,30 @@
+{
+  "name": "bet O bet",
+  "slug": "bet-o-bet",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 68,
+  "providers": [],
+  "likes": 40,
+  "comments": 338,
+  "operatingCountries": [
+    "Czech Republic",
+    "United Kingdom",
+    "Poland",
+    "Morocco",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=114",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=smokace",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ],
+  "reviewCount": 5
+}

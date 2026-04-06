@@ -1,0 +1,35 @@
+{
+  "name": "LSbet Slots",
+  "slug": "lsbet-slots",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 250% up to $50",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 14,
+  "providers": [
+    "Iron Dog Studio",
+    "Evolution Gaming",
+    "Merkur",
+    "Yggdrasil"
+  ],
+  "likes": 230,
+  "comments": 40,
+  "operatingCountries": [
+    "Denmark",
+    "Australia",
+    "Poland",
+    "Morocco",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=1",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lsbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=1",
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5"
+  ]
+}

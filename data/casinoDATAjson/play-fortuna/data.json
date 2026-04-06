@@ -1,0 +1,31 @@
+{
+  "name": "Play Fortuna",
+  "slug": "play-fortuna",
+  "country": "Morocco",
+  "bonus": "20 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 239,
+  "providers": [],
+  "likes": 801,
+  "comments": 170,
+  "operatingCountries": [
+    "United States",
+    "Spain",
+    "New Zealand",
+    "Ireland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=woopwin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ],
+  "reviewCount": 5
+}

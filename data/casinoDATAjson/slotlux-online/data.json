@@ -1,0 +1,33 @@
+{
+  "name": "SlotLux Online",
+  "slug": "slotlux-online",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 200% up to $50",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Microgaming"
+  ],
+  "likes": 312,
+  "comments": 274,
+  "operatingCountries": [
+    "Portugal",
+    "Poland",
+    "Germany",
+    "France",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotlux-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163"
+  ]
+}

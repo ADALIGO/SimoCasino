@@ -1,0 +1,30 @@
+{
+  "name": "Sunny Spins Online",
+  "slug": "sunny-spins-online",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 250% up to $100 + 200 Free Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 346,
+  "providers": [
+    "Merkur",
+    "1x2gaming"
+  ],
+  "likes": 1220,
+  "comments": 301,
+  "operatingCountries": [
+    "United Kingdom",
+    "Ireland",
+    "Austria",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=66",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sunny-spins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68"
+  ]
+}

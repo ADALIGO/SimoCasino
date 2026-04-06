@@ -1,0 +1,35 @@
+{
+  "name": "Slotexo Online",
+  "slug": "slotexo-online",
+  "country": "New Zealand",
+  "bonus": "100% up to $200 + 150 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 434,
+  "providers": [
+    "Playtech",
+    "1x2gaming",
+    "Genesis Gaming",
+    "Gamomat",
+    "Saucify",
+    "Nolimit City",
+    "WMS"
+  ],
+  "likes": 1498,
+  "comments": 139,
+  "operatingCountries": [
+    "Finland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotexo-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

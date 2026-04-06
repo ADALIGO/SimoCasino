@@ -1,0 +1,36 @@
+{
+  "name": "Everygame Classic Online",
+  "slug": "everygame-classic-online",
+  "country": "New Zealand",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 62,
+  "providers": [
+    "Iron Dog Studio",
+    "Big Time Gaming",
+    "Novomatic",
+    "Ash Gaming",
+    "Genesis Gaming",
+    "NetEnt"
+  ],
+  "likes": 1810,
+  "comments": 148,
+  "operatingCountries": [
+    "Poland",
+    "Spain",
+    "Ireland",
+    "United Kingdom",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=everygame-classic-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

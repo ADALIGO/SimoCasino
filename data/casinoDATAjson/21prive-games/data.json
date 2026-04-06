@@ -1,0 +1,37 @@
+{
+  "name": "21Prive Games",
+  "slug": "21prive-games",
+  "country": "Italy",
+  "bonus": "300% Bonus up to $100",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 408,
+  "providers": [
+    "Saucify",
+    "BetSoft",
+    "Merkur",
+    "Amatic Industries",
+    "NetEnt",
+    "WMS",
+    "Evolution Gaming"
+  ],
+  "likes": 708,
+  "comments": 215,
+  "operatingCountries": [
+    "Germany",
+    "Canada",
+    "Denmark",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21prive-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114"
+  ]
+}

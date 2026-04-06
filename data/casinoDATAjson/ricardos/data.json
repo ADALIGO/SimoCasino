@@ -1,0 +1,28 @@
+{
+  "name": "Ricardo's",
+  "slug": "ricardos",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.2,
+  "revenueRank": null,
+  "spins": 171,
+  "providers": [],
+  "likes": 59,
+  "comments": 472,
+  "operatingCountries": [
+    "Czech Republic",
+    "Australia",
+    "New Zealand",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-safari",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ],
+  "reviewCount": 5
+}

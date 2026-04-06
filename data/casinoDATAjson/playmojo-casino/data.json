@@ -1,0 +1,34 @@
+{
+  "name": "PlayMojo Casino",
+  "slug": "playmojo-casino",
+  "country": "France",
+  "bonus": "VIP Bonus 125% up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 98,
+  "providers": [
+    "Saucify",
+    "Thunderkick",
+    "Big Time Gaming",
+    "Playtech",
+    "Real Time Gaming"
+  ],
+  "likes": 260,
+  "comments": 315,
+  "operatingCountries": [
+    "Ireland",
+    "Italy",
+    "France",
+    "Switzerland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=77",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playmojo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ]
+}

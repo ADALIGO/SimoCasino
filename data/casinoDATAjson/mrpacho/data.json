@@ -1,0 +1,29 @@
+{
+  "name": "MrPacho",
+  "slug": "mrpacho",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500 + 200 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 193,
+  "providers": [],
+  "likes": 1849,
+  "comments": 69,
+  "operatingCountries": [
+    "Ireland",
+    "Sweden",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=23",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinstation",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27"
+  ],
+  "reviewCount": 5
+}

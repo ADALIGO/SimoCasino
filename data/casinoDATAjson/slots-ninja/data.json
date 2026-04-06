@@ -1,0 +1,28 @@
+{
+  "name": "Slots Ninja",
+  "slug": "slots-ninja",
+  "country": "Morocco",
+  "bonus": "60 Spins",
+  "rating": 3,
+  "revenueRank": 58,
+  "spins": 395,
+  "providers": [],
+  "likes": 136,
+  "comments": 23,
+  "operatingCountries": [
+    "Norway",
+    "Australia",
+    "Portugal",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=102",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boomsbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104"
+  ],
+  "reviewCount": 5
+}

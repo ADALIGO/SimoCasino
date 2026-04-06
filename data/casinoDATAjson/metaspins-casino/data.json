@@ -1,0 +1,33 @@
+{
+  "name": "Metaspins Casino",
+  "slug": "metaspins-casino",
+  "country": "New Zealand",
+  "bonus": "Cashback up to 250%",
+  "rating": 3.7,
+  "revenueRank": 99,
+  "spins": 396,
+  "providers": [
+    "ELK Studios",
+    "Aristocrat",
+    "Nolimit City",
+    "Gamomat",
+    "Thunderkick",
+    "Yggdrasil"
+  ],
+  "likes": 1450,
+  "comments": 411,
+  "operatingCountries": [
+    "Germany",
+    "United States",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=metaspins-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

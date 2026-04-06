@@ -1,0 +1,35 @@
+{
+  "name": "Polestar",
+  "slug": "polestar",
+  "country": "Australia",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 101,
+  "providers": [
+    "Yggdrasil",
+    "Iron Dog Studio",
+    "Arrows Edge",
+    "Quickspin",
+    "Genesis Gaming",
+    "Wager Gaming",
+    "Microgaming",
+    "Playtech"
+  ],
+  "likes": 35,
+  "comments": 299,
+  "operatingCountries": [
+    "Australia",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=midarion",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

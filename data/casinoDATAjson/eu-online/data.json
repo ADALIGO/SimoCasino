@@ -1,0 +1,35 @@
+{
+  "name": "EU Online",
+  "slug": "eu-online",
+  "country": "Austria",
+  "bonus": "Welcome Bonus 250% up to $50",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 309,
+  "providers": [
+    "Iron Dog Studio",
+    "NetEnt",
+    "Quickspin",
+    "Nolimit City",
+    "Greentube",
+    "Real Time Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1147,
+  "comments": 319,
+  "operatingCountries": [
+    "France",
+    "Finland",
+    "Austria",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=163",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eu-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

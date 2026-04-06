@@ -1,0 +1,37 @@
+{
+  "name": "RX Online",
+  "slug": "rx-online",
+  "country": "France",
+  "bonus": "First Deposit 100% up to $50 + 50 Free Spins",
+  "rating": 4,
+  "revenueRank": 97,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Konami",
+    "Wager Gaming",
+    "Big Time Gaming",
+    "Rival",
+    "Red Tiger",
+    "Saucify",
+    "Evolution Gaming"
+  ],
+  "likes": 0,
+  "comments": 463,
+  "operatingCountries": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rx-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

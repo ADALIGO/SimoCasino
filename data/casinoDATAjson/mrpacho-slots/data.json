@@ -1,0 +1,30 @@
+{
+  "name": "MrPacho Slots",
+  "slug": "mrpacho-slots",
+  "country": "Austria",
+  "bonus": "Reload Bonus 50% up to $100",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 385,
+  "providers": [
+    "Greentube",
+    "Habanero Systems"
+  ],
+  "likes": 1315,
+  "comments": 38,
+  "operatingCountries": [
+    "New Zealand",
+    "Austria",
+    "Australia",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrpacho-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ]
+}

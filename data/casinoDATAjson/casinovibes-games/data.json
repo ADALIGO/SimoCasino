@@ -1,0 +1,38 @@
+{
+  "name": "CasinoVibes Games",
+  "slug": "casinovibes-games",
+  "country": "Netherlands",
+  "bonus": "Welcome Bonus 125% up to $2000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 7,
+  "providers": [
+    "Relax Gaming",
+    "Ash Gaming",
+    "Saucify",
+    "Spinlogic Gaming",
+    "Novomatic",
+    "Blueprint Gaming",
+    "Evolution Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 713,
+  "comments": 266,
+  "operatingCountries": [
+    "South Africa",
+    "United States",
+    "Ireland",
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinovibes-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58"
+  ]
+}

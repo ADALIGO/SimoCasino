@@ -1,0 +1,35 @@
+{
+  "name": "Mr SuperPlay Slots",
+  "slug": "mr-superplay-slots",
+  "country": "Portugal",
+  "bonus": "100% up to $500 + 100 Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 65,
+  "providers": [
+    "Ash Gaming",
+    "Konami",
+    "Playtech",
+    "NextGen",
+    "Genesis Gaming",
+    "EGT"
+  ],
+  "likes": 1826,
+  "comments": 30,
+  "operatingCountries": [
+    "Spain",
+    "United Kingdom",
+    "Austria",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mr-superplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167"
+  ]
+}

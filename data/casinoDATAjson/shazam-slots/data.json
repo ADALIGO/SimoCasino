@@ -1,0 +1,33 @@
+{
+  "name": "Shazam Slots",
+  "slug": "shazam-slots",
+  "country": "Czech Republic",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Blueprint Gaming",
+    "WMS",
+    "Amatic Industries",
+    "Gamomat",
+    "Konami",
+    "Iron Dog Studio",
+    "Microgaming"
+  ],
+  "likes": 1862,
+  "comments": 86,
+  "operatingCountries": [
+    "New Zealand",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=shazam-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163"
+  ]
+}

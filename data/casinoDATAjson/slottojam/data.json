@@ -1,0 +1,26 @@
+{
+  "name": "SlottoJam",
+  "slug": "slottojam",
+  "country": "Morocco",
+  "bonus": "100% up to €200",
+  "rating": 2.5,
+  "revenueRank": 22,
+  "spins": 178,
+  "providers": [],
+  "likes": 143,
+  "comments": 141,
+  "operatingCountries": [
+    "Switzerland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=turbo-wins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ],
+  "reviewCount": 5
+}

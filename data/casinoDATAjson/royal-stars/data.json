@@ -1,0 +1,27 @@
+{
+  "name": "Royal Stars",
+  "slug": "royal-stars",
+  "country": "Morocco",
+  "bonus": "10 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 28,
+  "providers": [],
+  "likes": 368,
+  "comments": 94,
+  "operatingCountries": [
+    "Switzerland",
+    "Germany",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sunny-spins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189"
+  ],
+  "reviewCount": 5
+}

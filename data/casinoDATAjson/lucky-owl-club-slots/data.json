@@ -1,0 +1,32 @@
+{
+  "name": "Lucky Owl Club Slots",
+  "slug": "lucky-owl-club-slots",
+  "country": "Ireland",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 211,
+  "providers": [
+    "Push Gaming",
+    "Novomatic",
+    "Iron Dog Studio",
+    "Ash Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 1220,
+  "comments": 309,
+  "operatingCountries": [
+    "Netherlands",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=153",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-owl-club-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ]
+}

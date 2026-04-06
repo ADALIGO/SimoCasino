@@ -1,0 +1,33 @@
+{
+  "name": "GGPoker Online",
+  "slug": "ggpoker-online",
+  "country": "Belgium",
+  "bonus": "100% up to $100 + 50 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 363,
+  "providers": [
+    "1x2gaming",
+    "WMS"
+  ],
+  "likes": 1721,
+  "comments": 418,
+  "operatingCountries": [
+    "Sweden",
+    "South Africa",
+    "United States",
+    "Portugal",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ggpoker-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

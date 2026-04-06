@@ -1,0 +1,28 @@
+{
+  "name": "VOX Slots",
+  "slug": "vox-slots",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 125% up to $500",
+  "rating": 4.2,
+  "revenueRank": 89,
+  "spins": 305,
+  "providers": [
+    "Rival",
+    "Relax Gaming"
+  ],
+  "likes": 432,
+  "comments": 290,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vox-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

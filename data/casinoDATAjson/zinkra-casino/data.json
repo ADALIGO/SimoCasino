@@ -1,0 +1,35 @@
+{
+  "name": "Zinkra Casino",
+  "slug": "zinkra-casino",
+  "country": "New Zealand",
+  "bonus": "First Deposit 300% up to $50 + 200 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 488,
+  "providers": [
+    "NextGen",
+    "BetSoft",
+    "Red Tiger",
+    "Merkur",
+    "1x2gaming",
+    "Real Time Gaming",
+    "Visionary iGaming"
+  ],
+  "likes": 424,
+  "comments": 243,
+  "operatingCountries": [
+    "Finland",
+    "Austria",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=111",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zinkra-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114"
+  ]
+}

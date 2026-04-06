@@ -1,0 +1,32 @@
+{
+  "name": "Campeonbet Casino",
+  "slug": "campeonbet-casino",
+  "country": "Austria",
+  "bonus": "Cashback up to 300%",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 290,
+  "providers": [
+    "Playtech",
+    "Habanero Systems",
+    "Quickspin",
+    "Merkur",
+    "Real Time Gaming"
+  ],
+  "likes": 1230,
+  "comments": 279,
+  "operatingCountries": [
+    "Sweden",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=177",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=campeonbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

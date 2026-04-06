@@ -1,0 +1,36 @@
+{
+  "name": "iNetBet Slots",
+  "slug": "inetbet-slots",
+  "country": "Poland",
+  "bonus": "Welcome Bonus 300% up to $100",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 162,
+  "providers": [
+    "Merkur",
+    "Arrows Edge",
+    "ELK Studios",
+    "Quickspin",
+    "Push Gaming"
+  ],
+  "likes": 1010,
+  "comments": 474,
+  "operatingCountries": [
+    "Switzerland",
+    "Canada",
+    "United Kingdom",
+    "Austria",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=inetbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

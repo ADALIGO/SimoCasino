@@ -1,0 +1,29 @@
+{
+  "name": "Royale500",
+  "slug": "royale500",
+  "country": "Morocco",
+  "bonus": "100% up to €100 + 25 Spins",
+  "rating": 2.6,
+  "revenueRank": 69,
+  "spins": 61,
+  "providers": [],
+  "likes": 1363,
+  "comments": 222,
+  "operatingCountries": [
+    "United States",
+    "Belgium",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bet25",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,34 @@
+{
+  "name": "HellSpin Casino",
+  "slug": "hellspin-casino",
+  "country": "France",
+  "bonus": "Cashback up to 50%",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 192,
+  "providers": [
+    "Red Tiger",
+    "Rival",
+    "NetEnt",
+    "Blueprint Gaming",
+    "Greentube",
+    "Saucify",
+    "Yggdrasil"
+  ],
+  "likes": 841,
+  "comments": 457,
+  "operatingCountries": [
+    "Ireland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=74",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hellspin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

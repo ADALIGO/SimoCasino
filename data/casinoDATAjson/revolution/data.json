@@ -1,0 +1,31 @@
+{
+  "name": "Revolution",
+  "slug": "revolution",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 693,
+  "comments": 20,
+  "operatingCountries": [
+    "Portugal",
+    "Sweden",
+    "Denmark",
+    "Australia",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winbay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ],
+  "reviewCount": 5
+}

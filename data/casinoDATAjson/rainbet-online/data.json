@@ -1,0 +1,35 @@
+{
+  "name": "RainBet Online",
+  "slug": "rainbet-online",
+  "country": "Germany",
+  "bonus": "First Deposit 200% up to $1000 + 100 Free Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 425,
+  "providers": [
+    "Real Time Gaming",
+    "Pragmatic Play",
+    "Novomatic",
+    "BetSoft",
+    "Relax Gaming"
+  ],
+  "likes": 1069,
+  "comments": 132,
+  "operatingCountries": [
+    "Norway",
+    "Netherlands",
+    "Germany",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rainbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

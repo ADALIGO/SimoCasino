@@ -1,0 +1,99 @@
+/////////////////////
+// FRAUD DETECTION
+
+/////////////////////
+
+model FraudDetection {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String    @unique
+
+  // Basic Checks
+  multiAccountCheck      Boolean   @default(true)
+  multiDeviceCheck       Boolean   @default(true)
+  multiIPCheck           Boolean   @default(true)
+  maxLikesPerUser        Int       @default(10)
+  maxCommentsPerUser     Int       @default(5)
+  autoFlagSuspicious     Boolean   @default(true)
+  highRiskCountries      String[]
+  suspiciousKeywords     String[]
+
+  // Player Behavior Analytics
+  unusualBetPatterns     Boolean?
+  rapidBettingDetection  Boolean?
+  maxBetsPerHour         Int?
+  maxWinsPerDay          Float?
+  avgLossPerDay          Float?
+  avgBetPerSession       Float?
+  maxSessionsPerDay      Int?
+  highRiskPlayers        String[]
+  suspiciousPlayerCount  Int?
+  bonusAbuseDetected     Boolean?
+
+  // Bonus / Promotion Abuse
+  maxBonusClaimsPerUser  Int?
+  maxVIPBonusClaims      Int?
+  streakBonusAbuse       Boolean?
+  milestoneBonusAbuse    Boolean?
+  duplicateClaimDetection Boolean?
+  bonusRedemptionAnomaly Boolean?
+
+  // Review / Feedback Abuse
+  fakeReviewDetection    Boolean?
+  reviewSpamScore        Float?
+  maxReviewsPerUser      Int?
+  reviewLikeSpamDetected Boolean?
+  reviewDislikeSpamDetected Boolean?
+
+  // Device / Network Checks
+  proxyDetected          Boolean?
+  vpnDetected            Boolean?
+  datacenterDetected     Boolean?
+  torNetworkDetected     Boolean?
+  suspiciousIPList       String[]
+  suspiciousDeviceIds    String[]
+  deviceFingerprintAnomaly Boolean?
+  unusualDeviceSwitching Boolean?
+
+  // Geolocation / Region Checks
+  highRiskRegions        String[]
+  regionMismatchDetected Boolean?
+  countryMismatchDetected Boolean?
+  cityMismatchDetected   Boolean?
+
+  // AI / Risk Scoring
+  riskScore              Float?   // 0-100
+  fraudProbabilityScore  Float?   // 0-1
+  predictedChurnRisk     Float?
+  predictedLifetimeValueImpact Float?
+  aiFraudScore           Float?
+
+  // Admin / Resolution
+  flaggedByAdmin         Boolean?
+  adminNotes             String[]
+  resolutionStatus       String?  // pending, reviewed, actioned
+  resolvedAt             DateTime?
+  resolutionComments     String[]
+  auditLogs              Json?
+  lastCheckedAt          DateTime?
+  checkFrequencyHours    Int?
+  alertsSent             Int?
+  autoBlockEnabled       Boolean?
+
+  // Misc / Analytics
+  totalFraudAlerts       Int?
+  totalPlayersFlagged    Int?
+  totalBetsFlagged       Int?
+  totalBonusAbuse        Int?
+  totalReviewsFlagged    Int?
+  reportingScore         Float?
+  monitoringActive       Boolean?
+  historicalTrends       Json?
+  flaggedEntities        String[]
+  notes                  String?
+  
+  // Timestamps
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @updatedAt
+}
+

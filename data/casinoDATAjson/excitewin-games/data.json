@@ -1,0 +1,35 @@
+{
+  "name": "ExciteWin Games",
+  "slug": "excitewin-games",
+  "country": "Canada",
+  "bonus": "First Deposit 250% up to $200 + 250 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Aristocrat",
+    "Quickspin",
+    "Push Gaming",
+    "Nolimit City",
+    "Yggdrasil"
+  ],
+  "likes": 956,
+  "comments": 27,
+  "operatingCountries": [
+    "Australia",
+    "Sweden",
+    "Austria",
+    "Finland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=4",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=excitewin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6"
+  ]
+}

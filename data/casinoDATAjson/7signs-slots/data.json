@@ -1,0 +1,33 @@
+{
+  "name": "7Signs Slots",
+  "slug": "7signs-slots",
+  "country": "Belgium",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Greentube",
+    "Visionary iGaming",
+    "ELK Studios",
+    "Genesis Gaming",
+    "Playtech"
+  ],
+  "likes": 185,
+  "comments": 400,
+  "operatingCountries": [
+    "Netherlands",
+    "Spain",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=7signs-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "BetfourU Slots",
+  "slug": "betfouru-slots",
+  "country": "Switzerland",
+  "bonus": "100% up to $500 + 20 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Evolution Gaming",
+    "Pragmatic Play",
+    "WMS",
+    "Aristocrat",
+    "Gamomat",
+    "Habanero Systems",
+    "Red Tiger"
+  ],
+  "likes": 611,
+  "comments": 22,
+  "operatingCountries": [
+    "South Africa",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=194",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfouru-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196"
+  ]
+}

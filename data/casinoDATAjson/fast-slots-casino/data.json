@@ -1,0 +1,31 @@
+{
+  "name": "Fast Slots Casino",
+  "slug": "fast-slots-casino",
+  "country": "Australia",
+  "bonus": "Deposit Bonus 50% up to $2000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 337,
+  "providers": [
+    "NetEnt",
+    "Arrows Edge"
+  ],
+  "likes": 1836,
+  "comments": 23,
+  "operatingCountries": [
+    "Morocco",
+    "Austria",
+    "Netherlands",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=118",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fast-slots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

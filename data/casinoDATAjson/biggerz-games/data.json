@@ -1,0 +1,32 @@
+{
+  "name": "BiggerZ Games",
+  "slug": "biggerz-games",
+  "country": "South Africa",
+  "bonus": "100% up to $100 + 250 Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 409,
+  "providers": [
+    "NetEnt",
+    "Spinlogic Gaming",
+    "Konami",
+    "Genesis Gaming",
+    "Microgaming",
+    "1x2gaming"
+  ],
+  "likes": 597,
+  "comments": 330,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=biggerz-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

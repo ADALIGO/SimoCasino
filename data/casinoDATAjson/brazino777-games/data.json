@@ -1,0 +1,34 @@
+{
+  "name": "Brazino777 Games",
+  "slug": "brazino777-games",
+  "country": "Germany",
+  "bonus": "200% Bonus up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 423,
+  "providers": [
+    "EGT",
+    "Visionary iGaming",
+    "Wager Gaming",
+    "Novomatic",
+    "Real Time Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 826,
+  "comments": 256,
+  "operatingCountries": [
+    "Morocco",
+    "Ireland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brazino777-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ]
+}

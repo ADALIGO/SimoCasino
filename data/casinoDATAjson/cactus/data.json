@@ -1,0 +1,28 @@
+{
+  "name": "Cactus",
+  "slug": "cactus",
+  "country": "Morocco",
+  "bonus": "175% up to €200 + 125 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 976,
+  "comments": 320,
+  "operatingCountries": [
+    "South Africa",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21bit",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19"
+  ],
+  "reviewCount": 5
+}

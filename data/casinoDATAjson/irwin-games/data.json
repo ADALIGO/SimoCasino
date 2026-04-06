@@ -1,0 +1,31 @@
+{
+  "name": "Irwin Games",
+  "slug": "irwin-games",
+  "country": "Finland",
+  "bonus": "100% up to $50 + 100 Spins",
+  "rating": 3.9,
+  "revenueRank": 26,
+  "spins": 119,
+  "providers": [
+    "Nolimit City",
+    "Iron Dog Studio",
+    "Red Tiger",
+    "Aristocrat"
+  ],
+  "likes": 195,
+  "comments": 338,
+  "operatingCountries": [
+    "Belgium",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=irwin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

@@ -1,0 +1,125 @@
+.casino-details-page {
+  min-height: calc(100vh - 80px);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #945d5d72;
+}
+
+.back {
+  align-self: flex-start;
+  margin-bottom: 16px;
+  font-weight: 700;
+  color: #ff6b35;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #d2472c;
+  }
+}
+
+.card {
+  width: min(100%, 900px);
+  background: #492727;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+
+  h1 {
+    margin: 0;
+    font-size: clamp(1.6rem, 2.2vw, 2.4rem);
+  }
+
+  .rating {
+    background: linear-gradient(135deg, #ff6b35, #f25c54);
+    color: #fff;
+    font-weight: 700;
+    padding: 8px 12px;
+    border-radius: 999px;
+  }
+}
+
+.meta p {
+  margin: 4px 0;
+  font-size: 1rem;
+  color: #334155;
+}
+
+.providers,
+.operating {
+  background: #fafafa;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.providers h2,
+.operating h2 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+}
+
+.providers ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.providers li {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 0.95rem;
+}
+
+.footer a {
+  color: #1d4ed8;
+  font-weight: 700;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #2563eb;
+  }
+}
+
+.casino-not-found {
+  padding: 40px;
+  width: min(100%, 560px);
+  text-align: center;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+
+  h1 {
+    margin-top: 0;
+  }
+
+  p {
+    color: #475569;
+  }
+
+  a {
+    color: #ff6b35;
+    font-weight: 600;
+    text-decoration: none;
+  }
+}

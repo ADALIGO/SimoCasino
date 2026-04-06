@@ -1,0 +1,34 @@
+{
+  "name": "Bluffbet Casino",
+  "slug": "bluffbet-casino",
+  "country": "Poland",
+  "bonus": "VIP Bonus 50% up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 337,
+  "providers": [
+    "Thunderkick",
+    "BetSoft",
+    "Real Time Gaming",
+    "Iron Dog Studio",
+    "Yggdrasil"
+  ],
+  "likes": 1577,
+  "comments": 193,
+  "operatingCountries": [
+    "Ireland",
+    "Denmark",
+    "South Africa",
+    "Italy",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bluffbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89"
+  ]
+}

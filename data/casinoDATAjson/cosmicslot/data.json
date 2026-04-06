@@ -1,0 +1,26 @@
+{
+  "name": "CosmicSlot",
+  "slug": "cosmicslot",
+  "country": "Morocco",
+  "bonus": "125% up to €500 + 100 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 46,
+  "providers": [],
+  "likes": 1016,
+  "comments": 346,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=acr",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154"
+  ],
+  "reviewCount": 5
+}

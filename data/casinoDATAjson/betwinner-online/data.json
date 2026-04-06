@@ -1,0 +1,31 @@
+{
+  "name": "BetWinner Online",
+  "slug": "betwinner-online",
+  "country": "Ireland",
+  "bonus": "First Deposit 50% up to $50 + 150 Free Spins",
+  "rating": 3,
+  "revenueRank": 54,
+  "spins": 299,
+  "providers": [
+    "Real Time Gaming",
+    "Microgaming",
+    "EGT"
+  ],
+  "likes": 698,
+  "comments": 414,
+  "operatingCountries": [
+    "Ireland",
+    "France",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=58",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwinner-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61"
+  ]
+}

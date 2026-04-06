@@ -1,0 +1,95 @@
+/////////////////////
+// REVIEW
+
+/////////////////////
+
+model Review {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String
+  user                   User?     @relation(fields: [userId], references: [id])
+  userId                 String?
+  rating                 Float
+  title                  String?
+  comment                String
+  likes                  Int       @default(0)
+  dislikes               Int       @default(0)
+  device                 String?
+  ip                     String?
+  geoLocation            String?
+  verifiedPurchase       Boolean  @default(false)
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @default(now())
+
+  // Engagement & Interaction
+  commentsCount          Int?
+  repliesCount           Int?
+  shares                 Int?
+  flags                  Int?
+  helpfulVotes           Int?
+  unhelpfulVotes         Int?
+  engagementScore        Float?
+  socialShares           Int?
+  reviewViews            Int?
+  clickThroughs          Int?
+
+  // Player / User Context
+  userTier               UserTier?
+  totalCasinoSessions    Int?
+  totalCasinoBets        Float?
+  avgBetSize             Float?
+  totalWins              Float?
+  totalLosses            Float?
+  favoriteGameIds        String[]
+  recentGameIds          String[]
+  loyaltyPointsEarned    Int?
+  vipLevel               Int?
+
+  // Sentiment / NLP Analysis
+  sentimentScore         Float?   // -1 to +1
+  toneAnalysis           String?  // positive, negative, neutral
+  flaggedKeywords        String[]
+  offensiveScore         Float?
+  helpfulnessScore       Float?
+
+  // Fraud / Moderation
+  suspiciousFlag         Boolean?
+  autoModerationAction   String?  // removed, hidden, reviewed
+  flaggedByUsers         String[]
+  duplicateDetectionScore Float?
+  ipReputationScore      Float?
+  deviceReputationScore  Float?
+  fraudScore             Float?
+
+  // SEO / Marketing
+  metaTitle              String?
+  metaDescription        String?
+  metaKeywords           String[]
+  reviewSlug             String?
+  indexed                Boolean?
+  seoScore               Float?
+
+  // AI / Recommendation
+  aiScore                Float?   // recommended to show on front page
+  predictedEngagement    Float?
+  recommendedUsers       String[]
+  similarReviews         String[]
+  reviewCategory         String?  // gameplay, bonuses, support, payout
+  aiGeneratedSummary     String?
+
+  // Timestamps & Analytics
+  firstViewedAt          DateTime?
+  lastViewedAt           DateTime?
+  totalViews             Int?
+  timeSpentViewing       Int?     // seconds
+  interactionHistory     Json?
+  updateCount            Int?
+
+  // Misc / Admin
+  adminNotes             String[]
+  moderationStatus       String?  // pending, approved, rejected
+  resolvedAt             DateTime?
+  resolutionComments     String[]
+  reportedByUsers        String[]
+}
+

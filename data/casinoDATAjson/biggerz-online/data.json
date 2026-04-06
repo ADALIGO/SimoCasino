@@ -1,0 +1,26 @@
+{
+  "name": "BiggerZ Online",
+  "slug": "biggerz-online",
+  "country": "Switzerland",
+  "bonus": "VIP Bonus 100% up to $1000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 160,
+  "providers": [
+    "Push Gaming"
+  ],
+  "likes": 1835,
+  "comments": 350,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=biggerz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

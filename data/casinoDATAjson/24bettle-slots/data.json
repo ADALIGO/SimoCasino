@@ -1,0 +1,29 @@
+{
+  "name": "24Bettle Slots",
+  "slug": "24bettle-slots",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 300% up to $100",
+  "rating": 3.7,
+  "revenueRank": 47,
+  "spins": 0,
+  "providers": [
+    "Microgaming",
+    "Novomatic",
+    "Quickspin",
+    "Red Tiger"
+  ],
+  "likes": 1735,
+  "comments": 436,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24bettle-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ]
+}

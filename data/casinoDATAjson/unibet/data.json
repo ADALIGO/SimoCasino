@@ -1,0 +1,25 @@
+{
+  "name": "Unibet",
+  "slug": "unibet",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 998,
+  "comments": 393,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mro",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ],
+  "reviewCount": 5
+}

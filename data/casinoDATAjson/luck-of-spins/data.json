@@ -1,0 +1,25 @@
+{
+  "name": "Luck of Spins",
+  "slug": "luck-of-spins",
+  "country": "Morocco",
+  "bonus": "300% up to €1200",
+  "rating": 2,
+  "revenueRank": null,
+  "spins": 250,
+  "providers": [],
+  "likes": 1426,
+  "comments": 381,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betandyou",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ],
+  "reviewCount": 5
+}

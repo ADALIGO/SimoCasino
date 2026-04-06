@@ -1,0 +1,30 @@
+{
+  "name": "This Is Vegas Casino",
+  "slug": "this-is-vegas-casino",
+  "country": "Switzerland",
+  "bonus": "VIP Bonus 100% up to $1000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 376,
+  "providers": [
+    "Genesis Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 1583,
+  "comments": 135,
+  "operatingCountries": [
+    "United States",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=65",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=this-is-vegas-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "The Stake House Online",
+  "slug": "the-stake-house-online",
+  "country": "Morocco",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NetEnt",
+    "Arrows Edge",
+    "IGT",
+    "Pragmatic Play",
+    "Merkur",
+    "Ash Gaming",
+    "Relax Gaming",
+    "Novomatic"
+  ],
+  "likes": 104,
+  "comments": 69,
+  "operatingCountries": [
+    "United States",
+    "Czech Republic",
+    "Norway",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=the-stake-house-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ]
+}

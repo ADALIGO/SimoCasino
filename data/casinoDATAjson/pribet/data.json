@@ -1,0 +1,30 @@
+{
+  "name": "Pribet",
+  "slug": "pribet",
+  "country": "Morocco",
+  "bonus": "100% up to €200 + 25 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 103,
+  "providers": [],
+  "likes": 85,
+  "comments": 396,
+  "operatingCountries": [
+    "Spain",
+    "Morocco",
+    "France",
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oscarspin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ],
+  "reviewCount": 5
+}

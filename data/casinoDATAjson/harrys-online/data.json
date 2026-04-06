@@ -1,0 +1,36 @@
+{
+  "name": "Harry's Online",
+  "slug": "harrys-online",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 100% up to $300",
+  "rating": 3,
+  "revenueRank": 45,
+  "spins": 4,
+  "providers": [
+    "Spinlogic Gaming",
+    "Push Gaming",
+    "Nolimit City",
+    "Genesis Gaming",
+    "Pragmatic Play",
+    "Merkur",
+    "Gamomat"
+  ],
+  "likes": 1161,
+  "comments": 323,
+  "operatingCountries": [
+    "Canada",
+    "Switzerland",
+    "United States",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=23",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=harrys-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ]
+}

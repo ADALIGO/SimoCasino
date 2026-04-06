@@ -1,0 +1,27 @@
+{
+  "name": "Rabona",
+  "slug": "rabona",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 141,
+  "providers": [],
+  "likes": 339,
+  "comments": 353,
+  "operatingCountries": [
+    "United States",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwarts",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ],
+  "reviewCount": 5
+}

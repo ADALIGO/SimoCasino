@@ -1,0 +1,37 @@
+{
+  "name": "CasinoExtra Casino",
+  "slug": "casinoextra-casino",
+  "country": "United States",
+  "bonus": "Cashback up to 150%",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 299,
+  "providers": [
+    "Arrows Edge",
+    "Real Time Gaming",
+    "Red Tiger",
+    "Yggdrasil",
+    "Rival",
+    "ELK Studios",
+    "Novomatic",
+    "Iron Dog Studio"
+  ],
+  "likes": 837,
+  "comments": 192,
+  "operatingCountries": [
+    "Netherlands",
+    "Morocco",
+    "Australia",
+    "Czech Republic",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=6",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoextra-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "La Riviera Casino",
+  "slug": "la-riviera-casino",
+  "country": "Australia",
+  "bonus": "50% Bonus up to $100",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 488,
+  "providers": [
+    "Saucify",
+    "Relax Gaming",
+    "Habanero Systems",
+    "Nolimit City"
+  ],
+  "likes": 568,
+  "comments": 74,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=1",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=la-riviera-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=1",
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5"
+  ]
+}

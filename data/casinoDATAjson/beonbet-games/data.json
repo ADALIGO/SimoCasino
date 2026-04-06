@@ -1,0 +1,30 @@
+{
+  "name": "BeOnBet Games",
+  "slug": "beonbet-games",
+  "country": "United Kingdom",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3,
+  "revenueRank": 34,
+  "spins": 55,
+  "providers": [
+    "Merkur",
+    "NetEnt"
+  ],
+  "likes": 893,
+  "comments": 185,
+  "operatingCountries": [
+    "Italy",
+    "Portugal",
+    "Finland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=beonbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Sloto'Cash",
+  "slug": "slotocash",
+  "country": "Morocco",
+  "bonus": "$44",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 316,
+  "providers": [],
+  "likes": 1445,
+  "comments": 397,
+  "operatingCountries": [
+    "Norway",
+    "United Kingdom",
+    "Denmark",
+    "United States",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=144",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinson",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ],
+  "reviewCount": 5
+}

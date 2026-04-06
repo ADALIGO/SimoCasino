@@ -1,0 +1,34 @@
+{
+  "name": "BetfourU Online",
+  "slug": "betfouru-online",
+  "country": "United States",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 292,
+  "providers": [
+    "Saucify",
+    "Thunderkick",
+    "Visionary iGaming",
+    "Playtech",
+    "Relax Gaming",
+    "Iron Dog Studio",
+    "Aristocrat",
+    "WMS"
+  ],
+  "likes": 1265,
+  "comments": 110,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfouru-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ]
+}

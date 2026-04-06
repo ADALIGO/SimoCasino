@@ -1,0 +1,33 @@
+{
+  "name": "Hercules Slots",
+  "slug": "hercules-slots",
+  "country": "Czech Republic",
+  "bonus": "VIP Bonus 125% up to $50",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 190,
+  "providers": [
+    "Quickspin",
+    "Genesis Gaming",
+    "BetSoft",
+    "Konami"
+  ],
+  "likes": 1734,
+  "comments": 405,
+  "operatingCountries": [
+    "Morocco",
+    "France",
+    "South Africa",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=197",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hercules-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198",
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200"
+  ]
+}

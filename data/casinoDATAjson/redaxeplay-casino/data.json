@@ -1,0 +1,35 @@
+{
+  "name": "RedAxePlay Casino",
+  "slug": "redaxeplay-casino",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 50% up to $300",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Ash Gaming",
+    "Arrows Edge",
+    "ELK Studios",
+    "Push Gaming",
+    "Pragmatic Play",
+    "Spinlogic Gaming",
+    "Quickspin"
+  ],
+  "likes": 1912,
+  "comments": 2,
+  "operatingCountries": [
+    "Norway",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=redaxeplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148"
+  ]
+}

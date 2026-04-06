@@ -1,0 +1,32 @@
+{
+  "name": "Slottica Slots",
+  "slug": "slottica-slots",
+  "country": "Belgium",
+  "bonus": "First Deposit 125% up to $100 + 200 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 206,
+  "providers": [
+    "Microgaming"
+  ],
+  "likes": 1622,
+  "comments": 235,
+  "operatingCountries": [
+    "Portugal",
+    "South Africa",
+    "Switzerland",
+    "Czech Republic",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slottica-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

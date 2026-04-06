@@ -1,0 +1,29 @@
+{
+  "name": "Rollblock Slots",
+  "slug": "rollblock-slots",
+  "country": "Sweden",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 68,
+  "providers": [
+    "Amatic Industries",
+    "Konami",
+    "Real Time Gaming"
+  ],
+  "likes": 1725,
+  "comments": 368,
+  "operatingCountries": [
+    "United Kingdom",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rollblock-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

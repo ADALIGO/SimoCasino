@@ -1,0 +1,31 @@
+{
+  "name": "Locasbet Casino",
+  "slug": "locasbet-casino",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 150% up to $500",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 123,
+  "providers": [
+    "Relax Gaming",
+    "Push Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 1936,
+  "comments": 417,
+  "operatingCountries": [
+    "United Kingdom",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=locasbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

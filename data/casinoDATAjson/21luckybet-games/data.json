@@ -1,0 +1,37 @@
+{
+  "name": "21LuckyBet Games",
+  "slug": "21luckybet-games",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 378,
+  "providers": [
+    "Relax Gaming",
+    "Yggdrasil",
+    "Gamomat",
+    "Konami",
+    "Evolution Gaming",
+    "NetEnt",
+    "Red Tiger",
+    "Real Time Gaming"
+  ],
+  "likes": 198,
+  "comments": 258,
+  "operatingCountries": [
+    "Netherlands",
+    "Denmark",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21luckybet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

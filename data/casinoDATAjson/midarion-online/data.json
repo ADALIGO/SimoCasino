@@ -1,0 +1,37 @@
+{
+  "name": "Midarion Online",
+  "slug": "midarion-online",
+  "country": "Sweden",
+  "bonus": "100% up to $300 + 100 Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Big Time Gaming",
+    "Iron Dog Studio",
+    "Microgaming",
+    "ELK Studios",
+    "NextGen",
+    "EGT"
+  ],
+  "likes": 1077,
+  "comments": 353,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria",
+    "New Zealand",
+    "Belgium",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=midarion-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

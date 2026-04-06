@@ -1,0 +1,29 @@
+{
+  "name": "Lucky Bonanza Online",
+  "slug": "lucky-bonanza-online",
+  "country": "Sweden",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 436,
+  "providers": [
+    "Visionary iGaming",
+    "EGT"
+  ],
+  "likes": 1948,
+  "comments": 365,
+  "operatingCountries": [
+    "Germany",
+    "United States",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=92",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-bonanza-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ]
+}

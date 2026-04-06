@@ -1,0 +1,33 @@
+{
+  "name": "Villento Online",
+  "slug": "villento-online",
+  "country": "Norway",
+  "bonus": "Welcome Bonus 300% up to $200",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 83,
+  "providers": [
+    "Blueprint Gaming",
+    "Genesis Gaming",
+    "Microgaming"
+  ],
+  "likes": 370,
+  "comments": 364,
+  "operatingCountries": [
+    "France",
+    "Czech Republic",
+    "Spain",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=villento-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

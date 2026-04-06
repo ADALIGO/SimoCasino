@@ -1,0 +1,29 @@
+{
+  "name": "Casino Mate Online",
+  "slug": "casino-mate-online",
+  "country": "France",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NetEnt",
+    "Ash Gaming",
+    "Iron Dog Studio",
+    "Visionary iGaming"
+  ],
+  "likes": 1603,
+  "comments": 423,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=163",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-mate-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

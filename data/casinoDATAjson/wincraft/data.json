@@ -1,0 +1,32 @@
+{
+  "name": "WinCraft",
+  "slug": "wincraft",
+  "country": "Ireland",
+  "bonus": "Reload Bonus 200% up to $500",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Microgaming",
+    "Saucify",
+    "Yggdrasil"
+  ],
+  "likes": 131,
+  "comments": 12,
+  "operatingCountries": [
+    "United Kingdom",
+    "Belgium",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=124",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotier",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "daddy Online",
+  "slug": "daddy-online",
+  "country": "United States",
+  "bonus": "300% Bonus up to $50",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 15,
+  "providers": [
+    "IGT",
+    "Greentube",
+    "Spinlogic Gaming",
+    "Quickspin",
+    "ELK Studios",
+    "Red Tiger"
+  ],
+  "likes": 1818,
+  "comments": 202,
+  "operatingCountries": [
+    "United States",
+    "Portugal",
+    "France",
+    "Italy",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=121",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=daddy-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

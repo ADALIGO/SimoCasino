@@ -1,0 +1,25 @@
+{
+  "name": "BDM BET",
+  "slug": "bdm-bet",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 150 Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 231,
+  "providers": [],
+  "likes": 7,
+  "comments": 351,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playojo",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ],
+  "reviewCount": 5
+}

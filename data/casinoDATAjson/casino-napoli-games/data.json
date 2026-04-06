@@ -1,0 +1,35 @@
+{
+  "name": "Casino Napoli Games",
+  "slug": "casino-napoli-games",
+  "country": "Canada",
+  "bonus": "Welcome Bonus 50% up to $500",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Evolution Gaming",
+    "Amatic Industries",
+    "Novomatic",
+    "Pragmatic Play",
+    "Aristocrat",
+    "Konami"
+  ],
+  "likes": 1792,
+  "comments": 281,
+  "operatingCountries": [
+    "Morocco",
+    "Italy",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-napoli-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

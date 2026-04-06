@@ -1,0 +1,35 @@
+{
+  "name": "Brasil777 Slots",
+  "slug": "brasil777-slots",
+  "country": "Spain",
+  "bonus": "VIP Bonus 50% up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 436,
+  "providers": [
+    "Playtech",
+    "Wager Gaming",
+    "Arrows Edge",
+    "Novomatic",
+    "Nolimit City",
+    "Iron Dog Studio",
+    "EGT",
+    "Visionary iGaming"
+  ],
+  "likes": 1076,
+  "comments": 80,
+  "operatingCountries": [
+    "New Zealand",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brasil777-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85"
+  ]
+}

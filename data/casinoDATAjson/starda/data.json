@@ -1,0 +1,28 @@
+{
+  "name": "Starda",
+  "slug": "starda",
+  "country": "Morocco",
+  "bonus": "30% up to €300",
+  "rating": 3.1,
+  "revenueRank": 71,
+  "spins": 191,
+  "providers": [],
+  "likes": 335,
+  "comments": 304,
+  "operatingCountries": [
+    "Austria",
+    "Australia",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=106",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blue-chip",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109"
+  ],
+  "reviewCount": 5
+}

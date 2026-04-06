@@ -1,0 +1,27 @@
+{
+  "name": "RockstarWin Casino",
+  "slug": "rockstarwin-casino",
+  "country": "United States",
+  "bonus": "Reload Bonus 100% up to $300",
+  "rating": 4.5,
+  "revenueRank": 73,
+  "spins": 0,
+  "providers": [
+    "NextGen"
+  ],
+  "likes": 566,
+  "comments": 305,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rockstarwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

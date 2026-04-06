@@ -1,0 +1,30 @@
+{
+  "name": "Jozz Casino",
+  "slug": "jozz-casino",
+  "country": "Belgium",
+  "bonus": "Reload Bonus 150% up to $200",
+  "rating": 4.2,
+  "revenueRank": 14,
+  "spins": 0,
+  "providers": [
+    "Arrows Edge"
+  ],
+  "likes": 1925,
+  "comments": 158,
+  "operatingCountries": [
+    "Denmark",
+    "Australia",
+    "Netherlands",
+    "Switzerland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=7",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jozz-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Turbo Wins",
+  "slug": "turbo-wins",
+  "country": "Morocco",
+  "bonus": "200% up to €5000 + 50 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 365,
+  "providers": [],
+  "likes": 67,
+  "comments": 423,
+  "operatingCountries": [
+    "Netherlands",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=198",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=impressario",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=198",
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200"
+  ],
+  "reviewCount": 5
+}

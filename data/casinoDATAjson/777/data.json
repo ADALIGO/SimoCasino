@@ -1,0 +1,34 @@
+{
+  "name": "777",
+  "slug": "777",
+  "country": "South Africa",
+  "bonus": "Welcome Bonus 250% up to $1000",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 31,
+  "providers": [
+    "Wager Gaming",
+    "Red Tiger",
+    "NextGen",
+    "Iron Dog Studio",
+    "Visionary iGaming",
+    "Big Time Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 825,
+  "comments": 291,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=132",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=acebet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ]
+}

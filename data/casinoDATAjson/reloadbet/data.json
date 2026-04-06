@@ -1,0 +1,36 @@
+{
+  "name": "ReloadBet",
+  "slug": "reloadbet",
+  "country": "Denmark",
+  "bonus": "Reload Bonus 250% up to $100",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 416,
+  "providers": [
+    "NextGen",
+    "Wager Gaming",
+    "Playtech",
+    "Nolimit City",
+    "Pragmatic Play",
+    "Visionary iGaming"
+  ],
+  "likes": 546,
+  "comments": 52,
+  "operatingCountries": [
+    "Czech Republic",
+    "New Zealand",
+    "Morocco",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yugibet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

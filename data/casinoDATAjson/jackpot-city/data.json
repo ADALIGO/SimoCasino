@@ -1,0 +1,29 @@
+{
+  "name": "Jackpot City",
+  "slug": "jackpot-city",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 111,
+  "providers": [],
+  "likes": 945,
+  "comments": 174,
+  "operatingCountries": [
+    "Germany",
+    "Italy",
+    "Australia",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=funbetcasino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ],
+  "reviewCount": 5
+}

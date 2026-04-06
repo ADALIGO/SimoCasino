@@ -1,0 +1,30 @@
+{
+  "name": "LuckyLouis Online",
+  "slug": "luckylouis-online",
+  "country": "Italy",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 78,
+  "providers": [
+    "WMS",
+    "Gamomat",
+    "Quickspin",
+    "ELK Studios",
+    "Aristocrat"
+  ],
+  "likes": 277,
+  "comments": 105,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckylouis-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "OhMyZino Casino",
+  "slug": "ohmyzino-casino",
+  "country": "Switzerland",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 165,
+  "providers": [
+    "Real Time Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 1287,
+  "comments": 406,
+  "operatingCountries": [
+    "Portugal",
+    "Ireland",
+    "Switzerland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=79",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ohmyzino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81"
+  ]
+}

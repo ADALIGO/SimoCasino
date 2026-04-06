@@ -1,0 +1,37 @@
+{
+  "name": "Xyes Casino",
+  "slug": "xyes-casino",
+  "country": "Australia",
+  "bonus": "100% up to $500 + 150 Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 19,
+  "providers": [
+    "ELK Studios",
+    "Aristocrat",
+    "Arrows Edge",
+    "Ash Gaming",
+    "Thunderkick",
+    "EGT",
+    "Konami",
+    "Microgaming"
+  ],
+  "likes": 1993,
+  "comments": 156,
+  "operatingCountries": [
+    "Ireland",
+    "Austria",
+    "United Kingdom",
+    "Canada",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=92",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=xyes-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ]
+}

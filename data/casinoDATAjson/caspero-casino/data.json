@@ -1,0 +1,33 @@
+{
+  "name": "Caspero Casino",
+  "slug": "caspero-casino",
+  "country": "Switzerland",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 292,
+  "providers": [
+    "NetEnt",
+    "WMS",
+    "Wager Gaming",
+    "Iron Dog Studio",
+    "IGT",
+    "Thunderkick",
+    "Pragmatic Play",
+    "Push Gaming"
+  ],
+  "likes": 1739,
+  "comments": 79,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=caspero-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

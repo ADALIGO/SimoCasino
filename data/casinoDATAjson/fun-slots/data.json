@@ -1,0 +1,32 @@
+{
+  "name": "Fun Slots",
+  "slug": "fun-slots",
+  "country": "Canada",
+  "bonus": "Welcome Package up to $50",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 386,
+  "providers": [
+    "Real Time Gaming",
+    "Microgaming",
+    "Ash Gaming"
+  ],
+  "likes": 403,
+  "comments": 5,
+  "operatingCountries": [
+    "Belgium",
+    "Morocco",
+    "New Zealand",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fun-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

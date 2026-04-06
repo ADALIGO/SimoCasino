@@ -1,0 +1,29 @@
+{
+  "name": "Slotoro",
+  "slug": "slotoro",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 100 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 28,
+  "providers": [],
+  "likes": 1177,
+  "comments": 484,
+  "operatingCountries": [
+    "Morocco",
+    "Denmark",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=menace",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ],
+  "reviewCount": 5
+}

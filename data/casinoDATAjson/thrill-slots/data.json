@@ -1,0 +1,34 @@
+{
+  "name": "Thrill Slots",
+  "slug": "thrill-slots",
+  "country": "New Zealand",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 464,
+  "providers": [
+    "Genesis Gaming",
+    "Iron Dog Studio",
+    "Real Time Gaming",
+    "Aristocrat",
+    "1x2gaming",
+    "IGT",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1755,
+  "comments": 411,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=thrill-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

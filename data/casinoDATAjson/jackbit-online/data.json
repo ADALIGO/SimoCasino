@@ -1,0 +1,36 @@
+{
+  "name": "Jackbit Online",
+  "slug": "jackbit-online",
+  "country": "Finland",
+  "bonus": "Deposit Bonus 300% up to $100",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 166,
+  "providers": [
+    "Novomatic",
+    "Rival",
+    "Microgaming",
+    "Wager Gaming",
+    "Genesis Gaming",
+    "Playtech",
+    "Aristocrat",
+    "Real Time Gaming"
+  ],
+  "likes": 1226,
+  "comments": 438,
+  "operatingCountries": [
+    "Spain",
+    "Austria",
+    "Canada",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=102",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackbit-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104"
+  ]
+}

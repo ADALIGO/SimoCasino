@@ -1,0 +1,35 @@
+{
+  "name": "Play Fortuna Casino",
+  "slug": "play-fortuna-casino",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 125% up to $300",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 291,
+  "providers": [
+    "BetSoft",
+    "Amatic Industries",
+    "Push Gaming",
+    "Spinlogic Gaming",
+    "ELK Studios"
+  ],
+  "likes": 1336,
+  "comments": 160,
+  "operatingCountries": [
+    "South Africa",
+    "Czech Republic",
+    "United States",
+    "Germany",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=96",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=play-fortuna-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

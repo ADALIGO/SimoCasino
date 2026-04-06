@@ -1,0 +1,37 @@
+{
+  "name": "Royal Vegas Online",
+  "slug": "royal-vegas-online",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 200% up to $200 + 50 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "Aristocrat",
+    "Habanero Systems",
+    "EGT",
+    "Rival",
+    "Amatic Industries",
+    "Evolution Gaming",
+    "BetSoft"
+  ],
+  "likes": 425,
+  "comments": 351,
+  "operatingCountries": [
+    "Norway",
+    "New Zealand",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-vegas-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

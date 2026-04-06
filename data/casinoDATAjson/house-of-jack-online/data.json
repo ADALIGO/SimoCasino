@@ -1,0 +1,36 @@
+{
+  "name": "House of Jack Online",
+  "slug": "house-of-jack-online",
+  "country": "Germany",
+  "bonus": "Deposit Bonus 150% up to $200",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "IGT",
+    "Aristocrat",
+    "Visionary iGaming",
+    "Wager Gaming",
+    "Real Time Gaming",
+    "Habanero Systems",
+    "Rival"
+  ],
+  "likes": 1135,
+  "comments": 100,
+  "operatingCountries": [
+    "Sweden",
+    "Denmark",
+    "Morocco",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=house-of-jack-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

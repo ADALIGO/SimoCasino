@@ -1,0 +1,33 @@
+{
+  "name": "Frumzi Slots",
+  "slug": "frumzi-slots",
+  "country": "Italy",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Greentube",
+    "Gamomat",
+    "IGT",
+    "Ash Gaming"
+  ],
+  "likes": 1148,
+  "comments": 45,
+  "operatingCountries": [
+    "Germany",
+    "Portugal",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=frumzi-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

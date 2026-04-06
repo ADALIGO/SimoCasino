@@ -1,0 +1,33 @@
+{
+  "name": "TikiTaka Casino",
+  "slug": "tikitaka-casino",
+  "country": "United States",
+  "bonus": "100% up to $50 + 200 Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 82,
+  "providers": [
+    "Ash Gaming",
+    "Merkur",
+    "Visionary iGaming",
+    "Wager Gaming",
+    "Konami",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1084,
+  "comments": 495,
+  "operatingCountries": [
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=100",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tikitaka-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104"
+  ]
+}

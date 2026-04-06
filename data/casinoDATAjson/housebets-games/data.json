@@ -1,0 +1,36 @@
+{
+  "name": "Housebets Games",
+  "slug": "housebets-games",
+  "country": "Portugal",
+  "bonus": "Deposit Bonus 250% up to $300",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 184,
+  "providers": [
+    "Habanero Systems",
+    "Gamomat",
+    "Nolimit City",
+    "Quickspin",
+    "Wager Gaming",
+    "BetSoft",
+    "IGT"
+  ],
+  "likes": 338,
+  "comments": 57,
+  "operatingCountries": [
+    "Germany",
+    "New Zealand",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=housebets-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84"
+  ]
+}

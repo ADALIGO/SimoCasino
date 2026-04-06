@@ -1,0 +1,30 @@
+{
+  "name": "Wolfy Online",
+  "slug": "wolfy-online",
+  "country": "Sweden",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 321,
+  "providers": [
+    "Push Gaming",
+    "WMS",
+    "NetEnt",
+    "Thunderkick",
+    "Habanero Systems"
+  ],
+  "likes": 1464,
+  "comments": 327,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=36",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wolfy-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38"
+  ]
+}

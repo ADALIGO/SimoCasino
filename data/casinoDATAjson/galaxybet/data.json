@@ -1,0 +1,28 @@
+{
+  "name": "Galaxy.bet",
+  "slug": "galaxybet",
+  "country": "Morocco",
+  "bonus": "50% up to €500",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 408,
+  "providers": [],
+  "likes": 878,
+  "comments": 500,
+  "operatingCountries": [
+    "Spain",
+    "Poland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=justspin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13"
+  ],
+  "reviewCount": 5
+}

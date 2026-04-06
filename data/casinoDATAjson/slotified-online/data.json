@@ -1,0 +1,33 @@
+{
+  "name": "Slotified Online",
+  "slug": "slotified-online",
+  "country": "Spain",
+  "bonus": "Reload Bonus 125% up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 472,
+  "providers": [
+    "Iron Dog Studio",
+    "Thunderkick",
+    "Aristocrat"
+  ],
+  "likes": 1528,
+  "comments": 386,
+  "operatingCountries": [
+    "Austria",
+    "Belgium",
+    "Finland",
+    "Germany",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=181",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotified-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

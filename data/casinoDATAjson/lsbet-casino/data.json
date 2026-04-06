@@ -1,0 +1,34 @@
+{
+  "name": "LSbet Casino",
+  "slug": "lsbet-casino",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 150% up to $2000",
+  "rating": 3.1,
+  "revenueRank": 11,
+  "spins": 150,
+  "providers": [
+    "Greentube",
+    "Red Tiger",
+    "Nolimit City",
+    "Wager Gaming",
+    "NextGen",
+    "Evolution Gaming"
+  ],
+  "likes": 1092,
+  "comments": 228,
+  "operatingCountries": [
+    "Austria",
+    "United Kingdom",
+    "Ireland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=74",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lsbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76"
+  ]
+}

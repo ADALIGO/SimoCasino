@@ -1,0 +1,33 @@
+{
+  "name": "White Lotus Casino",
+  "slug": "white-lotus-casino",
+  "country": "Belgium",
+  "bonus": "First Deposit 50% up to $50 + 150 Free Spins",
+  "rating": 4.5,
+  "revenueRank": 54,
+  "spins": 221,
+  "providers": [
+    "Playtech",
+    "Real Time Gaming",
+    "Arrows Edge",
+    "Yggdrasil",
+    "Thunderkick"
+  ],
+  "likes": 740,
+  "comments": 385,
+  "operatingCountries": [
+    "Portugal",
+    "Switzerland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=11",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=white-lotus-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14"
+  ]
+}

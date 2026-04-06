@@ -1,0 +1,36 @@
+{
+  "name": "Niyvi Online",
+  "slug": "niyvi-online",
+  "country": "Sweden",
+  "bonus": "100% up to $300 + 300 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 124,
+  "providers": [
+    "Yggdrasil",
+    "Nolimit City",
+    "Iron Dog Studio",
+    "Ash Gaming",
+    "Arrows Edge",
+    "Push Gaming",
+    "Novomatic"
+  ],
+  "likes": 219,
+  "comments": 61,
+  "operatingCountries": [
+    "Portugal",
+    "Denmark",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=niyvi-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

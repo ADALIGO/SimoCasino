@@ -1,0 +1,26 @@
+{
+  "name": "30Bet.com",
+  "slug": "30betcom",
+  "country": "Morocco",
+  "bonus": "100% up to €100 + 50 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 407,
+  "comments": 308,
+  "operatingCountries": [
+    "South Africa",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=125",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=retrobet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ],
+  "reviewCount": 5
+}

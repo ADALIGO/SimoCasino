@@ -1,0 +1,30 @@
+{
+  "name": "Lord Of The Spins Online",
+  "slug": "lord-of-the-spins-online",
+  "country": "Poland",
+  "bonus": "Welcome Bonus 200% up to $500",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 71,
+  "providers": [
+    "Yggdrasil",
+    "ELK Studios"
+  ],
+  "likes": 996,
+  "comments": 341,
+  "operatingCountries": [
+    "Canada",
+    "Sweden",
+    "Morocco",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lord-of-the-spins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

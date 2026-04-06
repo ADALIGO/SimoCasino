@@ -1,0 +1,33 @@
+{
+  "name": "Sloto'Cash Slots",
+  "slug": "slotocash-slots",
+  "country": "Portugal",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 383,
+  "providers": [
+    "Microgaming",
+    "Genesis Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 1157,
+  "comments": 182,
+  "operatingCountries": [
+    "Belgium",
+    "Austria",
+    "Denmark",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=127",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotocash-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131"
+  ]
+}

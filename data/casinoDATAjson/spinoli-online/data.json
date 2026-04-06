@@ -1,0 +1,37 @@
+{
+  "name": "Spinoli Online",
+  "slug": "spinoli-online",
+  "country": "Austria",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.6,
+  "revenueRank": 92,
+  "spins": 0,
+  "providers": [
+    "Greentube",
+    "ELK Studios",
+    "Konami",
+    "Gamomat",
+    "Genesis Gaming",
+    "Big Time Gaming",
+    "Amatic Industries",
+    "Rival"
+  ],
+  "likes": 896,
+  "comments": 7,
+  "operatingCountries": [
+    "Germany",
+    "United Kingdom",
+    "France",
+    "Czech Republic",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinoli-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Lucky Owl Club",
+  "slug": "lucky-owl-club",
+  "country": "Morocco",
+  "bonus": "$70",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 226,
+  "providers": [],
+  "likes": 1051,
+  "comments": 348,
+  "operatingCountries": [
+    "New Zealand",
+    "Morocco",
+    "United States",
+    "Netherlands",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wikibet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118"
+  ],
+  "reviewCount": 5
+}

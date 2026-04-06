@@ -1,0 +1,30 @@
+{
+  "name": "PuppyBet Slots",
+  "slug": "puppybet-slots",
+  "country": "Morocco",
+  "bonus": "VIP Bonus 150% up to $2000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 457,
+  "providers": [
+    "Microgaming",
+    "Merkur"
+  ],
+  "likes": 464,
+  "comments": 97,
+  "operatingCountries": [
+    "Germany",
+    "Italy",
+    "South Africa",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=puppybet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "JeffBet Games",
+  "slug": "jeffbet-games",
+  "country": "Morocco",
+  "bonus": "100% up to $200 + 200 Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 207,
+  "providers": [
+    "Pragmatic Play",
+    "Evolution Gaming"
+  ],
+  "likes": 1432,
+  "comments": 174,
+  "operatingCountries": [
+    "Finland",
+    "South Africa",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jeffbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64"
+  ]
+}

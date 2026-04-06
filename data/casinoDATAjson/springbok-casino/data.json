@@ -1,0 +1,30 @@
+{
+  "name": "Springbok Casino",
+  "slug": "springbok-casino",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 430,
+  "providers": [
+    "Visionary iGaming",
+    "Blueprint Gaming",
+    "ELK Studios",
+    "Genesis Gaming"
+  ],
+  "likes": 13,
+  "comments": 478,
+  "operatingCountries": [
+    "South Africa",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=78",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=springbok-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ]
+}

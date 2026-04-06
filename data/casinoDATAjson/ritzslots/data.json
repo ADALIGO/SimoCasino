@@ -1,0 +1,29 @@
+{
+  "name": "RitzSlots",
+  "slug": "ritzslots",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 179,
+  "providers": [],
+  "likes": 685,
+  "comments": 408,
+  "operatingCountries": [
+    "Germany",
+    "Canada",
+    "Netherlands",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=anonymouscasino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ],
+  "reviewCount": 5
+}

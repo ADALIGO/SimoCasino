@@ -1,0 +1,29 @@
+{
+  "name": "Bitcoin.com Games Casino",
+  "slug": "bitcoincom-games-casino",
+  "country": "Ireland",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 33,
+  "providers": [
+    "Merkur",
+    "Nolimit City",
+    "IGT"
+  ],
+  "likes": 988,
+  "comments": 410,
+  "operatingCountries": [
+    "Finland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitcoincom-games-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

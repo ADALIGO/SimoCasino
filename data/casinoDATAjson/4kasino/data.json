@@ -1,0 +1,29 @@
+{
+  "name": "4Kasino",
+  "slug": "4kasino",
+  "country": "Morocco",
+  "bonus": "125% up to €400",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 238,
+  "comments": 451,
+  "operatingCountries": [
+    "Poland",
+    "Belgium",
+    "Germany",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betchip-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ],
+  "reviewCount": 5
+}

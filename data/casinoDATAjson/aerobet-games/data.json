@@ -1,0 +1,36 @@
+{
+  "name": "Aerobet Games",
+  "slug": "aerobet-games",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 250% up to $50",
+  "rating": 4.2,
+  "revenueRank": 93,
+  "spins": 456,
+  "providers": [
+    "EGT",
+    "Big Time Gaming",
+    "Merkur",
+    "Greentube",
+    "Real Time Gaming",
+    "Konami",
+    "NetEnt"
+  ],
+  "likes": 254,
+  "comments": 163,
+  "operatingCountries": [
+    "France",
+    "Portugal",
+    "Czech Republic",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=116",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=aerobet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

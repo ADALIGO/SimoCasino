@@ -1,0 +1,32 @@
+{
+  "name": "Playfast Slots",
+  "slug": "playfast-slots",
+  "country": "Norway",
+  "bonus": "VIP Bonus 150% up to $500",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 22,
+  "providers": [
+    "Blueprint Gaming",
+    "Rival",
+    "Quickspin",
+    "Microgaming",
+    "Playtech",
+    "Merkur"
+  ],
+  "likes": 200,
+  "comments": 170,
+  "operatingCountries": [
+    "Canada",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=78",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playfast-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ]
+}

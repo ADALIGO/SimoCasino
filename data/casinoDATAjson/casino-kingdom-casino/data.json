@@ -1,0 +1,36 @@
+{
+  "name": "Casino Kingdom Casino",
+  "slug": "casino-kingdom-casino",
+  "country": "Spain",
+  "bonus": "Reload Bonus 200% up to $100",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 189,
+  "providers": [
+    "Quickspin",
+    "Habanero Systems",
+    "ELK Studios",
+    "Greentube",
+    "Big Time Gaming",
+    "Ash Gaming",
+    "Arrows Edge",
+    "Genesis Gaming"
+  ],
+  "likes": 554,
+  "comments": 39,
+  "operatingCountries": [
+    "France",
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-kingdom-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

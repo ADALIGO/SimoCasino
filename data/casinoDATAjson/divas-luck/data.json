@@ -1,0 +1,30 @@
+{
+  "name": "Divas Luck",
+  "slug": "divas-luck",
+  "country": "Morocco",
+  "bonus": "125% up to €/$400",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 257,
+  "providers": [],
+  "likes": 1835,
+  "comments": 52,
+  "operatingCountries": [
+    "Australia",
+    "United States",
+    "Sweden",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=quatro",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151"
+  ],
+  "reviewCount": 5
+}

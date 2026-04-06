@@ -1,0 +1,38 @@
+{
+  "name": "b-Bets Online",
+  "slug": "b-bets-online",
+  "country": "Italy",
+  "bonus": "Cashback up to 100%",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 63,
+  "providers": [
+    "BetSoft",
+    "Gamomat",
+    "Rival",
+    "NetEnt",
+    "Iron Dog Studio",
+    "Thunderkick",
+    "Blueprint Gaming"
+  ],
+  "likes": 1142,
+  "comments": 424,
+  "operatingCountries": [
+    "United Kingdom",
+    "Denmark",
+    "United States",
+    "Switzerland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=b-bets-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

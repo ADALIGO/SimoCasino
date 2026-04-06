@@ -1,0 +1,37 @@
+{
+  "name": "White Rabbit Online",
+  "slug": "white-rabbit-online",
+  "country": "Norway",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 324,
+  "providers": [
+    "Push Gaming",
+    "Playtech",
+    "Relax Gaming",
+    "Habanero Systems",
+    "Real Time Gaming",
+    "Thunderkick",
+    "Greentube"
+  ],
+  "likes": 41,
+  "comments": 244,
+  "operatingCountries": [
+    "Morocco",
+    "Canada",
+    "Netherlands",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=152",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=white-rabbit-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ]
+}

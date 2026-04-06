@@ -1,0 +1,25 @@
+{
+  "name": "Oh My Spins",
+  "slug": "oh-my-spins",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 445,
+  "providers": [],
+  "likes": 452,
+  "comments": 497,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=173",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grand-hotel",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ],
+  "reviewCount": 5
+}

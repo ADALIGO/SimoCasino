@@ -1,0 +1,30 @@
+{
+  "name": "Dafabet Games",
+  "slug": "dafabet-games",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 97,
+  "providers": [
+    "Microgaming"
+  ],
+  "likes": 588,
+  "comments": 495,
+  "operatingCountries": [
+    "Netherlands",
+    "Denmark",
+    "Finland",
+    "Spain",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=111",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dafabet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113"
+  ]
+}

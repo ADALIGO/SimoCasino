@@ -1,0 +1,35 @@
+{
+  "name": "Casino And Friends Games",
+  "slug": "casino-and-friends-games",
+  "country": "Netherlands",
+  "bonus": "Deposit Bonus 150% up to $2000",
+  "rating": 3.5,
+  "revenueRank": 27,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "Arrows Edge",
+    "Wager Gaming",
+    "EGT",
+    "Genesis Gaming",
+    "Relax Gaming",
+    "Aristocrat",
+    "Amatic Industries"
+  ],
+  "likes": 1774,
+  "comments": 217,
+  "operatingCountries": [
+    "Belgium",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=114",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-and-friends-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ]
+}

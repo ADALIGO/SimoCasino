@@ -1,0 +1,33 @@
+{
+  "name": "SpinsBro Slots",
+  "slug": "spinsbro-slots",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "1x2gaming",
+    "Rival",
+    "Spinlogic Gaming",
+    "Saucify",
+    "Thunderkick"
+  ],
+  "likes": 249,
+  "comments": 255,
+  "operatingCountries": [
+    "United States",
+    "Czech Republic",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinsbro-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

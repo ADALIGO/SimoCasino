@@ -1,0 +1,31 @@
+{
+  "name": "2UP.io Online",
+  "slug": "2upio-online",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 150% up to $100",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 263,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 1743,
+  "comments": 16,
+  "operatingCountries": [
+    "Poland",
+    "United Kingdom",
+    "Spain",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=186",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=2upio-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190"
+  ]
+}

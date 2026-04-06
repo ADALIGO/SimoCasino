@@ -1,0 +1,37 @@
+{
+  "name": "No Bonus Casino",
+  "slug": "no-bonus-casino",
+  "country": "Germany",
+  "bonus": "100% up to $1000 + 150 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 489,
+  "providers": [
+    "Konami",
+    "Real Time Gaming",
+    "Wager Gaming",
+    "Visionary iGaming",
+    "Nolimit City",
+    "Spinlogic Gaming",
+    "Rival"
+  ],
+  "likes": 988,
+  "comments": 323,
+  "operatingCountries": [
+    "Switzerland",
+    "Spain",
+    "Denmark",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=no-bonus-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

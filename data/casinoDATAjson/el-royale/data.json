@@ -1,0 +1,29 @@
+{
+  "name": "El Royale",
+  "slug": "el-royale",
+  "country": "Morocco",
+  "bonus": "50 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 115,
+  "providers": [],
+  "likes": 733,
+  "comments": 229,
+  "operatingCountries": [
+    "Portugal",
+    "Czech Republic",
+    "Denmark",
+    "Finland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=118",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfury",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Fast Slots Online",
+  "slug": "fast-slots-online",
+  "country": "Norway",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 66,
+  "providers": [
+    "Ash Gaming",
+    "Gamomat"
+  ],
+  "likes": 390,
+  "comments": 283,
+  "operatingCountries": [
+    "Finland",
+    "Italy",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=136",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fast-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "LuckyVibe Casino",
+  "slug": "luckyvibe-casino",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 250% up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 496,
+  "providers": [
+    "Real Time Gaming",
+    "IGT",
+    "NetEnt"
+  ],
+  "likes": 1694,
+  "comments": 445,
+  "operatingCountries": [
+    "Switzerland",
+    "Germany",
+    "Canada",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckyvibe-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55"
+  ]
+}

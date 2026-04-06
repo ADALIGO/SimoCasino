@@ -1,0 +1,37 @@
+{
+  "name": "Sloto'Cash Online",
+  "slug": "slotocash-online",
+  "country": "Morocco",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "Genesis Gaming",
+    "1x2gaming",
+    "Evolution Gaming",
+    "Greentube",
+    "ELK Studios",
+    "Red Tiger",
+    "EGT"
+  ],
+  "likes": 1536,
+  "comments": 263,
+  "operatingCountries": [
+    "Norway",
+    "United Kingdom",
+    "Switzerland",
+    "Finland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotocash-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

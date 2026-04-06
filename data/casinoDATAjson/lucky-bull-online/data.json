@@ -1,0 +1,29 @@
+{
+  "name": "Lucky Bull Online",
+  "slug": "lucky-bull-online",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 50% up to $2000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 380,
+  "providers": [
+    "Yggdrasil",
+    "Habanero Systems",
+    "NextGen"
+  ],
+  "likes": 1552,
+  "comments": 202,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-bull-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Lekkerbets Online",
+  "slug": "lekkerbets-online",
+  "country": "United Kingdom",
+  "bonus": "Welcome Bonus 150% up to $300",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Yggdrasil",
+    "Microgaming"
+  ],
+  "likes": 1729,
+  "comments": 192,
+  "operatingCountries": [
+    "Norway",
+    "Belgium",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=105",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lekkerbets-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

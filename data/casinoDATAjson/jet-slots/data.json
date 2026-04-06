@@ -1,0 +1,32 @@
+{
+  "name": "Jet Slots",
+  "slug": "jet-slots",
+  "country": "Norway",
+  "bonus": "VIP Bonus 300% up to $2000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Real Time Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1181,
+  "comments": 66,
+  "operatingCountries": [
+    "Denmark",
+    "Czech Republic",
+    "Belgium",
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=178",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Yugibet Online",
+  "slug": "yugibet-online",
+  "country": "Spain",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 3,
+  "revenueRank": 11,
+  "spins": 3,
+  "providers": [
+    "Spinlogic Gaming",
+    "Pragmatic Play",
+    "Novomatic",
+    "Thunderkick",
+    "Playtech",
+    "Wager Gaming"
+  ],
+  "likes": 445,
+  "comments": 190,
+  "operatingCountries": [
+    "Norway",
+    "Canada",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yugibet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ]
+}

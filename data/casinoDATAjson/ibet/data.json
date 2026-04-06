@@ -1,0 +1,27 @@
+{
+  "name": "iBet",
+  "slug": "ibet",
+  "country": "Morocco",
+  "bonus": "100% up to €100",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 844,
+  "comments": 138,
+  "operatingCountries": [
+    "Belgium",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=116",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ],
+  "reviewCount": 5
+}

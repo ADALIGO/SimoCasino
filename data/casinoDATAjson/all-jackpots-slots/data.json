@@ -1,0 +1,38 @@
+{
+  "name": "All Jackpots Slots",
+  "slug": "all-jackpots-slots",
+  "country": "Finland",
+  "bonus": "250% Bonus up to $200",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 438,
+  "providers": [
+    "1x2gaming",
+    "Konami",
+    "Merkur",
+    "Rival",
+    "WMS",
+    "Real Time Gaming",
+    "Wager Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 903,
+  "comments": 227,
+  "operatingCountries": [
+    "France",
+    "Italy",
+    "Morocco",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=72",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=all-jackpots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76"
+  ]
+}

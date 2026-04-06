@@ -1,0 +1,28 @@
+{
+  "name": "Fresh",
+  "slug": "fresh",
+  "country": "Morocco",
+  "bonus": "50% up to €/$300",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1591,
+  "comments": 456,
+  "operatingCountries": [
+    "South Africa",
+    "Australia",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=monkey-tilt",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38"
+  ],
+  "reviewCount": 5
+}

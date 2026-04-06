@@ -1,0 +1,34 @@
+{
+  "name": "Cherry Gold Games",
+  "slug": "cherry-gold-games",
+  "country": "Australia",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 254,
+  "providers": [
+    "Greentube",
+    "Blueprint Gaming",
+    "Pragmatic Play",
+    "Push Gaming",
+    "Habanero Systems",
+    "Iron Dog Studio",
+    "NetEnt",
+    "Merkur"
+  ],
+  "likes": 426,
+  "comments": 333,
+  "operatingCountries": [
+    "New Zealand",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cherry-gold-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Rajabets Casino",
+  "slug": "rajabets-casino",
+  "country": "Poland",
+  "bonus": "100% up to $2000 + 300 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 288,
+  "providers": [
+    "Novomatic",
+    "Konami",
+    "Arrows Edge",
+    "Pragmatic Play",
+    "Wager Gaming",
+    "Blueprint Gaming",
+    "Playtech"
+  ],
+  "likes": 484,
+  "comments": 74,
+  "operatingCountries": [
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=74",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rajabets-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

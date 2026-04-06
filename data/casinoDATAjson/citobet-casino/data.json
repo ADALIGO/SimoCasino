@@ -1,0 +1,33 @@
+{
+  "name": "Citobet Casino",
+  "slug": "citobet-casino",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 150% up to $200",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Big Time Gaming",
+    "Rival",
+    "Evolution Gaming",
+    "Iron Dog Studio",
+    "Pragmatic Play"
+  ],
+  "likes": 1319,
+  "comments": 314,
+  "operatingCountries": [
+    "Germany",
+    "United States",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=citobet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

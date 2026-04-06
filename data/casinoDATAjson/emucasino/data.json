@@ -1,0 +1,30 @@
+{
+  "name": "EmuCasino",
+  "slug": "emucasino",
+  "country": "Morocco",
+  "bonus": "100% up to €100",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 173,
+  "providers": [],
+  "likes": 258,
+  "comments": 347,
+  "operatingCountries": [
+    "Spain",
+    "Germany",
+    "Netherlands",
+    "Denmark",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=32",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flagman",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ],
+  "reviewCount": 5
+}

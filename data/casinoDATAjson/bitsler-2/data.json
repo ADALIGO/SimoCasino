@@ -1,0 +1,27 @@
+{
+  "name": "Bitsler",
+  "slug": "bitsler",
+  "country": "Morocco",
+  "bonus": "200% up to $2000 + 500 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 231,
+  "providers": [],
+  "likes": 1238,
+  "comments": 278,
+  "operatingCountries": [
+    "Australia",
+    "Canada",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitsler-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Mega.Bet Online",
+  "slug": "megabet-online",
+  "country": "Ireland",
+  "bonus": "First Deposit 50% up to $1000 + 50 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 278,
+  "providers": [
+    "Big Time Gaming"
+  ],
+  "likes": 1386,
+  "comments": 40,
+  "operatingCountries": [
+    "New Zealand",
+    "Norway",
+    "United States",
+    "Ireland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=94",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=megabet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pledoo Slots",
+  "slug": "pledoo-slots",
+  "country": "Austria",
+  "bonus": "First Deposit 50% up to $100 + 200 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 426,
+  "providers": [
+    "Yggdrasil",
+    "Merkur",
+    "Aristocrat"
+  ],
+  "likes": 1064,
+  "comments": 200,
+  "operatingCountries": [
+    "Sweden",
+    "United States",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pledoo-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ]
+}

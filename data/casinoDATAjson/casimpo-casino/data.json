@@ -1,0 +1,34 @@
+{
+  "name": "Casimpo Casino",
+  "slug": "casimpo-casino",
+  "country": "South Africa",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 469,
+  "providers": [
+    "Pragmatic Play",
+    "Aristocrat",
+    "Real Time Gaming",
+    "Konami",
+    "Amatic Industries",
+    "Visionary iGaming"
+  ],
+  "likes": 885,
+  "comments": 150,
+  "operatingCountries": [
+    "Spain",
+    "Ireland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casimpo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65"
+  ]
+}

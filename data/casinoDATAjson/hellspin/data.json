@@ -1,0 +1,29 @@
+{
+  "name": "HellSpin",
+  "slug": "hellspin",
+  "country": "Morocco",
+  "bonus": "100% up to €/$100 + 100 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 74,
+  "providers": [],
+  "likes": 727,
+  "comments": 216,
+  "operatingCountries": [
+    "Sweden",
+    "Austria",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=magic-red",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ZenCasino Slots",
+  "slug": "zencasino-slots",
+  "country": "New Zealand",
+  "bonus": "200% Bonus up to $500",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 449,
+  "providers": [
+    "Genesis Gaming"
+  ],
+  "likes": 182,
+  "comments": 480,
+  "operatingCountries": [
+    "Portugal",
+    "Morocco",
+    "Spain",
+    "South Africa",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=98",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zencasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "21 BETS Games",
+  "slug": "21-bets-games",
+  "country": "Netherlands",
+  "bonus": "300% Bonus up to $300",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 440,
+  "providers": [
+    "Visionary iGaming"
+  ],
+  "likes": 1094,
+  "comments": 329,
+  "operatingCountries": [
+    "Canada",
+    "Denmark",
+    "Netherlands",
+    "Italy",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21-bets-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ]
+}

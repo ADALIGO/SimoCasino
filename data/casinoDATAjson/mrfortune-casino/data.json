@@ -1,0 +1,32 @@
+{
+  "name": "MrFortune Casino",
+  "slug": "mrfortune-casino",
+  "country": "United States",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 186,
+  "providers": [
+    "Relax Gaming",
+    "Merkur",
+    "WMS",
+    "Saucify",
+    "Quickspin"
+  ],
+  "likes": 1101,
+  "comments": 264,
+  "operatingCountries": [
+    "Denmark",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrfortune-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fun",
+  "slug": "fun",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 242,
+  "providers": [],
+  "likes": 1843,
+  "comments": 103,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wildsino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ],
+  "reviewCount": 5
+}

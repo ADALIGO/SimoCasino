@@ -1,0 +1,32 @@
+{
+  "name": "5Gringos Online",
+  "slug": "5gringos-online",
+  "country": "Netherlands",
+  "bonus": "150% Bonus up to $500",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Merkur",
+    "Real Time Gaming"
+  ],
+  "likes": 3,
+  "comments": 383,
+  "operatingCountries": [
+    "France",
+    "Morocco",
+    "Finland",
+    "United States",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=5gringos-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

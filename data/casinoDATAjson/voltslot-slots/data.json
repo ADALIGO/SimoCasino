@@ -1,0 +1,32 @@
+{
+  "name": "Voltslot Slots",
+  "slug": "voltslot-slots",
+  "country": "Australia",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Push Gaming",
+    "Nolimit City"
+  ],
+  "likes": 1204,
+  "comments": 270,
+  "operatingCountries": [
+    "Poland",
+    "Finland",
+    "Ireland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=102",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=voltslot-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105"
+  ]
+}

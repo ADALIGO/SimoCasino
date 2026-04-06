@@ -1,0 +1,30 @@
+{
+  "name": "WinOlot",
+  "slug": "winolot",
+  "country": "Morocco",
+  "bonus": "125% up to €300 + 50 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 221,
+  "providers": [],
+  "likes": 1557,
+  "comments": 16,
+  "operatingCountries": [
+    "Spain",
+    "Portugal",
+    "South Africa",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=metaspins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67"
+  ],
+  "reviewCount": 5
+}

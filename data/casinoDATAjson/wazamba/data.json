@@ -1,0 +1,28 @@
+{
+  "name": "Wazamba",
+  "slug": "wazamba",
+  "country": "Morocco",
+  "bonus": "50% up to €700",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 170,
+  "providers": [],
+  "likes": 1122,
+  "comments": 250,
+  "operatingCountries": [
+    "Italy",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dukes",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ],
+  "reviewCount": 5
+}

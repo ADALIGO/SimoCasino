@@ -1,0 +1,33 @@
+{
+  "name": "Eternal Slots Slots",
+  "slug": "eternal-slots-slots",
+  "country": "Portugal",
+  "bonus": "150% Bonus up to $1000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 303,
+  "providers": [
+    "Thunderkick",
+    "Gamomat",
+    "Spinlogic Gaming",
+    "Wager Gaming",
+    "Saucify"
+  ],
+  "likes": 584,
+  "comments": 205,
+  "operatingCountries": [
+    "Denmark",
+    "United States",
+    "Finland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=196",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eternal-slots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198"
+  ]
+}

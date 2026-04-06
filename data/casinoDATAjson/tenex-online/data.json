@@ -1,0 +1,38 @@
+{
+  "name": "Tenex Online",
+  "slug": "tenex-online",
+  "country": "Australia",
+  "bonus": "Reload Bonus 250% up to $300",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Push Gaming",
+    "Arrows Edge",
+    "Merkur",
+    "Playtech",
+    "Evolution Gaming",
+    "Gamomat"
+  ],
+  "likes": 1493,
+  "comments": 398,
+  "operatingCountries": [
+    "Morocco",
+    "Germany",
+    "Spain",
+    "United Kingdom",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tenex-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

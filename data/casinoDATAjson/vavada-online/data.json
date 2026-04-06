@@ -1,0 +1,34 @@
+{
+  "name": "VAVADA Online",
+  "slug": "vavada-online",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 410,
+  "providers": [
+    "Iron Dog Studio",
+    "Evolution Gaming",
+    "Novomatic",
+    "Yggdrasil",
+    "Thunderkick"
+  ],
+  "likes": 624,
+  "comments": 140,
+  "operatingCountries": [
+    "Portugal",
+    "France",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vavada-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172"
+  ]
+}

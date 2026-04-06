@@ -1,0 +1,25 @@
+{
+  "name": "Crypto Loko",
+  "slug": "crypto-loko",
+  "country": "Morocco",
+  "bonus": "505% + 55 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 451,
+  "providers": [],
+  "likes": 1785,
+  "comments": 101,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=200",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinia",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202"
+  ],
+  "reviewCount": 5
+}

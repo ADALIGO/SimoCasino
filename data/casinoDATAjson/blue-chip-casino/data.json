@@ -1,0 +1,31 @@
+{
+  "name": "Blue Chip Casino",
+  "slug": "blue-chip-casino",
+  "country": "United States",
+  "bonus": "Welcome Bonus 150% up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "IGT",
+    "Konami",
+    "Novomatic"
+  ],
+  "likes": 1847,
+  "comments": 41,
+  "operatingCountries": [
+    "Ireland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=17",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blue-chip-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20"
+  ]
+}

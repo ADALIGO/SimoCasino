@@ -1,0 +1,36 @@
+{
+  "name": "Betblast Slots",
+  "slug": "betblast-slots",
+  "country": "South Africa",
+  "bonus": "Reload Bonus 200% up to $100",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 128,
+  "providers": [
+    "Real Time Gaming",
+    "Iron Dog Studio",
+    "Pragmatic Play",
+    "BetSoft",
+    "IGT",
+    "Genesis Gaming",
+    "EGT"
+  ],
+  "likes": 1496,
+  "comments": 145,
+  "operatingCountries": [
+    "Finland",
+    "Sweden",
+    "Germany",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=72",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betblast-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

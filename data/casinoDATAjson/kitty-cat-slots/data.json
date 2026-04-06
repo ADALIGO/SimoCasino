@@ -1,0 +1,34 @@
+{
+  "name": "Kitty Cat Slots",
+  "slug": "kitty-cat-slots",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Konami",
+    "ELK Studios",
+    "Novomatic",
+    "EGT",
+    "Rival",
+    "Yggdrasil",
+    "Arrows Edge"
+  ],
+  "likes": 1858,
+  "comments": 84,
+  "operatingCountries": [
+    "Finland",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=193",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kitty-cat-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Mr SuperPlay",
+  "slug": "mr-superplay",
+  "country": "Morocco",
+  "bonus": "150% up to €/$300 + 30 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 287,
+  "providers": [],
+  "likes": 672,
+  "comments": 58,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mr-superplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ],
+  "reviewCount": 5
+}

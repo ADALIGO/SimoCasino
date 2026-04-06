@@ -1,0 +1,34 @@
+{
+  "name": "GrandWin Online",
+  "slug": "grandwin-online",
+  "country": "Belgium",
+  "bonus": "Reload Bonus 300% up to $2000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 180,
+  "providers": [
+    "Spinlogic Gaming",
+    "Konami",
+    "Quickspin",
+    "NextGen",
+    "Greentube"
+  ],
+  "likes": 696,
+  "comments": 153,
+  "operatingCountries": [
+    "Czech Republic",
+    "Ireland",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grandwin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14"
+  ]
+}

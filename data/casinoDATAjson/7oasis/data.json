@@ -1,0 +1,26 @@
+{
+  "name": "7Oasis",
+  "slug": "7oasis",
+  "country": "Morocco",
+  "bonus": "120% up to €1250 + 80 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 312,
+  "providers": [],
+  "likes": 62,
+  "comments": 119,
+  "operatingCountries": [
+    "United States",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playcroco",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ],
+  "reviewCount": 5
+}

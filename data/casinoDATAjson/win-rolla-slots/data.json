@@ -1,0 +1,30 @@
+{
+  "name": "Win Rolla Slots",
+  "slug": "win-rolla-slots",
+  "country": "South Africa",
+  "bonus": "300% Bonus up to $100",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 395,
+  "providers": [
+    "Iron Dog Studio",
+    "Rival"
+  ],
+  "likes": 38,
+  "comments": 260,
+  "operatingCountries": [
+    "Canada",
+    "Switzerland",
+    "Czech Republic",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=win-rolla-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133"
+  ]
+}

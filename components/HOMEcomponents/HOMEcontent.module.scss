@@ -1,0 +1,5 @@
+@use './mobile/HOMEcontent.module.scss' as *;
+@use './tablet/HOMEcontent.module.scss' as *;
+@use './desktop/HOMEcontent.module.scss' as *;
+
+/* Mobile/tablet/desktop styles are now in subfolders. */

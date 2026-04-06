@@ -1,0 +1,31 @@
+{
+  "name": "Win A Day Online",
+  "slug": "win-a-day-online",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Saucify"
+  ],
+  "likes": 482,
+  "comments": 101,
+  "operatingCountries": [
+    "France",
+    "United States",
+    "Poland",
+    "Belgium",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=win-a-day-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174"
+  ]
+}

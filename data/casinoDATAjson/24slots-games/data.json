@@ -1,0 +1,35 @@
+{
+  "name": "24Slots Games",
+  "slug": "24slots-games",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 300% up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 346,
+  "providers": [
+    "Visionary iGaming",
+    "Genesis Gaming",
+    "Quickspin",
+    "Arrows Edge",
+    "Pragmatic Play",
+    "BetSoft"
+  ],
+  "likes": 1854,
+  "comments": 168,
+  "operatingCountries": [
+    "Norway",
+    "Germany",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24slots-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "UBET",
+  "slug": "ubet",
+  "country": "Morocco",
+  "bonus": "100% up to $100",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 320,
+  "providers": [],
+  "likes": 1880,
+  "comments": 136,
+  "operatingCountries": [
+    "Sweden",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=omni-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ],
+  "reviewCount": 5
+}

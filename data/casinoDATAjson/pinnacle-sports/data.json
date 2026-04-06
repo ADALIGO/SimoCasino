@@ -1,0 +1,28 @@
+{
+  "name": "Pinnacle Sports",
+  "slug": "pinnacle-sports",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.4,
+  "revenueRank": 4,
+  "spins": 367,
+  "providers": [],
+  "likes": 191,
+  "comments": 197,
+  "operatingCountries": [
+    "United Kingdom",
+    "Australia",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=66",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=22bet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ],
+  "reviewCount": 5
+}

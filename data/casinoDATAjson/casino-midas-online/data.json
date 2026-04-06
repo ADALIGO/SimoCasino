@@ -1,0 +1,33 @@
+{
+  "name": "Casino Midas Online",
+  "slug": "casino-midas-online",
+  "country": "Morocco",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 4.7,
+  "revenueRank": 36,
+  "spins": 0,
+  "providers": [
+    "Saucify",
+    "Microgaming"
+  ],
+  "likes": 1880,
+  "comments": 482,
+  "operatingCountries": [
+    "Austria",
+    "Spain",
+    "Canada",
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-midas-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

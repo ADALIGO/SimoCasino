@@ -1,0 +1,27 @@
+{
+  "name": "Spinanga",
+  "slug": "spinanga",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 985,
+  "comments": 59,
+  "operatingCountries": [
+    "Denmark",
+    "Morocco",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=114",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-rider",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116"
+  ],
+  "reviewCount": 5
+}

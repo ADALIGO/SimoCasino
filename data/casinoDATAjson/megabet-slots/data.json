@@ -1,0 +1,31 @@
+{
+  "name": "Mega.Bet Slots",
+  "slug": "megabet-slots",
+  "country": "South Africa",
+  "bonus": "First Deposit 300% up to $100 + 200 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Habanero Systems",
+    "Wager Gaming"
+  ],
+  "likes": 1219,
+  "comments": 216,
+  "operatingCountries": [
+    "United Kingdom",
+    "Switzerland",
+    "Sweden",
+    "Portugal",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=megabet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

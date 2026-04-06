@@ -1,0 +1,34 @@
+{
+  "name": "HotSlots Games",
+  "slug": "hotslots-games",
+  "country": "France",
+  "bonus": "VIP Bonus 250% up to $300",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 385,
+  "providers": [
+    "Ash Gaming",
+    "Relax Gaming",
+    "Genesis Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 1445,
+  "comments": 187,
+  "operatingCountries": [
+    "Belgium",
+    "Czech Republic",
+    "New Zealand",
+    "South Africa",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotslots-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ]
+}

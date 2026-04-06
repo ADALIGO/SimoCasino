@@ -1,0 +1,31 @@
+{
+  "name": "Winz Slots",
+  "slug": "winz-slots",
+  "country": "Denmark",
+  "bonus": "VIP Bonus 125% up to $1000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 362,
+  "providers": [
+    "Wager Gaming",
+    "Yggdrasil",
+    "Big Time Gaming"
+  ],
+  "likes": 16,
+  "comments": 141,
+  "operatingCountries": [
+    "Ireland",
+    "Switzerland",
+    "Italy",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ]
+}

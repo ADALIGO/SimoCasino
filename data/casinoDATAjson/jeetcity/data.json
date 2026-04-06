@@ -1,0 +1,29 @@
+{
+  "name": "JeetCity",
+  "slug": "jeetcity",
+  "country": "Morocco",
+  "bonus": "125% up to €250 + 100 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 303,
+  "providers": [],
+  "likes": 1502,
+  "comments": 162,
+  "operatingCountries": [
+    "Poland",
+    "Czech Republic",
+    "Ireland",
+    "Italy",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=81",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pan",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ],
+  "reviewCount": 5
+}

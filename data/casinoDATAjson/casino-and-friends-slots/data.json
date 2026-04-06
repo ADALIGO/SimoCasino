@@ -1,0 +1,35 @@
+{
+  "name": "Casino And Friends Slots",
+  "slug": "casino-and-friends-slots",
+  "country": "United States",
+  "bonus": "First Deposit 100% up to $100 + 200 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 97,
+  "providers": [
+    "Playtech",
+    "IGT",
+    "Amatic Industries",
+    "Quickspin",
+    "Yggdrasil",
+    "Nolimit City",
+    "Spinlogic Gaming"
+  ],
+  "likes": 924,
+  "comments": 464,
+  "operatingCountries": [
+    "Germany",
+    "Italy",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-and-friends-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

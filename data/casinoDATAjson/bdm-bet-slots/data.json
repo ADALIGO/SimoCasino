@@ -1,0 +1,30 @@
+{
+  "name": "BDM BET Slots",
+  "slug": "bdm-bet-slots",
+  "country": "Germany",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 3.7,
+  "revenueRank": 11,
+  "spins": 405,
+  "providers": [
+    "Relax Gaming"
+  ],
+  "likes": 1675,
+  "comments": 44,
+  "operatingCountries": [
+    "Austria",
+    "Sweden",
+    "Italy",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bdm-bet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91"
+  ]
+}

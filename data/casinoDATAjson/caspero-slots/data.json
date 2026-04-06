@@ -1,0 +1,35 @@
+{
+  "name": "Caspero Slots",
+  "slug": "caspero-slots",
+  "country": "Germany",
+  "bonus": "100% Bonus up to $2000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 157,
+  "providers": [
+    "Pragmatic Play",
+    "Konami",
+    "WMS",
+    "IGT"
+  ],
+  "likes": 1060,
+  "comments": 317,
+  "operatingCountries": [
+    "Morocco",
+    "France",
+    "Sweden",
+    "Czech Republic",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=caspero-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

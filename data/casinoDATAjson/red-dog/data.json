@@ -1,0 +1,31 @@
+{
+  "name": "Red Dog",
+  "slug": "red-dog",
+  "country": "Finland",
+  "bonus": "First Deposit 150% up to $1000 + 150 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 121,
+  "providers": [
+    "Novomatic"
+  ],
+  "likes": 726,
+  "comments": 106,
+  "operatingCountries": [
+    "South Africa",
+    "Spain",
+    "Australia",
+    "New Zealand",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=114",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=2upio",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ]
+}

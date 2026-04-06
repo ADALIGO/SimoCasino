@@ -1,0 +1,28 @@
+{
+  "name": "Pan",
+  "slug": "pan",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.9,
+  "revenueRank": 95,
+  "spins": 36,
+  "providers": [],
+  "likes": 1232,
+  "comments": 217,
+  "operatingCountries": [
+    "Italy",
+    "Sweden",
+    "Czech Republic",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=11croco-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ],
+  "reviewCount": 5
+}

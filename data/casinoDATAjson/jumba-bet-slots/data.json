@@ -1,0 +1,35 @@
+{
+  "name": "Jumba Bet Slots",
+  "slug": "jumba-bet-slots",
+  "country": "Sweden",
+  "bonus": "100% up to $2000 + 150 Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 424,
+  "providers": [
+    "Push Gaming",
+    "Merkur",
+    "Spinlogic Gaming",
+    "Blueprint Gaming",
+    "Aristocrat"
+  ],
+  "likes": 33,
+  "comments": 381,
+  "operatingCountries": [
+    "Spain",
+    "Italy",
+    "United Kingdom",
+    "South Africa",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=103",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jumba-bet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106"
+  ]
+}

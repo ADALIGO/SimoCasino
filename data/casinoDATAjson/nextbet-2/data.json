@@ -1,0 +1,30 @@
+{
+  "name": "Nextbet",
+  "slug": "nextbet",
+  "country": "Morocco",
+  "bonus": "68% up to MYR688",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 388,
+  "providers": [],
+  "likes": 763,
+  "comments": 3,
+  "operatingCountries": [
+    "Germany",
+    "Czech Republic",
+    "Spain",
+    "France",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=nextbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ],
+  "reviewCount": 5
+}

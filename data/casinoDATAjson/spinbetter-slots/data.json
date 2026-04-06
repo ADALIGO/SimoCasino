@@ -1,0 +1,29 @@
+{
+  "name": "SpinBetter Slots",
+  "slug": "spinbetter-slots",
+  "country": "Belgium",
+  "bonus": "Deposit Bonus 250% up to $2000",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Novomatic",
+    "Big Time Gaming"
+  ],
+  "likes": 360,
+  "comments": 137,
+  "operatingCountries": [
+    "Italy",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinbetter-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138"
+  ]
+}

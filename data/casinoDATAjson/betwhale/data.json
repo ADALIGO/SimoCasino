@@ -1,0 +1,28 @@
+{
+  "name": "BetWhale",
+  "slug": "betwhale",
+  "country": "Morocco",
+  "bonus": "250% up to $2500",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 93,
+  "providers": [],
+  "likes": 1127,
+  "comments": 325,
+  "operatingCountries": [
+    "United Kingdom",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptocasino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Lucky7even Online",
+  "slug": "lucky7even-online",
+  "country": "Austria",
+  "bonus": "300% Bonus up to $50",
+  "rating": 4,
+  "revenueRank": 31,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Big Time Gaming",
+    "Thunderkick",
+    "NetEnt",
+    "BetSoft"
+  ],
+  "likes": 883,
+  "comments": 110,
+  "operatingCountries": [
+    "Italy",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky7even-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

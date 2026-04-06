@@ -1,0 +1,33 @@
+{
+  "name": "Dublinbet Online",
+  "slug": "dublinbet-online",
+  "country": "Norway",
+  "bonus": "Welcome Bonus 200% up to $300",
+  "rating": 4.3,
+  "revenueRank": 31,
+  "spins": 305,
+  "providers": [
+    "Thunderkick",
+    "Iron Dog Studio",
+    "Merkur",
+    "Microgaming",
+    "Blueprint Gaming",
+    "WMS"
+  ],
+  "likes": 758,
+  "comments": 219,
+  "operatingCountries": [
+    "Netherlands",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=130",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dublinbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Wintopia Online",
+  "slug": "wintopia-online",
+  "country": "New Zealand",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.9,
+  "revenueRank": 72,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "Push Gaming",
+    "Relax Gaming",
+    "Genesis Gaming",
+    "Habanero Systems",
+    "Microgaming",
+    "Quickspin"
+  ],
+  "likes": 1212,
+  "comments": 333,
+  "operatingCountries": [
+    "Norway",
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=52",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wintopia-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

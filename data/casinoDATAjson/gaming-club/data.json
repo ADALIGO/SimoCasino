@@ -1,0 +1,25 @@
+{
+  "name": "Gaming Club",
+  "slug": "gaming-club",
+  "country": "Morocco",
+  "bonus": "100% up to €200",
+  "rating": 1.8,
+  "revenueRank": null,
+  "spins": 271,
+  "providers": [],
+  "likes": 336,
+  "comments": 107,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=153",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=biggerz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ],
+  "reviewCount": 5
+}

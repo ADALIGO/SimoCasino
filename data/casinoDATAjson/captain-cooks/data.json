@@ -1,0 +1,30 @@
+{
+  "name": "Captain Cooks",
+  "slug": "captain-cooks",
+  "country": "Morocco",
+  "bonus": "€/$100",
+  "rating": 2.6,
+  "revenueRank": 8,
+  "spins": 323,
+  "providers": [],
+  "likes": 1339,
+  "comments": 197,
+  "operatingCountries": [
+    "Switzerland",
+    "Austria",
+    "Ireland",
+    "Portugal",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=satospins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ],
+  "reviewCount": 5
+}

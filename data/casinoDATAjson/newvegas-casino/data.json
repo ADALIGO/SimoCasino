@@ -1,0 +1,32 @@
+{
+  "name": "NewVegas Casino",
+  "slug": "newvegas-casino",
+  "country": "Austria",
+  "bonus": "VIP Bonus 50% up to $1000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 401,
+  "providers": [
+    "Ash Gaming",
+    "Saucify",
+    "Nolimit City"
+  ],
+  "likes": 26,
+  "comments": 224,
+  "operatingCountries": [
+    "Belgium",
+    "Australia",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=170",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=newvegas-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174"
+  ]
+}

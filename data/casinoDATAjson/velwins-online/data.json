@@ -1,0 +1,36 @@
+{
+  "name": "Velwins Online",
+  "slug": "velwins-online",
+  "country": "South Africa",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 28,
+  "providers": [
+    "Rival",
+    "EGT",
+    "Greentube",
+    "Quickspin",
+    "Visionary iGaming",
+    "Konami",
+    "NetEnt",
+    "Amatic Industries"
+  ],
+  "likes": 154,
+  "comments": 492,
+  "operatingCountries": [
+    "Portugal",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=velwins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89"
+  ]
+}

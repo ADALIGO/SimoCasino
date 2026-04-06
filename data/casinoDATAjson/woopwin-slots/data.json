@@ -1,0 +1,30 @@
+{
+  "name": "Woopwin Slots",
+  "slug": "woopwin-slots",
+  "country": "Finland",
+  "bonus": "Reload Bonus 125% up to $500",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 424,
+  "providers": [
+    "Blueprint Gaming"
+  ],
+  "likes": 1430,
+  "comments": 442,
+  "operatingCountries": [
+    "Belgium",
+    "Norway",
+    "Portugal",
+    "France",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=96",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=woopwin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98"
+  ]
+}

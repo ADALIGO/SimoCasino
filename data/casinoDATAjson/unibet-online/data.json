@@ -1,0 +1,29 @@
+{
+  "name": "Unibet Online",
+  "slug": "unibet-online",
+  "country": "Norway",
+  "bonus": "250% Bonus up to $200",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 202,
+  "providers": [
+    "Genesis Gaming",
+    "Real Time Gaming",
+    "Aristocrat"
+  ],
+  "likes": 1731,
+  "comments": 194,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=unibet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Virtual City",
+  "slug": "virtual-city",
+  "country": "Morocco",
+  "bonus": "100% up to €/$50",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 185,
+  "providers": [],
+  "likes": 1700,
+  "comments": 76,
+  "operatingCountries": [
+    "Australia",
+    "United Kingdom",
+    "Austria",
+    "South Africa",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=61",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winspirit",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63"
+  ],
+  "reviewCount": 5
+}

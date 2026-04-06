@@ -1,0 +1,37 @@
+{
+  "name": "Ruby Fortune Casino",
+  "slug": "ruby-fortune-casino",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $300",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 75,
+  "providers": [
+    "Visionary iGaming",
+    "Microgaming",
+    "Relax Gaming",
+    "Aristocrat",
+    "Big Time Gaming",
+    "1x2gaming"
+  ],
+  "likes": 21,
+  "comments": 442,
+  "operatingCountries": [
+    "Sweden",
+    "New Zealand",
+    "United States",
+    "Switzerland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ruby-fortune-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ]
+}

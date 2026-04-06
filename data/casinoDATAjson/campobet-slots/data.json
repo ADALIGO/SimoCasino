@@ -1,0 +1,29 @@
+{
+  "name": "CampoBet Slots",
+  "slug": "campobet-slots",
+  "country": "Morocco",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.4,
+  "revenueRank": 24,
+  "spins": 251,
+  "providers": [
+    "EGT",
+    "ELK Studios",
+    "Evolution Gaming"
+  ],
+  "likes": 1797,
+  "comments": 417,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=campobet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

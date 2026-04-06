@@ -1,0 +1,29 @@
+{
+  "name": "Casinozer Slots",
+  "slug": "casinozer-slots",
+  "country": "Portugal",
+  "bonus": "100% up to $2000 + 300 Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 184,
+  "providers": [
+    "Push Gaming"
+  ],
+  "likes": 1480,
+  "comments": 60,
+  "operatingCountries": [
+    "Spain",
+    "Switzerland",
+    "Sweden",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinozer-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

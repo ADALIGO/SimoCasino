@@ -1,0 +1,31 @@
+{
+  "name": "12BET Slots",
+  "slug": "12bet-slots",
+  "country": "Morocco",
+  "bonus": "100% up to $50 + 300 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 468,
+  "providers": [
+    "Ash Gaming",
+    "Blueprint Gaming",
+    "BetSoft"
+  ],
+  "likes": 1037,
+  "comments": 308,
+  "operatingCountries": [
+    "New Zealand",
+    "Denmark",
+    "Austria",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=54",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=12bet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56"
+  ]
+}

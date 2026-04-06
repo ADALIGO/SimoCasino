@@ -1,0 +1,36 @@
+{
+  "name": "Dream Royale Slots",
+  "slug": "dream-royale-slots",
+  "country": "Portugal",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 412,
+  "providers": [
+    "Greentube",
+    "Novomatic",
+    "ELK Studios",
+    "Amatic Industries",
+    "Quickspin",
+    "Big Time Gaming",
+    "Spinlogic Gaming",
+    "Merkur"
+  ],
+  "likes": 213,
+  "comments": 83,
+  "operatingCountries": [
+    "Canada",
+    "Germany",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=8",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dream-royale-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11"
+  ]
+}

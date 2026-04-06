@@ -1,0 +1,36 @@
+{
+  "name": "1xBit Games",
+  "slug": "1xbit-games",
+  "country": "Poland",
+  "bonus": "Cashback up to 100%",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "Evolution Gaming",
+    "Quickspin",
+    "Ash Gaming",
+    "Genesis Gaming",
+    "Wager Gaming",
+    "NextGen"
+  ],
+  "likes": 138,
+  "comments": 161,
+  "operatingCountries": [
+    "Switzerland",
+    "Netherlands",
+    "United States",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=11",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xbit-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14"
+  ]
+}

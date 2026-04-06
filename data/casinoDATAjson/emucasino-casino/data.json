@@ -1,0 +1,35 @@
+{
+  "name": "EmuCasino Casino",
+  "slug": "emucasino-casino",
+  "country": "United States",
+  "bonus": "Welcome Bonus 200% up to $2000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 18,
+  "providers": [
+    "Amatic Industries",
+    "Push Gaming",
+    "Big Time Gaming",
+    "Arrows Edge",
+    "Real Time Gaming",
+    "Visionary iGaming"
+  ],
+  "likes": 485,
+  "comments": 105,
+  "operatingCountries": [
+    "United States",
+    "New Zealand",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=emucasino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ]
+}

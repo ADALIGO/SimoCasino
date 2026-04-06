@@ -1,0 +1,31 @@
+{
+  "name": "Goldenbet Online",
+  "slug": "goldenbet-online",
+  "country": "Norway",
+  "bonus": "First Deposit 300% up to $100 + 250 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 340,
+  "providers": [
+    "Ash Gaming",
+    "Iron Dog Studio",
+    "IGT",
+    "Blueprint Gaming",
+    "Playtech"
+  ],
+  "likes": 1690,
+  "comments": 273,
+  "operatingCountries": [
+    "France",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldenbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

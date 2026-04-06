@@ -1,0 +1,31 @@
+{
+  "name": "Exclusive",
+  "slug": "exclusive",
+  "country": "Morocco",
+  "bonus": "Up to $6000",
+  "rating": 3.3,
+  "revenueRank": 77,
+  "spins": 0,
+  "providers": [],
+  "likes": 1971,
+  "comments": 334,
+  "operatingCountries": [
+    "Italy",
+    "Sweden",
+    "New Zealand",
+    "Switzerland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=96com-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ],
+  "reviewCount": 5
+}

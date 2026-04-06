@@ -1,0 +1,26 @@
+{
+  "name": "La Riviera",
+  "slug": "la-riviera",
+  "country": "Morocco",
+  "bonus": "200% up to €200 + 25 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 371,
+  "providers": [],
+  "likes": 775,
+  "comments": 382,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=aquawin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ],
+  "reviewCount": 5
+}

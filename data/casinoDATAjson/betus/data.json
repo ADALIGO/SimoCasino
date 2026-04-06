@@ -1,0 +1,29 @@
+{
+  "name": "BetUS",
+  "slug": "betus",
+  "country": "Morocco",
+  "bonus": "220% up to $2200",
+  "rating": 1.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 582,
+  "comments": 362,
+  "operatingCountries": [
+    "Italy",
+    "Canada",
+    "Morocco",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ],
+  "reviewCount": 5
+}

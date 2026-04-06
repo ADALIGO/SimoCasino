@@ -1,0 +1,32 @@
+{
+  "name": "Bitcoin Sportsbook Slots",
+  "slug": "bitcoin-sportsbook-slots",
+  "country": "Poland",
+  "bonus": "100% up to $500 + 250 Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 339,
+  "providers": [
+    "Amatic Industries",
+    "Evolution Gaming",
+    "Arrows Edge",
+    "Thunderkick",
+    "Pragmatic Play"
+  ],
+  "likes": 473,
+  "comments": 11,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=61",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitcoin-sportsbook-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Rich Reels Casino",
+  "slug": "rich-reels-casino",
+  "country": "Poland",
+  "bonus": "300% Bonus up to $1000",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 472,
+  "providers": [
+    "WMS"
+  ],
+  "likes": 756,
+  "comments": 377,
+  "operatingCountries": [
+    "Poland",
+    "Czech Republic",
+    "United Kingdom",
+    "Sweden",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rich-reels-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

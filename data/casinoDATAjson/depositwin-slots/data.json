@@ -1,0 +1,39 @@
+{
+  "name": "DepositWin Slots",
+  "slug": "depositwin-slots",
+  "country": "Netherlands",
+  "bonus": "VIP Bonus 100% up to $1000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 269,
+  "providers": [
+    "WMS",
+    "BetSoft",
+    "Evolution Gaming",
+    "Saucify",
+    "Wager Gaming",
+    "Rival",
+    "Ash Gaming",
+    "Genesis Gaming"
+  ],
+  "likes": 877,
+  "comments": 13,
+  "operatingCountries": [
+    "Spain",
+    "Ireland",
+    "Australia",
+    "Austria",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=depositwin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

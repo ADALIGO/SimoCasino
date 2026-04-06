@@ -1,0 +1,32 @@
+{
+  "name": "Gamblezen Online",
+  "slug": "gamblezen-online",
+  "country": "Morocco",
+  "bonus": "VIP Bonus 250% up to $50",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 216,
+  "providers": [
+    "Arrows Edge",
+    "Relax Gaming",
+    "Merkur",
+    "Push Gaming",
+    "Nolimit City",
+    "Greentube",
+    "Big Time Gaming"
+  ],
+  "likes": 1685,
+  "comments": 168,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gamblezen-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ]
+}

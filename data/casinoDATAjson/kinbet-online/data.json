@@ -1,0 +1,32 @@
+{
+  "name": "Kinbet Online",
+  "slug": "kinbet-online",
+  "country": "Switzerland",
+  "bonus": "100% Bonus up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 327,
+  "providers": [
+    "Yggdrasil",
+    "Playtech",
+    "1x2gaming"
+  ],
+  "likes": 1086,
+  "comments": 310,
+  "operatingCountries": [
+    "Poland",
+    "Netherlands",
+    "United Kingdom",
+    "Portugal",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kinbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Limitless Slots",
+  "slug": "limitless-slots",
+  "country": "United States",
+  "bonus": "Deposit Bonus 150% up to $200",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 381,
+  "providers": [
+    "Arrows Edge",
+    "Konami",
+    "Nolimit City",
+    "Gamomat",
+    "Merkur",
+    "Novomatic"
+  ],
+  "likes": 1436,
+  "comments": 253,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=limitless-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ]
+}

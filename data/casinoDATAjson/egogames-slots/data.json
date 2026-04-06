@@ -1,0 +1,31 @@
+{
+  "name": "EgoGames Slots",
+  "slug": "egogames-slots",
+  "country": "Portugal",
+  "bonus": "100% up to $50 + 150 Spins",
+  "rating": 4.8,
+  "revenueRank": 48,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "Quickspin",
+    "Amatic Industries",
+    "BetSoft"
+  ],
+  "likes": 592,
+  "comments": 469,
+  "operatingCountries": [
+    "Germany",
+    "Poland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=24",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=egogames-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ]
+}

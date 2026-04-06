@@ -1,0 +1,37 @@
+{
+  "name": "HashLucky Online",
+  "slug": "hashlucky-online",
+  "country": "South Africa",
+  "bonus": "100% up to $100 + 200 Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "1x2gaming",
+    "BetSoft",
+    "Visionary iGaming",
+    "Novomatic",
+    "Konami",
+    "Thunderkick",
+    "Real Time Gaming"
+  ],
+  "likes": 508,
+  "comments": 116,
+  "operatingCountries": [
+    "Ireland",
+    "France",
+    "Australia",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hashlucky-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

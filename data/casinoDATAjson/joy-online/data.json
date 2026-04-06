@@ -1,0 +1,32 @@
+{
+  "name": "Joy Online",
+  "slug": "joy-online",
+  "country": "France",
+  "bonus": "Cashback up to 250%",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 57,
+  "providers": [
+    "Merkur",
+    "Ash Gaming",
+    "Playtech",
+    "Amatic Industries",
+    "Quickspin"
+  ],
+  "likes": 392,
+  "comments": 33,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=133",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=joy-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

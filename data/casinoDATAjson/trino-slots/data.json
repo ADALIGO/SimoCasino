@@ -1,0 +1,33 @@
+{
+  "name": "Trino Slots",
+  "slug": "trino-slots",
+  "country": "United States",
+  "bonus": "Reload Bonus 250% up to $50",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 464,
+  "providers": [
+    "Rival",
+    "WMS",
+    "Genesis Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 1577,
+  "comments": 330,
+  "operatingCountries": [
+    "Poland",
+    "South Africa",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=trino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

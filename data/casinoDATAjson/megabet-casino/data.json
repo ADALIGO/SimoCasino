@@ -1,0 +1,33 @@
+{
+  "name": "Mega.Bet Casino",
+  "slug": "megabet-casino",
+  "country": "Switzerland",
+  "bonus": "First Deposit 200% up to $2000 + 150 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 231,
+  "providers": [
+    "Push Gaming",
+    "Novomatic",
+    "Wager Gaming",
+    "Merkur",
+    "Habanero Systems",
+    "NextGen"
+  ],
+  "likes": 1230,
+  "comments": 200,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=megabet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49"
+  ]
+}

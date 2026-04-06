@@ -1,0 +1,31 @@
+{
+  "name": "Milky Way",
+  "slug": "milky-way",
+  "country": "Morocco",
+  "bonus": "150% up to €/$500",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 184,
+  "providers": [],
+  "likes": 904,
+  "comments": 191,
+  "operatingCountries": [
+    "France",
+    "Sweden",
+    "Netherlands",
+    "South Africa",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betkudos",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133"
+  ],
+  "reviewCount": 5
+}

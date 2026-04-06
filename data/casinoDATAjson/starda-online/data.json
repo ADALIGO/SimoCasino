@@ -1,0 +1,32 @@
+{
+  "name": "Starda Online",
+  "slug": "starda-online",
+  "country": "Ireland",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 47,
+  "providers": [
+    "Ash Gaming",
+    "Merkur",
+    "1x2gaming",
+    "Novomatic",
+    "Evolution Gaming"
+  ],
+  "likes": 1036,
+  "comments": 301,
+  "operatingCountries": [
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=starda-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "EuroMania Casino",
+  "slug": "euromania-casino",
+  "country": "Norway",
+  "bonus": "Cashback up to 250%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Quickspin",
+    "Thunderkick"
+  ],
+  "likes": 1454,
+  "comments": 148,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euromania-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

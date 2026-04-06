@@ -1,0 +1,27 @@
+{
+  "name": "Rocket.run Online",
+  "slug": "rocketrun-online",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Novomatic",
+    "BetSoft"
+  ],
+  "likes": 1297,
+  "comments": 335,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rocketrun-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ]
+}

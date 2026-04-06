@@ -1,0 +1,29 @@
+{
+  "name": "Ditobet",
+  "slug": "ditobet",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1636,
+  "comments": 106,
+  "operatingCountries": [
+    "Poland",
+    "Norway",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ronin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ],
+  "reviewCount": 5
+}

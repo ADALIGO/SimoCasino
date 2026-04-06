@@ -1,0 +1,33 @@
+{
+  "name": "GTbets Slots",
+  "slug": "gtbets-slots",
+  "country": "Spain",
+  "bonus": "First Deposit 150% up to $1000 + 50 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 62,
+  "providers": [
+    "Novomatic",
+    "ELK Studios",
+    "Iron Dog Studio",
+    "Rival",
+    "Push Gaming",
+    "Visionary iGaming"
+  ],
+  "likes": 814,
+  "comments": 52,
+  "operatingCountries": [
+    "Finland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gtbets-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148"
+  ]
+}

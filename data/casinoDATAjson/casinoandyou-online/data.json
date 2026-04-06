@@ -1,0 +1,33 @@
+{
+  "name": "CasinoAndYou Online",
+  "slug": "casinoandyou-online",
+  "country": "Canada",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 438,
+  "providers": [
+    "Playtech",
+    "Red Tiger"
+  ],
+  "likes": 1337,
+  "comments": 225,
+  "operatingCountries": [
+    "France",
+    "Sweden",
+    "Denmark",
+    "South Africa",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoandyou-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ]
+}

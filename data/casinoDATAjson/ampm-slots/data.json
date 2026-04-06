@@ -1,0 +1,28 @@
+{
+  "name": "AMPM Slots",
+  "slug": "ampm-slots",
+  "country": "France",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming",
+    "Playtech"
+  ],
+  "likes": 1100,
+  "comments": 266,
+  "operatingCountries": [
+    "Switzerland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=100",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ampm-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102"
+  ]
+}

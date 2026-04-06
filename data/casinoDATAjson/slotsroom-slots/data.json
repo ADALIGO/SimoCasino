@@ -1,0 +1,38 @@
+{
+  "name": "Slotsroom Slots",
+  "slug": "slotsroom-slots",
+  "country": "Morocco",
+  "bonus": "Reload Bonus 200% up to $500",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 92,
+  "providers": [
+    "IGT",
+    "Amatic Industries",
+    "Iron Dog Studio",
+    "Merkur",
+    "Novomatic",
+    "Greentube",
+    "Evolution Gaming"
+  ],
+  "likes": 1054,
+  "comments": 219,
+  "operatingCountries": [
+    "Morocco",
+    "South Africa",
+    "Finland",
+    "Spain",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotsroom-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ]
+}

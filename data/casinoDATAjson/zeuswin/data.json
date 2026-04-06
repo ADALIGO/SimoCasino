@@ -1,0 +1,27 @@
+{
+  "name": "ZeusWin",
+  "slug": "zeuswin",
+  "country": "Morocco",
+  "bonus": "150% up to €600 + 100 Spins",
+  "rating": 3,
+  "revenueRank": 59,
+  "spins": 0,
+  "providers": [],
+  "likes": 1817,
+  "comments": 371,
+  "operatingCountries": [
+    "Poland",
+    "United States",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stakeclub",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17"
+  ],
+  "reviewCount": 5
+}

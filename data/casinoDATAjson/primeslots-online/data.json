@@ -1,0 +1,35 @@
+{
+  "name": "PrimeSlots Online",
+  "slug": "primeslots-online",
+  "country": "Belgium",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 333,
+  "providers": [
+    "Nolimit City",
+    "Genesis Gaming",
+    "NetEnt",
+    "Real Time Gaming",
+    "Spinlogic Gaming",
+    "Yggdrasil",
+    "Visionary iGaming"
+  ],
+  "likes": 1693,
+  "comments": 403,
+  "operatingCountries": [
+    "France",
+    "Norway",
+    "Belgium",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=primeslots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189"
+  ]
+}

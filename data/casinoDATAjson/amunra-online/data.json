@@ -1,0 +1,37 @@
+{
+  "name": "AmunRa Online",
+  "slug": "amunra-online",
+  "country": "Morocco",
+  "bonus": "250% Bonus up to $100",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 141,
+  "providers": [
+    "Aristocrat",
+    "Thunderkick",
+    "Relax Gaming",
+    "Pragmatic Play",
+    "Yggdrasil",
+    "Push Gaming",
+    "Visionary iGaming",
+    "IGT"
+  ],
+  "likes": 276,
+  "comments": 158,
+  "operatingCountries": [
+    "Switzerland",
+    "Austria",
+    "Sweden",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=amunra-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

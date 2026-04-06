@@ -1,0 +1,30 @@
+{
+  "name": "EuroFortune",
+  "slug": "eurofortune",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1,
+  "revenueRank": null,
+  "spins": 69,
+  "providers": [],
+  "likes": 982,
+  "comments": 449,
+  "operatingCountries": [
+    "Morocco",
+    "Sweden",
+    "Canada",
+    "Ireland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betchip",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148"
+  ],
+  "reviewCount": 5
+}

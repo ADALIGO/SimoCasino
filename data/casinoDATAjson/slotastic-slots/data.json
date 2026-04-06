@@ -1,0 +1,31 @@
+{
+  "name": "Slotastic Slots",
+  "slug": "slotastic-slots",
+  "country": "Poland",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 3.3,
+  "revenueRank": 76,
+  "spins": 108,
+  "providers": [
+    "Novomatic",
+    "Pragmatic Play",
+    "Evolution Gaming"
+  ],
+  "likes": 1281,
+  "comments": 202,
+  "operatingCountries": [
+    "Switzerland",
+    "Canada",
+    "Finland",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=65",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotastic-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67"
+  ]
+}

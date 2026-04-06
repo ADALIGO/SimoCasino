@@ -1,0 +1,28 @@
+{
+  "name": "WonderLuck Online",
+  "slug": "wonderluck-online",
+  "country": "Austria",
+  "bonus": "Welcome Bonus 250% up to $100",
+  "rating": 4.4,
+  "revenueRank": 30,
+  "spins": 345,
+  "providers": [
+    "WMS"
+  ],
+  "likes": 41,
+  "comments": 492,
+  "operatingCountries": [
+    "France",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=6",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wonderluck-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9"
+  ]
+}

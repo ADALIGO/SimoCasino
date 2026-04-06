@@ -1,0 +1,29 @@
+{
+  "name": "No Bonus",
+  "slug": "no-bonus",
+  "country": "Morocco",
+  "bonus": "10% Cashback",
+  "rating": 0,
+  "revenueRank": null,
+  "spins": 433,
+  "providers": [
+    "T&C's Apply",
+    "3 / 5"
+  ],
+  "likes": 1712,
+  "comments": 408,
+  "operatingCountries": [
+    "Czech Republic",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=icecasino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71"
+  ],
+  "reviewCount": 0
+}

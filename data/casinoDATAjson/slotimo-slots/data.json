@@ -1,0 +1,33 @@
+{
+  "name": "Slotimo Slots",
+  "slug": "slotimo-slots",
+  "country": "Netherlands",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NextGen",
+    "Konami",
+    "Evolution Gaming",
+    "Yggdrasil",
+    "Real Time Gaming"
+  ],
+  "likes": 337,
+  "comments": 467,
+  "operatingCountries": [
+    "Germany",
+    "Austria",
+    "Sweden",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotimo-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ]
+}

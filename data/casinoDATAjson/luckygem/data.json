@@ -1,0 +1,26 @@
+{
+  "name": "LuckyGem",
+  "slug": "luckygem",
+  "country": "Morocco",
+  "bonus": "100% up to €1000 + 125 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 6,
+  "providers": [],
+  "likes": 997,
+  "comments": 72,
+  "operatingCountries": [
+    "United Kingdom",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betpari",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144"
+  ],
+  "reviewCount": 5
+}

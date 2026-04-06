@@ -1,0 +1,33 @@
+{
+  "name": "Flagman Casino",
+  "slug": "flagman-casino",
+  "country": "Canada",
+  "bonus": "VIP Bonus 50% up to $100",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 4,
+  "providers": [
+    "Ash Gaming",
+    "NextGen",
+    "ELK Studios",
+    "Evolution Gaming",
+    "Red Tiger",
+    "Real Time Gaming"
+  ],
+  "likes": 601,
+  "comments": 267,
+  "operatingCountries": [
+    "United Kingdom",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flagman-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

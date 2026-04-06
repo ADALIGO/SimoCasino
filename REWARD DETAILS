@@ -1,0 +1,204 @@
+
+🧠 CORE ACTION → XP + COINS (WITH DETAILS)
+
+
+| Action                    | XP | Coins | Cooldown     | Daily Limit | Anti-Abuse Rule            | Details                                           | Notes                            |
+| ------------------------- | -- | ----- | ------------ | ----------- | -------------------------- | ------------------------------------------------- | -------------------------------- |
+| Visit homepage            | 1  | 0     | 10 min       | 20          | Ignore repeat same session | Only counted once per session refresh cycle       | ✅ Safe                           |
+| Visit casino page         | 2  | 0     | 5 min        | 30          | Unique casino only         | Visiting different casinos increases XP faster    | ✅ Safe                           |
+| Click affiliate link      | 5  | 1     | 10 min       | 15          | Must redirect external     | Reward only if user stays >10s on partner site    | ⚠️ Risky — avoid for Google Ads  |
+| Stay 30 seconds           | 2  | 0     | per session  | 20          | Real time tracking         | Tab must be active and visible                    | ✅ Safe                           |
+| Stay 2 minutes            | 5  | 1     | per session  | 10          | Active tab only            | Bonus stacks with 30s reward                      | ✅ Safe                           |
+| Stay 5 minutes            | 8  | 2     | per session  | 5           | Scroll required            | Requires at least 30% scroll activity             | ✅ Safe                           |
+| Scroll 50% page           | 2  | 0     | per page     | 20          | Unique page                | Encourages content consumption                    | ✅ Safe                           |
+| Scroll 90% page           | 4  | 1     | per page     | 10          | No bot scroll              | High engagement reward                            | ✅ Safe                           |
+| Click bonus               | 3  | 1     | 5 min        | 20          | Unique bonus               | Only first click per bonus counts                 | ✅ Safe                           |
+| Claim bonus               | 6  | 2     | 30 min       | 10          | Must be valid bonus        | Bonus must be active and valid                    | ✅ Safe                           |
+| Register at casino        | 20 | 5     | one-time     | 3           | Affiliate confirmation     | Reward only after successful registration         | ⚠️ Risky — ensure tracking & TOS |
+| Deposit (tracked)         | 40 | 10    | per deposit  | 2           | API / postback only        | Verified via affiliate tracking system            | ⚠️ Risky — high-value action     |
+| Write review              | 10 | 2     | 1 per casino | 5           | Min 100 chars              | High-quality reviews increase trust               | ✅ Safe                           |
+| Write review + image      | 20 | 5     | 1 per casino | 3           | Image required             | Each review with image earns bonus reward         | ✅ Safe                           |
+| Like review               | 1  | 0     | per review   | 50          | Unique                     | Prevent spam likes                                | ✅ Safe                           |
+| Comment                   | 2  | 0     | 2 min        | 20          | Anti-spam                  | Must be meaningful (min length)                   | ✅ Safe                           |
+| Comment + image           | 8  | 2     | 5 min        | 10          | Image + anti-spam          | Each comment with an image earns extra XP & Coins | ✅ Safe                           |
+| Daily login               | 3  | 1     | 24h          | 1           | Streak system              | Resets if user misses a day                       | ✅ Safe                           |
+| Daily streak (7+)         | 10 | 3     | 24h          | 1           | Reset if missed            | Encourages long-term retention                    | ✅ Safe                           |
+| Share page                | 5  | 2     | 1h           | 10          | Real share only            | Must trigger share API                            | ✅ Safe                           |
+| Open notification/email   | 2  | 0     | 1h           | 10          | Unique open                | Helps engagement campaigns                        | ✅ Safe                           |
+| Complete mission          | 15 | 5     | per mission  | 10          | Valid mission              | Main engagement driver                            | ✅ Safe                           |
+| Unlock achievement        | 20 | 10    | one-time     | —           | Unique                     | Rare rewards = high motivation                    | ✅ Safe                           |
+| Leaderboard participation | 10 | 3     | weekly       | 1           | Must have score            | Based on weekly activity                          | ✅ Safe                           |
+
+
+🎮 LEVEL SYSTEM (YOUR CUSTOM STRUCTURE)
+
+
+| Level | Points Required | Total XP | Reward Coins | Details                      | Notes  |
+| ----- | --------------- | -------- | ------------ | ---------------------------- | ------ |
+| 1     | 100             | 100      | 5            | Entry level, fast onboarding | ✅ Safe |
+| 2     | 250             | 350      | 6            | Slightly harder progression  | ✅ Safe |
+| 3     | 500             | 850      | 8            | Engagement starts here       | ✅ Safe |
+| 4     | 900             | 1750     | 10           | Users become regular         | ✅ Safe |
+| 5     | 1500            | 3250     | 12           | Strong retention phase       | ✅ Safe |
+| 6     | 2500            | 5750     | 15           | Mid-level grind begins       | ✅ Safe |
+| 7     | 4000            | 9750     | 18           | Loyal users only             | ✅ Safe |
+| 8     | 6500            | 16250    | 22           | High engagement users        | ✅ Safe |
+| 9     | 10000           | 26250    | 30           | Power users                  | ✅ Safe |
+| 10    | 15000           | 41250    | 40           | VIP entry point              | ✅ Safe |
+
+
+
+💰 COIN ECONOMY (WITH DETAILS)
+
+
+| Source            | Coins | Details                            | Notes                                 |
+| ----------------- | ----- | ---------------------------------- | ------------------------------------- |
+| Basic actions     | 0–2   | Designed to be slow to avoid abuse | ✅ Safe                                |
+| Time spent        | 1–2   | Encourages long sessions           | ✅ Safe                                |
+| Affiliate actions | 5–10  | Main monetization driver           | ⚠️ Risky — track carefully            |
+| Missions          | 3–15  | Keeps users returning daily        | ✅ Safe                                |
+| Achievements      | 10–50 | Rare and valuable                  | ✅ Safe                                |
+| Leaderboards      | 20+   | Competitive rewards                | ✅ Safe                                |
+| Deposits          | 10–20 | Highest value action               | ⚠️ Risky — only verified transactions |
+
+
+🎯 MISSIONS (WITH DETAILS)
+
+
+| Mission                    | Requirement        | XP | Coins | Details                 | Notes                           |
+| -------------------------- | ------------------ | -- | ----- | ----------------------- | ------------------------------- |
+| Visit 5 casinos            | 5 pages            | 10 | 3     | Easy starter mission    | ✅ Safe                          |
+| Stay 10 minutes total      | session time       | 15 | 5     | Encourages retention    | ✅ Safe                          |
+| Click 3 bonuses            | bonus clicks       | 12 | 4     | Drives affiliate clicks | ⚠️ Risky — track & limit        |
+| Register 1 casino          | affiliate register | 25 | 10    | High value conversion   | ⚠️ Risky — ensure TOS compliant |
+| Deposit 1 time             | confirmed deposit  | 50 | 20    | Highest monetization    | ⚠️ Risky — verified only        |
+| Write 2 reviews            | content            | 20 | 6     | Builds SEO content      | ✅ Safe                          |
+| Daily activity (3 actions) | mixed              | 10 | 3     | Keeps daily engagement  | ✅ Safe                          |
+| Weekly engagement          | 20 actions         | 40 | 15    | Long-term retention     | ✅ Safe                          |
+
+
+
+🛡️ ANTI-ABUSE SYSTEM (WITH DETAILS)
+
+
+| Rule                      | Limit  | Details            | Notes                       |
+| ------------------------- | ------ | ------------------ | --------------------------- |
+| Max XP per day            | 150    | Prevents farming   | ✅ Safe                      |
+| Max coins per day         | 40     | Protects economy   | ✅ Safe                      |
+| Max affiliate rewards/day | 3      | Avoid fake traffic | ⚠️ Risky — track & throttle |
+| Max session rewards/hour  | 20     | Limits bots        | ✅ Safe                      |
+| Same IP multiple accounts | BLOCK  | Fraud prevention   | ✅ Safe                      |
+| Bot behavior              | NO XP  | Auto detection     | ✅ Safe                      |
+| Fake clicks               | IGNORE | No reward given    | ✅ Safe                      |
+
+
+
+🔥 RETENTION SYSTEM (WITH DETAILS)
+
+
+| Feature            | Effect          | Details                | Notes  |
+| ------------------ | --------------- | ---------------------- | ------ |
+| Slow XP growth     | Longer sessions | Users stay to level up | ✅ Safe |
+| Low coin rewards   | High value      | Prevents inflation     | ✅ Safe |
+| Daily streak       | Habit loop      | Users return daily     | ✅ Safe |
+| Missions reset     | Engagement      | New goals every day    | ✅ Safe |
+| Weekly leaderboard | Competition     | Users compete          | ✅ Safe |
+| Cooldowns          | Anti-spam       | Forces real usage      | ✅ Safe |
+| Limited rewards    | FOMO            | Increases desire       | ✅ Safe |
+
+🔴 HIGH-RISK / UNSAFE REWARDS — Can Trigger Bans
+
+
+| Action                            | XP | Coins | Notes                               |
+| --------------------------------- | -- | ----- | ----------------------------------- |
+| Clicking Google Ads               | 0  | 0     | ❌ Never reward users for ads        |
+| Clicking affiliate links directly | 0  | 0     | ❌ Avoid monetized clicks for reward |
+| Forced popups / redirects         | 0  | 0     | ❌ Leads to policy violations        |
+| Auto-click scripts / bots         | 0  | 0     | ❌ Detect and block immediately      |
+| Incentivized surveys / CPA offers | 50 | 0     | ⚠️ Risky, only if TOS compliant     |
+
+
+
+
+🧠 USER PROFILE COMPLETION REWARD SYSTEM (FULL TABLE)
+
+
+| Section          | Field                  | XP | Coins | Completion % | Cooldown  | Limit | Anti-Abuse Rule      | Details                                       |
+| ---------------- | ---------------------- | -- | ----- | ------------ | --------- | ----- | -------------------- | --------------------------------------------- |
+| Basic Info       | Add Name               | 5  | 1     | 5%           | one-time  | 1     | Must not be empty    | Add your name to personalize your profile     |
+| Basic Info       | Add Email              | 5  | 1     | 5%           | one-time  | 1     | Verified email only  | Verified email improves account security      |
+| Basic Info       | Select Gender          | 3  | 1     | 3%           | one-time  | 1     | Optional but tracked | Helps personalize your experience             |
+| Basic Info       | Add Birthdate          | 5  | 1     | 5%           | one-time  | 1     | Must be valid date   | Used for age verification and personalization |
+| Location         | Select Country         | 5  | 1     | 5%           | one-time  | 1     | Valid country only   | Improves geo-targeted rewards                 |
+| Language         | Select Language        | 3  | 1     | 3%           | one-time  | 1     | Enum validation      | Helps display content in your language        |
+| Profile Media    | Upload Profile Picture | 10 | 2     | 8%           | one-time  | 1     | Real image required  | Profiles with images get more engagement      |
+| Profile Media    | Upload Banner Image    | 8  | 2     | 5%           | one-time  | 1     | Optional             | Customize your profile look                   |
+| Security         | Set Password           | 5  | 1     | 5%           | one-time  | 1     | Hashed password only | Secure your account                           |
+| Security         | Enable 2FA             | 10 | 3     | 5%           | one-time  | 1     | Verified device      | Adds extra security layer                     |
+| Gambling Profile | First Gambling Year    | 5  | 1     | 5%           | one-time  | 1     | Valid range          | Helps us personalize recommendations          |
+| Gambling Profile | Biggest Win            | 8  | 2     | 5%           | one-time  | 1     | Numeric validation   | Helps estimate player level                   |
+| Gambling Profile | Preferred Casino Type  | 5  | 1     | 5%           | one-time  | 1     | Enum only            | Online or Land-based preference               |
+| Gambling Profile | Favorite Game Type     | 5  | 1     | 5%           | one-time  | 1     | Enum validation      | Used for AI recommendations                   |
+| Opinion          | What you like (text)   | 10 | 2     | 5%           | 1 per day | 1     | Min 50 chars         | Share your experience with the platform       |
+| Tips             | Gambling Tip           | 10 | 3     | 5%           | 1 per day | 1     | Min 50 chars         | Each useful tip earns XP & Coins              |
+| Lifestyle        | Favorite Meal          | 5  | 1     | 3%           | 1 per day | 1     | Optional             | Adds personality to profile                   |
+| Lifestyle        | Favorite Movie/Show    | 5  | 1     | 3%           | 1 per day | 1     | Optional             | Helps community interaction                   |
+| Lifestyle        | Favorite Music         | 5  | 1     | 3%           | 1 per day | 1     | Optional             | Personalization                               |
+| Fun Content      | Best Joke              | 5  | 1     | 3%           | 1 per day | 1     | Anti-spam            | Increases community engagement                |
+| Lifestyle        | Favorite Season        | 3  | 1     | 2%           | one-time  | 1     | Optional             | Adds small personalization                    |
+| Social           | Add Facebook           | 5  | 1     | 3%           | one-time  | 1     | Valid link           | Builds trust                                  |
+| Social           | Add Twitter            | 5  | 1     | 3%           | one-time  | 1     | Valid link           | Social proof                                  |
+| Social           | Add Instagram          | 5  | 1     | 3%           | one-time  | 1     | Valid link           | Engagement boost                              |
+| Privacy          | Enable Public Winnings | 8  | 2     | 4%           | one-time  | 1     | User consent         | Share your wins with the community            |
+
+
+
+🎁 FULL PROFILE COMPLETION BONUS
+
+| Action                 | XP | Coins | Requirement         | Anti-Abuse Rule        | Details                                                 |
+| ---------------------- | -- | ----- | ------------------- | ---------------------- | ------------------------------------------------------- |
+| 50% Profile Completed  | 20 | 5     | Half fields filled  | One-time               | Complete half your profile to unlock bonus              |
+| 80% Profile Completed  | 40 | 10    | Most fields filled  | One-time               | High-quality profile users get more exposure            |
+| 100% Profile Completed | 80 | 20    | All required fields | Manual + AI validation | Complete your Public Profile Page and get a big reward! |
+
+
+
+🧠 SMART DETAILS (UI STYLE LIKE CHIPY)
+
+| Trigger           | Message                                               |
+| ----------------- | ----------------------------------------------------- |
+| Profile start     | Complete your Public Profile Page and earn rewards 🎁 |
+| After first field | Great start! Keep going to unlock bigger rewards 🚀   |
+| 50% progress      | You're halfway there — bigger rewards coming 💰       |
+| 80% progress      | Almost done! Final rewards unlocked soon 🔥           |
+| 100% completion   | Profile completed! You earned a full reward bonus 🎉  |
+
+****note   GENERATE ALL MESSAGE BASED ON MY SYSTEMS 
+
+
+
+
+
+
+🛡️ SAFE FOR ADS + AFFILIATE (IMPORTANT)
+
+| Rule                       | Status |
+| -------------------------- | ------ |
+| No forced affiliate clicks | ✅ SAFE |
+| No fake engagement farming | ✅ SAFE |
+| Real user actions only     | ✅ SAFE |
+| No misleading incentives   | ✅ SAFE |
+| Profile-based rewards      | ✅ SAFE |
+
+
+🔥 WHY THIS IS POWERFUL
+
+
+| Effect                   | Result                         |
+| ------------------------ | ------------------------------ |
+| Users spend time filling | ⏱️ More session duration       |
+| Personalization          | 🤖 Better AI recommendations   |
+| Engagement               | 💬 More interaction            |
+| Trust                    | ⭐ Better affiliate conversions |
+| Retention                | 🔁 Users come back             |
+

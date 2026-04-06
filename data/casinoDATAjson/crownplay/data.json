@@ -1,0 +1,26 @@
+{
+  "name": "CrownPlay",
+  "slug": "crownplay",
+  "country": "Morocco",
+  "bonus": "100% up to €/$1000 + 200 Spins",
+  "rating": 2.9,
+  "revenueRank": 50,
+  "spins": 242,
+  "providers": [],
+  "likes": 63,
+  "comments": 15,
+  "operatingCountries": [
+    "Italy",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mummys-gold",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ],
+  "reviewCount": 5
+}

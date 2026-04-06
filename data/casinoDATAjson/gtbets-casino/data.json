@@ -1,0 +1,33 @@
+{
+  "name": "GTbets Casino",
+  "slug": "gtbets-casino",
+  "country": "Portugal",
+  "bonus": "First Deposit 150% up to $300 + 200 Free Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Real Time Gaming",
+    "Iron Dog Studio",
+    "Habanero Systems"
+  ],
+  "likes": 676,
+  "comments": 150,
+  "operatingCountries": [
+    "France",
+    "United States",
+    "United Kingdom",
+    "Germany",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gtbets-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "CryptoWins Online",
+  "slug": "cryptowins-online",
+  "country": "South Africa",
+  "bonus": "Deposit Bonus 200% up to $2000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Blueprint Gaming",
+    "Red Tiger",
+    "Microgaming",
+    "Playtech",
+    "Evolution Gaming",
+    "Spinlogic Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 1543,
+  "comments": 172,
+  "operatingCountries": [
+    "Spain",
+    "Belgium",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=125",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptowins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ]
+}

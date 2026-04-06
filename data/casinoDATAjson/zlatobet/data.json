@@ -1,0 +1,28 @@
+{
+  "name": "Zlatobet",
+  "slug": "zlatobet",
+  "country": "Morocco",
+  "bonus": "100% up to $5000 + 20 Spins",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 429,
+  "providers": [],
+  "likes": 1765,
+  "comments": 263,
+  "operatingCountries": [
+    "Switzerland",
+    "Ireland",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betneptune-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190"
+  ],
+  "reviewCount": 5
+}

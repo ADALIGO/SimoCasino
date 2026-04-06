@@ -1,0 +1,29 @@
+{
+  "name": "All Slots Online",
+  "slug": "all-slots-online",
+  "country": "Norway",
+  "bonus": "First Deposit 200% up to $2000 + 300 Free Spins",
+  "rating": 4.9,
+  "revenueRank": 16,
+  "spins": 390,
+  "providers": [
+    "Saucify"
+  ],
+  "likes": 735,
+  "comments": 117,
+  "operatingCountries": [
+    "Spain",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=all-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

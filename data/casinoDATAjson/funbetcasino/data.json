@@ -1,0 +1,27 @@
+{
+  "name": "FunBetCasino",
+  "slug": "funbetcasino",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500 + 200 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 46,
+  "providers": [],
+  "likes": 927,
+  "comments": 33,
+  "operatingCountries": [
+    "Finland",
+    "United States",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=patang",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112"
+  ],
+  "reviewCount": 5
+}

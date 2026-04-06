@@ -1,0 +1,35 @@
+{
+  "name": "Tip-top.bet Online",
+  "slug": "tip-topbet-online",
+  "country": "United Kingdom",
+  "bonus": "Welcome Bonus 200% up to $300",
+  "rating": 3.3,
+  "revenueRank": 56,
+  "spins": 363,
+  "providers": [
+    "Microgaming",
+    "Push Gaming",
+    "Quickspin",
+    "Real Time Gaming",
+    "Aristocrat"
+  ],
+  "likes": 761,
+  "comments": 250,
+  "operatingCountries": [
+    "United Kingdom",
+    "Australia",
+    "Ireland",
+    "Portugal",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tip-topbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85"
+  ]
+}

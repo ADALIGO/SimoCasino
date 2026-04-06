@@ -1,0 +1,33 @@
+{
+  "name": "FTVClub Online",
+  "slug": "ftvclub-online",
+  "country": "Morocco",
+  "bonus": "Welcome Bonus 50% up to $500",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 104,
+  "providers": [
+    "Arrows Edge",
+    "Amatic Industries",
+    "IGT",
+    "Thunderkick"
+  ],
+  "likes": 1835,
+  "comments": 311,
+  "operatingCountries": [
+    "Ireland",
+    "South Africa",
+    "Italy",
+    "France",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ftvclub-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Beef Online",
+  "slug": "beef-online",
+  "country": "France",
+  "bonus": "Reload Bonus 250% up to $50",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 402,
+  "providers": [
+    "Push Gaming",
+    "Yggdrasil",
+    "Relax Gaming",
+    "Playtech"
+  ],
+  "likes": 712,
+  "comments": 314,
+  "operatingCountries": [
+    "Ireland",
+    "Netherlands",
+    "Australia",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=beef-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

@@ -1,0 +1,1381 @@
+// THIS FILE IS GENERATED FROM prisma/partials/*.prisma
+// Edit the partial files in prisma/partials and rerun: node prisma/build-schema.mjs
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+/////////////////////
+// ENUMS
+
+/////////////////////
+// User Casino Interaction & Gamification
+enum UserInteractionType {
+  VISIT
+  BET
+  BONUS_CLAIM
+  GAME_PLAY
+  REVIEW
+  LIKE
+  COMMENT
+  SHARE
+  REFERRAL_CLICK
+  LOGIN
+  LOGOUT
+  OTHER
+}
+
+// Complaint / Support
+enum ComplaintType {
+  PAYOUT_ISSUE
+  BONUS_ISSUE
+  TECHNICAL_ISSUE
+  ACCOUNT_ISSUE
+  REVIEW_DISPUTE
+  OTHER
+}
+
+enum ComplaintPriority {
+  LOW
+  MEDIUM
+  HIGH
+  URGENT
+}
+
+enum ComplaintStatus {
+  PENDING
+  IN_PROGRESS
+  RESOLVED
+  REJECTED
+  ESCALATED
+}
+
+// Article / Content
+enum ArticleCategory {
+  GUIDE
+  REVIEW
+  NEWS
+  BONUS
+  STRATEGY
+  TUTORIAL
+  INTERVIEW
+  FEATURE
+}
+
+enum ArticleSubCategory {
+  CASINO
+  SLOT
+  TABLE_GAME
+  LIVE_CASINO
+  SPORTSBOOK
+  CRYPTO
+  VIP
+  OTHER
+}
+
+// Campaign / Marketing
+enum CampaignType {
+  EMAIL
+  PUSH_NOTIFICATION
+  SOCIAL_MEDIA
+  AFFILIATE
+  ADVERTISING
+  BONUS_PROMOTION
+  SEASONAL
+}
+
+// AI / Prediction
+enum AiPredictionType {
+  ENGAGEMENT
+  CHURN
+  LTV
+  BONUS_EFFECTIVENESS
+  CONTENT_PREFERENCE
+}
+
+// Gamification / Reward Types
+enum RewardType {
+  XP
+  COINS
+  BADGE
+  LEVEL_UP
+  VIP_POINTS
+  LOYALTY_POINTS
+  STREAK_BONUS
+  MILESTONE_BONUS
+}
+
+// Misc / Status
+enum ResolutionStatus {
+  PENDING
+  REVIEWED
+  ACTIONED
+  REJECTED
+  CLOSED
+}
+
+enum EngagementLevel {
+  LOW
+  MEDIUM
+  HIGH
+  VERY_HIGH
+}
+
+enum ArticlePriority {
+  LOW
+  MEDIUM
+  HIGH
+}
+enum UserTier {
+  FREE
+  PREMIUM
+  VIP
+  ELITE
+  LEGEND
+}
+
+enum VerificationStatus {
+  UNVERIFIED
+  PENDING
+  VERIFIED
+  REJECTED
+}
+
+enum BonusType {
+  NO_DEPOSIT
+  WELCOME
+  DEPOSIT
+  FREE_SPINS
+  CASHBACK
+  DAILY
+  SEASONAL
+  VIP
+}
+
+enum GameType {
+  SLOT
+  TABLE
+  LIVE
+  VIDEO_POKER
+  SCRATCH
+  JACKPOT
+  BONUS
+}
+
+enum DeviceType {
+  DESKTOP
+  MOBILE
+  TABLET
+  BOT
+}
+
+enum Currency {
+  USD
+  EUR
+  GBP
+  CAD
+  BTC
+  ETH
+  USDT
+  ADA
+}
+
+enum ComplaintResolutionStatus {
+  OPEN
+  RESOLVED
+  REJECTED
+}
+
+/////////////////////
+// USER
+
+/////////////////////
+
+model User {
+  id                     String   @id @default(auto()) @map("_id") @db.ObjectId
+  email                  String   @unique
+  phone                  String?
+  username               String?
+  password               String?
+  firstName              String?
+  lastName               String?
+  profileImage           String?
+  bannerImage            String?
+  profileVideo           String?
+  imageGallery           String[] @default([])
+  bio                    String?
+  personalQuote          String?
+  signature              String?
+  showFlagNextToUsername Boolean  @default(false)
+  hideGender             Boolean  @default(false)
+  preferredCasinoType    String?
+  favoriteGameType       String?
+  firstGambleYear        String?
+  biggestWin             String?
+  favoriteMeal           String?
+  favoriteMovie          String?
+  favoriteMusicGenre     String?
+  favoriteSeason         String?
+  facebookProfile        String?
+  twitterProfile         String?
+  instagramProfile       String?
+  location               String?
+  gender                 String?
+  dateOfBirth            DateTime?
+
+  // OAuth
+  githubId               String?
+  googleId               String?
+  appleId                String?
+  facebookId             String?
+  twitterId              String?
+
+  // Tier & Verification
+  userTier               UserTier @default(FREE)
+  verificationStatus     VerificationStatus @default(UNVERIFIED)
+  verifiedAt             DateTime?
+
+  // Account Status
+  isBanned               Boolean  @default(false)
+  bannedReason           String?
+  bannedAt               DateTime?
+  bannedUntil            DateTime?
+
+  // GEO & DEVICE
+  lastIp                 String?
+  lastCountry            String?
+  city                   String?
+  region                 String?
+  timezone               String?
+  userAgent              String?
+  deviceFingerprint      String?
+  browser                String?
+  os                     String?
+  deviceType             DeviceType?
+
+  // Network / ISP
+  isp                    String?
+  organization           String?
+  isProxy                Boolean  @default(false)
+  isVPN                  Boolean  @default(false)
+  isDatacenter           Boolean  @default(false)
+
+  // Risk & Fraud
+  riskScore              Float    @default(0)
+  isSuspicious           Boolean  @default(false)
+  isBot                  Boolean  @default(false)
+  fraudFlags             String[]
+
+  // Activity Tracking
+  totalClicks            Int      @default(0)
+  dailyClicks            Int      @default(0)
+  weeklyClicks           Int      @default(0)
+  monthlyClicks          Int      @default(0)
+  lastClickAt            DateTime?
+  sessionCount           Int      @default(0)
+  avgSessionDuration     Int?     // seconds
+  pagesVisited           Int      @default(0)
+  scrollDepth            Int?     // %
+  lastScrollAt           DateTime?
+  activeTimeThisSession  Int?     // seconds
+
+  // Gamification
+  totalPoints            Int      @default(0)
+  coins                  Int      @default(0)
+  currentLevel           Int      @default(1)
+  levelProgress          Int      @default(0)
+  xpToNextLevel          Int      @default(100)
+  streakDays             Int      @default(0)
+  lastActiveAt           DateTime?
+  achievements           String[]
+  unlockedFeatures       String[]
+
+  // Missions / Rewards
+  completedMissions      Int      @default(0)
+  dailyRewardsClaimed    Int      @default(0)
+  weeklyRewardsClaimed   Int      @default(0)
+  rewardActionsCompleted String[] @default([])
+  lastRewardAt           DateTime?
+  dailyLoginStreak       Int      @default(0)
+  vipPoints              Int      @default(0)
+
+  // Monetization
+  totalEarnings          Float    @default(0)
+  pendingEarnings        Float    @default(0)
+  withdrawnEarnings      Float    @default(0)
+  affiliateClicks        Int      @default(0)
+  conversionCount        Int      @default(0)
+  lastPayoutDate         DateTime?
+
+  // Engagement
+  pageViews              Int      @default(0)
+  avgClicksPerSession    Float    @default(0)
+  bounceRate             Float    @default(0)
+  timeOnPage             Int?     // seconds
+  newsletterSubscribed   Boolean  @default(false)
+
+  // Referral System
+  referralCode           String?
+  referredBy             String?
+  referralsCount         Int      @default(0)
+  articles               Article[]
+  referralEarnings       Float    @default(0)
+
+  // Notifications
+  notificationsEnabled   Boolean  @default(true)
+  emailNotifications     Boolean  @default(true)
+  pushNotifications      Boolean  @default(true)
+  smsNotifications       Boolean  @default(true)
+
+  // AI & Recommendations
+  aiScore                Float?   // platform AI recommendation score
+  recommendedSegments    String[] // beginner, high-roller, VIP
+  suggestedCasinos       String[] // recommended casino IDs
+  preferredGameTypes     GameType[]
+  engagementScore        Float?
+  retentionScore         Float?
+
+  // Content / Social
+  likedArticles          String[] 
+  savedArticles          String[]
+  commentsMade           Int?
+  upvotesGiven           Int?
+  downvotesGiven         Int?
+  socialShares           Int?
+  chatMessagesSent       Int?
+
+  // Security / Verification
+  twoFactorEnabled       Boolean  @default(false)
+  recoveryEmail          String?
+  recoveryPhone          String?
+  loginAttempts          Int      @default(0)
+  lastFailedLogin        DateTime?
+  accountActivityLogs    Json?
+
+  // Advanced Analytics
+  deviceCount            Int?
+  browserCount           Int?
+  operatingSystemCount   Int?
+  geoDiversityScore      Float?
+  sessionConsistency     Float?
+  timeOfDayActivity      Json?
+  weekdayActivity        Json?
+
+  // Betting / Casino Interaction
+  likedCasinoIds         String[]
+  followedCasinoIds      String[]
+  visitedCasinoIds       String[]
+  favoriteCasinoId       String?
+  lastVisitedCasinoId    String?
+  casinoPlayTime         Float?
+  casinoBetHistory       String[]
+  casinoWinLossHistory   String[]
+  casinoSessionCount     Int?
+  casinoDepositHistory   String[]
+
+  // Bonus / Rewards Interactions
+  claimedBonusIds        String[]
+  usedBonusIds           String[]
+  bonusClicks            Int      @default(0)
+  lastBonusClaimAt       DateTime?
+  bonusRedemptionScore   Float?
+
+  // VIP / Loyalty
+  vipLevel               Int?
+  vipStatus              String?
+  vipExpiration          DateTime?
+  vipRewardsEarned       String[]
+  loyaltyTierPoints      Int?
+  lifetimeRewards        String[]
+  vipInteractionScore    Float?
+
+  // Timestamps
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+  lastLoginAt            DateTime?
+  lastDailyLoginAt       DateTime?
+
+  // Relations
+  reviews                Review[]
+  bonusesClaimed         UserBonus[]
+  friends                String[]
+  messages               String[]
+  interactions           UserCasinoInteraction[]
+  complaints             Complaint[]
+}
+
+/////////////////////
+// CASINO
+
+/////////////////////
+
+model Casino {
+  id                     String   @id @default(auto()) @map("_id") @db.ObjectId
+  name                   String
+  slug                   String   @unique
+  country                String
+  description            String?
+  bonus                  String
+  rating                 Float    @default(0)
+  revenueRank            Int?
+  spins                  Int?     @default(0)
+  providers              String[]
+  likes                  Int?     @default(0)
+  comments               Int?     @default(0)
+  operatingCountries     String[]
+  languages              String[]
+  license                String?
+  appAvailable           Boolean  @default(false)
+  minDeposit             Float?
+  minWithdrawal          Float?
+  withdrawalLimit        Float?
+  withdrawalTime         String?
+  currencies             Currency[]
+  vipLevels              Int?
+  vipRewards             String[]
+  liveCasinoAvailable    Boolean  @default(false)
+  supportEmail           String?
+  supportPhone           String?
+  avatarUrl              String?
+  imageUrl               String?
+  imageGallery           String[]
+  affiliateLink          String?
+  isAffiliate            Boolean  @default(false)
+  isPremium              Boolean  @default(false)
+  isExclusive            Boolean  @default(false)
+  displayPriority        Int?
+  jackpotAmount          Float?
+  isFeatured             Boolean  @default(false)
+  isNew                  Boolean  @default(false)
+  totalPlayers           Int?     @default(0)
+  monthlyActivePlayers   Int?     @default(0)
+  cryptoSupport          Boolean  @default(false)
+  popularGames           String[]
+  tournamentsActive      Boolean  @default(false)
+  leaderboardEnabled     Boolean  @default(false)
+  analyticsTracking      Boolean  @default(true)
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+
+  // Relations
+  games                  Game[]
+  bonuses                Bonus[]
+  reviews                Review[]
+  userCasinoInteractions UserCasinoInteraction[]
+  complaints             Complaint[]
+  fraudDetection         FraudDetection?
+
+  // Marketing & SEO
+  metaTitle              String?
+  metaDescription        String?
+  metaKeywords           String[]
+  seoScore               Float?
+  organicTrafficScore    Float?
+  paidAdsScore           Float?
+  affiliatePerformance   Json?
+  socialMediaLinks       String[]
+  socialFollowers        Int?
+  promotionsActive       Boolean  @default(false)
+
+  // Engagement & Player Metrics
+  dailyActivePlayers     Int?
+  weeklyActivePlayers    Int?
+  retentionRate          Float?
+  churnRate              Float?
+  avgSessionDuration     Int?     // seconds
+  avgBetPerUser          Float?
+  avgWinPerUser          Float?
+  maxBetPlaced           Float?
+  maxWin                 Float?
+  jackpotHistory         String[]
+  bonusRedemptionRate    Float?
+  favoriteGamesIds       String[]
+  topPlayersIds          String[]
+
+  // Gamification & Tournaments
+  totalTournaments       Int?
+  tournamentWinners      String[]
+  topLeaderboardPlayers  String[]
+  specialEventsActive    Boolean?
+  seasonalRewards        String[]
+  vipTournamentEligible  Boolean?
+  tournamentPrizePool    Float?
+
+  // Payments / Transactions
+  totalDeposits          Float?
+  totalWithdrawals       Float?
+  avgDepositAmount       Float?
+  avgWithdrawalAmount    Float?
+  paymentMethods         String[]
+  cryptoTransactions     Int?
+  fiatTransactions       Int?
+  pendingWithdrawals     Float?
+
+  // Fraud & Security
+  suspiciousAccounts     String[]
+  chargebacks            Float?
+  blockedIPs             String[]
+  fraudScore             Float?
+  accountFlags           String[]
+  antiMoneyLaunderingScore Float?
+  maxBetsPerUser         Int?
+  maxWinsPerUser         Float?
+
+  // VIP & Loyalty
+  totalVIPPlayers        Int?
+  vipRetentionRate       Float?
+  vipRewardsClaimed      String[]
+  lifetimeVIPRevenue     Float?
+  vipEngagementScore     Float?
+
+  // Device & Mobile Tracking
+  mobileUsers            Int?
+  desktopUsers           Int?
+  tabletUsers            Int?
+  deviceDiversityScore   Float?
+  appDownloads           Int?
+  appRetentionRate       Float?
+
+  // AI & Recommendation
+  aiScore                Float?
+  aiRecommendedGames     String[]
+  predictedChurnScore    Float?
+  playerSegmentation     String[]
+  engagementPrediction   Float?
+
+  // Social / Content
+  userGeneratedContent   String[]
+  forumThreads           String[]
+  reviewsCount           Int?
+  topReviewers           String[]
+  socialShares           Int?
+  communityEngagement    Float?
+
+  // Misc Metrics
+  complaintsCount        Int?
+  supportTicketsOpen     Int?
+  supportTicketsResolved Int?
+  averageResponseTime    Int? // seconds
+  awards                 String[]
+  certifications         String[]
+  industryRank           Int?
+}
+
+/////////////////////
+// GAME
+
+/////////////////////
+
+model Game {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String
+  name                   String
+  type                   GameType
+  provider               String
+  rating                 Float?
+  volatility             String?  // Low, Medium, High
+  hitFrequency           Float?  // %
+  jackpot                Float?
+  RTP                    Float?  // Return to player
+  maxBet                 Float?
+  minBet                 Float?
+  isFeatured             Boolean  @default(false)
+  isPopular              Boolean  @default(false)
+  tournamentsEnabled     Boolean  @default(false)
+  specialFeatures        String[]
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+
+  // Player Metrics
+  totalPlays             Int?     // total spins or sessions
+  dailyPlays             Int?
+  weeklyPlays            Int?
+  monthlyPlays           Int?
+  uniquePlayers          Int?
+  avgSessionDuration     Int?     // seconds
+  maxSessionDuration     Int?     // seconds
+  avgBetAmount           Float?
+  maxBetPlaced           Float?
+  minBetPlaced           Float?
+  totalWins              Float?
+  avgWinAmount           Float?
+  maxWinAmount           Float?
+  payoutFrequency        Float?   // % of sessions with win
+  lossRate               Float?   // % of sessions lost
+  houseEdge              Float?
+
+  // Engagement Metrics
+  playerRetentionRate    Float?
+  churnRate              Float?
+  repeatPlayers          Int?
+  favoriteCount          Int?
+  likeCount              Int?
+  dislikeCount           Int?
+  commentCount           Int?
+  shareCount             Int?
+  leaderboardPoints      Float?
+  tournamentPoints       Float?
+  completionRate         Float?   // % of rounds completed
+  dropOffRate            Float?   // % quit before session end
+
+  // Gamification / Tournaments
+  totalTournamentsPlayed Int?
+  tournamentWins         Int?
+  highScore              Float?
+  achievementsUnlocked   String[]
+  specialEventBonuses    String[]
+  dailyChallengesActive  Boolean?
+  weeklyChallengesActive Boolean?
+  seasonalChallengesActive Boolean?
+  bonusMultiplierActive  Boolean?
+  tournamentEligible     Boolean?
+
+  // AI & Recommendations
+  aiScore                Float?   // recommended for players
+  predictedPopularity    Float?
+  playerSegmentation     String[]
+  recommendedForTier     UserTier?
+  predictedChurnScore    Float?
+  engagementPrediction   Float?
+
+  // SEO / Marketing
+  seoTitle               String?
+  seoDescription         String?
+  seoKeywords            String[]
+  marketingScore         Float?
+  featuredInCampaign     Boolean?
+
+  // Device / Platform
+  mobileUsers            Int?
+  desktopUsers           Int?
+  tabletUsers            Int?
+  platformDiversityScore Float?
+  browserStats           Json?
+  osStats                Json?
+
+  // Fraud / Security
+  suspiciousActivityScore Float?
+  maxBetsPerPlayer       Int?
+  maxWinsPerPlayer       Float?
+  blockedPlayers         String[]
+  flaggedAccounts        String[]
+
+  // Misc Metrics
+  ratingsCount           Int?
+  reviewScore            Float?
+  complaintsCount        Int?
+  avgTimeToFirstWin      Int?     // seconds
+  engagementScore        Float?
+  payoutHistory          String[]
+  topPlayersIds          String[]
+  playerFeedback         Json?
+}
+
+/////////////////////
+// BONUS
+
+/////////////////////
+
+model Bonus {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String
+  type                   BonusType
+  title                  String
+  description            String?
+  amount                 String
+  code                   String?
+  wagering               String?
+  expiry                 DateTime?
+  eligibleGames          String[]
+  maxCashout             Float?
+  minDeposit             Float?
+  vipOnly                Boolean  @default(false)
+  dailyLimit             Int?
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @default(now())
+
+  // Relations
+  userBonuses            UserBonus[]
+
+  // Player Metrics
+  totalClaims            Int?
+  dailyClaims            Int?
+  weeklyClaims           Int?
+  monthlyClaims          Int?
+  uniqueClaimers         Int?
+  avgRedemptionTime      Int?     // seconds
+  maxRedemptionAmount    Float?
+  minRedemptionAmount    Float?
+  claimedByVIPs          Int?
+  claimedByNewUsers      Int?
+  claimedByReturningUsers Int?
+  totalWageredAmount     Float?
+  avgWageredAmount       Float?
+  totalWinsGenerated     Float?
+  avgWinPerClaim         Float?
+
+  // Engagement & Interaction
+  likes                  Int?
+  dislikes               Int?
+  shares                 Int?
+  comments               Int?
+  socialEngagementScore  Float?
+  emailClicks            Int?
+  pushClicks             Int?
+  inAppClicks            Int?
+  clickThroughRate       Float?
+
+  // Gamification / VIP / Loyalty
+  vipPointsEarned        Int?
+  loyaltyPointsEarned    Int?
+  streakBonus            Boolean?
+  milestoneBonus         Boolean?
+  specialEventBonus      Boolean?
+  tournamentBonus        Boolean?
+  bonusLevelRequired     Int?
+  bonusTier              UserTier?
+  achievementsUnlocked   String[]
+  leaderboardPoints      Float?
+
+  // Fraud / Security
+  suspiciousClaims       Int?
+  blockedUsers           String[]
+  flaggedUsers           String[]
+  bonusAbuseScore        Float?
+  maxClaimsPerUser       Int?
+  maxBonusAmountPerUser  Float?
+  autoFlagSuspicious     Boolean?
+
+  // Marketing / SEO / Campaigns
+  metaTitle              String?
+  metaDescription        String?
+  metaKeywords           String[]
+  campaignId             String?
+  campaignActive         Boolean?
+  campaignStartDate      DateTime?
+  campaignEndDate        DateTime?
+  targetRegions          String[]
+  targetLanguages        String[]
+  targetDeviceTypes      DeviceType[]
+  marketingScore         Float?
+
+  // AI & Recommendation
+  aiScore                Float?
+  recommendedForTier     UserTier?
+  predictedEngagement    Float?
+  predictedRedemptionRate Float?
+  engagementPrediction   Float?
+  suggestedGames         String[]
+  recommendedUsers       String[]
+  
+  // Misc / Reporting
+  notes                  String?
+  adminComments          String[]
+  history                Json?
+  totalPlayersImpacted   Int?
+  totalRevenueImpact     Float?
+}
+
+/////////////////////
+// REVIEW
+
+/////////////////////
+
+model Review {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String
+  user                   User?     @relation(fields: [userId], references: [id])
+  userId                 String?
+  rating                 Float
+  title                  String?
+  comment                String
+  likes                  Int       @default(0)
+  dislikes               Int       @default(0)
+  device                 String?
+  ip                     String?
+  geoLocation            String?
+  verifiedPurchase       Boolean  @default(false)
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @default(now())
+
+  // Engagement & Interaction
+  commentsCount          Int?
+  repliesCount           Int?
+  shares                 Int?
+  flags                  Int?
+  helpfulVotes           Int?
+  unhelpfulVotes         Int?
+  engagementScore        Float?
+  socialShares           Int?
+  reviewViews            Int?
+  clickThroughs          Int?
+
+  // Player / User Context
+  userTier               UserTier?
+  totalCasinoSessions    Int?
+  totalCasinoBets        Float?
+  avgBetSize             Float?
+  totalWins              Float?
+  totalLosses            Float?
+  favoriteGameIds        String[]
+  recentGameIds          String[]
+  loyaltyPointsEarned    Int?
+  vipLevel               Int?
+
+  // Sentiment / NLP Analysis
+  sentimentScore         Float?   // -1 to +1
+  toneAnalysis           String?  // positive, negative, neutral
+  flaggedKeywords        String[]
+  offensiveScore         Float?
+  helpfulnessScore       Float?
+
+  // Fraud / Moderation
+  suspiciousFlag         Boolean?
+  autoModerationAction   String?  // removed, hidden, reviewed
+  flaggedByUsers         String[]
+  duplicateDetectionScore Float?
+  ipReputationScore      Float?
+  deviceReputationScore  Float?
+  fraudScore             Float?
+
+  // SEO / Marketing
+  metaTitle              String?
+  metaDescription        String?
+  metaKeywords           String[]
+  reviewSlug             String?
+  indexed                Boolean?
+  seoScore               Float?
+
+  // AI / Recommendation
+  aiScore                Float?   // recommended to show on front page
+  predictedEngagement    Float?
+  recommendedUsers       String[]
+  similarReviews         String[]
+  reviewCategory         String?  // gameplay, bonuses, support, payout
+  aiGeneratedSummary     String?
+
+  // Timestamps & Analytics
+  firstViewedAt          DateTime?
+  lastViewedAt           DateTime?
+  totalViews             Int?
+  timeSpentViewing       Int?     // seconds
+  interactionHistory     Json?
+  updateCount            Int?
+
+  // Misc / Admin
+  adminNotes             String[]
+  moderationStatus       String?  // pending, approved, rejected
+  resolvedAt             DateTime?
+  resolutionComments     String[]
+  reportedByUsers        String[]
+}
+
+/////////////////////
+// USER BONUS
+
+/////////////////////
+
+model UserBonus {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  user                   User      @relation(fields: [userId], references: [id])
+  userId                 String
+  bonus                  Bonus     @relation(fields: [bonusId], references: [id])
+  bonusId                String
+  claimedAt              DateTime  @default(now())
+  usedAt                 DateTime?
+  isExpired              Boolean   @default(false)
+  isVipBonus             Boolean   @default(false)
+
+  // Player / User Context
+  userTier               UserTier?
+  userVIPLevel           Int?
+  totalCasinoSessions    Int?
+  totalCasinoBets        Float?
+  avgBetSize             Float?
+  totalWins              Float?
+  totalLosses            Float?
+
+  // Bonus Usage Metrics
+  timesUsed              Int?
+  timesPartiallyUsed     Int?
+  totalWageredAmount     Float?
+  avgWageredAmount       Float?
+  totalWinsGenerated     Float?
+  avgWinPerBonus         Float?
+  maxWin                 Float?
+  minWin                 Float?
+  totalDepositsDuringBonus Float?
+  bonusEffectivenessScore Float?
+
+  // Engagement Metrics
+  likes                  Int?
+  dislikes               Int?
+  shares                 Int?
+  comments               Int?
+  socialEngagementScore  Float?
+  referralImpact         Float?
+  bonusClickThroughs     Int?
+  bonusRedemptionRate    Float?
+  favoriteGamesUsed      String[]
+  recommendedGamesUsed   String[]
+
+  // Gamification / Loyalty
+  streakBonusUsed        Boolean?
+  milestoneBonusUsed     Boolean?
+  achievementsUnlocked   String[]
+  leaderboardPoints      Float?
+  tournamentEligible     Boolean?
+  dailyBonusClaimStreak  Int?
+  weeklyBonusClaimStreak Int?
+  vipPointsEarned        Int?
+  loyaltyPointsEarned    Int?
+
+  // Fraud / Security
+  suspiciousUsage        Boolean?
+  flaggedForReview       Boolean?
+  duplicateClaimsScore   Float?
+  ipReputationScore      Float?
+  deviceReputationScore  Float?
+  autoFlagSuspicious     Boolean?
+
+  // Marketing / Campaign
+  campaignId             String?
+  campaignName           String?
+  campaignStartDate      DateTime?
+  campaignEndDate        DateTime?
+  campaignRegionTarget   String[]
+  campaignDeviceTarget   DeviceType[]
+  campaignLanguageTarget String[]
+  marketingScore         Float?
+  emailClickThroughs     Int?
+  pushClickThroughs      Int?
+
+  // AI & Recommendation
+  aiScore                Float?   // predicted engagement
+  predictedRedemption    Float?
+  predictedChurnScore    Float?
+  recommendedForTier     UserTier?
+  suggestedGames         String[]
+  suggestedCasinos       String[]
+
+  // Admin / Misc
+  adminNotes             String[]
+  history                Json?
+  lastUpdatedAt          DateTime?
+  resolvedFlagAt         DateTime?
+  resolutionComments     String[]
+}
+
+/////////////////////
+// FRAUD DETECTION
+
+/////////////////////
+
+model FraudDetection {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String    @unique
+
+  // Basic Checks
+  multiAccountCheck      Boolean   @default(true)
+  multiDeviceCheck       Boolean   @default(true)
+  multiIPCheck           Boolean   @default(true)
+  maxLikesPerUser        Int       @default(10)
+  maxCommentsPerUser     Int       @default(5)
+  autoFlagSuspicious     Boolean   @default(true)
+  highRiskCountries      String[]
+  suspiciousKeywords     String[]
+
+  // Player Behavior Analytics
+  unusualBetPatterns     Boolean?
+  rapidBettingDetection  Boolean?
+  maxBetsPerHour         Int?
+  maxWinsPerDay          Float?
+  avgLossPerDay          Float?
+  avgBetPerSession       Float?
+  maxSessionsPerDay      Int?
+  highRiskPlayers        String[]
+  suspiciousPlayerCount  Int?
+  bonusAbuseDetected     Boolean?
+
+  // Bonus / Promotion Abuse
+  maxBonusClaimsPerUser  Int?
+  maxVIPBonusClaims      Int?
+  streakBonusAbuse       Boolean?
+  milestoneBonusAbuse    Boolean?
+  duplicateClaimDetection Boolean?
+  bonusRedemptionAnomaly Boolean?
+
+  // Review / Feedback Abuse
+  fakeReviewDetection    Boolean?
+  reviewSpamScore        Float?
+  maxReviewsPerUser      Int?
+  reviewLikeSpamDetected Boolean?
+  reviewDislikeSpamDetected Boolean?
+
+  // Device / Network Checks
+  proxyDetected          Boolean?
+  vpnDetected            Boolean?
+  datacenterDetected     Boolean?
+  torNetworkDetected     Boolean?
+  suspiciousIPList       String[]
+  suspiciousDeviceIds    String[]
+  deviceFingerprintAnomaly Boolean?
+  unusualDeviceSwitching Boolean?
+
+  // Geolocation / Region Checks
+  highRiskRegions        String[]
+  regionMismatchDetected Boolean?
+  countryMismatchDetected Boolean?
+  cityMismatchDetected   Boolean?
+
+  // AI / Risk Scoring
+  riskScore              Float?   // 0-100
+  fraudProbabilityScore  Float?   // 0-1
+  predictedChurnRisk     Float?
+  predictedLifetimeValueImpact Float?
+  aiFraudScore           Float?
+
+  // Admin / Resolution
+  flaggedByAdmin         Boolean?
+  adminNotes             String[]
+  resolutionStatus       String?  // pending, reviewed, actioned
+  resolvedAt             DateTime?
+  resolutionComments     String[]
+  auditLogs              Json?
+  lastCheckedAt          DateTime?
+  checkFrequencyHours    Int?
+  alertsSent             Int?
+  autoBlockEnabled       Boolean?
+
+  // Misc / Analytics
+  totalFraudAlerts       Int?
+  totalPlayersFlagged    Int?
+  totalBetsFlagged       Int?
+  totalBonusAbuse        Int?
+  totalReviewsFlagged    Int?
+  reportingScore         Float?
+  monitoringActive       Boolean?
+  historicalTrends       Json?
+  flaggedEntities        String[]
+  notes                  String?
+  
+  // Timestamps
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @updatedAt
+}
+
+/////////////////////
+// USER-CASINO INTERACTION
+
+/////////////////////
+
+model UserCasinoInteraction {
+  id                        String    @id @default(auto()) @map("_id") @db.ObjectId
+  user                      User      @relation(fields: [userId], references: [id])
+  userId                    String
+  casino                    Casino    @relation(fields: [casinoId], references: [id])
+  casinoId                  String
+  gameId                    String?   // optional, if interaction is for a specific game
+  bonusId                   String?   // optional, if interaction involves a bonus
+
+  // Session & Time Tracking
+  sessionId                 String?
+  sessionStart              DateTime?
+  sessionEnd                DateTime?
+  sessionDurationSeconds    Int?
+  lastInteractionAt         DateTime?
+  totalTimeSpent            Float?    // total seconds spent
+  avgSessionDuration        Float?
+  totalSessions             Int?
+
+  // Betting / Game Metrics
+  totalBets                 Float?
+  avgBetAmount              Float?
+  maxBet                    Float?
+  minBet                    Float?
+  totalWins                 Float?
+  totalLosses               Float?
+  gamesPlayedCount          Int?
+  uniqueGamesPlayed         Int?
+  jackpotsWon               Float?
+  hitFrequency              Float?
+
+  // Bonus / Reward Usage
+  bonusesClaimed            Int?
+  bonusesUsed               Int?
+  bonusWinTotal             Float?
+  bonusEffectivenessScore   Float?
+  vipPointsEarned           Int?
+  loyaltyPointsEarned       Int?
+  streakBonusesUsed         Int?
+  milestoneBonusesUsed      Int?
+  tournamentBonusesUsed     Int?
+
+  // Engagement & Interaction
+  clicks                    Int?
+  pageViews                 Int?
+  scrollDepth               Float?
+  likes                     Int?
+  dislikes                  Int?
+  commentsCount             Int?
+  shares                    Int?
+  referralClicks            Int?
+  lastClickAt               DateTime?
+  dailyInteractionCount     Int?
+  weeklyInteractionCount    Int?
+  monthlyInteractionCount   Int?
+
+  // Device & Network
+  deviceType                DeviceType?
+  browser                   String?
+  os                        String?
+  ipAddress                 String?
+  country                   String?
+  region                    String?
+  city                      String?
+  proxyDetected             Boolean?
+  vpnDetected               Boolean?
+  datacenterDetected        Boolean?
+
+  // Gamification / Progress
+  levelAtInteraction        Int?
+  xpGained                  Int?
+  achievementsUnlocked      String[]
+  leaderboardPointsGained   Float?
+  streakDays                Int?
+  missionsCompleted         Int?
+  dailyRewardClaimed        Boolean?
+  weeklyRewardClaimed       Boolean?
+
+  // Fraud / Security
+  suspiciousBehaviorScore   Float?
+  flaggedForReview          Boolean?
+  duplicateInteractionScore Float?
+  abnormalBettingPattern    Boolean?
+  rapidClicksDetected       Boolean?
+
+  // Marketing / Campaign
+  campaignId                String?
+  campaignType              String?
+  campaignStartDate         DateTime?
+  campaignEndDate           DateTime?
+  campaignRegionTarget      String[]
+  campaignDeviceTarget      DeviceType[]
+  campaignLanguageTarget    String[]
+  engagementScore           Float?
+  predictedConversion       Float?
+
+  // AI / Recommendation
+  aiEngagementScore         Float?
+  predictedNextAction       String?
+  recommendedGames          String[]
+  recommendedBonuses        String[]
+  predictedChurnScore       Float?
+  predictedLifetimeValue    Float?
+
+  // Admin / Misc
+  adminNotes                String[]
+  history                   Json?
+  createdAt                 DateTime  @default(now())
+  updatedAt                 DateTime  @updatedAt
+}
+
+/////////////////////
+// COMPLAINT
+
+/////////////////////
+
+model Complaint {
+  id                        String    @id @default(auto()) @map("_id") @db.ObjectId
+  user                      User      @relation(fields: [userId], references: [id])
+  userId                    String
+  casino                    Casino?   @relation(fields: [casinoId], references: [id])
+  casinoId                  String?
+  gameId                    String?
+  bonusId                   String?
+  complaintType             String    // e.g., payout_issue, bonus_issue, technical_issue
+  title                     String
+  description               String
+  priority                  String?   // low, medium, high, urgent
+  status                    String?   // pending, in_progress, resolved, rejected
+  resolutionNotes           String[]
+  resolvedByAdminId         String?
+  resolvedAt                DateTime?
+  createdAt                 DateTime  @default(now())
+  updatedAt                 DateTime  @updatedAt
+
+  // User Context
+  userTier                  UserTier?
+  userVIPLevel              Int?
+  totalComplaintsSubmitted  Int?
+  totalComplaintsResolved   Int?
+  totalComplaintsRejected   Int?
+  totalCasinoSessions       Int?
+  totalCasinoBets           Float?
+  avgBetSize                Float?
+  totalWins                 Float?
+  totalLosses               Float?
+
+  // Interaction Tracking
+  messagesExchanged         Int?
+  attachmentsCount          Int?
+  lastUserMessageAt         DateTime?
+  lastAdminMessageAt        DateTime?
+  firstResponseTimeSeconds  Int?
+  totalTimeToResolveSeconds Int?
+  escalationLevel           Int?
+  assignedToAdminId         String?
+  slaExceeded               Boolean?
+
+  // Device & Network
+  deviceType                DeviceType?
+  browser                   String?
+  os                        String?
+  ipAddress                 String?
+  country                   String?
+  region                    String?
+  city                      String?
+  proxyDetected             Boolean?
+  vpnDetected               Boolean?
+  datacenterDetected        Boolean?
+
+  // Fraud / Abuse Detection
+  suspiciousFlag            Boolean?
+  duplicateComplaintScore   Float?
+  repeatedBehaviorScore     Float?
+  autoFlagSuspicious        Boolean?
+  fraudScore                Float?
+  flaggedByAdmin            Boolean?
+
+  // Engagement / Feedback
+  userSatisfactionScore     Float?   // 0-10
+  userRatingAfterResolution Float?   // 0-5
+  reviewLinked              String?  // link to Review id if applicable
+  followUpRequired          Boolean?
+  followUpScheduledAt       DateTime?
+
+  // AI / Automation
+  aiPriorityScore           Float?
+  predictedResolutionTime   Int?     // in hours
+  aiSuggestedResponse       String?
+  aiEscalationRecommendation String?
+  recommendedAdmin          String?
+  
+  // Analytics / Reporting
+  category                  String?  // technical, financial, bonus, account, other
+  subCategory               String?
+  sentimentScore            Float?
+  flaggedKeywords           String[]
+  historicalTrends          Json?
+  marketingImpactScore      Float?
+  predictedChurnImpact      Float?
+  
+  // Admin / Misc
+  adminNotes                String[]
+  history                   Json?
+  attachments               Json?
+  tags                      String[]
+  notificationsSent         Int?
+  remindersSent             Int?
+}
+
+/////////////////////
+// ARTICLES / CONTENT FOR SEO
+
+/////////////////////
+
+model Article {
+  id                        String    @id @default(auto()) @map("_id") @db.ObjectId
+  author                    User?     @relation(fields: [authorId], references: [id])
+  authorId                  String?
+  title                     String
+  slug                      String    @unique
+  summary                   String?
+  content                   String
+  category                  String?   // e.g., guide, review, news, bonus
+  subCategory               String?
+  tags                      String[]
+  coverImageUrl             String?
+  galleryImages             String[]
+  featured                  Boolean   @default(false)
+  isPublished               Boolean   @default(false)
+  publishedAt               DateTime?
+  createdAt                 DateTime  @default(now())
+  updatedAt                 DateTime  @updatedAt
+
+  // SEO / Marketing
+  metaTitle                 String?
+  metaDescription           String?
+  metaKeywords              String[]
+  canonicalUrl              String?
+  ogTitle                   String?
+  ogDescription             String?
+  ogImageUrl                String?
+  twitterCardType           String?
+  twitterTitle              String?
+  twitterDescription        String?
+  twitterImageUrl           String?
+
+  // Engagement Metrics
+  views                     Int?      @default(0)
+  likes                     Int?      @default(0)
+  dislikes                  Int?      @default(0)
+  commentsCount             Int?      @default(0)
+  shares                    Int?      @default(0)
+  readTimeMinutes           Int?
+  avgTimeSpent              Int?      // seconds
+  bounceRate                Float?
+  scrollDepthPercent        Float?
+  newsletterClicks          Int?
+  internalLinkClicks        Int?
+
+  // Gamification / Rewards
+  xpEarned                  Int?
+  coinsEarned               Int?
+  achievementsUnlocked      String[]
+  dailyReadStreak           Int?
+  weeklyReadStreak          Int?
+  recommendedForTier        UserTier?
+  suggestedArticles         String[]
+  
+  // AI / Recommendation
+  aiEngagementScore         Float?
+  predictedReadCompletion   Float?
+  predictedClickThrough     Float?
+  aiSuggestedTags           String[]
+  aiCategoryPrediction      String?
+  aiRecommendedUsers        String[]
+
+  // Author & Admin
+  authorNotes               String[]
+  editorNotes               String[]
+  statusHistory             Json?
+  flaggedForReview          Boolean?
+  reviewComments            String[]
+  priority                  String?   // low, medium, high
+  adminAssignedId           String?
+
+  // Device / Network
+  topDevicesViewing         DeviceType[]
+  topCountriesViewing       String[]
+  topRegionsViewing         String[]
+  topCitiesViewing          String[]
+  mobileVsDesktopRatio      Float?
+  
+  // Misc
+  attachments               Json?
+  references                String[]
+  affiliateLinks            String[]
+  isSponsored               Boolean?
+  sponsorName               String?
+  campaignId                String?
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Chipstars Games",
+  "slug": "chipstars-games",
+  "country": "Sweden",
+  "bonus": "VIP Bonus 250% up to $2000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 389,
+  "providers": [
+    "Playtech",
+    "Novomatic",
+    "Konami",
+    "Greentube",
+    "Ash Gaming",
+    "Habanero Systems",
+    "Red Tiger",
+    "Aristocrat"
+  ],
+  "likes": 34,
+  "comments": 493,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=144",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=chipstars-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

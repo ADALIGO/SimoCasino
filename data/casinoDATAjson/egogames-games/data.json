@@ -1,0 +1,31 @@
+{
+  "name": "EgoGames Games",
+  "slug": "egogames-games",
+  "country": "Poland",
+  "bonus": "Welcome Bonus 200% up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "Wager Gaming",
+    "EGT"
+  ],
+  "likes": 125,
+  "comments": 411,
+  "operatingCountries": [
+    "Switzerland",
+    "Spain",
+    "Ireland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=egogames-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

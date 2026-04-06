@@ -1,0 +1,27 @@
+{
+  "name": "Cazeus",
+  "slug": "cazeus",
+  "country": "Morocco",
+  "bonus": "15% Cashback",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 327,
+  "providers": [],
+  "likes": 66,
+  "comments": 59,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=100",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=asgard-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104"
+  ],
+  "reviewCount": 5
+}

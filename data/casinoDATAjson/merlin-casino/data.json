@@ -1,0 +1,30 @@
+{
+  "name": "Merlin Casino",
+  "slug": "merlin-casino",
+  "country": "Norway",
+  "bonus": "Cashback up to 250%",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 309,
+  "providers": [
+    "WMS",
+    "Real Time Gaming"
+  ],
+  "likes": 1436,
+  "comments": 358,
+  "operatingCountries": [
+    "Italy",
+    "Austria",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=merlin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

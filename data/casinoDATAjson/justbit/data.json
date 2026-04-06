@@ -1,0 +1,30 @@
+{
+  "name": "Justbit",
+  "slug": "justbit",
+  "country": "Morocco",
+  "bonus": "100% up to €250",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 427,
+  "providers": [],
+  "likes": 564,
+  "comments": 169,
+  "operatingCountries": [
+    "Germany",
+    "Australia",
+    "Switzerland",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=200",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betrepublic-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202",
+    "https://picsum.photos/380/260?random=203",
+    "https://picsum.photos/380/260?random=204"
+  ],
+  "reviewCount": 5
+}

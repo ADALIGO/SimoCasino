@@ -1,0 +1,35 @@
+{
+  "name": "PlayCroco Online",
+  "slug": "playcroco-online",
+  "country": "New Zealand",
+  "bonus": "100% up to $300 + 50 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 201,
+  "providers": [
+    "Spinlogic Gaming",
+    "Aristocrat",
+    "Iron Dog Studio",
+    "Nolimit City"
+  ],
+  "likes": 1860,
+  "comments": 23,
+  "operatingCountries": [
+    "Portugal",
+    "South Africa",
+    "Morocco",
+    "Italy",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playcroco-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153"
+  ]
+}

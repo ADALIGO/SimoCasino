@@ -1,0 +1,25 @@
+{
+  "name": "OlympusBet",
+  "slug": "olympusbet",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 218,
+  "providers": [],
+  "likes": 1119,
+  "comments": 406,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jvspinbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ],
+  "reviewCount": 5
+}

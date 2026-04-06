@@ -1,0 +1,30 @@
+{
+  "name": "Gamdom",
+  "slug": "gamdom",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 219,
+  "providers": [],
+  "likes": 725,
+  "comments": 365,
+  "operatingCountries": [
+    "Finland",
+    "Poland",
+    "United States",
+    "Switzerland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gamdom-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Uptown Aces Casino",
+  "slug": "uptown-aces-casino",
+  "country": "Ireland",
+  "bonus": "50% Bonus up to $100",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "Relax Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1292,
+  "comments": 442,
+  "operatingCountries": [
+    "Czech Republic",
+    "Australia",
+    "United States",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=24",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=uptown-aces-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ]
+}

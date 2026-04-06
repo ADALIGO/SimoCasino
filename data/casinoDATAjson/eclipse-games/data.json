@@ -1,0 +1,30 @@
+{
+  "name": "Eclipse Games",
+  "slug": "eclipse-games",
+  "country": "Denmark",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "BetSoft"
+  ],
+  "likes": 1434,
+  "comments": 207,
+  "operatingCountries": [
+    "Switzerland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eclipse-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ]
+}

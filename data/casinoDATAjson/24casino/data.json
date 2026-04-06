@@ -1,0 +1,27 @@
+{
+  "name": "24Casino",
+  "slug": "24casino",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 150 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 246,
+  "providers": [],
+  "likes": 555,
+  "comments": 79,
+  "operatingCountries": [
+    "Italy",
+    "Austria",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wettson",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ],
+  "reviewCount": 5
+}

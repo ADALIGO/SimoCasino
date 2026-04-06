@@ -1,0 +1,30 @@
+{
+  "name": "Horus Online",
+  "slug": "horus-online",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 23,
+  "providers": [
+    "Habanero Systems",
+    "Yggdrasil",
+    "Real Time Gaming",
+    "1x2gaming"
+  ],
+  "likes": 1684,
+  "comments": 330,
+  "operatingCountries": [
+    "Canada",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=2",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=horus-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4"
+  ]
+}

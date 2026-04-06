@@ -1,0 +1,35 @@
+{
+  "name": "HellSpin Online",
+  "slug": "hellspin-online",
+  "country": "Australia",
+  "bonus": "100% up to $50 + 20 Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 75,
+  "providers": [
+    "WMS",
+    "Thunderkick",
+    "Aristocrat",
+    "IGT"
+  ],
+  "likes": 404,
+  "comments": 82,
+  "operatingCountries": [
+    "Ireland",
+    "Portugal",
+    "Netherlands",
+    "France",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=60",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hellspin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64"
+  ]
+}

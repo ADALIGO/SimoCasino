@@ -1,0 +1,31 @@
+{
+  "name": "Yukon Gold Slots",
+  "slug": "yukon-gold-slots",
+  "country": "United States",
+  "bonus": "First Deposit 300% up to $500 + 150 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 437,
+  "providers": [
+    "Yggdrasil",
+    "Amatic Industries",
+    "NetEnt",
+    "Quickspin"
+  ],
+  "likes": 1764,
+  "comments": 38,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yukon-gold-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

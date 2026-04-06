@@ -1,0 +1,31 @@
+{
+  "name": "Tournaverse Slots",
+  "slug": "tournaverse-slots",
+  "country": "Canada",
+  "bonus": "Deposit Bonus 100% up to $100",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 315,
+  "providers": [
+    "WMS"
+  ],
+  "likes": 1915,
+  "comments": 31,
+  "operatingCountries": [
+    "United States",
+    "Switzerland",
+    "United Kingdom",
+    "Sweden",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=84",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tournaverse-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87"
+  ]
+}

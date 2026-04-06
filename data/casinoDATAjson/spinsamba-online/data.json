@@ -1,0 +1,36 @@
+{
+  "name": "SpinSamba Online",
+  "slug": "spinsamba-online",
+  "country": "South Africa",
+  "bonus": "100% up to $500 + 250 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 112,
+  "providers": [
+    "WMS",
+    "Novomatic",
+    "Thunderkick",
+    "Merkur",
+    "Amatic Industries",
+    "Visionary iGaming",
+    "Konami"
+  ],
+  "likes": 1542,
+  "comments": 348,
+  "operatingCountries": [
+    "Finland",
+    "Ireland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinsamba-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

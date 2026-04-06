@@ -1,0 +1,38 @@
+{
+  "name": "1Red Slots",
+  "slug": "1red-slots",
+  "country": "Germany",
+  "bonus": "First Deposit 200% up to $1000 + 20 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 275,
+  "providers": [
+    "WMS",
+    "Rival",
+    "Pragmatic Play",
+    "Arrows Edge",
+    "Blueprint Gaming",
+    "Iron Dog Studio",
+    "Saucify"
+  ],
+  "likes": 178,
+  "comments": 140,
+  "operatingCountries": [
+    "Sweden",
+    "Italy",
+    "Netherlands",
+    "Czech Republic",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1red-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

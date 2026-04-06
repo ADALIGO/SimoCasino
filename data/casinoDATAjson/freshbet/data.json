@@ -1,0 +1,30 @@
+{
+  "name": "FreshBet",
+  "slug": "freshbet",
+  "country": "Morocco",
+  "bonus": "125% up to €/$1000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1824,
+  "comments": 186,
+  "operatingCountries": [
+    "Belgium",
+    "United States",
+    "New Zealand",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kikobet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ],
+  "reviewCount": 5
+}

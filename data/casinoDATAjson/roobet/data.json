@@ -1,0 +1,29 @@
+{
+  "name": "Roobet",
+  "slug": "roobet",
+  "country": "Morocco",
+  "bonus": "20% Cashback",
+  "rating": 2.7,
+  "revenueRank": 16,
+  "spins": 81,
+  "providers": [],
+  "likes": 1908,
+  "comments": 390,
+  "operatingCountries": [
+    "Germany",
+    "United States",
+    "France",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betalice-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ],
+  "reviewCount": 5
+}

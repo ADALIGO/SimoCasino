@@ -1,0 +1,30 @@
+{
+  "name": "BlackJack Ballroom",
+  "slug": "blackjack-ballroom",
+  "country": "Morocco",
+  "bonus": "100% up to €/$150",
+  "rating": 0,
+  "revenueRank": 26,
+  "spins": 116,
+  "providers": [
+    "T&C's Apply",
+    "2.9 / 5"
+  ],
+  "likes": 1051,
+  "comments": 104,
+  "operatingCountries": [
+    "Switzerland",
+    "South Africa",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldwin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71"
+  ],
+  "reviewCount": 0
+}

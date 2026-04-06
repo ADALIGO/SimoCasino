@@ -1,0 +1,29 @@
+{
+  "name": "Razed Casino",
+  "slug": "razed-casino",
+  "country": "Spain",
+  "bonus": "Cashback up to 300%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 375,
+  "providers": [
+    "Blueprint Gaming",
+    "ELK Studios"
+  ],
+  "likes": 1424,
+  "comments": 26,
+  "operatingCountries": [
+    "Belgium",
+    "Sweden",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=razed-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Bongo",
+  "slug": "bongo",
+  "country": "Morocco",
+  "bonus": "100% up to €1000 + 100 Spins",
+  "rating": 2.1,
+  "revenueRank": 41,
+  "spins": 82,
+  "providers": [],
+  "likes": 851,
+  "comments": 116,
+  "operatingCountries": [
+    "Poland",
+    "United States",
+    "Sweden",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playmillion",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,27 @@
+{
+  "name": "FairSpin",
+  "slug": "fairspin",
+  "country": "Morocco",
+  "bonus": "200% up to €2500 + 50 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 2,
+  "providers": [],
+  "likes": 1408,
+  "comments": 326,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-night",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19"
+  ],
+  "reviewCount": 5
+}

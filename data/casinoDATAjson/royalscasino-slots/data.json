@@ -1,0 +1,32 @@
+{
+  "name": "RoyalsCasino Slots",
+  "slug": "royalscasino-slots",
+  "country": "Morocco",
+  "bonus": "Cashback up to 125%",
+  "rating": 3.8,
+  "revenueRank": 15,
+  "spins": 473,
+  "providers": [
+    "Genesis Gaming",
+    "Merkur"
+  ],
+  "likes": 1217,
+  "comments": 415,
+  "operatingCountries": [
+    "Australia",
+    "Finland",
+    "Italy",
+    "France",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=137",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royalscasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

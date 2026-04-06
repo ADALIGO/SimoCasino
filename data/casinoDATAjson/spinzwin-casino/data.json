@@ -1,0 +1,30 @@
+{
+  "name": "Spinzwin Casino",
+  "slug": "spinzwin-casino",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 200% up to $500",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "Amatic Industries",
+    "Wager Gaming"
+  ],
+  "likes": 1584,
+  "comments": 38,
+  "operatingCountries": [
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinzwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

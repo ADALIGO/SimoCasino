@@ -1,0 +1,34 @@
+{
+  "name": "22Bet Slots",
+  "slug": "22bet-slots",
+  "country": "Spain",
+  "bonus": "First Deposit 300% up to $300 + 100 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Iron Dog Studio",
+    "BetSoft",
+    "Aristocrat",
+    "Arrows Edge",
+    "Thunderkick",
+    "Wager Gaming",
+    "EGT"
+  ],
+  "likes": 52,
+  "comments": 155,
+  "operatingCountries": [
+    "Poland",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=160",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=22bet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "EmuCasino Games",
+  "slug": "emucasino-games",
+  "country": "Netherlands",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "Red Tiger",
+    "Spinlogic Gaming",
+    "Ash Gaming",
+    "BetSoft",
+    "1x2gaming",
+    "Real Time Gaming",
+    "Aristocrat"
+  ],
+  "likes": 1903,
+  "comments": 291,
+  "operatingCountries": [
+    "Belgium",
+    "Norway",
+    "South Africa",
+    "Sweden",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=42",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=emucasino-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

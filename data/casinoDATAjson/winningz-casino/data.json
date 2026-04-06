@@ -1,0 +1,36 @@
+{
+  "name": "Winningz Casino",
+  "slug": "winningz-casino",
+  "country": "Belgium",
+  "bonus": "Deposit Bonus 250% up to $1000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 9,
+  "providers": [
+    "Microgaming",
+    "Saucify",
+    "Evolution Gaming",
+    "Aristocrat",
+    "Spinlogic Gaming",
+    "EGT"
+  ],
+  "likes": 240,
+  "comments": 489,
+  "operatingCountries": [
+    "Denmark",
+    "Canada",
+    "Ireland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=111",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winningz-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115"
+  ]
+}

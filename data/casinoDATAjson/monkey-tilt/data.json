@@ -1,0 +1,29 @@
+{
+  "name": "Monkey Tilt",
+  "slug": "monkey-tilt",
+  "country": "Morocco",
+  "bonus": "500% up to $10000",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 149,
+  "providers": [],
+  "likes": 390,
+  "comments": 355,
+  "operatingCountries": [
+    "Finland",
+    "France",
+    "United States",
+    "Belgium",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=173",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brazino777",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ],
+  "reviewCount": 5
+}

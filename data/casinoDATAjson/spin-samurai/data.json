@@ -1,0 +1,25 @@
+{
+  "name": "Spin Samurai",
+  "slug": "spin-samurai",
+  "country": "Morocco",
+  "bonus": "100% up to €/$650 + 50 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1752,
+  "comments": 442,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=roby",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ],
+  "reviewCount": 5
+}

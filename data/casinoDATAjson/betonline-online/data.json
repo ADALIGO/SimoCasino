@@ -1,0 +1,37 @@
+{
+  "name": "BetOnline Online",
+  "slug": "betonline-online",
+  "country": "Austria",
+  "bonus": "VIP Bonus 250% up to $1000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 487,
+  "providers": [
+    "Real Time Gaming",
+    "1x2gaming",
+    "IGT",
+    "Evolution Gaming",
+    "Red Tiger",
+    "Konami",
+    "NextGen"
+  ],
+  "likes": 1168,
+  "comments": 343,
+  "operatingCountries": [
+    "Morocco",
+    "Denmark",
+    "United States",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=181",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betonline-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185"
+  ]
+}

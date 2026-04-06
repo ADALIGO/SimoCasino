@@ -1,0 +1,28 @@
+{
+  "name": "BitcoinVIP",
+  "slug": "bitcoinvip",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 239,
+  "providers": [],
+  "likes": 684,
+  "comments": 481,
+  "operatingCountries": [
+    "Sweden",
+    "Czech Republic",
+    "New Zealand",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=137",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=18bet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ninlay",
+  "slug": "ninlay",
+  "country": "Morocco",
+  "bonus": "100% up to €1000 + 100 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1176,
+  "comments": 429,
+  "operatingCountries": [
+    "Australia",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=osombet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ],
+  "reviewCount": 5
+}

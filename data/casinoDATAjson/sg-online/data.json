@@ -1,0 +1,27 @@
+{
+  "name": "SG Online",
+  "slug": "sg-online",
+  "country": "Portugal",
+  "bonus": "150% Bonus up to $500",
+  "rating": 4.2,
+  "revenueRank": 77,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Konami"
+  ],
+  "likes": 1511,
+  "comments": 328,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sg-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112"
+  ]
+}

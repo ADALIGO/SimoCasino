@@ -1,0 +1,28 @@
+{
+  "name": "Limitless",
+  "slug": "limitless",
+  "country": "Morocco",
+  "bonus": "$100",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 7,
+  "providers": [],
+  "likes": 555,
+  "comments": 484,
+  "operatingCountries": [
+    "Sweden",
+    "United Kingdom",
+    "Denmark",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winnerz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ],
+  "reviewCount": 5
+}

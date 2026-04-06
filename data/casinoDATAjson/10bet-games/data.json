@@ -1,0 +1,28 @@
+{
+  "name": "10bet Games",
+  "slug": "10bet-games",
+  "country": "Switzerland",
+  "bonus": "100% up to $1000 + 100 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 227,
+  "providers": [
+    "ELK Studios"
+  ],
+  "likes": 1797,
+  "comments": 24,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=59",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=10bet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Bulletz Online",
+  "slug": "bulletz-online",
+  "country": "Australia",
+  "bonus": "250% Bonus up to $100",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 63,
+  "providers": [
+    "Saucify",
+    "Gamomat",
+    "BetSoft",
+    "Visionary iGaming",
+    "Greentube",
+    "Nolimit City",
+    "Quickspin",
+    "Pragmatic Play"
+  ],
+  "likes": 1972,
+  "comments": 29,
+  "operatingCountries": [
+    "Portugal",
+    "New Zealand",
+    "Norway",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bulletz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

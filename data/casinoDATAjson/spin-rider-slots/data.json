@@ -1,0 +1,34 @@
+{
+  "name": "Spin Rider Slots",
+  "slug": "spin-rider-slots",
+  "country": "France",
+  "bonus": "125% Bonus up to $100",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 82,
+  "providers": [
+    "Pragmatic Play",
+    "Ash Gaming",
+    "Red Tiger",
+    "Playtech",
+    "Relax Gaming",
+    "Thunderkick",
+    "NetEnt"
+  ],
+  "likes": 1746,
+  "comments": 427,
+  "operatingCountries": [
+    "Norway",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-rider-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ]
+}

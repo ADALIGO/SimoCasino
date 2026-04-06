@@ -1,0 +1,35 @@
+{
+  "name": "Spinhub Casino",
+  "slug": "spinhub-casino",
+  "country": "Morocco",
+  "bonus": "Reload Bonus 200% up to $1000",
+  "rating": 4.6,
+  "revenueRank": 64,
+  "spins": 455,
+  "providers": [
+    "Ash Gaming",
+    "WMS",
+    "Merkur",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1971,
+  "comments": 276,
+  "operatingCountries": [
+    "Norway",
+    "Austria",
+    "Spain",
+    "Sweden",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinhub-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Casombie Slots",
+  "slug": "casombie-slots",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 150% up to $50",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 52,
+  "providers": [
+    "Konami",
+    "EGT",
+    "Spinlogic Gaming",
+    "NetEnt",
+    "Habanero Systems",
+    "Greentube"
+  ],
+  "likes": 1534,
+  "comments": 361,
+  "operatingCountries": [
+    "Belgium",
+    "Italy",
+    "Poland",
+    "Sweden",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casombie-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

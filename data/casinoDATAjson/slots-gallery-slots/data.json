@@ -1,0 +1,36 @@
+{
+  "name": "Slots Gallery Slots",
+  "slug": "slots-gallery-slots",
+  "country": "Denmark",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 371,
+  "providers": [
+    "1x2gaming",
+    "Merkur",
+    "Rival",
+    "Spinlogic Gaming",
+    "Real Time Gaming",
+    "Thunderkick",
+    "Visionary iGaming",
+    "Aristocrat"
+  ],
+  "likes": 697,
+  "comments": 316,
+  "operatingCountries": [
+    "Poland",
+    "New Zealand",
+    "Denmark",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-gallery-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Ruby Fortune",
+  "slug": "ruby-fortune",
+  "country": "Morocco",
+  "bonus": "40 Spins",
+  "rating": 2.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1282,
+  "comments": 318,
+  "operatingCountries": [
+    "Czech Republic",
+    "United States",
+    "Austria",
+    "Sweden",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=3",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kitty-cat",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ],
+  "reviewCount": 5
+}

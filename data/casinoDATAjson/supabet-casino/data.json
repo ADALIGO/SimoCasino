@@ -1,0 +1,33 @@
+{
+  "name": "Supabet Casino",
+  "slug": "supabet-casino",
+  "country": "Ireland",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.1,
+  "revenueRank": 89,
+  "spins": 394,
+  "providers": [
+    "Microgaming",
+    "Real Time Gaming",
+    "Arrows Edge",
+    "Wager Gaming",
+    "Ash Gaming",
+    "BetSoft",
+    "Merkur"
+  ],
+  "likes": 1666,
+  "comments": 371,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=178",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=supabet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ]
+}

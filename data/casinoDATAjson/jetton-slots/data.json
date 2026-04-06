@@ -1,0 +1,35 @@
+{
+  "name": "Jetton Slots",
+  "slug": "jetton-slots",
+  "country": "Denmark",
+  "bonus": "100% up to $100 + 20 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 23,
+  "providers": [
+    "NextGen",
+    "Playtech",
+    "Konami",
+    "Evolution Gaming",
+    "Quickspin",
+    "Pragmatic Play",
+    "Nolimit City",
+    "1x2gaming"
+  ],
+  "likes": 1956,
+  "comments": 260,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=125",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jetton-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128"
+  ]
+}

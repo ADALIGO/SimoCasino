@@ -1,0 +1,37 @@
+{
+  "name": "SlotyStake Casino",
+  "slug": "slotystake-casino",
+  "country": "Spain",
+  "bonus": "Reload Bonus 150% up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Habanero Systems",
+    "Merkur",
+    "Real Time Gaming",
+    "BetSoft",
+    "Yggdrasil",
+    "Spinlogic Gaming",
+    "Konami"
+  ],
+  "likes": 1715,
+  "comments": 148,
+  "operatingCountries": [
+    "Czech Republic",
+    "United Kingdom",
+    "Netherlands",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotystake-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

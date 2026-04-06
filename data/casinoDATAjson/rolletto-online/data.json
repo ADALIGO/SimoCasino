@@ -1,0 +1,31 @@
+{
+  "name": "Rolletto Online",
+  "slug": "rolletto-online",
+  "country": "Norway",
+  "bonus": "100% up to $2000 + 20 Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Greentube",
+    "BetSoft"
+  ],
+  "likes": 1325,
+  "comments": 177,
+  "operatingCountries": [
+    "Italy",
+    "Czech Republic",
+    "Netherlands",
+    "Denmark",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rolletto-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

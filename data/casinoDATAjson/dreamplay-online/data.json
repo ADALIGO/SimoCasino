@@ -1,0 +1,36 @@
+{
+  "name": "Dreamplay Online",
+  "slug": "dreamplay-online",
+  "country": "Belgium",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Spinlogic Gaming",
+    "Iron Dog Studio",
+    "Blueprint Gaming",
+    "Greentube",
+    "Arrows Edge",
+    "Playtech",
+    "Ash Gaming",
+    "NetEnt"
+  ],
+  "likes": 111,
+  "comments": 427,
+  "operatingCountries": [
+    "Sweden",
+    "Norway",
+    "Finland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=42",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dreamplay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ]
+}

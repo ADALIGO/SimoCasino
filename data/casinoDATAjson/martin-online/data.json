@@ -1,0 +1,39 @@
+{
+  "name": "Martin Online",
+  "slug": "martin-online",
+  "country": "Portugal",
+  "bonus": "First Deposit 300% up to $100 + 250 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 230,
+  "providers": [
+    "Merkur",
+    "Rival",
+    "Nolimit City",
+    "1x2gaming",
+    "Arrows Edge",
+    "Gamomat",
+    "NextGen",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1362,
+  "comments": 92,
+  "operatingCountries": [
+    "Denmark",
+    "Finland",
+    "Ireland",
+    "Switzerland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=martin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ]
+}

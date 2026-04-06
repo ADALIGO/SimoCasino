@@ -1,0 +1,32 @@
+{
+  "name": "IntellectBet Casino",
+  "slug": "intellectbet-casino",
+  "country": "United Kingdom",
+  "bonus": "First Deposit 300% up to $100 + 20 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Arrows Edge",
+    "Greentube",
+    "Habanero Systems",
+    "Real Time Gaming",
+    "Big Time Gaming"
+  ],
+  "likes": 1991,
+  "comments": 427,
+  "operatingCountries": [
+    "Czech Republic",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=intellectbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

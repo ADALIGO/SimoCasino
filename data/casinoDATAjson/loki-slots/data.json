@@ -1,0 +1,28 @@
+{
+  "name": "LOKI Slots",
+  "slug": "loki-slots",
+  "country": "United Kingdom",
+  "bonus": "VIP Bonus 200% up to $300",
+  "rating": 4.2,
+  "revenueRank": 11,
+  "spins": 40,
+  "providers": [
+    "Relax Gaming",
+    "NextGen"
+  ],
+  "likes": 1615,
+  "comments": 351,
+  "operatingCountries": [
+    "Netherlands",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=22",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=loki-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

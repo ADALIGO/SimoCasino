@@ -1,0 +1,31 @@
+{
+  "name": "SpinSamba Casino",
+  "slug": "spinsamba-casino",
+  "country": "Germany",
+  "bonus": "Reload Bonus 150% up to $300",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Habanero Systems",
+    "Nolimit City",
+    "Merkur"
+  ],
+  "likes": 459,
+  "comments": 224,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=32",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinsamba-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36"
+  ]
+}

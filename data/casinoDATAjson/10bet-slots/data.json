@@ -1,0 +1,31 @@
+{
+  "name": "10bet Slots",
+  "slug": "10bet-slots",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Novomatic",
+    "NetEnt"
+  ],
+  "likes": 1260,
+  "comments": 347,
+  "operatingCountries": [
+    "Spain",
+    "Sweden",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=10bet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189"
+  ]
+}

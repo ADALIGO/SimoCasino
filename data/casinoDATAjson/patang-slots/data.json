@@ -1,0 +1,31 @@
+{
+  "name": "Patang Slots",
+  "slug": "patang-slots",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 374,
+  "providers": [
+    "Habanero Systems",
+    "IGT",
+    "Genesis Gaming",
+    "ELK Studios",
+    "Quickspin"
+  ],
+  "likes": 815,
+  "comments": 140,
+  "operatingCountries": [
+    "Germany",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=patang-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ]
+}

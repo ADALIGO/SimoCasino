@@ -1,0 +1,29 @@
+{
+  "name": "Hotline Online",
+  "slug": "hotline-online",
+  "country": "Germany",
+  "bonus": "First Deposit 250% up to $500 + 150 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 173,
+  "providers": [
+    "Gamomat",
+    "Saucify",
+    "Playtech"
+  ],
+  "likes": 568,
+  "comments": 469,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=112",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotline-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115"
+  ]
+}

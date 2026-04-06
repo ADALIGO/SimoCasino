@@ -1,0 +1,34 @@
+{
+  "name": "Dachbet Slots",
+  "slug": "dachbet-slots",
+  "country": "Italy",
+  "bonus": "Reload Bonus 125% up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 387,
+  "providers": [
+    "IGT",
+    "Rival",
+    "Habanero Systems",
+    "Saucify"
+  ],
+  "likes": 1386,
+  "comments": 473,
+  "operatingCountries": [
+    "Belgium",
+    "Switzerland",
+    "Spain",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dachbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Trickz Slots",
+  "slug": "trickz-slots",
+  "country": "Belgium",
+  "bonus": "50% Bonus up to $500",
+  "rating": 3.9,
+  "revenueRank": 46,
+  "spins": 207,
+  "providers": [
+    "Blueprint Gaming",
+    "Iron Dog Studio",
+    "Habanero Systems",
+    "Ash Gaming"
+  ],
+  "likes": 1126,
+  "comments": 450,
+  "operatingCountries": [
+    "Switzerland",
+    "United States",
+    "United Kingdom",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=trickz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

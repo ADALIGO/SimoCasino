@@ -1,0 +1,37 @@
+{
+  "name": "WatchMySpin Casino",
+  "slug": "watchmyspin-casino",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 50% up to $300 + 150 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 161,
+  "providers": [
+    "Evolution Gaming",
+    "Novomatic",
+    "Merkur",
+    "Konami",
+    "Gamomat",
+    "Amatic Industries",
+    "Habanero Systems"
+  ],
+  "likes": 634,
+  "comments": 23,
+  "operatingCountries": [
+    "South Africa",
+    "France",
+    "Austria",
+    "Morocco",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=watchmyspin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

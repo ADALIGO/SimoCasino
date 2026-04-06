@@ -1,0 +1,29 @@
+{
+  "name": "Celsius Games",
+  "slug": "celsius-games",
+  "country": "Switzerland",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Big Time Gaming",
+    "ELK Studios",
+    "NextGen",
+    "Blueprint Gaming"
+  ],
+  "likes": 1506,
+  "comments": 23,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=celsius-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

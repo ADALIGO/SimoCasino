@@ -1,0 +1,30 @@
+{
+  "name": "Jackpot Cash Games",
+  "slug": "jackpot-cash-games",
+  "country": "Poland",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.9,
+  "revenueRank": 11,
+  "spins": 500,
+  "providers": [
+    "Konami"
+  ],
+  "likes": 840,
+  "comments": 376,
+  "operatingCountries": [
+    "Germany",
+    "Denmark",
+    "United States",
+    "Finland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-cash-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

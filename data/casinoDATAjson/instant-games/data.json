@@ -1,0 +1,31 @@
+{
+  "name": "Instant Games",
+  "slug": "instant-games",
+  "country": "Spain",
+  "bonus": "Reload Bonus 200% up to $50",
+  "rating": 4.8,
+  "revenueRank": 40,
+  "spins": 349,
+  "providers": [
+    "Aristocrat",
+    "NetEnt",
+    "Greentube",
+    "BetSoft",
+    "Gamomat"
+  ],
+  "likes": 721,
+  "comments": 162,
+  "operatingCountries": [
+    "Spain",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=instant-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

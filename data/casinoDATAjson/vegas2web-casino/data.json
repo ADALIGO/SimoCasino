@@ -1,0 +1,35 @@
+{
+  "name": "Vegas2Web Casino",
+  "slug": "vegas2web-casino",
+  "country": "Australia",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 355,
+  "providers": [
+    "NetEnt",
+    "Ash Gaming",
+    "Amatic Industries",
+    "Quickspin",
+    "Gamomat",
+    "Arrows Edge",
+    "Push Gaming"
+  ],
+  "likes": 954,
+  "comments": 162,
+  "operatingCountries": [
+    "Ireland",
+    "Germany",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=192",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegas2web-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195"
+  ]
+}

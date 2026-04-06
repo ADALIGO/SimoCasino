@@ -1,0 +1,31 @@
+{
+  "name": "Bluffbet Slots",
+  "slug": "bluffbet-slots",
+  "country": "Ireland",
+  "bonus": "Cashback up to 300%",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "Aristocrat"
+  ],
+  "likes": 1921,
+  "comments": 129,
+  "operatingCountries": [
+    "Czech Republic",
+    "Denmark",
+    "Finland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bluffbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Wildsino Casino",
+  "slug": "wildsino-casino",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 150% up to $300",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 91,
+  "providers": [
+    "Playtech",
+    "Wager Gaming",
+    "Aristocrat",
+    "Visionary iGaming",
+    "Nolimit City",
+    "Habanero Systems",
+    "Evolution Gaming"
+  ],
+  "likes": 877,
+  "comments": 445,
+  "operatingCountries": [
+    "Denmark",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wildsino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ]
+}

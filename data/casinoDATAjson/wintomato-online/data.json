@@ -1,0 +1,36 @@
+{
+  "name": "Wintomato Online",
+  "slug": "wintomato-online",
+  "country": "Spain",
+  "bonus": "First Deposit 250% up to $1000 + 200 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 237,
+  "providers": [
+    "Habanero Systems",
+    "Iron Dog Studio",
+    "IGT",
+    "Genesis Gaming",
+    "Arrows Edge",
+    "Rival",
+    "Merkur"
+  ],
+  "likes": 1756,
+  "comments": 105,
+  "operatingCountries": [
+    "Italy",
+    "Czech Republic",
+    "Belgium",
+    "New Zealand",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=68",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wintomato-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70"
+  ]
+}

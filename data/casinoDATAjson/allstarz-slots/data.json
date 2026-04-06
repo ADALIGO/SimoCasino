@@ -1,0 +1,32 @@
+{
+  "name": "allStarz Slots",
+  "slug": "allstarz-slots",
+  "country": "Morocco",
+  "bonus": "100% up to $50 + 300 Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 159,
+  "providers": [
+    "IGT"
+  ],
+  "likes": 715,
+  "comments": 20,
+  "operatingCountries": [
+    "New Zealand",
+    "Norway",
+    "Canada",
+    "Poland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=allstarz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19"
+  ]
+}

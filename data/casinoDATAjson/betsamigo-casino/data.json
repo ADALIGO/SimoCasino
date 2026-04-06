@@ -1,0 +1,35 @@
+{
+  "name": "betsAMIGO Casino",
+  "slug": "betsamigo-casino",
+  "country": "Poland",
+  "bonus": "50% Bonus up to $300",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 93,
+  "providers": [
+    "Playtech",
+    "Saucify",
+    "NextGen",
+    "Red Tiger",
+    "Nolimit City"
+  ],
+  "likes": 591,
+  "comments": 231,
+  "operatingCountries": [
+    "France",
+    "Canada",
+    "United Kingdom",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=128",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsamigo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

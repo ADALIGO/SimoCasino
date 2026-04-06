@@ -1,0 +1,35 @@
+{
+  "name": "Brazino777 Casino",
+  "slug": "brazino777-casino",
+  "country": "Canada",
+  "bonus": "VIP Bonus 250% up to $300",
+  "rating": 3.7,
+  "revenueRank": 67,
+  "spins": 69,
+  "providers": [
+    "Genesis Gaming",
+    "Habanero Systems",
+    "Aristocrat",
+    "ELK Studios",
+    "Greentube",
+    "Spinlogic Gaming",
+    "Konami",
+    "NetEnt"
+  ],
+  "likes": 1342,
+  "comments": 420,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brazino777-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

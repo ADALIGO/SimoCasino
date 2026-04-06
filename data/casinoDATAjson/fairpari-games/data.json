@@ -1,0 +1,31 @@
+{
+  "name": "Fairpari Games",
+  "slug": "fairpari-games",
+  "country": "Germany",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 51,
+  "providers": [
+    "Merkur",
+    "Visionary iGaming",
+    "Wager Gaming",
+    "Red Tiger",
+    "BetSoft"
+  ],
+  "likes": 417,
+  "comments": 142,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fairpari-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

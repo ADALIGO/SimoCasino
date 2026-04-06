@@ -1,0 +1,33 @@
+{
+  "name": "Lucky Owl Club Online",
+  "slug": "lucky-owl-club-online",
+  "country": "Belgium",
+  "bonus": "First Deposit 100% up to $500 + 20 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Spinlogic Gaming",
+    "Microgaming",
+    "EGT",
+    "Iron Dog Studio"
+  ],
+  "likes": 546,
+  "comments": 300,
+  "operatingCountries": [
+    "Austria",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-owl-club-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ]
+}

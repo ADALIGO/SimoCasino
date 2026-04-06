@@ -1,0 +1,35 @@
+{
+  "name": "Detective Slots Slots",
+  "slug": "detective-slots-slots",
+  "country": "Italy",
+  "bonus": "100% up to $2000 + 300 Spins",
+  "rating": 5,
+  "revenueRank": 99,
+  "spins": 215,
+  "providers": [
+    "1x2gaming",
+    "IGT",
+    "Quickspin",
+    "Konami",
+    "ELK Studios",
+    "Playtech",
+    "Novomatic"
+  ],
+  "likes": 641,
+  "comments": 447,
+  "operatingCountries": [
+    "United States",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=112",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=detective-slots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116"
+  ]
+}

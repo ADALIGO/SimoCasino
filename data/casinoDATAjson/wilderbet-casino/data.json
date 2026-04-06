@@ -1,0 +1,29 @@
+{
+  "name": "WilderBet Casino",
+  "slug": "wilderbet-casino",
+  "country": "Denmark",
+  "bonus": "Cashback up to 250%",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "BetSoft"
+  ],
+  "likes": 1600,
+  "comments": 165,
+  "operatingCountries": [
+    "Denmark",
+    "United States",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wilderbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

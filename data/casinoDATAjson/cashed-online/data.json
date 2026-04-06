@@ -1,0 +1,34 @@
+{
+  "name": "Cashed Online",
+  "slug": "cashed-online",
+  "country": "Australia",
+  "bonus": "First Deposit 100% up to $1000 + 20 Free Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Aristocrat",
+    "Big Time Gaming",
+    "Arrows Edge",
+    "Greentube",
+    "Visionary iGaming",
+    "Yggdrasil",
+    "WMS"
+  ],
+  "likes": 176,
+  "comments": 119,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=124",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cashed-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ]
+}

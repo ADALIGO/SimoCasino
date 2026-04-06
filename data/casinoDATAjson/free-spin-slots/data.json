@@ -1,0 +1,37 @@
+{
+  "name": "Free Spin Slots",
+  "slug": "free-spin-slots",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "IGT",
+    "Yggdrasil",
+    "Visionary iGaming",
+    "Evolution Gaming",
+    "Amatic Industries",
+    "Genesis Gaming"
+  ],
+  "likes": 88,
+  "comments": 150,
+  "operatingCountries": [
+    "Norway",
+    "Morocco",
+    "Belgium",
+    "Switzerland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=36",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=free-spin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

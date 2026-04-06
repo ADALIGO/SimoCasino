@@ -1,0 +1,28 @@
+{
+  "name": "Slotland Slots",
+  "slug": "slotland-slots",
+  "country": "Netherlands",
+  "bonus": "VIP Bonus 50% up to $1000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Habanero Systems"
+  ],
+  "likes": 679,
+  "comments": 105,
+  "operatingCountries": [
+    "Australia",
+    "Austria",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=70",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotland-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72"
+  ]
+}

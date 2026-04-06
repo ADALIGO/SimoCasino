@@ -1,0 +1,29 @@
+{
+  "name": "HugeWin Online",
+  "slug": "hugewin-online",
+  "country": "France",
+  "bonus": "VIP Bonus 200% up to $50",
+  "rating": 3.2,
+  "revenueRank": 76,
+  "spins": 223,
+  "providers": [
+    "ELK Studios",
+    "WMS",
+    "Thunderkick"
+  ],
+  "likes": 1635,
+  "comments": 419,
+  "operatingCountries": [
+    "Norway",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hugewin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ]
+}

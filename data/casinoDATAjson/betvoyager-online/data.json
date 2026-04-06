@@ -1,0 +1,33 @@
+{
+  "name": "BetVoyager Online",
+  "slug": "betvoyager-online",
+  "country": "Spain",
+  "bonus": "100% Bonus up to $1000",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 364,
+  "providers": [
+    "NetEnt",
+    "Thunderkick",
+    "IGT",
+    "Blueprint Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 1111,
+  "comments": 11,
+  "operatingCountries": [
+    "Norway",
+    "Portugal",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betvoyager-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ]
+}

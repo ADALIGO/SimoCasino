@@ -1,0 +1,28 @@
+{
+  "name": "Boombet",
+  "slug": "boombet",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.2,
+  "revenueRank": null,
+  "spins": 496,
+  "providers": [],
+  "likes": 1326,
+  "comments": 271,
+  "operatingCountries": [
+    "Sweden",
+    "Morocco",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hitnspin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89"
+  ],
+  "reviewCount": 5
+}

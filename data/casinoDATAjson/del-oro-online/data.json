@@ -1,0 +1,35 @@
+{
+  "name": "Del Oro Online",
+  "slug": "del-oro-online",
+  "country": "Canada",
+  "bonus": "Reload Bonus 50% up to $50",
+  "rating": 3.2,
+  "revenueRank": 65,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "Wager Gaming",
+    "Iron Dog Studio",
+    "EGT",
+    "Arrows Edge",
+    "Spinlogic Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 1570,
+  "comments": 72,
+  "operatingCountries": [
+    "Morocco",
+    "United Kingdom",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=5",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=del-oro-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8"
+  ]
+}

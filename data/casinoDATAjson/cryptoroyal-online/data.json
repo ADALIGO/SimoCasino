@@ -1,0 +1,33 @@
+{
+  "name": "CryptoRoyal Online",
+  "slug": "cryptoroyal-online",
+  "country": "New Zealand",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.1,
+  "revenueRank": 51,
+  "spins": 15,
+  "providers": [
+    "Real Time Gaming",
+    "Novomatic",
+    "Ash Gaming",
+    "NextGen",
+    "Genesis Gaming",
+    "EGT",
+    "Greentube"
+  ],
+  "likes": 65,
+  "comments": 200,
+  "operatingCountries": [
+    "Italy",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptoroyal-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71"
+  ]
+}

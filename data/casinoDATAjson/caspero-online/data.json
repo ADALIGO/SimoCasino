@@ -1,0 +1,30 @@
+{
+  "name": "Caspero Online",
+  "slug": "caspero-online",
+  "country": "Sweden",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Pragmatic Play"
+  ],
+  "likes": 1344,
+  "comments": 416,
+  "operatingCountries": [
+    "Czech Republic",
+    "New Zealand",
+    "Switzerland",
+    "Sweden",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=16",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=caspero-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

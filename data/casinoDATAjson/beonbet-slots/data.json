@@ -1,0 +1,35 @@
+{
+  "name": "BeOnBet Slots",
+  "slug": "beonbet-slots",
+  "country": "Czech Republic",
+  "bonus": "Cashback up to 200%",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 298,
+  "providers": [
+    "Konami",
+    "IGT",
+    "Habanero Systems",
+    "Rival",
+    "Blueprint Gaming"
+  ],
+  "likes": 1244,
+  "comments": 245,
+  "operatingCountries": [
+    "Germany",
+    "Sweden",
+    "Czech Republic",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=157",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=beonbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

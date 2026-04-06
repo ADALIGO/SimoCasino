@@ -1,0 +1,33 @@
+{
+  "name": "X7 Slots",
+  "slug": "x7-slots",
+  "country": "Switzerland",
+  "bonus": "100% up to $100 + 50 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Novomatic",
+    "EGT",
+    "Blueprint Gaming",
+    "BetSoft",
+    "Relax Gaming",
+    "Aristocrat",
+    "Playtech",
+    "Evolution Gaming"
+  ],
+  "likes": 1267,
+  "comments": 416,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=34",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=x7-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36"
+  ]
+}

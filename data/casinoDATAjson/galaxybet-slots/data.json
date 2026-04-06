@@ -1,0 +1,35 @@
+{
+  "name": "Galaxy.bet Slots",
+  "slug": "galaxybet-slots",
+  "country": "United Kingdom",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 333,
+  "providers": [
+    "Merkur",
+    "IGT",
+    "Thunderkick",
+    "Yggdrasil",
+    "Spinlogic Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 74,
+  "comments": 371,
+  "operatingCountries": [
+    "South Africa",
+    "Netherlands",
+    "France",
+    "New Zealand",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=172",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=galaxybet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174"
+  ]
+}

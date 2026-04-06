@@ -1,0 +1,31 @@
+{
+  "name": "Vegadream",
+  "slug": "vegadream",
+  "country": "Morocco",
+  "bonus": "100% up to €550 + 100 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 224,
+  "providers": [],
+  "likes": 1906,
+  "comments": 431,
+  "operatingCountries": [
+    "Portugal",
+    "Norway",
+    "Austria",
+    "Morocco",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=11",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=paradise-8",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Spinanga Slots",
+  "slug": "spinanga-slots",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 200% up to $1000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Gamomat"
+  ],
+  "likes": 1643,
+  "comments": 439,
+  "operatingCountries": [
+    "New Zealand",
+    "United Kingdom",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=74",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinanga-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78"
+  ]
+}

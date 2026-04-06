@@ -1,0 +1,27 @@
+{
+  "name": "SirWin",
+  "slug": "sirwin",
+  "country": "Morocco",
+  "bonus": "100% up to $250",
+  "rating": 2.9,
+  "revenueRank": 45,
+  "spins": 347,
+  "providers": [],
+  "likes": 1700,
+  "comments": 116,
+  "operatingCountries": [
+    "France",
+    "Morocco",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotlux",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ],
+  "reviewCount": 5
+}

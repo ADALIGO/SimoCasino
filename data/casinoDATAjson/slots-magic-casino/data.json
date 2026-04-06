@@ -1,0 +1,35 @@
+{
+  "name": "Slots Magic Casino",
+  "slug": "slots-magic-casino",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 50% up to $300",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 406,
+  "providers": [
+    "Habanero Systems",
+    "Novomatic",
+    "Amatic Industries",
+    "Pragmatic Play"
+  ],
+  "likes": 1519,
+  "comments": 197,
+  "operatingCountries": [
+    "Germany",
+    "Spain",
+    "Norway",
+    "Finland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-magic-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

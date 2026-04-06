@@ -1,0 +1,28 @@
+{
+  "name": "Milky Way Slots",
+  "slug": "milky-way-slots",
+  "country": "Spain",
+  "bonus": "First Deposit 300% up to $500 + 300 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Habanero Systems"
+  ],
+  "likes": 1789,
+  "comments": 468,
+  "operatingCountries": [
+    "Switzerland",
+    "Portugal",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=156",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=milky-way-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

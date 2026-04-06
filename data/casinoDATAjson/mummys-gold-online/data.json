@@ -1,0 +1,31 @@
+{
+  "name": "Mummys Gold Online",
+  "slug": "mummys-gold-online",
+  "country": "Portugal",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 177,
+  "providers": [
+    "Playtech",
+    "Push Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1084,
+  "comments": 190,
+  "operatingCountries": [
+    "Ireland",
+    "South Africa",
+    "Poland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=54",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mummys-gold-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56"
+  ]
+}

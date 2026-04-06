@@ -1,0 +1,28 @@
+{
+  "name": "Vulkan Vegas",
+  "slug": "vulkan-vegas",
+  "country": "Morocco",
+  "bonus": "140% up to €500 + 50 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 444,
+  "providers": [],
+  "likes": 682,
+  "comments": 433,
+  "operatingCountries": [
+    "Sweden",
+    "Poland",
+    "Czech Republic",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-sieger",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101"
+  ],
+  "reviewCount": 5
+}

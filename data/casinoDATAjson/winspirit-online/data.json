@@ -1,0 +1,31 @@
+{
+  "name": "WinSpirit Online",
+  "slug": "winspirit-online",
+  "country": "Morocco",
+  "bonus": "First Deposit 100% up to $50 + 100 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 58,
+  "providers": [
+    "Amatic Industries",
+    "Playtech",
+    "Push Gaming"
+  ],
+  "likes": 264,
+  "comments": 55,
+  "operatingCountries": [
+    "United States",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=46",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winspirit-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "HeroSpin Online",
+  "slug": "herospin-online",
+  "country": "Spain",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Greentube",
+    "Aristocrat",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1792,
+  "comments": 93,
+  "operatingCountries": [
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=herospin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161"
+  ]
+}

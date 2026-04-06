@@ -1,0 +1,28 @@
+{
+  "name": "Apollo Slots Games",
+  "slug": "apollo-slots-games",
+  "country": "New Zealand",
+  "bonus": "100% up to $100 + 20 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 124,
+  "providers": [
+    "Wager Gaming"
+  ],
+  "likes": 1032,
+  "comments": 433,
+  "operatingCountries": [
+    "Czech Republic",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=apollo-slots-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

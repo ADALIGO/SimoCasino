@@ -1,0 +1,28 @@
+{
+  "name": "WonderLuck",
+  "slug": "wonderluck",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 270,
+  "providers": [],
+  "likes": 1930,
+  "comments": 250,
+  "operatingCountries": [
+    "Denmark",
+    "Sweden",
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-x",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ],
+  "reviewCount": 5
+}

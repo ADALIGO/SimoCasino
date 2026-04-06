@@ -1,0 +1,32 @@
+{
+  "name": "Bitsler Slots",
+  "slug": "bitsler-slots",
+  "country": "Czech Republic",
+  "bonus": "Reload Bonus 125% up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 306,
+  "providers": [
+    "Rival",
+    "Evolution Gaming",
+    "Push Gaming",
+    "NextGen",
+    "Aristocrat"
+  ],
+  "likes": 1774,
+  "comments": 34,
+  "operatingCountries": [
+    "Ireland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=177",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitsler-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

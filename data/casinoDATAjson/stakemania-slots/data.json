@@ -1,0 +1,31 @@
+{
+  "name": "StakeMania Slots",
+  "slug": "stakemania-slots",
+  "country": "Australia",
+  "bonus": "100% up to $2000 + 200 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "Red Tiger"
+  ],
+  "likes": 968,
+  "comments": 433,
+  "operatingCountries": [
+    "Portugal",
+    "Poland",
+    "Czech Republic",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=74",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stakemania-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

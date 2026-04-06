@@ -1,0 +1,36 @@
+{
+  "name": "sultanbet Slots",
+  "slug": "sultanbet-slots",
+  "country": "Czech Republic",
+  "bonus": "100% up to $100 + 100 Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 129,
+  "providers": [
+    "Thunderkick",
+    "Quickspin",
+    "WMS",
+    "Spinlogic Gaming",
+    "Wager Gaming",
+    "Ash Gaming",
+    "Genesis Gaming",
+    "1x2gaming"
+  ],
+  "likes": 43,
+  "comments": 24,
+  "operatingCountries": [
+    "Sweden",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=54",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sultanbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58"
+  ]
+}

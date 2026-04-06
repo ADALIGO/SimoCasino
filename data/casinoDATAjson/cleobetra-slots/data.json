@@ -1,0 +1,35 @@
+{
+  "name": "Cleobetra Slots",
+  "slug": "cleobetra-slots",
+  "country": "Netherlands",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 270,
+  "providers": [
+    "Merkur",
+    "Rival",
+    "EGT",
+    "Wager Gaming",
+    "NextGen",
+    "Pragmatic Play",
+    "Saucify",
+    "1x2gaming"
+  ],
+  "likes": 1626,
+  "comments": 116,
+  "operatingCountries": [
+    "Germany",
+    "Australia",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cleobetra-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

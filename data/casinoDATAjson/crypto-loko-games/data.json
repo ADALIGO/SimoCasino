@@ -1,0 +1,35 @@
+{
+  "name": "Crypto Loko Games",
+  "slug": "crypto-loko-games",
+  "country": "Australia",
+  "bonus": "100% up to $1000 + 50 Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Yggdrasil",
+    "NetEnt",
+    "Saucify",
+    "Merkur",
+    "Real Time Gaming",
+    "NextGen",
+    "Iron Dog Studio"
+  ],
+  "likes": 1286,
+  "comments": 290,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crypto-loko-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Riviera",
+  "slug": "riviera",
+  "country": "Morocco",
+  "bonus": "200% up to €500 + 200 Spins",
+  "rating": 2.7,
+  "revenueRank": 1,
+  "spins": 71,
+  "providers": [],
+  "likes": 1479,
+  "comments": 281,
+  "operatingCountries": [
+    "Czech Republic",
+    "Finland",
+    "Austria",
+    "Italy",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=music-hall",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ],
+  "reviewCount": 5
+}

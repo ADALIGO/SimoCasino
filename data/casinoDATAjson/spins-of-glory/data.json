@@ -1,0 +1,27 @@
+{
+  "name": "Spins of Glory",
+  "slug": "spins-of-glory",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 3,
+  "revenueRank": 25,
+  "spins": 50,
+  "providers": [],
+  "likes": 707,
+  "comments": 147,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=5",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-swipe",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Dream Vegas",
+  "slug": "dream-vegas",
+  "country": "Morocco",
+  "bonus": "200% up to €2500 + 50 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 436,
+  "providers": [],
+  "likes": 213,
+  "comments": 442,
+  "operatingCountries": [
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=8",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=power-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10"
+  ],
+  "reviewCount": 5
+}

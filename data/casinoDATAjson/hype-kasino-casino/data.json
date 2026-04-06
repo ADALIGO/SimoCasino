@@ -1,0 +1,35 @@
+{
+  "name": "Hype Kasino Casino",
+  "slug": "hype-kasino-casino",
+  "country": "Spain",
+  "bonus": "150% Bonus up to $200",
+  "rating": 3.5,
+  "revenueRank": 45,
+  "spins": 54,
+  "providers": [
+    "Yggdrasil",
+    "Spinlogic Gaming",
+    "Wager Gaming",
+    "Merkur",
+    "Ash Gaming",
+    "NetEnt",
+    "WMS",
+    "Habanero Systems"
+  ],
+  "likes": 903,
+  "comments": 333,
+  "operatingCountries": [
+    "South Africa",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hype-kasino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ]
+}

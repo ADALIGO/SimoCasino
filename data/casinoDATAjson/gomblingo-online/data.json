@@ -1,0 +1,33 @@
+{
+  "name": "Gomblingo Online",
+  "slug": "gomblingo-online",
+  "country": "Belgium",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 135,
+  "providers": [
+    "Arrows Edge",
+    "Push Gaming",
+    "Amatic Industries",
+    "Nolimit City",
+    "Novomatic",
+    "Big Time Gaming"
+  ],
+  "likes": 105,
+  "comments": 477,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gomblingo-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

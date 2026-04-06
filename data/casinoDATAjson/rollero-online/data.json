@@ -1,0 +1,30 @@
+{
+  "name": "Rollero Online",
+  "slug": "rollero-online",
+  "country": "Germany",
+  "bonus": "100% up to $2000 + 150 Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 312,
+  "providers": [
+    "Microgaming",
+    "Thunderkick",
+    "Evolution Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1536,
+  "comments": 221,
+  "operatingCountries": [
+    "Finland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=98",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rollero-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ]
+}

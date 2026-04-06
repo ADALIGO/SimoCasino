@@ -1,0 +1,33 @@
+{
+  "name": "Great Britain Online",
+  "slug": "great-britain-online",
+  "country": "Poland",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 367,
+  "providers": [
+    "Pragmatic Play",
+    "Quickspin"
+  ],
+  "likes": 388,
+  "comments": 159,
+  "operatingCountries": [
+    "Germany",
+    "Portugal",
+    "United Kingdom",
+    "New Zealand",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=66",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=great-britain-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70"
+  ]
+}

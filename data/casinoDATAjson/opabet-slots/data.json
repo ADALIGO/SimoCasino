@@ -1,0 +1,35 @@
+{
+  "name": "Opabet Slots",
+  "slug": "opabet-slots",
+  "country": "Germany",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Spinlogic Gaming",
+    "BetSoft",
+    "Merkur",
+    "Push Gaming",
+    "Blueprint Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 825,
+  "comments": 392,
+  "operatingCountries": [
+    "France",
+    "Italy",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=opabet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154"
+  ]
+}

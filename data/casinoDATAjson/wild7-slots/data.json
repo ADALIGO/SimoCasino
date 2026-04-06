@@ -1,0 +1,36 @@
+{
+  "name": "Wild7 Slots",
+  "slug": "wild7-slots",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Saucify",
+    "Aristocrat",
+    "Pragmatic Play",
+    "1x2gaming",
+    "Microgaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 1211,
+  "comments": 439,
+  "operatingCountries": [
+    "Netherlands",
+    "Germany",
+    "United Kingdom",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wild7-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

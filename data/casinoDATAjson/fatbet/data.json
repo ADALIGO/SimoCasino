@@ -1,0 +1,25 @@
+{
+  "name": "Fatbet",
+  "slug": "fatbet",
+  "country": "Morocco",
+  "bonus": "200% up to €3000",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1940,
+  "comments": 251,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=194",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fatbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196"
+  ],
+  "reviewCount": 5
+}

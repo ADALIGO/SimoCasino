@@ -1,0 +1,36 @@
+{
+  "name": "BC.Game Slots",
+  "slug": "bcgame-slots",
+  "country": "Australia",
+  "bonus": "VIP Bonus 100% up to $100",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "Spinlogic Gaming",
+    "NextGen",
+    "Pragmatic Play",
+    "Thunderkick",
+    "Ash Gaming",
+    "NetEnt"
+  ],
+  "likes": 638,
+  "comments": 275,
+  "operatingCountries": [
+    "Sweden",
+    "Czech Republic",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=100",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bcgame-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104"
+  ]
+}

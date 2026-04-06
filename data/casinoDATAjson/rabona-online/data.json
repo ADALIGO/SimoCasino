@@ -1,0 +1,33 @@
+{
+  "name": "Rabona Online",
+  "slug": "rabona-online",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4.1,
+  "revenueRank": 31,
+  "spins": 426,
+  "providers": [
+    "Merkur",
+    "BetSoft",
+    "Novomatic",
+    "ELK Studios",
+    "Habanero Systems",
+    "IGT"
+  ],
+  "likes": 1001,
+  "comments": 345,
+  "operatingCountries": [
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rabona-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

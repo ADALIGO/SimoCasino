@@ -1,0 +1,32 @@
+{
+  "name": "Rajabets Online",
+  "slug": "rajabets-online",
+  "country": "Germany",
+  "bonus": "50% Bonus up to $500",
+  "rating": 4,
+  "revenueRank": 6,
+  "spins": 38,
+  "providers": [
+    "Gamomat",
+    "Greentube",
+    "NextGen",
+    "1x2gaming"
+  ],
+  "likes": 365,
+  "comments": 234,
+  "operatingCountries": [
+    "Norway",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rajabets-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

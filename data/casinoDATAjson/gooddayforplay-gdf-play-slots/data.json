@@ -1,0 +1,37 @@
+{
+  "name": "GoodDayForPlay (GDF Play) Slots",
+  "slug": "gooddayforplay-gdf-play-slots",
+  "country": "Switzerland",
+  "bonus": "Reload Bonus 200% up to $1000",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 107,
+  "providers": [
+    "Iron Dog Studio",
+    "Big Time Gaming",
+    "Rival",
+    "Greentube",
+    "NextGen",
+    "IGT",
+    "Wager Gaming",
+    "WMS"
+  ],
+  "likes": 692,
+  "comments": 310,
+  "operatingCountries": [
+    "Belgium",
+    "South Africa",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gooddayforplay-gdf-play-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144"
+  ]
+}

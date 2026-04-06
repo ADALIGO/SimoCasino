@@ -1,0 +1,37 @@
+{
+  "name": "Casino Napoli Casino",
+  "slug": "casino-napoli-casino",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 182,
+  "providers": [
+    "NextGen",
+    "Aristocrat",
+    "Real Time Gaming",
+    "Saucify",
+    "EGT",
+    "Genesis Gaming",
+    "Microgaming"
+  ],
+  "likes": 994,
+  "comments": 280,
+  "operatingCountries": [
+    "Finland",
+    "Norway",
+    "Germany",
+    "Netherlands",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=165",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-napoli-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "888Arabic Online",
+  "slug": "888arabic-online",
+  "country": "Poland",
+  "bonus": "250% Bonus up to $100",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 421,
+  "providers": [
+    "Genesis Gaming",
+    "1x2gaming",
+    "Aristocrat",
+    "Novomatic",
+    "NetEnt",
+    "Pragmatic Play",
+    "ELK Studios"
+  ],
+  "likes": 1058,
+  "comments": 71,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=888arabic-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

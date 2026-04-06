@@ -1,0 +1,31 @@
+{
+  "name": "DEDPRZ Online",
+  "slug": "dedprz-online",
+  "country": "Austria",
+  "bonus": "100% up to $100 + 100 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming"
+  ],
+  "likes": 455,
+  "comments": 417,
+  "operatingCountries": [
+    "Morocco",
+    "Australia",
+    "Belgium",
+    "Austria",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=111",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dedprz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114"
+  ]
+}

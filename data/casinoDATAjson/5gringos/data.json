@@ -1,0 +1,31 @@
+{
+  "name": "5Gringos",
+  "slug": "5gringos",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 230,
+  "providers": [],
+  "likes": 1963,
+  "comments": 170,
+  "operatingCountries": [
+    "Australia",
+    "South Africa",
+    "Denmark",
+    "Czech Republic",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gomblingo",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,32 @@
+{
+  "name": "RockstarWin Slots",
+  "slug": "rockstarwin-slots",
+  "country": "Morocco",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 3.2,
+  "revenueRank": 3,
+  "spins": 235,
+  "providers": [
+    "Relax Gaming",
+    "Red Tiger",
+    "Spinlogic Gaming"
+  ],
+  "likes": 202,
+  "comments": 415,
+  "operatingCountries": [
+    "Finland",
+    "Norway",
+    "Poland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=167",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rockstarwin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "LuckyVibe Online",
+  "slug": "luckyvibe-online",
+  "country": "Canada",
+  "bonus": "Cashback up to 150%",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 282,
+  "providers": [
+    "Push Gaming",
+    "Real Time Gaming",
+    "WMS"
+  ],
+  "likes": 438,
+  "comments": 417,
+  "operatingCountries": [
+    "Austria",
+    "Poland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=59",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckyvibe-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61"
+  ]
+}

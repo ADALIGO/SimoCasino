@@ -1,0 +1,33 @@
+{
+  "name": "Bonus Blitz Online",
+  "slug": "bonus-blitz-online",
+  "country": "Spain",
+  "bonus": "Deposit Bonus 100% up to $200",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 485,
+  "providers": [
+    "Evolution Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 12,
+  "comments": 4,
+  "operatingCountries": [
+    "Norway",
+    "Spain",
+    "Czech Republic",
+    "Canada",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bonus-blitz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "CasinoJEFE",
+  "slug": "casinojefe",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.2,
+  "revenueRank": null,
+  "spins": 213,
+  "providers": [],
+  "likes": 442,
+  "comments": 55,
+  "operatingCountries": [
+    "Ireland",
+    "New Zealand",
+    "Finland",
+    "Denmark",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lukki",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ],
+  "reviewCount": 5
+}

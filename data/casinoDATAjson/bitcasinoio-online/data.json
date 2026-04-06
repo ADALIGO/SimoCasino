@@ -1,0 +1,37 @@
+{
+  "name": "BitCasino.io Online",
+  "slug": "bitcasinoio-online",
+  "country": "Norway",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.5,
+  "revenueRank": 39,
+  "spins": 418,
+  "providers": [
+    "ELK Studios",
+    "NetEnt",
+    "Rival",
+    "Wager Gaming",
+    "IGT",
+    "Quickspin",
+    "Push Gaming",
+    "Real Time Gaming"
+  ],
+  "likes": 1638,
+  "comments": 9,
+  "operatingCountries": [
+    "Spain",
+    "Poland",
+    "Netherlands",
+    "Italy",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=160",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitcasinoio-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

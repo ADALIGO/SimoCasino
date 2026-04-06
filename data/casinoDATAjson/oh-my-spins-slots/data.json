@@ -1,0 +1,29 @@
+{
+  "name": "Oh My Spins Slots",
+  "slug": "oh-my-spins-slots",
+  "country": "Italy",
+  "bonus": "Deposit Bonus 250% up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming"
+  ],
+  "likes": 1517,
+  "comments": 117,
+  "operatingCountries": [
+    "South Africa",
+    "Ireland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oh-my-spins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

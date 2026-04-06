@@ -1,0 +1,30 @@
+{
+  "name": "Lekkerbets Slots",
+  "slug": "lekkerbets-slots",
+  "country": "Australia",
+  "bonus": "Welcome Bonus 250% up to $1000",
+  "rating": 3.2,
+  "revenueRank": 35,
+  "spins": 455,
+  "providers": [
+    "Amatic Industries"
+  ],
+  "likes": 426,
+  "comments": 143,
+  "operatingCountries": [
+    "Switzerland",
+    "Australia",
+    "Denmark",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=65",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lekkerbets-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68"
+  ]
+}

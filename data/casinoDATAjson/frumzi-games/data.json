@@ -1,0 +1,30 @@
+{
+  "name": "Frumzi Games",
+  "slug": "frumzi-games",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 150% up to $500",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Blueprint Gaming",
+    "BetSoft",
+    "Yggdrasil"
+  ],
+  "likes": 73,
+  "comments": 366,
+  "operatingCountries": [
+    "Sweden",
+    "Morocco",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=frumzi-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

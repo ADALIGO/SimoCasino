@@ -1,0 +1,26 @@
+{
+  "name": "OceanSpin Slots",
+  "slug": "oceanspin-slots",
+  "country": "New Zealand",
+  "bonus": "VIP Bonus 150% up to $100",
+  "rating": 3.3,
+  "revenueRank": 57,
+  "spins": 460,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 1941,
+  "comments": 358,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=59",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oceanspin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61"
+  ]
+}

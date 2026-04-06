@@ -1,0 +1,29 @@
+{
+  "name": "SatoSpins Slots",
+  "slug": "satospins-slots",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 150% up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 323,
+  "providers": [
+    "Arrows Edge",
+    "Visionary iGaming",
+    "Push Gaming",
+    "Saucify"
+  ],
+  "likes": 1032,
+  "comments": 336,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=130",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=satospins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

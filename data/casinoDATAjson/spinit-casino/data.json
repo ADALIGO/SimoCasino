@@ -1,0 +1,35 @@
+{
+  "name": "Spinit Casino",
+  "slug": "spinit-casino",
+  "country": "Belgium",
+  "bonus": "Deposit Bonus 100% up to $500",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Aristocrat",
+    "Yggdrasil",
+    "Rival",
+    "Push Gaming",
+    "Thunderkick"
+  ],
+  "likes": 598,
+  "comments": 215,
+  "operatingCountries": [
+    "New Zealand",
+    "United Kingdom",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=101",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinit-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105"
+  ]
+}

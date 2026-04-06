@@ -1,0 +1,30 @@
+{
+  "name": "ReefSpins Online",
+  "slug": "reefspins-online",
+  "country": "Switzerland",
+  "bonus": "Welcome Bonus 125% up to $2000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 404,
+  "providers": [
+    "Greentube",
+    "Iron Dog Studio",
+    "ELK Studios"
+  ],
+  "likes": 1922,
+  "comments": 19,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=76",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=reefspins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ]
+}

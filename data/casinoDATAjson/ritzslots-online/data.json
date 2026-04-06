@@ -1,0 +1,31 @@
+{
+  "name": "RitzSlots Online",
+  "slug": "ritzslots-online",
+  "country": "Finland",
+  "bonus": "Deposit Bonus 150% up to $2000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Playtech",
+    "Nolimit City"
+  ],
+  "likes": 564,
+  "comments": 95,
+  "operatingCountries": [
+    "Austria",
+    "Italy",
+    "South Africa",
+    "Ireland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=150",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ritzslots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

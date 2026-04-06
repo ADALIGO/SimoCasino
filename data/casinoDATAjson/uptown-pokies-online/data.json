@@ -1,0 +1,29 @@
+{
+  "name": "Uptown Pokies Online",
+  "slug": "uptown-pokies-online",
+  "country": "Poland",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4.9,
+  "revenueRank": 36,
+  "spins": 0,
+  "providers": [
+    "Blueprint Gaming",
+    "Yggdrasil",
+    "Habanero Systems"
+  ],
+  "likes": 1881,
+  "comments": 177,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=65",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=uptown-pokies-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68"
+  ]
+}

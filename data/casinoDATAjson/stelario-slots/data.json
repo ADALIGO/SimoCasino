@@ -1,0 +1,33 @@
+{
+  "name": "Stelario Slots",
+  "slug": "stelario-slots",
+  "country": "Sweden",
+  "bonus": "100% up to $200 + 20 Spins",
+  "rating": 4.2,
+  "revenueRank": 63,
+  "spins": 168,
+  "providers": [
+    "Real Time Gaming",
+    "Amatic Industries",
+    "Greentube"
+  ],
+  "likes": 362,
+  "comments": 425,
+  "operatingCountries": [
+    "New Zealand",
+    "Italy",
+    "Australia",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stelario-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23"
+  ]
+}

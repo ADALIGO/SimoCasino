@@ -1,0 +1,36 @@
+{
+  "name": "BetOspin Games",
+  "slug": "betospin-games",
+  "country": "Austria",
+  "bonus": "150% Bonus up to $1000",
+  "rating": 3.8,
+  "revenueRank": 74,
+  "spins": 456,
+  "providers": [
+    "Merkur",
+    "Rival",
+    "Spinlogic Gaming",
+    "Nolimit City",
+    "Habanero Systems",
+    "Iron Dog Studio",
+    "Big Time Gaming",
+    "Playtech"
+  ],
+  "likes": 1962,
+  "comments": 36,
+  "operatingCountries": [
+    "Morocco",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betospin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

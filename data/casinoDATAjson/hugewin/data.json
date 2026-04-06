@@ -1,0 +1,26 @@
+{
+  "name": "HugeWin",
+  "slug": "hugewin",
+  "country": "Morocco",
+  "bonus": "100% up to 1000",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 230,
+  "providers": [],
+  "likes": 383,
+  "comments": 358,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jeetcity",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50"
+  ],
+  "reviewCount": 5
+}

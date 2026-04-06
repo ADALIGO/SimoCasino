@@ -1,0 +1,32 @@
+{
+  "name": "GrandWin Slots",
+  "slug": "grandwin-slots",
+  "country": "Sweden",
+  "bonus": "VIP Bonus 50% up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 16,
+  "providers": [
+    "Yggdrasil",
+    "Saucify",
+    "Nolimit City",
+    "Quickspin",
+    "Amatic Industries",
+    "IGT",
+    "BetSoft"
+  ],
+  "likes": 537,
+  "comments": 36,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=46",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grandwin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

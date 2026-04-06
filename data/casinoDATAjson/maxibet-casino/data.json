@@ -1,0 +1,34 @@
+{
+  "name": "MAXiBET Casino",
+  "slug": "maxibet-casino",
+  "country": "Denmark",
+  "bonus": "VIP Bonus 125% up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Nolimit City",
+    "Thunderkick",
+    "Iron Dog Studio",
+    "Pragmatic Play",
+    "Blueprint Gaming",
+    "Habanero Systems",
+    "Amatic Industries"
+  ],
+  "likes": 387,
+  "comments": 333,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maxibet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

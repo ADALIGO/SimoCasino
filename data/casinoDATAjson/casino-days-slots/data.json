@@ -1,0 +1,33 @@
+{
+  "name": "Casino Days Slots",
+  "slug": "casino-days-slots",
+  "country": "France",
+  "bonus": "125% Bonus up to $300",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 205,
+  "providers": [
+    "Wager Gaming",
+    "Arrows Edge",
+    "NetEnt",
+    "Saucify"
+  ],
+  "likes": 795,
+  "comments": 54,
+  "operatingCountries": [
+    "Italy",
+    "Poland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-days-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "21 Games",
+  "slug": "21-games",
+  "country": "Ireland",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 450,
+  "providers": [
+    "Quickspin",
+    "NetEnt",
+    "Blueprint Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 947,
+  "comments": 60,
+  "operatingCountries": [
+    "Morocco",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=101",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103",
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105"
+  ]
+}

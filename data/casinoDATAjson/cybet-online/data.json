@@ -1,0 +1,34 @@
+{
+  "name": "Cybet Online",
+  "slug": "cybet-online",
+  "country": "Netherlands",
+  "bonus": "Welcome Bonus 250% up to $200",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 107,
+  "providers": [
+    "Playtech",
+    "Yggdrasil",
+    "Amatic Industries",
+    "BetSoft",
+    "Nolimit City",
+    "EGT",
+    "Red Tiger"
+  ],
+  "likes": 1252,
+  "comments": 398,
+  "operatingCountries": [
+    "Austria",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cybet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ]
+}

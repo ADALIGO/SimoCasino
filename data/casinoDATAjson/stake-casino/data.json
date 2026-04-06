@@ -1,0 +1,29 @@
+{
+  "name": "Stake Casino",
+  "slug": "stake-casino",
+  "country": "United Kingdom",
+  "bonus": "Welcome Bonus 300% up to $50",
+  "rating": 3.4,
+  "revenueRank": 16,
+  "spins": 0,
+  "providers": [
+    "Relax Gaming"
+  ],
+  "likes": 1669,
+  "comments": 44,
+  "operatingCountries": [
+    "United States",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stake-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

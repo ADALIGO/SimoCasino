@@ -1,0 +1,37 @@
+{
+  "name": "Boo Casino",
+  "slug": "boo-casino",
+  "country": "Switzerland",
+  "bonus": "VIP Bonus 250% up to $300",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 449,
+  "providers": [
+    "Rival",
+    "Iron Dog Studio",
+    "Big Time Gaming",
+    "Greentube",
+    "IGT",
+    "Relax Gaming"
+  ],
+  "likes": 219,
+  "comments": 195,
+  "operatingCountries": [
+    "Ireland",
+    "Italy",
+    "Finland",
+    "Belgium",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=93",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97"
+  ]
+}

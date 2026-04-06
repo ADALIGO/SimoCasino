@@ -1,0 +1,35 @@
+{
+  "name": "Spins of Glory Slots",
+  "slug": "spins-of-glory-slots",
+  "country": "Australia",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 383,
+  "providers": [
+    "WMS",
+    "Habanero Systems",
+    "Aristocrat",
+    "Greentube",
+    "Pragmatic Play",
+    "Novomatic"
+  ],
+  "likes": 1722,
+  "comments": 209,
+  "operatingCountries": [
+    "Switzerland",
+    "Denmark",
+    "Ireland",
+    "Italy",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spins-of-glory-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

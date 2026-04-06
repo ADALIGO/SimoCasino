@@ -1,0 +1,36 @@
+{
+  "name": "MOSTBET Slots",
+  "slug": "mostbet-slots",
+  "country": "South Africa",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 1,
+  "providers": [
+    "Konami",
+    "NetEnt",
+    "Evolution Gaming",
+    "Visionary iGaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 1616,
+  "comments": 412,
+  "operatingCountries": [
+    "Morocco",
+    "Switzerland",
+    "Belgium",
+    "Netherlands",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=114",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mostbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118"
+  ]
+}

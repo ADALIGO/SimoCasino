@@ -1,0 +1,32 @@
+{
+  "name": "DrueckGlueck Casino",
+  "slug": "drueckglueck-casino",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 150% up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 1,
+  "providers": [
+    "Habanero Systems",
+    "NextGen",
+    "Konami",
+    "1x2gaming",
+    "Push Gaming",
+    "Red Tiger"
+  ],
+  "likes": 183,
+  "comments": 386,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=drueckglueck-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "AllSpins Online",
+  "slug": "allspins-online",
+  "country": "Belgium",
+  "bonus": "125% Bonus up to $1000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 405,
+  "providers": [
+    "ELK Studios",
+    "Real Time Gaming",
+    "Yggdrasil",
+    "BetSoft",
+    "Aristocrat",
+    "1x2gaming",
+    "Greentube"
+  ],
+  "likes": 831,
+  "comments": 127,
+  "operatingCountries": [
+    "France",
+    "Sweden",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=allspins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148"
+  ]
+}

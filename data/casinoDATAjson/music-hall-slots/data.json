@@ -1,0 +1,29 @@
+{
+  "name": "Music Hall Slots",
+  "slug": "music-hall-slots",
+  "country": "United States",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 192,
+  "providers": [
+    "Ash Gaming",
+    "Aristocrat",
+    "1x2gaming",
+    "EGT"
+  ],
+  "likes": 342,
+  "comments": 221,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=60",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=music-hall-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62"
+  ]
+}

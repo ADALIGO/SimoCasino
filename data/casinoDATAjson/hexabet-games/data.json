@@ -1,0 +1,36 @@
+{
+  "name": "Hexabet Games",
+  "slug": "hexabet-games",
+  "country": "Denmark",
+  "bonus": "VIP Bonus 300% up to $50",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Ash Gaming",
+    "IGT",
+    "Yggdrasil",
+    "Novomatic",
+    "1x2gaming",
+    "Rival",
+    "Thunderkick"
+  ],
+  "likes": 868,
+  "comments": 454,
+  "operatingCountries": [
+    "New Zealand",
+    "Czech Republic",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hexabet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

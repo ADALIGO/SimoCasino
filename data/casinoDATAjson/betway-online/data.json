@@ -1,0 +1,39 @@
+{
+  "name": "Betway Online",
+  "slug": "betway-online",
+  "country": "South Africa",
+  "bonus": "Deposit Bonus 250% up to $100",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 64,
+  "providers": [
+    "Blueprint Gaming",
+    "Greentube",
+    "Ash Gaming",
+    "Genesis Gaming",
+    "Konami",
+    "EGT",
+    "Arrows Edge",
+    "Thunderkick"
+  ],
+  "likes": 1216,
+  "comments": 279,
+  "operatingCountries": [
+    "United States",
+    "New Zealand",
+    "Australia",
+    "United Kingdom",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betway-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

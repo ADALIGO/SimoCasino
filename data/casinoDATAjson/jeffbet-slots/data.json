@@ -1,0 +1,37 @@
+{
+  "name": "JeffBet Slots",
+  "slug": "jeffbet-slots",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 150% up to $500",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 114,
+  "providers": [
+    "Saucify",
+    "Merkur",
+    "Habanero Systems",
+    "Real Time Gaming",
+    "Red Tiger",
+    "Blueprint Gaming"
+  ],
+  "likes": 1433,
+  "comments": 130,
+  "operatingCountries": [
+    "Australia",
+    "Austria",
+    "United States",
+    "France",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jeffbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61"
+  ]
+}

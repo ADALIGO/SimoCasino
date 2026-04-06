@@ -1,0 +1,30 @@
+{
+  "name": "Love2Play Slots",
+  "slug": "love2play-slots",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger"
+  ],
+  "likes": 879,
+  "comments": 47,
+  "operatingCountries": [
+    "Morocco",
+    "Norway",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=love2play-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

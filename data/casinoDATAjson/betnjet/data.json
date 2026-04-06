@@ -1,0 +1,29 @@
+{
+  "name": "BetNjet",
+  "slug": "betnjet",
+  "country": "Morocco",
+  "bonus": "120% up to €200 + 100 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1064,
+  "comments": 280,
+  "operatingCountries": [
+    "Poland",
+    "Morocco",
+    "New Zealand",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bankonbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ],
+  "reviewCount": 5
+}

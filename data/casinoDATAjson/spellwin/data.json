@@ -1,0 +1,29 @@
+{
+  "name": "Spellwin",
+  "slug": "spellwin",
+  "country": "Morocco",
+  "bonus": "110% up to €750 + 75 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 430,
+  "providers": [],
+  "likes": 209,
+  "comments": 289,
+  "operatingCountries": [
+    "Germany",
+    "Denmark",
+    "Belgium",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betblast-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179"
+  ],
+  "reviewCount": 5
+}

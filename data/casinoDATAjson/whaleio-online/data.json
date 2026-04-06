@@ -1,0 +1,28 @@
+{
+  "name": "Whale.io Online",
+  "slug": "whaleio-online",
+  "country": "New Zealand",
+  "bonus": "First Deposit 200% up to $50 + 100 Free Spins",
+  "rating": 4.7,
+  "revenueRank": 62,
+  "spins": 234,
+  "providers": [
+    "Novomatic"
+  ],
+  "likes": 282,
+  "comments": 318,
+  "operatingCountries": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=whaleio-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13"
+  ]
+}

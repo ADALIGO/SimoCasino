@@ -1,0 +1,37 @@
+{
+  "name": "31bet Online",
+  "slug": "31bet-online",
+  "country": "Canada",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 67,
+  "providers": [
+    "Pragmatic Play",
+    "Blueprint Gaming",
+    "Push Gaming",
+    "Ash Gaming",
+    "Nolimit City",
+    "IGT",
+    "WMS"
+  ],
+  "likes": 1169,
+  "comments": 248,
+  "operatingCountries": [
+    "Austria",
+    "Denmark",
+    "France",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=3",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=31bet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ]
+}

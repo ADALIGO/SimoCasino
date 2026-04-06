@@ -1,0 +1,28 @@
+{
+  "name": "CryptoCasino",
+  "slug": "cryptocasino",
+  "country": "Morocco",
+  "bonus": "200% up to ₮10000 + 50 Spins",
+  "rating": 2.8,
+  "revenueRank": 31,
+  "spins": 348,
+  "providers": [],
+  "likes": 1580,
+  "comments": 173,
+  "operatingCountries": [
+    "Poland",
+    "Finland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=shazam",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122"
+  ],
+  "reviewCount": 5
+}

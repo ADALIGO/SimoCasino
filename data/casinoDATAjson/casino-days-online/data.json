@@ -1,0 +1,35 @@
+{
+  "name": "Casino Days Online",
+  "slug": "casino-days-online",
+  "country": "Denmark",
+  "bonus": "Reload Bonus 200% up to $1000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 174,
+  "providers": [
+    "Saucify",
+    "Big Time Gaming",
+    "Novomatic",
+    "Microgaming",
+    "Gamomat",
+    "Push Gaming"
+  ],
+  "likes": 866,
+  "comments": 421,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-days-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151"
+  ]
+}

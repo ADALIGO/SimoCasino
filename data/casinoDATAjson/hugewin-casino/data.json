@@ -1,0 +1,36 @@
+{
+  "name": "HugeWin Casino",
+  "slug": "hugewin-casino",
+  "country": "France",
+  "bonus": "VIP Bonus 200% up to $100",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 194,
+  "providers": [
+    "IGT",
+    "Wager Gaming",
+    "Red Tiger",
+    "Playtech",
+    "ELK Studios",
+    "Saucify"
+  ],
+  "likes": 1566,
+  "comments": 423,
+  "operatingCountries": [
+    "Morocco",
+    "Finland",
+    "Portugal",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=146",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hugewin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150"
+  ]
+}

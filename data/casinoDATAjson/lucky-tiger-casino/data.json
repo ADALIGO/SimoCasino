@@ -1,0 +1,36 @@
+{
+  "name": "Lucky Tiger Casino",
+  "slug": "lucky-tiger-casino",
+  "country": "Belgium",
+  "bonus": "VIP Bonus 50% up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 17,
+  "providers": [
+    "1x2gaming",
+    "BetSoft",
+    "Ash Gaming",
+    "Playtech",
+    "Iron Dog Studio",
+    "Amatic Industries",
+    "Visionary iGaming"
+  ],
+  "likes": 138,
+  "comments": 237,
+  "operatingCountries": [
+    "Norway",
+    "Czech Republic",
+    "Netherlands",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-tiger-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

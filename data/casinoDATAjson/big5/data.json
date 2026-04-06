@@ -1,0 +1,28 @@
+{
+  "name": "Big5",
+  "slug": "big5",
+  "country": "Morocco",
+  "bonus": "200% up to €500",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 210,
+  "comments": 303,
+  "operatingCountries": [
+    "Poland",
+    "Finland",
+    "United Kingdom",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lincoln",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ],
+  "reviewCount": 5
+}

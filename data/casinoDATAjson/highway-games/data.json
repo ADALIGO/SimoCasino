@@ -1,0 +1,35 @@
+{
+  "name": "Highway Games",
+  "slug": "highway-games",
+  "country": "Norway",
+  "bonus": "100% up to $500 + 100 Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 321,
+  "providers": [
+    "Saucify",
+    "Red Tiger",
+    "Evolution Gaming",
+    "IGT",
+    "Genesis Gaming",
+    "Yggdrasil",
+    "NetEnt",
+    "BetSoft"
+  ],
+  "likes": 147,
+  "comments": 425,
+  "operatingCountries": [
+    "Norway",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=127",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=highway-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

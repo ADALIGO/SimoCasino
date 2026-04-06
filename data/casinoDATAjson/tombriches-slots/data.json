@@ -1,0 +1,32 @@
+{
+  "name": "TombRiches Slots",
+  "slug": "tombriches-slots",
+  "country": "Netherlands",
+  "bonus": "Reload Bonus 50% up to $100",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 493,
+  "providers": [
+    "EGT",
+    "Konami",
+    "Aristocrat",
+    "Yggdrasil",
+    "Red Tiger"
+  ],
+  "likes": 1481,
+  "comments": 146,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=126",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tombriches-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

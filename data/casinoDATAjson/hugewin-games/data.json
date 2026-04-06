@@ -1,0 +1,35 @@
+{
+  "name": "HugeWin Games",
+  "slug": "hugewin-games",
+  "country": "France",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Habanero Systems",
+    "Evolution Gaming",
+    "1x2gaming",
+    "Relax Gaming",
+    "Greentube",
+    "EGT",
+    "ELK Studios"
+  ],
+  "likes": 246,
+  "comments": 411,
+  "operatingCountries": [
+    "Sweden",
+    "Ireland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hugewin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201"
+  ]
+}

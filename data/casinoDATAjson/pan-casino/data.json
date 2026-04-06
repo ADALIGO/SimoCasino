@@ -1,0 +1,36 @@
+{
+  "name": "Pan Casino",
+  "slug": "pan-casino",
+  "country": "Austria",
+  "bonus": "300% Bonus up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 206,
+  "providers": [
+    "EGT",
+    "Amatic Industries",
+    "Pragmatic Play",
+    "NextGen",
+    "Relax Gaming",
+    "Rival"
+  ],
+  "likes": 1538,
+  "comments": 487,
+  "operatingCountries": [
+    "Portugal",
+    "Australia",
+    "Canada",
+    "Netherlands",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=79",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pan-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82"
+  ]
+}

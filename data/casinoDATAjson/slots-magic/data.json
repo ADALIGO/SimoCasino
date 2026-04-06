@@ -1,0 +1,30 @@
+{
+  "name": "Slots Magic",
+  "slug": "slots-magic",
+  "country": "Morocco",
+  "bonus": "100% up to €100 + 50 Spins",
+  "rating": 2.7,
+  "revenueRank": 29,
+  "spins": 267,
+  "providers": [],
+  "likes": 1891,
+  "comments": 443,
+  "operatingCountries": [
+    "New Zealand",
+    "Austria",
+    "United Kingdom",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=90",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-ninja",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94"
+  ],
+  "reviewCount": 5
+}

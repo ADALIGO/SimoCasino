@@ -1,0 +1,29 @@
+{
+  "name": "Frumzi Online",
+  "slug": "frumzi-online",
+  "country": "Norway",
+  "bonus": "Reload Bonus 250% up to $100",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 322,
+  "providers": [
+    "Aristocrat"
+  ],
+  "likes": 1896,
+  "comments": 488,
+  "operatingCountries": [
+    "France",
+    "South Africa",
+    "Ireland",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=frumzi-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ]
+}

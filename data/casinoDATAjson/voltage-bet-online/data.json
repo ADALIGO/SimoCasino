@@ -1,0 +1,30 @@
+{
+  "name": "Voltage Bet Online",
+  "slug": "voltage-bet-online",
+  "country": "Finland",
+  "bonus": "VIP Bonus 200% up to $50",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Microgaming",
+    "EGT",
+    "NetEnt",
+    "NextGen",
+    "Aristocrat"
+  ],
+  "likes": 1727,
+  "comments": 182,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=16",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=voltage-bet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

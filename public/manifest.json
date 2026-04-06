@@ -1,0 +1,16 @@
+{
+  "name": "Simocasino",
+  "short_name": "Simocasino",
+  "description": "Discover the best online casinos, compare bonuses, free spins, and trusted casino reviews.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

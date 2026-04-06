@@ -1,0 +1,39 @@
+{
+  "name": "Casino Kings Slots",
+  "slug": "casino-kings-slots",
+  "country": "Ireland",
+  "bonus": "100% up to $2000 + 50 Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 118,
+  "providers": [
+    "NextGen",
+    "Big Time Gaming",
+    "Thunderkick",
+    "Pragmatic Play",
+    "Real Time Gaming",
+    "Rival",
+    "Iron Dog Studio",
+    "NetEnt"
+  ],
+  "likes": 966,
+  "comments": 487,
+  "operatingCountries": [
+    "Austria",
+    "Denmark",
+    "Poland",
+    "Spain",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=93",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-kings-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97"
+  ]
+}

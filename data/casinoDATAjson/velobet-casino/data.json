@@ -1,0 +1,38 @@
+{
+  "name": "Velobet Casino",
+  "slug": "velobet-casino",
+  "country": "Finland",
+  "bonus": "Welcome Package up to $50",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 373,
+  "providers": [
+    "Red Tiger",
+    "Microgaming",
+    "Visionary iGaming",
+    "Relax Gaming",
+    "Push Gaming",
+    "Gamomat",
+    "Wager Gaming"
+  ],
+  "likes": 201,
+  "comments": 122,
+  "operatingCountries": [
+    "Germany",
+    "Ireland",
+    "New Zealand",
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=velobet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "GoldBet Online",
+  "slug": "goldbet-online",
+  "country": "Norway",
+  "bonus": "150% Bonus up to $200",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 229,
+  "providers": [
+    "Genesis Gaming",
+    "Konami",
+    "Merkur",
+    "Evolution Gaming",
+    "Habanero Systems",
+    "Novomatic",
+    "ELK Studios"
+  ],
+  "likes": 1057,
+  "comments": 30,
+  "operatingCountries": [
+    "Norway",
+    "Austria",
+    "Finland",
+    "New Zealand",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

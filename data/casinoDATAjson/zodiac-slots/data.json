@@ -1,0 +1,32 @@
+{
+  "name": "Zodiac Slots",
+  "slug": "zodiac-slots",
+  "country": "Sweden",
+  "bonus": "100% up to $100 + 150 Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 217,
+  "providers": [
+    "WMS",
+    "Nolimit City",
+    "Spinlogic Gaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 91,
+  "comments": 271,
+  "operatingCountries": [
+    "United Kingdom",
+    "France",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zodiac-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

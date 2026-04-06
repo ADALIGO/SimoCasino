@@ -1,0 +1,35 @@
+{
+  "name": "BlockSpins Games",
+  "slug": "blockspins-games",
+  "country": "Ireland",
+  "bonus": "150% Bonus up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 145,
+  "providers": [
+    "Spinlogic Gaming",
+    "ELK Studios",
+    "Microgaming",
+    "Novomatic"
+  ],
+  "likes": 842,
+  "comments": 400,
+  "operatingCountries": [
+    "United States",
+    "Sweden",
+    "Denmark",
+    "South Africa",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blockspins-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

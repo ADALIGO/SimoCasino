@@ -1,0 +1,30 @@
+{
+  "name": "GladiatorsBet Slots",
+  "slug": "gladiatorsbet-slots",
+  "country": "Spain",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin"
+  ],
+  "likes": 1429,
+  "comments": 163,
+  "operatingCountries": [
+    "Austria",
+    "Ireland",
+    "United States",
+    "Belgium",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gladiatorsbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

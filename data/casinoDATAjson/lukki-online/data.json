@@ -1,0 +1,37 @@
+{
+  "name": "Lukki Online",
+  "slug": "lukki-online",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 125% up to $1000",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 54,
+  "providers": [
+    "Relax Gaming",
+    "Gamomat",
+    "Greentube",
+    "Visionary iGaming",
+    "Rival",
+    "1x2gaming",
+    "Aristocrat",
+    "Ash Gaming"
+  ],
+  "likes": 192,
+  "comments": 137,
+  "operatingCountries": [
+    "United States",
+    "South Africa",
+    "Belgium",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=125",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lukki-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Swift Slots",
+  "slug": "swift-slots",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 150% up to $300",
+  "rating": 3.6,
+  "revenueRank": 7,
+  "spins": 157,
+  "providers": [
+    "Iron Dog Studio",
+    "EGT",
+    "Microgaming",
+    "Pragmatic Play",
+    "WMS",
+    "Red Tiger",
+    "Playtech"
+  ],
+  "likes": 1606,
+  "comments": 457,
+  "operatingCountries": [
+    "Germany",
+    "France",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=swift-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ]
+}

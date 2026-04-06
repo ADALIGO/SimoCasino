@@ -1,0 +1,33 @@
+{
+  "name": "CasinoVibes Slots",
+  "slug": "casinovibes-slots",
+  "country": "Italy",
+  "bonus": "Reload Bonus 125% up to $200",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 4,
+  "providers": [
+    "Blueprint Gaming",
+    "Big Time Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 786,
+  "comments": 200,
+  "operatingCountries": [
+    "Switzerland",
+    "Austria",
+    "France",
+    "Poland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinovibes-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190"
+  ]
+}

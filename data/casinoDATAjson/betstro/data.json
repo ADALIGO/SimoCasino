@@ -1,0 +1,29 @@
+{
+  "name": "betstro",
+  "slug": "betstro",
+  "country": "Morocco",
+  "bonus": "125% up to €/$400",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 367,
+  "providers": [],
+  "likes": 682,
+  "comments": 156,
+  "operatingCountries": [
+    "Ireland",
+    "South Africa",
+    "United States",
+    "Spain",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coinplay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190"
+  ],
+  "reviewCount": 5
+}

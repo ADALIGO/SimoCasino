@@ -1,0 +1,33 @@
+{
+  "name": "AHTI Games Slots",
+  "slug": "ahti-games-slots",
+  "country": "South Africa",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.6,
+  "revenueRank": 59,
+  "spins": 326,
+  "providers": [
+    "Blueprint Gaming",
+    "Spinlogic Gaming",
+    "EGT",
+    "Aristocrat"
+  ],
+  "likes": 1741,
+  "comments": 103,
+  "operatingCountries": [
+    "Poland",
+    "Italy",
+    "New Zealand",
+    "Denmark",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=178",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ahti-games-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

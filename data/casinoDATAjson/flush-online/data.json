@@ -1,0 +1,29 @@
+{
+  "name": "Flush Online",
+  "slug": "flush-online",
+  "country": "Portugal",
+  "bonus": "100% up to $50 + 300 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Playtech"
+  ],
+  "likes": 1021,
+  "comments": 196,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=121",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flush-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

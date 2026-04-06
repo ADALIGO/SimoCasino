@@ -1,0 +1,31 @@
+{
+  "name": "Casinoly Slots",
+  "slug": "casinoly-slots",
+  "country": "Italy",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming"
+  ],
+  "likes": 1424,
+  "comments": 73,
+  "operatingCountries": [
+    "United States",
+    "Spain",
+    "Sweden",
+    "Denmark",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoly-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

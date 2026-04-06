@@ -1,0 +1,36 @@
+{
+  "name": "GoldWin Casino",
+  "slug": "goldwin-casino",
+  "country": "Australia",
+  "bonus": "Reload Bonus 100% up to $2000",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 452,
+  "providers": [
+    "IGT",
+    "Iron Dog Studio",
+    "NextGen",
+    "Konami",
+    "Wager Gaming",
+    "Quickspin"
+  ],
+  "likes": 1086,
+  "comments": 232,
+  "operatingCountries": [
+    "Sweden",
+    "Italy",
+    "Australia",
+    "Austria",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

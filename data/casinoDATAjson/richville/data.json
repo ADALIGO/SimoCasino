@@ -1,0 +1,26 @@
+{
+  "name": "Richville",
+  "slug": "richville",
+  "country": "Morocco",
+  "bonus": "110% up to €1000 + 100 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 219,
+  "providers": [],
+  "likes": 287,
+  "comments": 123,
+  "operatingCountries": [
+    "Denmark",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flukyone",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190"
+  ],
+  "reviewCount": 5
+}

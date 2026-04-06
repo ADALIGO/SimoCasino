@@ -1,0 +1,31 @@
+{
+  "name": "Stelario Online",
+  "slug": "stelario-online",
+  "country": "Italy",
+  "bonus": "300% Bonus up to $1000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 232,
+  "providers": [
+    "Gamomat",
+    "IGT",
+    "Red Tiger",
+    "Push Gaming",
+    "Greentube"
+  ],
+  "likes": 596,
+  "comments": 497,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stelario-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

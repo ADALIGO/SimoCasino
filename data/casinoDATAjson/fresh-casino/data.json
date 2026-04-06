@@ -1,0 +1,34 @@
+{
+  "name": "Fresh Casino",
+  "slug": "fresh-casino",
+  "country": "Denmark",
+  "bonus": "Reload Bonus 300% up to $50",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 79,
+  "providers": [
+    "Konami",
+    "Saucify",
+    "EGT",
+    "Merkur",
+    "Thunderkick"
+  ],
+  "likes": 291,
+  "comments": 249,
+  "operatingCountries": [
+    "Germany",
+    "France",
+    "Belgium",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fresh-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

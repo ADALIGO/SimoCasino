@@ -1,0 +1,36 @@
+{
+  "name": "Rockstar Slots",
+  "slug": "rockstar-slots",
+  "country": "Morocco",
+  "bonus": "Deposit Bonus 100% up to $300",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 224,
+  "providers": [
+    "Visionary iGaming",
+    "Merkur",
+    "NextGen",
+    "Playtech",
+    "Quickspin",
+    "Konami",
+    "Saucify",
+    "EGT"
+  ],
+  "likes": 300,
+  "comments": 139,
+  "operatingCountries": [
+    "Italy",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=78",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rockstar-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82"
+  ]
+}

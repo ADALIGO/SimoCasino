@@ -1,0 +1,31 @@
+{
+  "name": "Betwarts Slots",
+  "slug": "betwarts-slots",
+  "country": "Spain",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Saucify",
+    "Big Time Gaming",
+    "Merkur",
+    "WMS"
+  ],
+  "likes": 1317,
+  "comments": 392,
+  "operatingCountries": [
+    "France",
+    "Poland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=58",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwarts-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Tusk Online",
+  "slug": "tusk-online",
+  "country": "United Kingdom",
+  "bonus": "Reload Bonus 125% up to $500",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 134,
+  "providers": [
+    "Habanero Systems",
+    "Konami",
+    "Wager Gaming",
+    "1x2gaming",
+    "Playtech",
+    "Thunderkick",
+    "NextGen",
+    "Amatic Industries"
+  ],
+  "likes": 813,
+  "comments": 182,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tusk-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67"
+  ]
+}

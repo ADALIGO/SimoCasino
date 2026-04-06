@@ -1,0 +1,29 @@
+{
+  "name": "TrustDice",
+  "slug": "trustdice",
+  "country": "Morocco",
+  "bonus": "200% up to ₿1 + 20 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1321,
+  "comments": 17,
+  "operatingCountries": [
+    "France",
+    "Austria",
+    "Morocco",
+    "New Zealand",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=153",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brasil777",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ],
+  "reviewCount": 5
+}

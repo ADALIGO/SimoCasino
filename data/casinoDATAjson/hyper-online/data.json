@@ -1,0 +1,38 @@
+{
+  "name": "Hyper Online",
+  "slug": "hyper-online",
+  "country": "Sweden",
+  "bonus": "First Deposit 200% up to $200 + 150 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 302,
+  "providers": [
+    "NextGen",
+    "Konami",
+    "Playtech",
+    "IGT",
+    "WMS",
+    "Relax Gaming",
+    "Rival"
+  ],
+  "likes": 1016,
+  "comments": 259,
+  "operatingCountries": [
+    "Portugal",
+    "Canada",
+    "Netherlands",
+    "Finland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hyper-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "MAXiBET",
+  "slug": "maxibet",
+  "country": "Morocco",
+  "bonus": "100% up to €200 + 100 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 474,
+  "providers": [],
+  "likes": 65,
+  "comments": 318,
+  "operatingCountries": [
+    "United Kingdom",
+    "Norway",
+    "United States",
+    "Sweden",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=106",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=12bet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109"
+  ],
+  "reviewCount": 5
+}

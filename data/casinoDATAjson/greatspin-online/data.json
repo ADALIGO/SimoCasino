@@ -1,0 +1,37 @@
+{
+  "name": "GreatSpin Online",
+  "slug": "greatspin-online",
+  "country": "Sweden",
+  "bonus": "VIP Bonus 200% up to $2000",
+  "rating": 4.7,
+  "revenueRank": 37,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "NetEnt",
+    "Merkur",
+    "Greentube",
+    "Visionary iGaming",
+    "Pragmatic Play",
+    "Quickspin",
+    "Novomatic"
+  ],
+  "likes": 1288,
+  "comments": 226,
+  "operatingCountries": [
+    "Belgium",
+    "Sweden",
+    "Poland",
+    "France",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=greatspin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43"
+  ]
+}

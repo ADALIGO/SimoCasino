@@ -1,0 +1,30 @@
+{
+  "name": "Manhattan Slots",
+  "slug": "manhattan-slots",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 115,
+  "providers": [],
+  "likes": 245,
+  "comments": 55,
+  "operatingCountries": [
+    "Switzerland",
+    "United States",
+    "Poland",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wishwin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ],
+  "reviewCount": 5
+}

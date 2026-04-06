@@ -1,0 +1,30 @@
+{
+  "name": "1XBET",
+  "slug": "1xbet",
+  "country": "Morocco",
+  "bonus": "100% up to €300 + 30 Spins",
+  "rating": 2.6,
+  "revenueRank": 5,
+  "spins": 0,
+  "providers": [],
+  "likes": 920,
+  "comments": 222,
+  "operatingCountries": [
+    "United Kingdom",
+    "Italy",
+    "Denmark",
+    "Finland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpotstar",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ],
+  "reviewCount": 5
+}

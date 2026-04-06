@@ -1,0 +1,32 @@
+{
+  "name": "LegendPlay Online",
+  "slug": "legendplay-online",
+  "country": "Germany",
+  "bonus": "VIP Bonus 250% up to $50",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Thunderkick",
+    "Habanero Systems"
+  ],
+  "likes": 751,
+  "comments": 271,
+  "operatingCountries": [
+    "Italy",
+    "Ireland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=legendplay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42"
+  ]
+}

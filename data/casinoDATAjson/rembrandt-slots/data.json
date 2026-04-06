@@ -1,0 +1,33 @@
+{
+  "name": "Rembrandt Slots",
+  "slug": "rembrandt-slots",
+  "country": "France",
+  "bonus": "100% up to $2000 + 150 Spins",
+  "rating": 4.5,
+  "revenueRank": 96,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "EGT",
+    "1x2gaming"
+  ],
+  "likes": 1694,
+  "comments": 62,
+  "operatingCountries": [
+    "Italy",
+    "Portugal",
+    "United States",
+    "Poland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rembrandt-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

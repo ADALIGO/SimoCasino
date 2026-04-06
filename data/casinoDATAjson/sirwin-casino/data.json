@@ -1,0 +1,36 @@
+{
+  "name": "SirWin Casino",
+  "slug": "sirwin-casino",
+  "country": "Spain",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 240,
+  "providers": [
+    "Konami",
+    "Genesis Gaming",
+    "Novomatic",
+    "BetSoft",
+    "Nolimit City",
+    "Arrows Edge",
+    "NetEnt",
+    "Gamomat"
+  ],
+  "likes": 1569,
+  "comments": 254,
+  "operatingCountries": [
+    "South Africa",
+    "Netherlands",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sirwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

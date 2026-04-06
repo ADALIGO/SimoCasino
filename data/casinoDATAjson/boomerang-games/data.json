@@ -1,0 +1,33 @@
+{
+  "name": "Boomerang Games",
+  "slug": "boomerang-games",
+  "country": "Sweden",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 346,
+  "providers": [
+    "Amatic Industries",
+    "Pragmatic Play",
+    "Microgaming",
+    "Ash Gaming"
+  ],
+  "likes": 1580,
+  "comments": 158,
+  "operatingCountries": [
+    "United States",
+    "France",
+    "United Kingdom",
+    "Norway",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boomerang-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

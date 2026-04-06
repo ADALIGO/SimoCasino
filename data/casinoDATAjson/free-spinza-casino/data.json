@@ -1,0 +1,34 @@
+{
+  "name": "Free Spinza Casino",
+  "slug": "free-spinza-casino",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 200% up to $1000",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "NextGen",
+    "WMS",
+    "EGT"
+  ],
+  "likes": 1449,
+  "comments": 380,
+  "operatingCountries": [
+    "Austria",
+    "Sweden",
+    "South Africa",
+    "Portugal",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=free-spinza-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "b-Bets Casino",
+  "slug": "b-bets-casino",
+  "country": "Germany",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "NextGen",
+    "Playtech",
+    "Wager Gaming",
+    "Nolimit City",
+    "Push Gaming",
+    "Relax Gaming",
+    "IGT"
+  ],
+  "likes": 1881,
+  "comments": 91,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=42",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=b-bets-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

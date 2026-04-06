@@ -1,0 +1,35 @@
+{
+  "name": "The Stake House Casino",
+  "slug": "the-stake-house-casino",
+  "country": "Canada",
+  "bonus": "First Deposit 200% up to $50 + 20 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 475,
+  "providers": [
+    "Thunderkick",
+    "Greentube",
+    "Quickspin",
+    "NetEnt"
+  ],
+  "likes": 1407,
+  "comments": 63,
+  "operatingCountries": [
+    "Portugal",
+    "Finland",
+    "Spain",
+    "Denmark",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=the-stake-house-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19"
+  ]
+}

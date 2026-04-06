@@ -1,0 +1,31 @@
+{
+  "name": "Wins88",
+  "slug": "wins88",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 192,
+  "providers": [],
+  "likes": 1807,
+  "comments": 91,
+  "operatingCountries": [
+    "Italy",
+    "Spain",
+    "United Kingdom",
+    "Denmark",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=194",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-bonanza",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198"
+  ],
+  "reviewCount": 5
+}

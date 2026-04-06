@@ -1,0 +1,32 @@
+{
+  "name": "MadCasino Slots",
+  "slug": "madcasino-slots",
+  "country": "Portugal",
+  "bonus": "250% Bonus up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Real Time Gaming",
+    "Rival",
+    "Iron Dog Studio"
+  ],
+  "likes": 1315,
+  "comments": 403,
+  "operatingCountries": [
+    "Germany",
+    "Italy",
+    "Norway",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=madcasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

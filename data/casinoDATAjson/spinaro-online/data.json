@@ -1,0 +1,30 @@
+{
+  "name": "Spinaro Online",
+  "slug": "spinaro-online",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 200% up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 477,
+  "providers": [
+    "Evolution Gaming",
+    "Nolimit City",
+    "Playtech",
+    "BetSoft",
+    "Real Time Gaming"
+  ],
+  "likes": 1394,
+  "comments": 40,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinaro-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

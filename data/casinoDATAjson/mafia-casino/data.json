@@ -1,0 +1,29 @@
+{
+  "name": "Mafia Casino",
+  "slug": "mafia-casino",
+  "country": "Austria",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 30,
+  "providers": [
+    "Habanero Systems"
+  ],
+  "likes": 41,
+  "comments": 346,
+  "operatingCountries": [
+    "Spain",
+    "Norway",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=116",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mafia-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

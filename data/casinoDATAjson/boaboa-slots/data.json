@@ -1,0 +1,33 @@
+{
+  "name": "BoaBoa Slots",
+  "slug": "boaboa-slots",
+  "country": "Morocco",
+  "bonus": "Cashback up to 200%",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 498,
+  "providers": [
+    "Merkur",
+    "Pragmatic Play",
+    "Ash Gaming",
+    "Novomatic",
+    "Amatic Industries",
+    "Quickspin",
+    "EGT"
+  ],
+  "likes": 227,
+  "comments": 182,
+  "operatingCountries": [
+    "Denmark",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boaboa-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ]
+}

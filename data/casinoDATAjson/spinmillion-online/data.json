@@ -1,0 +1,36 @@
+{
+  "name": "SpinMillion Online",
+  "slug": "spinmillion-online",
+  "country": "Switzerland",
+  "bonus": "50% Bonus up to $100",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Pragmatic Play",
+    "Habanero Systems",
+    "Genesis Gaming",
+    "Real Time Gaming",
+    "Merkur",
+    "Konami",
+    "1x2gaming"
+  ],
+  "likes": 1172,
+  "comments": 380,
+  "operatingCountries": [
+    "Sweden",
+    "Australia",
+    "Portugal",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=133",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinmillion-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ]
+}

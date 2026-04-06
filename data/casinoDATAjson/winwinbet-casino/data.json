@@ -1,0 +1,33 @@
+{
+  "name": "WinWin.Bet Casino",
+  "slug": "winwinbet-casino",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 300% up to $2000",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 61,
+  "providers": [
+    "NetEnt",
+    "NextGen",
+    "Thunderkick",
+    "Iron Dog Studio",
+    "Playtech",
+    "Relax Gaming"
+  ],
+  "likes": 1063,
+  "comments": 245,
+  "operatingCountries": [
+    "Norway",
+    "Morocco",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winwinbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "BetRebels Online",
+  "slug": "betrebels-online",
+  "country": "Australia",
+  "bonus": "100% up to $2000 + 200 Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 298,
+  "providers": [
+    "Wager Gaming"
+  ],
+  "likes": 1755,
+  "comments": 204,
+  "operatingCountries": [
+    "United States",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betrebels-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

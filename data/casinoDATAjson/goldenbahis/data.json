@@ -1,0 +1,28 @@
+{
+  "name": "GoldenBahis",
+  "slug": "goldenbahis",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.6,
+  "revenueRank": 59,
+  "spins": 20,
+  "providers": [],
+  "likes": 1410,
+  "comments": 305,
+  "operatingCountries": [
+    "Belgium",
+    "Morocco",
+    "New Zealand",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=free-spinza",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ],
+  "reviewCount": 5
+}

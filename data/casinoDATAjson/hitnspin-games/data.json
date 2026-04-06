@@ -1,0 +1,30 @@
+{
+  "name": "Hit'n'Spin Games",
+  "slug": "hitnspin-games",
+  "country": "Spain",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 436,
+  "providers": [
+    "Push Gaming",
+    "NetEnt",
+    "Thunderkick",
+    "Genesis Gaming"
+  ],
+  "likes": 1128,
+  "comments": 132,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hitnspin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

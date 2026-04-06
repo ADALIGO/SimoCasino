@@ -1,0 +1,36 @@
+{
+  "name": "Cybet Casino",
+  "slug": "cybet-casino",
+  "country": "South Africa",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 482,
+  "providers": [
+    "Amatic Industries",
+    "NetEnt",
+    "Novomatic",
+    "IGT",
+    "Yggdrasil",
+    "Playtech",
+    "Thunderkick",
+    "Red Tiger"
+  ],
+  "likes": 1697,
+  "comments": 47,
+  "operatingCountries": [
+    "France",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cybet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

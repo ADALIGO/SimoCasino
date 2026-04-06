@@ -1,0 +1,32 @@
+{
+  "name": "Royal Reels Casino",
+  "slug": "royal-reels-casino",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 125% up to $1000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 374,
+  "providers": [
+    "Push Gaming",
+    "ELK Studios",
+    "Saucify",
+    "Konami",
+    "WMS"
+  ],
+  "likes": 1645,
+  "comments": 458,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-reels-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "CatCasino Online",
+  "slug": "catcasino-online",
+  "country": "Portugal",
+  "bonus": "Reload Bonus 250% up to $2000",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 343,
+  "providers": [
+    "Thunderkick",
+    "Red Tiger"
+  ],
+  "likes": 1687,
+  "comments": 306,
+  "operatingCountries": [
+    "Sweden",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=catcasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

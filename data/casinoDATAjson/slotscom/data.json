@@ -1,0 +1,27 @@
+{
+  "name": "Slots.com",
+  "slug": "slotscom",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 405,
+  "providers": [],
+  "likes": 1675,
+  "comments": 43,
+  "operatingCountries": [
+    "Morocco",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fun",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,36 @@
+{
+  "name": "GoldSpin Games",
+  "slug": "goldspin-games",
+  "country": "Netherlands",
+  "bonus": "Reload Bonus 50% up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 422,
+  "providers": [
+    "Amatic Industries",
+    "Blueprint Gaming",
+    "Arrows Edge",
+    "Greentube",
+    "Merkur",
+    "WMS",
+    "IGT",
+    "BetSoft"
+  ],
+  "likes": 859,
+  "comments": 252,
+  "operatingCountries": [
+    "Sweden",
+    "Denmark",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=16",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldspin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19"
+  ]
+}

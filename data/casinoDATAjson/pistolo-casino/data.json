@@ -1,0 +1,35 @@
+{
+  "name": "Pistolo Casino",
+  "slug": "pistolo-casino",
+  "country": "South Africa",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Wager Gaming",
+    "Evolution Gaming",
+    "Ash Gaming",
+    "Microgaming",
+    "IGT"
+  ],
+  "likes": 983,
+  "comments": 232,
+  "operatingCountries": [
+    "Switzerland",
+    "Morocco",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pistolo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

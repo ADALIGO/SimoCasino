@@ -1,0 +1,35 @@
+{
+  "name": "SirWin Online",
+  "slug": "sirwin-online",
+  "country": "South Africa",
+  "bonus": "Deposit Bonus 125% up to $300",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 151,
+  "providers": [
+    "Spinlogic Gaming",
+    "Konami",
+    "ELK Studios",
+    "Microgaming",
+    "Rival",
+    "Merkur"
+  ],
+  "likes": 1751,
+  "comments": 399,
+  "operatingCountries": [
+    "Belgium",
+    "Denmark",
+    "Switzerland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=72",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sirwin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

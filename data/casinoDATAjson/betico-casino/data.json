@@ -1,0 +1,32 @@
+{
+  "name": "Betico Casino",
+  "slug": "betico-casino",
+  "country": "Italy",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Relax Gaming",
+    "Genesis Gaming",
+    "BetSoft",
+    "Nolimit City",
+    "Pragmatic Play",
+    "Visionary iGaming",
+    "Thunderkick"
+  ],
+  "likes": 1647,
+  "comments": 56,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=150",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betico-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

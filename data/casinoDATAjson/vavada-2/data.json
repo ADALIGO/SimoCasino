@@ -1,0 +1,26 @@
+{
+  "name": "VAVADA",
+  "slug": "vavada",
+  "country": "Morocco",
+  "bonus": "100 Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1364,
+  "comments": 199,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=77",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vavada-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ],
+  "reviewCount": 5
+}

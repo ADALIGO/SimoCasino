@@ -1,0 +1,33 @@
+{
+  "name": "Win A Day Slots",
+  "slug": "win-a-day-slots",
+  "country": "Austria",
+  "bonus": "First Deposit 100% up to $2000 + 300 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 308,
+  "providers": [
+    "Relax Gaming",
+    "Evolution Gaming",
+    "Microgaming",
+    "Nolimit City",
+    "Aristocrat"
+  ],
+  "likes": 925,
+  "comments": 163,
+  "operatingCountries": [
+    "Portugal",
+    "New Zealand",
+    "Netherlands",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=win-a-day-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ]
+}

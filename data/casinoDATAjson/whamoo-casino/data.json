@@ -1,0 +1,36 @@
+{
+  "name": "Whamoo Casino",
+  "slug": "whamoo-casino",
+  "country": "Belgium",
+  "bonus": "100% up to $500 + 20 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 51,
+  "providers": [
+    "Greentube",
+    "Arrows Edge",
+    "Saucify",
+    "Relax Gaming",
+    "Amatic Industries",
+    "Push Gaming",
+    "Pragmatic Play",
+    "WMS"
+  ],
+  "likes": 93,
+  "comments": 199,
+  "operatingCountries": [
+    "Czech Republic",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=whamoo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

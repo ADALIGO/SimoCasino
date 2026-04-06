@@ -1,0 +1,26 @@
+{
+  "name": "Mr Slot",
+  "slug": "mr-slot",
+  "country": "Morocco",
+  "bonus": "100% up to €200 + 50 Spins",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 152,
+  "providers": [],
+  "likes": 1924,
+  "comments": 389,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rolletto",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74"
+  ],
+  "reviewCount": 5
+}

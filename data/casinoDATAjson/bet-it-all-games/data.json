@@ -1,0 +1,32 @@
+{
+  "name": "Bet It All Games",
+  "slug": "bet-it-all-games",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 250% up to $100 + 250 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 229,
+  "providers": [
+    "Wager Gaming",
+    "Push Gaming",
+    "NetEnt",
+    "Visionary iGaming",
+    "1x2gaming"
+  ],
+  "likes": 1546,
+  "comments": 46,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=147",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bet-it-all-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151"
+  ]
+}

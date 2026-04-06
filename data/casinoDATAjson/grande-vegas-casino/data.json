@@ -1,0 +1,31 @@
+{
+  "name": "Grande Vegas Casino",
+  "slug": "grande-vegas-casino",
+  "country": "Finland",
+  "bonus": "100% up to $1000 + 250 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 164,
+  "providers": [
+    "Greentube"
+  ],
+  "likes": 1071,
+  "comments": 340,
+  "operatingCountries": [
+    "South Africa",
+    "Germany",
+    "Ireland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grande-vegas-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ]
+}

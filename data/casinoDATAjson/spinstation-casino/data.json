@@ -1,0 +1,32 @@
+{
+  "name": "SpinStation Casino",
+  "slug": "spinstation-casino",
+  "country": "France",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "BetSoft"
+  ],
+  "likes": 1295,
+  "comments": 457,
+  "operatingCountries": [
+    "Austria",
+    "Switzerland",
+    "Belgium",
+    "Portugal",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=25",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinstation-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ]
+}

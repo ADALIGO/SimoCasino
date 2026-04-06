@@ -1,0 +1,35 @@
+{
+  "name": "Magic Red Casino",
+  "slug": "magic-red-casino",
+  "country": "Austria",
+  "bonus": "First Deposit 250% up to $500 + 20 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 431,
+  "providers": [
+    "Wager Gaming",
+    "Novomatic",
+    "Gamomat",
+    "Arrows Edge",
+    "Evolution Gaming",
+    "Habanero Systems"
+  ],
+  "likes": 275,
+  "comments": 98,
+  "operatingCountries": [
+    "Canada",
+    "Spain",
+    "Finland",
+    "Germany",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=magic-red-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112"
+  ]
+}

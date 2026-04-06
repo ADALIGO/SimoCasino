@@ -1,0 +1,36 @@
+{
+  "name": "DBbet Online",
+  "slug": "dbbet-online",
+  "country": "Belgium",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.1,
+  "revenueRank": 57,
+  "spins": 397,
+  "providers": [
+    "Quickspin",
+    "Big Time Gaming",
+    "Spinlogic Gaming",
+    "Evolution Gaming",
+    "Yggdrasil",
+    "Aristocrat",
+    "Rival",
+    "ELK Studios"
+  ],
+  "likes": 1414,
+  "comments": 152,
+  "operatingCountries": [
+    "Finland",
+    "Denmark",
+    "Netherlands",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=3",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dbbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5"
+  ]
+}

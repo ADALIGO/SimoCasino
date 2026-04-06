@@ -1,0 +1,25 @@
+{
+  "name": "21Prive",
+  "slug": "21prive",
+  "country": "Morocco",
+  "bonus": "100% up to €300 + 200 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 482,
+  "providers": [],
+  "likes": 912,
+  "comments": 118,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=11",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=prime",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13"
+  ],
+  "reviewCount": 5
+}

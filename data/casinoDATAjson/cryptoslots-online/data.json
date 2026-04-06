@@ -1,0 +1,30 @@
+{
+  "name": "CryptoSlots Online",
+  "slug": "cryptoslots-online",
+  "country": "France",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 359,
+  "providers": [
+    "Quickspin",
+    "Iron Dog Studio"
+  ],
+  "likes": 1220,
+  "comments": 160,
+  "operatingCountries": [
+    "Switzerland",
+    "Australia",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptoslots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167"
+  ]
+}

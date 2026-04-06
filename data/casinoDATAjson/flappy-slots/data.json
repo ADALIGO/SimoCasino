@@ -1,0 +1,34 @@
+{
+  "name": "Flappy Slots",
+  "slug": "flappy-slots",
+  "country": "Italy",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 390,
+  "providers": [
+    "Greentube",
+    "Yggdrasil",
+    "Konami",
+    "IGT",
+    "Red Tiger",
+    "Thunderkick",
+    "Merkur"
+  ],
+  "likes": 1525,
+  "comments": 357,
+  "operatingCountries": [
+    "Sweden",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=flappy-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

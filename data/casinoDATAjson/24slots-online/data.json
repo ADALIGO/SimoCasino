@@ -1,0 +1,26 @@
+{
+  "name": "24Slots Online",
+  "slug": "24slots-online",
+  "country": "New Zealand",
+  "bonus": "50% Bonus up to $50",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 189,
+  "providers": [
+    "Spinlogic Gaming"
+  ],
+  "likes": 1742,
+  "comments": 234,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=24slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

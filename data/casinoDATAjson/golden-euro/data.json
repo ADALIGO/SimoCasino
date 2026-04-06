@@ -1,0 +1,31 @@
+{
+  "name": "Golden Euro",
+  "slug": "golden-euro",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 0,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "€15",
+    "2.7 / 5"
+  ],
+  "likes": 1948,
+  "comments": 360,
+  "operatingCountries": [
+    "Portugal",
+    "Germany",
+    "Norway",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrpacho",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ],
+  "reviewCount": 0
+}

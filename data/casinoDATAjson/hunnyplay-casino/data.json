@@ -1,0 +1,32 @@
+{
+  "name": "HunnyPlay Casino",
+  "slug": "hunnyplay-casino",
+  "country": "Germany",
+  "bonus": "100% up to $200 + 250 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 402,
+  "providers": [
+    "Playtech",
+    "Genesis Gaming",
+    "Wager Gaming",
+    "EGT",
+    "Iron Dog Studio"
+  ],
+  "likes": 1930,
+  "comments": 33,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hunnyplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146"
+  ]
+}

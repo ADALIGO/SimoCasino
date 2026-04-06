@@ -1,0 +1,35 @@
+{
+  "name": "GoldBet Casino",
+  "slug": "goldbet-casino",
+  "country": "Canada",
+  "bonus": "50% Bonus up to $50",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 362,
+  "providers": [
+    "Rival",
+    "Arrows Edge",
+    "EGT",
+    "Amatic Industries",
+    "Red Tiger",
+    "Novomatic",
+    "Yggdrasil"
+  ],
+  "likes": 1032,
+  "comments": 500,
+  "operatingCountries": [
+    "Australia",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=177",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "DBbet Slots",
+  "slug": "dbbet-slots",
+  "country": "Switzerland",
+  "bonus": "First Deposit 150% up to $50 + 250 Free Spins",
+  "rating": 4,
+  "revenueRank": 88,
+  "spins": 320,
+  "providers": [
+    "Thunderkick",
+    "Push Gaming",
+    "Iron Dog Studio",
+    "Arrows Edge",
+    "Playtech",
+    "IGT"
+  ],
+  "likes": 1712,
+  "comments": 377,
+  "operatingCountries": [
+    "Belgium",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dbbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133"
+  ]
+}

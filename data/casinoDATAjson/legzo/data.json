@@ -1,0 +1,27 @@
+{
+  "name": "Legzo",
+  "slug": "legzo",
+  "country": "Morocco",
+  "bonus": "50% up to €600 + 50 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 51,
+  "providers": [],
+  "likes": 284,
+  "comments": 163,
+  "operatingCountries": [
+    "United Kingdom",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=evobet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113"
+  ],
+  "reviewCount": 5
+}

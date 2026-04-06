@@ -1,0 +1,36 @@
+{
+  "name": "Whamoo Slots",
+  "slug": "whamoo-slots",
+  "country": "United Kingdom",
+  "bonus": "100% up to $2000 + 20 Spins",
+  "rating": 3.9,
+  "revenueRank": 44,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Nolimit City",
+    "Quickspin",
+    "Pragmatic Play",
+    "Red Tiger",
+    "BetSoft"
+  ],
+  "likes": 1,
+  "comments": 314,
+  "operatingCountries": [
+    "Ireland",
+    "Belgium",
+    "New Zealand",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=144",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=whamoo-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PlayGrand",
+  "slug": "playgrand",
+  "country": "Morocco",
+  "bonus": "50 Spins",
+  "rating": 0,
+  "revenueRank": 41,
+  "spins": 100,
+  "providers": [
+    "T&C's Apply",
+    "3 / 5"
+  ],
+  "likes": 646,
+  "comments": 472,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=8",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=chipstars",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10"
+  ],
+  "reviewCount": 0
+}

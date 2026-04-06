@@ -1,0 +1,37 @@
+{
+  "name": "Slotastic Online",
+  "slug": "slotastic-online",
+  "country": "Norway",
+  "bonus": "First Deposit 125% up to $1000 + 150 Free Spins",
+  "rating": 5,
+  "revenueRank": 98,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "Iron Dog Studio",
+    "Red Tiger",
+    "Nolimit City",
+    "Visionary iGaming",
+    "Big Time Gaming",
+    "Aristocrat",
+    "IGT"
+  ],
+  "likes": 1551,
+  "comments": 58,
+  "operatingCountries": [
+    "Poland",
+    "Morocco",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotastic-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

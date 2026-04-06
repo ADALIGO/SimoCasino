@@ -1,0 +1,31 @@
+{
+  "name": "God Of Slots",
+  "slug": "god-of-slots",
+  "country": "Australia",
+  "bonus": "Reload Bonus 125% up to $1000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Konami",
+    "Microgaming",
+    "NetEnt"
+  ],
+  "likes": 1682,
+  "comments": 447,
+  "operatingCountries": [
+    "Australia",
+    "Netherlands",
+    "Poland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=39",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=god-of-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ]
+}

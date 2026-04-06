@@ -1,0 +1,32 @@
+{
+  "name": "Neon54 Slots",
+  "slug": "neon54-slots",
+  "country": "Spain",
+  "bonus": "100% up to $50 + 200 Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 841,
+  "comments": 102,
+  "operatingCountries": [
+    "Denmark",
+    "Finland",
+    "United States",
+    "Morocco",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=neon54-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169"
+  ]
+}

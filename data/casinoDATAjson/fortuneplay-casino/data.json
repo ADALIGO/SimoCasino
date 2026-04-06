@@ -1,0 +1,31 @@
+{
+  "name": "FortunePlay Casino",
+  "slug": "fortuneplay-casino",
+  "country": "Belgium",
+  "bonus": "100% Bonus up to $50",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 325,
+  "providers": [
+    "Push Gaming",
+    "Saucify",
+    "Yggdrasil",
+    "Iron Dog Studio"
+  ],
+  "likes": 1460,
+  "comments": 248,
+  "operatingCountries": [
+    "Netherlands",
+    "Belgium",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fortuneplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ]
+}

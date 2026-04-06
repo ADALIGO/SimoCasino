@@ -1,0 +1,33 @@
+{
+  "name": "Betzard Online",
+  "slug": "betzard-online",
+  "country": "Portugal",
+  "bonus": "Reload Bonus 300% up to $2000",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 158,
+  "providers": [
+    "Merkur",
+    "WMS",
+    "Novomatic"
+  ],
+  "likes": 1038,
+  "comments": 450,
+  "operatingCountries": [
+    "Denmark",
+    "Portugal",
+    "Australia",
+    "South Africa",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=127",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betzard-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

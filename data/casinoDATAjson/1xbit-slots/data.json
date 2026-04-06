@@ -1,0 +1,30 @@
+{
+  "name": "1xBit Slots",
+  "slug": "1xbit-slots",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 194,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 353,
+  "comments": 91,
+  "operatingCountries": [
+    "Austria",
+    "Switzerland",
+    "Australia",
+    "Belgium",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=175",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xbit-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177"
+  ]
+}

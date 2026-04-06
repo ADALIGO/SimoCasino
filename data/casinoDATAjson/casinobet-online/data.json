@@ -1,0 +1,32 @@
+{
+  "name": "CasinoBet Online",
+  "slug": "casinobet-online",
+  "country": "Norway",
+  "bonus": "Deposit Bonus 50% up to $100",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 108,
+  "providers": [
+    "Saucify",
+    "Evolution Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 1917,
+  "comments": 348,
+  "operatingCountries": [
+    "Spain",
+    "Finland",
+    "Netherlands",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinobet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70"
+  ]
+}

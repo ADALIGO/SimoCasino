@@ -1,0 +1,29 @@
+{
+  "name": "4Kasino Online",
+  "slug": "4kasino-online",
+  "country": "Austria",
+  "bonus": "200% Bonus up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Konami"
+  ],
+  "likes": 270,
+  "comments": 394,
+  "operatingCountries": [
+    "Czech Republic",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=4kasino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

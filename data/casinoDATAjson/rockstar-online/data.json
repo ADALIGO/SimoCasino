@@ -1,0 +1,28 @@
+{
+  "name": "Rockstar Online",
+  "slug": "rockstar-online",
+  "country": "Morocco",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 62,
+  "providers": [
+    "IGT",
+    "Amatic Industries"
+  ],
+  "likes": 713,
+  "comments": 477,
+  "operatingCountries": [
+    "Czech Republic",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rockstar-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

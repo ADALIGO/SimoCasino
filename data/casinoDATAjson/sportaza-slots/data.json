@@ -1,0 +1,29 @@
+{
+  "name": "Sportaza Slots",
+  "slug": "sportaza-slots",
+  "country": "Morocco",
+  "bonus": "150% Bonus up to $50",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 147,
+  "providers": [
+    "Playtech",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1754,
+  "comments": 183,
+  "operatingCountries": [
+    "South Africa",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sportaza-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

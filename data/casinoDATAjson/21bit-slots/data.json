@@ -1,0 +1,32 @@
+{
+  "name": "21bit Slots",
+  "slug": "21bit-slots",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 250% up to $100",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 153,
+  "providers": [
+    "NextGen",
+    "Saucify",
+    "Nolimit City",
+    "Konami"
+  ],
+  "likes": 267,
+  "comments": 465,
+  "operatingCountries": [
+    "Canada",
+    "United States",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=146",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21bit-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ]
+}

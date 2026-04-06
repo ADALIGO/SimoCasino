@@ -1,0 +1,30 @@
+{
+  "name": "Rocketpot Casino",
+  "slug": "rocketpot-casino",
+  "country": "Belgium",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 97,
+  "providers": [
+    "Playtech",
+    "Gamomat",
+    "NetEnt"
+  ],
+  "likes": 1782,
+  "comments": 166,
+  "operatingCountries": [
+    "Switzerland",
+    "South Africa",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=128",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rocketpot-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

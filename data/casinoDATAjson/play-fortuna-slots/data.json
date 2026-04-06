@@ -1,0 +1,35 @@
+{
+  "name": "Play Fortuna Slots",
+  "slug": "play-fortuna-slots",
+  "country": "Poland",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 45,
+  "providers": [
+    "Relax Gaming",
+    "Ash Gaming",
+    "Arrows Edge",
+    "Quickspin",
+    "Pragmatic Play"
+  ],
+  "likes": 1340,
+  "comments": 412,
+  "operatingCountries": [
+    "Finland",
+    "Portugal",
+    "Ireland",
+    "Belgium",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=play-fortuna-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Virtual City Slots",
+  "slug": "virtual-city-slots",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 50% up to $500",
+  "rating": 4.5,
+  "revenueRank": 7,
+  "spins": 249,
+  "providers": [
+    "Thunderkick",
+    "Novomatic",
+    "Quickspin",
+    "Push Gaming",
+    "Big Time Gaming",
+    "1x2gaming"
+  ],
+  "likes": 195,
+  "comments": 125,
+  "operatingCountries": [
+    "Australia",
+    "New Zealand",
+    "France",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=121",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=virtual-city-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

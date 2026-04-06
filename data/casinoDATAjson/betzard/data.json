@@ -1,0 +1,29 @@
+{
+  "name": "Betzard",
+  "slug": "betzard",
+  "country": "Morocco",
+  "bonus": "100% up to €750 + 100 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 98,
+  "providers": [],
+  "likes": 781,
+  "comments": 27,
+  "operatingCountries": [
+    "South Africa",
+    "Poland",
+    "Sweden",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=124",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betlivecasino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Lucky Bull Casino",
+  "slug": "lucky-bull-casino",
+  "country": "Czech Republic",
+  "bonus": "100% up to $2000 + 50 Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 332,
+  "providers": [
+    "Playtech",
+    "Gamomat",
+    "Amatic Industries",
+    "BetSoft",
+    "Real Time Gaming",
+    "1x2gaming",
+    "Quickspin",
+    "Red Tiger"
+  ],
+  "likes": 1279,
+  "comments": 337,
+  "operatingCountries": [
+    "France",
+    "Czech Republic",
+    "Canada",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-bull-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

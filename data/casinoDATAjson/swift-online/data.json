@@ -1,0 +1,33 @@
+{
+  "name": "Swift Online",
+  "slug": "swift-online",
+  "country": "Canada",
+  "bonus": "First Deposit 250% up to $1000 + 200 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NetEnt",
+    "Wager Gaming",
+    "Blueprint Gaming",
+    "Greentube",
+    "1x2gaming"
+  ],
+  "likes": 15,
+  "comments": 371,
+  "operatingCountries": [
+    "Morocco",
+    "Austria",
+    "United States",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=swift-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

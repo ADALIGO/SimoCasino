@@ -1,0 +1,35 @@
+{
+  "name": "Bombastic Online",
+  "slug": "bombastic-online",
+  "country": "Belgium",
+  "bonus": "100% Bonus up to $50",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 216,
+  "providers": [
+    "Rival",
+    "Push Gaming",
+    "Ash Gaming",
+    "Relax Gaming",
+    "Aristocrat",
+    "Visionary iGaming"
+  ],
+  "likes": 620,
+  "comments": 44,
+  "operatingCountries": [
+    "United Kingdom",
+    "Czech Republic",
+    "Spain",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=133",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bombastic-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ]
+}

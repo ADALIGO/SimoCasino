@@ -1,0 +1,31 @@
+{
+  "name": "GoodDayForPlay (GDF Play) Online",
+  "slug": "gooddayforplay-gdf-play-online",
+  "country": "Italy",
+  "bonus": "Cashback up to 200%",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 143,
+  "providers": [
+    "NextGen",
+    "Pragmatic Play",
+    "Amatic Industries",
+    "Blueprint Gaming",
+    "Playtech"
+  ],
+  "likes": 230,
+  "comments": 43,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gooddayforplay-gdf-play-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "5Gringos Slots",
+  "slug": "5gringos-slots",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 432,
+  "providers": [
+    "Relax Gaming",
+    "Real Time Gaming",
+    "Playtech",
+    "Amatic Industries",
+    "Rival",
+    "Visionary iGaming",
+    "Greentube",
+    "NetEnt"
+  ],
+  "likes": 1264,
+  "comments": 334,
+  "operatingCountries": [
+    "Australia",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=5gringos-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Svenplay Online",
+  "slug": "svenplay-online",
+  "country": "Italy",
+  "bonus": "Deposit Bonus 50% up to $100",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 415,
+  "providers": [
+    "Genesis Gaming",
+    "Nolimit City",
+    "Konami",
+    "Red Tiger",
+    "Novomatic",
+    "Real Time Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1886,
+  "comments": 78,
+  "operatingCountries": [
+    "Portugal",
+    "Ireland",
+    "Switzerland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=svenplay-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185"
+  ]
+}

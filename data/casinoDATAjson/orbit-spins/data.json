@@ -1,0 +1,30 @@
+{
+  "name": "Orbit Spins",
+  "slug": "orbit-spins",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1181,
+  "comments": 28,
+  "operatingCountries": [
+    "Netherlands",
+    "Denmark",
+    "Canada",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=42",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-tiger",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ],
+  "reviewCount": 5
+}

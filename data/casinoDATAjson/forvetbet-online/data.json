@@ -1,0 +1,36 @@
+{
+  "name": "Forvetbet Online",
+  "slug": "forvetbet-online",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $50",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 365,
+  "providers": [
+    "Quickspin",
+    "Gamomat",
+    "Konami",
+    "Aristocrat",
+    "Habanero Systems",
+    "Push Gaming",
+    "Microgaming"
+  ],
+  "likes": 700,
+  "comments": 9,
+  "operatingCountries": [
+    "Finland",
+    "Denmark",
+    "United States",
+    "Morocco",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=forvetbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

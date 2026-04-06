@@ -1,0 +1,37 @@
+{
+  "name": "Regal Slots",
+  "slug": "regal-slots",
+  "country": "Germany",
+  "bonus": "Welcome Package up to $300",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 189,
+  "providers": [
+    "Amatic Industries",
+    "Aristocrat",
+    "Quickspin",
+    "Genesis Gaming",
+    "Real Time Gaming",
+    "BetSoft",
+    "Konami"
+  ],
+  "likes": 1662,
+  "comments": 235,
+  "operatingCountries": [
+    "Portugal",
+    "United States",
+    "Norway",
+    "Germany",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=84",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=regal-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87"
+  ]
+}

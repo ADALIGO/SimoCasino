@@ -1,0 +1,32 @@
+{
+  "name": "Fonbet Online",
+  "slug": "fonbet-online",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 100% up to $1000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 147,
+  "providers": [
+    "Spinlogic Gaming",
+    "Ash Gaming"
+  ],
+  "likes": 910,
+  "comments": 186,
+  "operatingCountries": [
+    "Netherlands",
+    "New Zealand",
+    "Germany",
+    "Poland",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fonbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85"
+  ]
+}

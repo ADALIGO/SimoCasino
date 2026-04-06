@@ -1,0 +1,33 @@
+{
+  "name": "PrimeSlots Slots",
+  "slug": "primeslots-slots",
+  "country": "Morocco",
+  "bonus": "125% Bonus up to $100",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 307,
+  "providers": [
+    "Push Gaming",
+    "BetSoft",
+    "Rival",
+    "Quickspin",
+    "Iron Dog Studio",
+    "Genesis Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 725,
+  "comments": 230,
+  "operatingCountries": [
+    "Germany",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=primeslots-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ]
+}

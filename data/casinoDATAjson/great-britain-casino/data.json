@@ -1,0 +1,38 @@
+{
+  "name": "Great Britain Casino",
+  "slug": "great-britain-casino",
+  "country": "Spain",
+  "bonus": "Welcome Bonus 200% up to $100",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 385,
+  "providers": [
+    "Yggdrasil",
+    "Playtech",
+    "1x2gaming",
+    "Saucify",
+    "Spinlogic Gaming",
+    "Arrows Edge",
+    "Microgaming",
+    "Merkur"
+  ],
+  "likes": 1665,
+  "comments": 452,
+  "operatingCountries": [
+    "South Africa",
+    "Portugal",
+    "Canada",
+    "Ireland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=152",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=great-britain-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Magical Spin",
+  "slug": "magical-spin",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.9,
+  "revenueRank": 85,
+  "spins": 21,
+  "providers": [],
+  "likes": 1151,
+  "comments": 78,
+  "operatingCountries": [
+    "Ireland",
+    "Belgium",
+    "Portugal",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=revolution",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ],
+  "reviewCount": 5
+}

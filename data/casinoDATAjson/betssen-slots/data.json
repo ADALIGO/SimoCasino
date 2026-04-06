@@ -1,0 +1,31 @@
+{
+  "name": "Betssen Slots",
+  "slug": "betssen-slots",
+  "country": "Ireland",
+  "bonus": "250% Bonus up to $200",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 358,
+  "providers": [
+    "Red Tiger",
+    "Gamomat",
+    "WMS",
+    "BetSoft",
+    "Quickspin",
+    "Amatic Industries"
+  ],
+  "likes": 534,
+  "comments": 157,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betssen-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82"
+  ]
+}

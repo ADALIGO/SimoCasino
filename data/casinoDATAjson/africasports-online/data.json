@@ -1,0 +1,38 @@
+{
+  "name": "AfricaSports Online",
+  "slug": "africasports-online",
+  "country": "Czech Republic",
+  "bonus": "Deposit Bonus 200% up to $100",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 141,
+  "providers": [
+    "Real Time Gaming",
+    "Novomatic",
+    "Wager Gaming",
+    "Blueprint Gaming",
+    "Aristocrat",
+    "Amatic Industries",
+    "Big Time Gaming"
+  ],
+  "likes": 794,
+  "comments": 352,
+  "operatingCountries": [
+    "Portugal",
+    "Czech Republic",
+    "Switzerland",
+    "Netherlands",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=africasports-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

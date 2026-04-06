@@ -1,0 +1,28 @@
+{
+  "name": "HighFlyBet Online",
+  "slug": "highflybet-online",
+  "country": "United Kingdom",
+  "bonus": "200% Bonus up to $200",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 340,
+  "providers": [
+    "NextGen"
+  ],
+  "likes": 488,
+  "comments": 267,
+  "operatingCountries": [
+    "Poland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=78",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=highflybet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81"
+  ]
+}

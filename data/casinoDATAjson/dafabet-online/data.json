@@ -1,0 +1,36 @@
+{
+  "name": "Dafabet Online",
+  "slug": "dafabet-online",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 200% up to $1000",
+  "rating": 4.3,
+  "revenueRank": 11,
+  "spins": 334,
+  "providers": [
+    "Genesis Gaming",
+    "Nolimit City",
+    "Visionary iGaming",
+    "Evolution Gaming",
+    "Quickspin",
+    "IGT"
+  ],
+  "likes": 1283,
+  "comments": 110,
+  "operatingCountries": [
+    "South Africa",
+    "France",
+    "Spain",
+    "Sweden",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=64",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dafabet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67"
+  ]
+}

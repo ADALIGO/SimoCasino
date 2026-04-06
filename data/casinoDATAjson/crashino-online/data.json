@@ -1,0 +1,30 @@
+{
+  "name": "Crashino Online",
+  "slug": "crashino-online",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 100% up to $500",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 99,
+  "providers": [
+    "1x2gaming"
+  ],
+  "likes": 875,
+  "comments": 441,
+  "operatingCountries": [
+    "Italy",
+    "Switzerland",
+    "Norway",
+    "Germany",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crashino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Slotier Slots",
+  "slug": "slotier-slots",
+  "country": "Netherlands",
+  "bonus": "First Deposit 125% up to $50 + 100 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 473,
+  "providers": [
+    "Red Tiger",
+    "Saucify",
+    "Amatic Industries",
+    "Microgaming",
+    "Visionary iGaming",
+    "Pragmatic Play"
+  ],
+  "likes": 1800,
+  "comments": 257,
+  "operatingCountries": [
+    "Canada",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotier-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82"
+  ]
+}

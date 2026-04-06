@@ -1,0 +1,30 @@
+{
+  "name": "JeetCity Slots",
+  "slug": "jeetcity-slots",
+  "country": "Australia",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 483,
+  "providers": [
+    "IGT",
+    "Rival"
+  ],
+  "likes": 869,
+  "comments": 218,
+  "operatingCountries": [
+    "Portugal",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=167",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jeetcity-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

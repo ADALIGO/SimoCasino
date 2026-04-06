@@ -1,0 +1,31 @@
+{
+  "name": "Rollify",
+  "slug": "rollify",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 471,
+  "providers": [],
+  "likes": 1654,
+  "comments": 116,
+  "operatingCountries": [
+    "France",
+    "Belgium",
+    "Denmark",
+    "Czech Republic",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=107",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rollify-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ],
+  "reviewCount": 5
+}

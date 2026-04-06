@@ -1,0 +1,33 @@
+{
+  "name": "Leon Online",
+  "slug": "leon-online",
+  "country": "Germany",
+  "bonus": "125% Bonus up to $2000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 82,
+  "providers": [
+    "Spinlogic Gaming",
+    "Greentube",
+    "Thunderkick",
+    "EGT",
+    "Novomatic",
+    "Evolution Gaming"
+  ],
+  "likes": 269,
+  "comments": 115,
+  "operatingCountries": [
+    "Switzerland",
+    "United States",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=106",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=leon-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

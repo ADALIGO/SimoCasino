@@ -1,0 +1,34 @@
+{
+  "name": "Betsixty Casino",
+  "slug": "betsixty-casino",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Microgaming",
+    "Blueprint Gaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 401,
+  "comments": 297,
+  "operatingCountries": [
+    "Austria",
+    "Finland",
+    "Italy",
+    "United States",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsixty-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153"
+  ]
+}

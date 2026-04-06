@@ -1,0 +1,31 @@
+{
+  "name": "House of Jack Slots",
+  "slug": "house-of-jack-slots",
+  "country": "Spain",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4.6,
+  "revenueRank": 48,
+  "spins": 438,
+  "providers": [
+    "1x2gaming",
+    "Big Time Gaming"
+  ],
+  "likes": 1094,
+  "comments": 209,
+  "operatingCountries": [
+    "Denmark",
+    "Czech Republic",
+    "Belgium",
+    "Netherlands",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=house-of-jack-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106"
+  ]
+}

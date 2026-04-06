@@ -1,0 +1,26 @@
+{
+  "name": "X7",
+  "slug": "x7",
+  "country": "Morocco",
+  "bonus": "150% up to €150 + 20 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 462,
+  "providers": [],
+  "likes": 632,
+  "comments": 185,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=48",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinocasino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ],
+  "reviewCount": 5
+}

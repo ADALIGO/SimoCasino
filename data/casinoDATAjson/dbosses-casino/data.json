@@ -1,0 +1,33 @@
+{
+  "name": "dbosses Casino",
+  "slug": "dbosses-casino",
+  "country": "Germany",
+  "bonus": "Cashback up to 200%",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Real Time Gaming",
+    "Wager Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 134,
+  "comments": 443,
+  "operatingCountries": [
+    "Norway",
+    "Switzerland",
+    "Finland",
+    "Morocco",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dbosses-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122"
+  ]
+}

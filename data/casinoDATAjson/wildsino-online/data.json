@@ -1,0 +1,36 @@
+{
+  "name": "Wildsino Online",
+  "slug": "wildsino-online",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 250% up to $100",
+  "rating": 3.8,
+  "revenueRank": 69,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "Red Tiger",
+    "Blueprint Gaming",
+    "Real Time Gaming",
+    "Habanero Systems",
+    "Wager Gaming",
+    "Konami"
+  ],
+  "likes": 62,
+  "comments": 401,
+  "operatingCountries": [
+    "Australia",
+    "Belgium",
+    "South Africa",
+    "United States",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wildsino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Casino Prestige Games",
+  "slug": "casino-prestige-games",
+  "country": "South Africa",
+  "bonus": "50% Bonus up to $300",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 415,
+  "providers": [
+    "WMS",
+    "IGT"
+  ],
+  "likes": 1400,
+  "comments": 395,
+  "operatingCountries": [
+    "United States",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=122",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-prestige-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

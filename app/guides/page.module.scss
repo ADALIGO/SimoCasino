@@ -1,0 +1,140 @@
+.guides-index {
+  width: 100%;
+}
+
+.page-title {
+  font-size: 42px;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: 12px;
+  text-align: center;
+
+  @media (max-width: 639px) {
+    font-size: 28px;
+  }
+
+  @media (min-width: 640px) and (max-width: 1023px) {
+    font-size: 35px;
+  }
+
+  @media (min-width: 1024px) {
+    font-size: 42px;
+  }
+}
+
+.page-subtitle {
+  font-size: 16px;
+  color: #666;
+  text-align: center;
+  margin-bottom: 48px;
+
+  @media (max-width: 639px) {
+    font-size: 14px;
+    margin-bottom: 32px;
+  }
+
+  @media (min-width: 640px) and (max-width: 1023px) {
+    font-size: 15px;
+    margin-bottom: 40px;
+  }
+
+  @media (min-width: 1024px) {
+    font-size: 16px;
+    margin-bottom: 48px;
+  }
+}
+
+.guides-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 28px;
+
+  @media (max-width: 639px) {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  @media (min-width: 640px) and (max-width: 1023px) {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 24px;
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 28px;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.guide-card {
+  background: white;
+  border-radius: 12px;
+  padding: 28px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+
+  @media (max-width: 639px) {
+    padding: 20px;
+  }
+
+  @media (min-width: 640px) and (max-width: 1023px) {
+    padding: 24px;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 28px;
+  }
+  border-left: 4px solid #FF6B35;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  }
+
+  .difficulty {
+    margin-bottom: 12px;
+
+    span {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+
+      &.beginner {
+        background: rgba(16, 185, 129, 0.1);
+        color: #10b981;
+      }
+
+      &.intermediate {
+        background: rgba(59, 130, 246, 0.1);
+        color: #3b82f6;
+      }
+
+      &.advanced {
+        background: rgba(239, 68, 68, 0.1);
+        color: #ef4444;
+      }
+    }
+  }
+
+  .guide-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 12px;
+    line-height: 1.4;
+  }
+
+  .excerpt {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+    min-height: 42px;
+  }
+}

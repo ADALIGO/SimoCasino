@@ -1,0 +1,38 @@
+{
+  "name": "Instant Slots",
+  "slug": "instant-slots",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 100% up to $500",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "EGT",
+    "Rival",
+    "Greentube",
+    "Thunderkick",
+    "Nolimit City",
+    "Evolution Gaming",
+    "BetSoft"
+  ],
+  "likes": 121,
+  "comments": 182,
+  "operatingCountries": [
+    "United States",
+    "Netherlands",
+    "Spain",
+    "Denmark",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=instant-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183"
+  ]
+}

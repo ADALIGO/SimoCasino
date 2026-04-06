@@ -1,0 +1,31 @@
+{
+  "name": "Players Palace Online",
+  "slug": "players-palace-online",
+  "country": "Belgium",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Push Gaming"
+  ],
+  "likes": 346,
+  "comments": 134,
+  "operatingCountries": [
+    "Germany",
+    "Poland",
+    "Switzerland",
+    "Belgium",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=players-palace-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

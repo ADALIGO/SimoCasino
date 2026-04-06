@@ -1,0 +1,31 @@
+{
+  "name": "Spinmills Casino",
+  "slug": "spinmills-casino",
+  "country": "Belgium",
+  "bonus": "VIP Bonus 200% up to $50",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 198,
+  "providers": [
+    "Visionary iGaming"
+  ],
+  "likes": 1015,
+  "comments": 50,
+  "operatingCountries": [
+    "France",
+    "Belgium",
+    "Czech Republic",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinmills-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "neospin Casino",
+  "slug": "neospin-casino",
+  "country": "Spain",
+  "bonus": "100% up to $200 + 300 Spins",
+  "rating": 3.8,
+  "revenueRank": 7,
+  "spins": 324,
+  "providers": [
+    "IGT",
+    "Wager Gaming"
+  ],
+  "likes": 1720,
+  "comments": 433,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=186",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=neospin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189"
+  ]
+}

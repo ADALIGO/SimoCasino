@@ -1,0 +1,30 @@
+{
+  "name": "Celsius",
+  "slug": "celsius",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 150 Spins",
+  "rating": 2.4,
+  "revenueRank": 11,
+  "spins": 362,
+  "providers": [],
+  "likes": 793,
+  "comments": 145,
+  "operatingCountries": [
+    "Poland",
+    "Morocco",
+    "United States",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=1",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jumba-bet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=1",
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5"
+  ],
+  "reviewCount": 5
+}

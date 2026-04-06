@@ -1,0 +1,30 @@
+{
+  "name": "EnergyCasino Slots",
+  "slug": "energycasino-slots",
+  "country": "Portugal",
+  "bonus": "Cashback up to 50%",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 422,
+  "providers": [
+    "BetSoft"
+  ],
+  "likes": 356,
+  "comments": 234,
+  "operatingCountries": [
+    "Finland",
+    "Poland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=36",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=energycasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ]
+}

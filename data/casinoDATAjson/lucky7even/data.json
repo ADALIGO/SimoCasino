@@ -1,0 +1,28 @@
+{
+  "name": "Lucky7even",
+  "slug": "lucky7even",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 50 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 432,
+  "providers": [],
+  "likes": 32,
+  "comments": 152,
+  "operatingCountries": [
+    "Norway",
+    "Austria",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=simsinos",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ],
+  "reviewCount": 5
+}

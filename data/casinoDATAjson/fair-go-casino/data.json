@@ -1,0 +1,38 @@
+{
+  "name": "Fair Go Casino",
+  "slug": "fair-go-casino",
+  "country": "Switzerland",
+  "bonus": "100% up to $100 + 250 Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 12,
+  "providers": [
+    "Iron Dog Studio",
+    "Visionary iGaming",
+    "Genesis Gaming",
+    "Rival",
+    "NetEnt",
+    "Quickspin",
+    "Saucify",
+    "Gamomat"
+  ],
+  "likes": 1085,
+  "comments": 116,
+  "operatingCountries": [
+    "Italy",
+    "Germany",
+    "South Africa",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=197",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fair-go-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198",
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201"
+  ]
+}

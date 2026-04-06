@@ -1,0 +1,30 @@
+{
+  "name": "SpinsBro",
+  "slug": "spinsbro",
+  "country": "Morocco",
+  "bonus": "115% up to €420 + 100 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 282,
+  "providers": [],
+  "likes": 32,
+  "comments": 229,
+  "operatingCountries": [
+    "Austria",
+    "Germany",
+    "Italy",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=amunra-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ],
+  "reviewCount": 5
+}

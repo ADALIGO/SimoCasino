@@ -1,0 +1,25 @@
+{
+  "name": "Harry's",
+  "slug": "harry-s",
+  "country": "Morocco",
+  "bonus": "200% up to €/$1500",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 330,
+  "providers": [],
+  "likes": 201,
+  "comments": 456,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=5",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=beef-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,37 @@
+{
+  "name": "MaxiPlay Slots",
+  "slug": "maxiplay-slots",
+  "country": "Poland",
+  "bonus": "Reload Bonus 150% up to $2000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 194,
+  "providers": [
+    "Spinlogic Gaming",
+    "Playtech",
+    "Genesis Gaming",
+    "Relax Gaming",
+    "Nolimit City",
+    "Big Time Gaming",
+    "Quickspin",
+    "Wager Gaming"
+  ],
+  "likes": 1728,
+  "comments": 64,
+  "operatingCountries": [
+    "Canada",
+    "Germany",
+    "Czech Republic",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=177",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maxiplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

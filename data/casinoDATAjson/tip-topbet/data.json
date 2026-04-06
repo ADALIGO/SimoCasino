@@ -1,0 +1,28 @@
+{
+  "name": "Tip-top.bet",
+  "slug": "tip-topbet",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 50 Spins",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 406,
+  "providers": [],
+  "likes": 497,
+  "comments": 71,
+  "operatingCountries": [
+    "Czech Republic",
+    "Germany",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=178",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=quickwin",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Dreamplay Casino",
+  "slug": "dreamplay-casino",
+  "country": "Ireland",
+  "bonus": "100% up to $1000 + 200 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "Pragmatic Play",
+    "Big Time Gaming"
+  ],
+  "likes": 36,
+  "comments": 82,
+  "operatingCountries": [
+    "New Zealand",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dreamplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

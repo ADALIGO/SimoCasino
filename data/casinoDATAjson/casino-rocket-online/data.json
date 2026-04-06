@@ -1,0 +1,29 @@
+{
+  "name": "Casino Rocket Online",
+  "slug": "casino-rocket-online",
+  "country": "Norway",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Spinlogic Gaming",
+    "BetSoft",
+    "Nolimit City"
+  ],
+  "likes": 967,
+  "comments": 239,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=150",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-rocket-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

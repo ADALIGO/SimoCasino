@@ -1,0 +1,32 @@
+{
+  "name": "Verde Casino",
+  "slug": "verde-casino",
+  "country": "Portugal",
+  "bonus": "100% Bonus up to $2000",
+  "rating": 3.8,
+  "revenueRank": 27,
+  "spins": 155,
+  "providers": [
+    "Microgaming",
+    "Aristocrat",
+    "Visionary iGaming"
+  ],
+  "likes": 17,
+  "comments": 350,
+  "operatingCountries": [
+    "Netherlands",
+    "France",
+    "Poland",
+    "Portugal",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=23",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=verde-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25"
+  ]
+}

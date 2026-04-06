@@ -1,0 +1,33 @@
+{
+  "name": "Gomblingo Casino",
+  "slug": "gomblingo-casino",
+  "country": "Poland",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "BetSoft",
+    "Evolution Gaming",
+    "Big Time Gaming",
+    "Visionary iGaming"
+  ],
+  "likes": 1607,
+  "comments": 149,
+  "operatingCountries": [
+    "Portugal",
+    "Netherlands",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gomblingo-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

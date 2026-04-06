@@ -1,0 +1,35 @@
+{
+  "name": "Lukki Casino",
+  "slug": "lukki-casino",
+  "country": "United Kingdom",
+  "bonus": "Cashback up to 300%",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 176,
+  "providers": [
+    "Red Tiger",
+    "Konami",
+    "BetSoft",
+    "Yggdrasil",
+    "Quickspin",
+    "Pragmatic Play"
+  ],
+  "likes": 551,
+  "comments": 327,
+  "operatingCountries": [
+    "South Africa",
+    "Italy",
+    "Spain",
+    "New Zealand",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lukki-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

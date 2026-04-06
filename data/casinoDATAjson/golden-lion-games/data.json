@@ -1,0 +1,35 @@
+{
+  "name": "Golden Lion Games",
+  "slug": "golden-lion-games",
+  "country": "Poland",
+  "bonus": "Reload Bonus 250% up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Playtech",
+    "Merkur",
+    "Konami",
+    "Genesis Gaming",
+    "Evolution Gaming",
+    "Quickspin",
+    "NetEnt",
+    "Saucify"
+  ],
+  "likes": 1921,
+  "comments": 76,
+  "operatingCountries": [
+    "Czech Republic",
+    "Canada",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=152",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=golden-lion-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154"
+  ]
+}

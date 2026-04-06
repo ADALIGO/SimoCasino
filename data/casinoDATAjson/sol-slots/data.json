@@ -1,0 +1,32 @@
+{
+  "name": "Sol Slots",
+  "slug": "sol-slots",
+  "country": "Finland",
+  "bonus": "First Deposit 125% up to $300 + 150 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 344,
+  "providers": [
+    "Aristocrat",
+    "Arrows Edge"
+  ],
+  "likes": 541,
+  "comments": 106,
+  "operatingCountries": [
+    "Italy",
+    "Austria",
+    "France",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sol-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

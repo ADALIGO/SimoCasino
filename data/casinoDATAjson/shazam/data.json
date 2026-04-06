@@ -1,0 +1,29 @@
+{
+  "name": "Shazam",
+  "slug": "shazam",
+  "country": "Morocco",
+  "bonus": "$45",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 420,
+  "providers": [],
+  "likes": 1534,
+  "comments": 456,
+  "operatingCountries": [
+    "Austria",
+    "Sweden",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jurassic-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14"
+  ],
+  "reviewCount": 5
+}

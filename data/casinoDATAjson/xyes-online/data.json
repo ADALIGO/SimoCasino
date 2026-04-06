@@ -1,0 +1,34 @@
+{
+  "name": "Xyes Online",
+  "slug": "xyes-online",
+  "country": "Denmark",
+  "bonus": "Welcome Bonus 200% up to $50",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 417,
+  "providers": [
+    "Nolimit City",
+    "Real Time Gaming",
+    "Red Tiger"
+  ],
+  "likes": 871,
+  "comments": 242,
+  "operatingCountries": [
+    "Morocco",
+    "Portugal",
+    "Ireland",
+    "Belgium",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=xyes-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "FortunePlay Games",
+  "slug": "fortuneplay-games",
+  "country": "Czech Republic",
+  "bonus": "Deposit Bonus 250% up to $200",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 440,
+  "providers": [
+    "Iron Dog Studio",
+    "Relax Gaming",
+    "Genesis Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 1563,
+  "comments": 259,
+  "operatingCountries": [
+    "United Kingdom",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=195",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fortuneplay-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198"
+  ]
+}

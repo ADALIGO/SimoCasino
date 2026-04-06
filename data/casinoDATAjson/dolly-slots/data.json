@@ -1,0 +1,31 @@
+{
+  "name": "Dolly Slots",
+  "slug": "dolly-slots",
+  "country": "Poland",
+  "bonus": "First Deposit 100% up to $2000 + 250 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 476,
+  "providers": [
+    "Rival",
+    "Relax Gaming",
+    "EGT",
+    "WMS"
+  ],
+  "likes": 447,
+  "comments": 222,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=128",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dolly-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

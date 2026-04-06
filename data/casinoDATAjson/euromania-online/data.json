@@ -1,0 +1,31 @@
+{
+  "name": "EuroMania Online",
+  "slug": "euromania-online",
+  "country": "Portugal",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 4.7,
+  "revenueRank": 57,
+  "spins": 358,
+  "providers": [
+    "Pragmatic Play",
+    "Thunderkick",
+    "Ash Gaming",
+    "Red Tiger",
+    "EGT"
+  ],
+  "likes": 1301,
+  "comments": 113,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=105",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euromania-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Ninlay Slots",
+  "slug": "ninlay-slots",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 50% up to $1000 + 250 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 24,
+  "providers": [
+    "Saucify",
+    "Push Gaming",
+    "Visionary iGaming",
+    "Yggdrasil"
+  ],
+  "likes": 1196,
+  "comments": 307,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=98",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ninlay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102"
+  ]
+}

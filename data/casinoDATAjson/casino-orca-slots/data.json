@@ -1,0 +1,32 @@
+{
+  "name": "Casino Orca Slots",
+  "slug": "casino-orca-slots",
+  "country": "Germany",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.5,
+  "revenueRank": 91,
+  "spins": 366,
+  "providers": [
+    "Rival",
+    "BetSoft",
+    "Relax Gaming",
+    "Amatic Industries",
+    "Habanero Systems",
+    "Big Time Gaming"
+  ],
+  "likes": 1711,
+  "comments": 152,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=149",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-orca-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "MyEmpire Casino",
+  "slug": "myempire-casino",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 150% up to $50",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 324,
+  "providers": [
+    "Amatic Industries",
+    "Greentube",
+    "Nolimit City",
+    "Big Time Gaming",
+    "NetEnt",
+    "Gamomat",
+    "Aristocrat"
+  ],
+  "likes": 1012,
+  "comments": 120,
+  "operatingCountries": [
+    "Germany",
+    "Italy",
+    "Morocco",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=myempire-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125"
+  ]
+}

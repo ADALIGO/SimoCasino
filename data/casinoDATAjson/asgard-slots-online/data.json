@@ -1,0 +1,35 @@
+{
+  "name": "Asgard Slots Online",
+  "slug": "asgard-slots-online",
+  "country": "Spain",
+  "bonus": "VIP Bonus 250% up to $50",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 103,
+  "providers": [
+    "Yggdrasil",
+    "BetSoft",
+    "IGT",
+    "Iron Dog Studio",
+    "NextGen",
+    "Relax Gaming",
+    "Saucify"
+  ],
+  "likes": 1770,
+  "comments": 112,
+  "operatingCountries": [
+    "Finland",
+    "New Zealand",
+    "Canada",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=asgard-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178"
+  ]
+}

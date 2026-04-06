@@ -1,0 +1,34 @@
+{
+  "name": "Nomini Slots",
+  "slug": "nomini-slots",
+  "country": "Italy",
+  "bonus": "First Deposit 250% up to $1000 + 100 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 163,
+  "providers": [
+    "Rival",
+    "Aristocrat",
+    "Merkur",
+    "Wager Gaming",
+    "Konami",
+    "Thunderkick",
+    "IGT",
+    "Greentube"
+  ],
+  "likes": 1107,
+  "comments": 339,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=nomini-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ]
+}

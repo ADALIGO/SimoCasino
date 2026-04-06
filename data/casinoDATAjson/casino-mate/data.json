@@ -1,0 +1,31 @@
+{
+  "name": "Casino Mate",
+  "slug": "casino-mate",
+  "country": "Morocco",
+  "bonus": "100% up to €/$200 + 20 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 302,
+  "providers": [],
+  "likes": 381,
+  "comments": 364,
+  "operatingCountries": [
+    "Germany",
+    "Spain",
+    "Czech Republic",
+    "Norway",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=888arabic",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ],
+  "reviewCount": 5
+}

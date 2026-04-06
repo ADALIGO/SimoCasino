@@ -1,0 +1,36 @@
+{
+  "name": "Yallabet Online",
+  "slug": "yallabet-online",
+  "country": "Denmark",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.9,
+  "revenueRank": 36,
+  "spins": 324,
+  "providers": [
+    "Evolution Gaming",
+    "Aristocrat",
+    "Relax Gaming",
+    "Thunderkick",
+    "Red Tiger",
+    "NextGen"
+  ],
+  "likes": 1504,
+  "comments": 384,
+  "operatingCountries": [
+    "Finland",
+    "South Africa",
+    "Belgium",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yallabet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

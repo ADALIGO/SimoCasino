@@ -1,0 +1,35 @@
+{
+  "name": "Unibet Casino",
+  "slug": "unibet-casino",
+  "country": "France",
+  "bonus": "Reload Bonus 200% up to $300",
+  "rating": 4.2,
+  "revenueRank": 2,
+  "spins": 102,
+  "providers": [
+    "Merkur",
+    "NetEnt",
+    "Konami",
+    "Wager Gaming"
+  ],
+  "likes": 553,
+  "comments": 299,
+  "operatingCountries": [
+    "Ireland",
+    "France",
+    "Morocco",
+    "South Africa",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=84",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=unibet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

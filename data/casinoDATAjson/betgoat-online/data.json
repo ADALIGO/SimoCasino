@@ -1,0 +1,27 @@
+{
+  "name": "BETGOAT Online",
+  "slug": "betgoat-online",
+  "country": "Belgium",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 282,
+  "providers": [
+    "NetEnt",
+    "Yggdrasil"
+  ],
+  "likes": 66,
+  "comments": 456,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=181",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betgoat-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183"
+  ]
+}

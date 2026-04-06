@@ -1,0 +1,32 @@
+{
+  "name": "31bet Slots",
+  "slug": "31bet-slots",
+  "country": "Portugal",
+  "bonus": "Reload Bonus 150% up to $300",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 61,
+  "providers": [
+    "Blueprint Gaming",
+    "Rival",
+    "Push Gaming"
+  ],
+  "likes": 1288,
+  "comments": 310,
+  "operatingCountries": [
+    "Switzerland",
+    "Spain",
+    "Italy",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=114",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=31bet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=114",
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ]
+}

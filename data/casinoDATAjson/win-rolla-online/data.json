@@ -1,0 +1,33 @@
+{
+  "name": "Win Rolla Online",
+  "slug": "win-rolla-online",
+  "country": "South Africa",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 80,
+  "providers": [
+    "Greentube",
+    "Amatic Industries",
+    "Red Tiger",
+    "Nolimit City",
+    "Genesis Gaming"
+  ],
+  "likes": 1385,
+  "comments": 350,
+  "operatingCountries": [
+    "Morocco",
+    "United States",
+    "Finland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=90",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=win-rolla-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

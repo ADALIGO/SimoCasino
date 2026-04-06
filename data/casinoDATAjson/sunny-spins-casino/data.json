@@ -1,0 +1,34 @@
+{
+  "name": "Sunny Spins Casino",
+  "slug": "sunny-spins-casino",
+  "country": "United Kingdom",
+  "bonus": "VIP Bonus 50% up to $1000",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Yggdrasil",
+    "Spinlogic Gaming",
+    "WMS",
+    "ELK Studios",
+    "IGT"
+  ],
+  "likes": 24,
+  "comments": 226,
+  "operatingCountries": [
+    "Italy",
+    "United Kingdom",
+    "Germany",
+    "Spain",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=64",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sunny-spins-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

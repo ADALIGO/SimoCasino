@@ -1,0 +1,32 @@
+{
+  "name": "Matchbook Casino",
+  "slug": "matchbook-casino",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 100% up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 491,
+  "providers": [
+    "Genesis Gaming"
+  ],
+  "likes": 608,
+  "comments": 319,
+  "operatingCountries": [
+    "Finland",
+    "France",
+    "Sweden",
+    "Netherlands",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=matchbook-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

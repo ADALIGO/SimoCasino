@@ -1,0 +1,33 @@
+{
+  "name": "Fatbet Casino",
+  "slug": "fatbet-casino",
+  "country": "Canada",
+  "bonus": "Welcome Bonus 50% up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 199,
+  "providers": [
+    "Playtech",
+    "Saucify",
+    "Wager Gaming",
+    "Arrows Edge",
+    "Amatic Industries",
+    "NextGen",
+    "Genesis Gaming"
+  ],
+  "likes": 917,
+  "comments": 465,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fatbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ]
+}

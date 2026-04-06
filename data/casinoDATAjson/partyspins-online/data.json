@@ -1,0 +1,30 @@
+{
+  "name": "PartySpins Online",
+  "slug": "partyspins-online",
+  "country": "Denmark",
+  "bonus": "First Deposit 150% up to $50 + 20 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 65,
+  "providers": [
+    "Novomatic"
+  ],
+  "likes": 245,
+  "comments": 493,
+  "operatingCountries": [
+    "Norway",
+    "Portugal",
+    "United Kingdom",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=partyspins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58"
+  ]
+}

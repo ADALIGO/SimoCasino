@@ -1,0 +1,29 @@
+{
+  "name": "GREATwin",
+  "slug": "greatwin",
+  "country": "Morocco",
+  "bonus": "100% up to €/$500 + 200 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 168,
+  "providers": [],
+  "likes": 1807,
+  "comments": 283,
+  "operatingCountries": [
+    "Morocco",
+    "Switzerland",
+    "Ireland",
+    "United States",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blockspins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ],
+  "reviewCount": 5
+}

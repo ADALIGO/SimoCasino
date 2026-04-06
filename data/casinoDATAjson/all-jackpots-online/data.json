@@ -1,0 +1,31 @@
+{
+  "name": "All Jackpots Online",
+  "slug": "all-jackpots-online",
+  "country": "Germany",
+  "bonus": "200% Bonus up to $100",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "Big Time Gaming",
+    "Habanero Systems",
+    "Saucify",
+    "Ash Gaming"
+  ],
+  "likes": 849,
+  "comments": 324,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=53",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=all-jackpots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56"
+  ]
+}

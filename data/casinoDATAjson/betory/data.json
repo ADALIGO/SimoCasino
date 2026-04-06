@@ -1,0 +1,25 @@
+{
+  "name": "Betory",
+  "slug": "betory",
+  "country": "Morocco",
+  "bonus": "150% up to €750",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 753,
+  "comments": 373,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=118",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsamigo",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120"
+  ],
+  "reviewCount": 5
+}

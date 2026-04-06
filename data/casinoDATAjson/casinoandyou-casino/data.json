@@ -1,0 +1,33 @@
+{
+  "name": "CasinoAndYou Casino",
+  "slug": "casinoandyou-casino",
+  "country": "United States",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 298,
+  "providers": [
+    "Blueprint Gaming",
+    "Pragmatic Play",
+    "Genesis Gaming",
+    "1x2gaming"
+  ],
+  "likes": 300,
+  "comments": 48,
+  "operatingCountries": [
+    "Canada",
+    "Sweden",
+    "Netherlands",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoandyou-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72"
+  ]
+}

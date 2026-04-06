@@ -1,0 +1,33 @@
+{
+  "name": "HeroSpin Slots",
+  "slug": "herospin-slots",
+  "country": "Netherlands",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 385,
+  "providers": [
+    "Habanero Systems",
+    "Evolution Gaming",
+    "Amatic Industries",
+    "Yggdrasil",
+    "IGT",
+    "1x2gaming"
+  ],
+  "likes": 551,
+  "comments": 44,
+  "operatingCountries": [
+    "Morocco",
+    "United Kingdom",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=herospin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

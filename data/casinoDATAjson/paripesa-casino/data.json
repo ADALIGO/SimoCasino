@@ -1,0 +1,30 @@
+{
+  "name": "Paripesa Casino",
+  "slug": "paripesa-casino",
+  "country": "United Kingdom",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 3.8,
+  "revenueRank": 70,
+  "spins": 308,
+  "providers": [
+    "Real Time Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 1401,
+  "comments": 30,
+  "operatingCountries": [
+    "Poland",
+    "Portugal",
+    "Ireland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=paripesa-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91"
+  ]
+}

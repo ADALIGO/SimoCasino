@@ -1,0 +1,35 @@
+{
+  "name": "NV Online",
+  "slug": "nv-online",
+  "country": "South Africa",
+  "bonus": "100% up to $200 + 50 Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 102,
+  "providers": [
+    "Spinlogic Gaming",
+    "Greentube",
+    "Microgaming",
+    "BetSoft",
+    "1x2gaming"
+  ],
+  "likes": 619,
+  "comments": 60,
+  "operatingCountries": [
+    "Switzerland",
+    "South Africa",
+    "Finland",
+    "Australia",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=nv-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ]
+}

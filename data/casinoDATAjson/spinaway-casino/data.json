@@ -1,0 +1,36 @@
+{
+  "name": "SpinAway Casino",
+  "slug": "spinaway-casino",
+  "country": "Germany",
+  "bonus": "First Deposit 250% up to $1000 + 200 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 376,
+  "providers": [
+    "BetSoft",
+    "Push Gaming",
+    "Rival",
+    "Pragmatic Play",
+    "NetEnt",
+    "Relax Gaming",
+    "Aristocrat",
+    "EGT"
+  ],
+  "likes": 1181,
+  "comments": 421,
+  "operatingCountries": [
+    "United States",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinaway-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89"
+  ]
+}

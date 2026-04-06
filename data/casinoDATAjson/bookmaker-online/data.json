@@ -1,0 +1,33 @@
+{
+  "name": "Bookmaker Online",
+  "slug": "bookmaker-online",
+  "country": "Czech Republic",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 186,
+  "providers": [
+    "Merkur",
+    "Playtech",
+    "Saucify",
+    "Visionary iGaming",
+    "Gamomat",
+    "Big Time Gaming"
+  ],
+  "likes": 1400,
+  "comments": 49,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bookmaker-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

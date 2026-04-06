@@ -1,0 +1,37 @@
+{
+  "name": "Will's Online",
+  "slug": "wills-online",
+  "country": "Netherlands",
+  "bonus": "First Deposit 125% up to $200 + 150 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 182,
+  "providers": [
+    "Iron Dog Studio",
+    "Relax Gaming",
+    "Greentube",
+    "Big Time Gaming",
+    "Visionary iGaming",
+    "Wager Gaming",
+    "Rival",
+    "Push Gaming"
+  ],
+  "likes": 509,
+  "comments": 143,
+  "operatingCountries": [
+    "South Africa",
+    "Italy",
+    "Belgium",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wills-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

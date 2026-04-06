@@ -1,0 +1,35 @@
+{
+  "name": "WinCraft Online",
+  "slug": "wincraft-online",
+  "country": "Spain",
+  "bonus": "Welcome Bonus 200% up to $1000",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 152,
+  "providers": [
+    "Pragmatic Play",
+    "Iron Dog Studio",
+    "Novomatic",
+    "Spinlogic Gaming",
+    "Merkur",
+    "Blueprint Gaming",
+    "Gamomat"
+  ],
+  "likes": 1718,
+  "comments": 292,
+  "operatingCountries": [
+    "Ireland",
+    "United States",
+    "Spain",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=107",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wincraft-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109"
+  ]
+}

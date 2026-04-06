@@ -1,0 +1,34 @@
+{
+  "name": "Casino Action Casino",
+  "slug": "casino-action-casino",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 100% up to $1000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 435,
+  "providers": [
+    "Red Tiger",
+    "EGT",
+    "Evolution Gaming",
+    "NextGen",
+    "Quickspin",
+    "NetEnt"
+  ],
+  "likes": 1977,
+  "comments": 292,
+  "operatingCountries": [
+    "Portugal",
+    "Switzerland",
+    "South Africa",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=66",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-action-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68"
+  ]
+}

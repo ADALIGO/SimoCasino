@@ -1,0 +1,31 @@
+{
+  "name": "1Red Online",
+  "slug": "1red-online",
+  "country": "Denmark",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 5,
+  "revenueRank": 43,
+  "spins": 39,
+  "providers": [
+    "ELK Studios",
+    "Red Tiger",
+    "1x2gaming"
+  ],
+  "likes": 1735,
+  "comments": 434,
+  "operatingCountries": [
+    "Australia",
+    "United States",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1red-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

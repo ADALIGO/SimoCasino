@@ -1,0 +1,30 @@
+{
+  "name": "Club USA Online",
+  "slug": "club-usa-online",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 351,
+  "providers": [
+    "Habanero Systems",
+    "Evolution Gaming",
+    "NetEnt",
+    "Saucify",
+    "Yggdrasil"
+  ],
+  "likes": 1117,
+  "comments": 165,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=50",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=club-usa-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ]
+}

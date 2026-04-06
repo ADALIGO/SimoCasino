@@ -1,0 +1,34 @@
+{
+  "name": "Las Atlantis Slots",
+  "slug": "las-atlantis-slots",
+  "country": "Sweden",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 493,
+  "providers": [
+    "NetEnt",
+    "Nolimit City",
+    "Iron Dog Studio",
+    "Blueprint Gaming",
+    "Microgaming",
+    "Relax Gaming"
+  ],
+  "likes": 829,
+  "comments": 130,
+  "operatingCountries": [
+    "Portugal",
+    "Ireland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=79",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=las-atlantis-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82"
+  ]
+}

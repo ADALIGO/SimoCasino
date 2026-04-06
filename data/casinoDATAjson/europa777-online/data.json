@@ -1,0 +1,34 @@
+{
+  "name": "Europa777 Online",
+  "slug": "europa777-online",
+  "country": "Austria",
+  "bonus": "100% up to $1000 + 20 Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 254,
+  "providers": [
+    "WMS",
+    "Iron Dog Studio",
+    "EGT",
+    "NextGen",
+    "Merkur",
+    "Konami"
+  ],
+  "likes": 1908,
+  "comments": 311,
+  "operatingCountries": [
+    "Norway",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=europa777-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "AllSpins Slots",
+  "slug": "allspins-slots",
+  "country": "South Africa",
+  "bonus": "100% Bonus up to $200",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 95,
+  "providers": [
+    "Arrows Edge",
+    "WMS",
+    "Wager Gaming",
+    "Gamomat",
+    "Merkur",
+    "Big Time Gaming"
+  ],
+  "likes": 1518,
+  "comments": 483,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=allspins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103"
+  ]
+}

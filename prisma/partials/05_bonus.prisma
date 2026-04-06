@@ -1,0 +1,106 @@
+/////////////////////
+// BONUS
+
+/////////////////////
+
+model Bonus {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String
+  type                   BonusType
+  title                  String
+  description            String?
+  amount                 String
+  code                   String?
+  wagering               String?
+  expiry                 DateTime?
+  eligibleGames          String[]
+  maxCashout             Float?
+  minDeposit             Float?
+  vipOnly                Boolean  @default(false)
+  dailyLimit             Int?
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @default(now())
+
+  // Relations
+  userBonuses            UserBonus[]
+
+  // Player Metrics
+  totalClaims            Int?
+  dailyClaims            Int?
+  weeklyClaims           Int?
+  monthlyClaims          Int?
+  uniqueClaimers         Int?
+  avgRedemptionTime      Int?     // seconds
+  maxRedemptionAmount    Float?
+  minRedemptionAmount    Float?
+  claimedByVIPs          Int?
+  claimedByNewUsers      Int?
+  claimedByReturningUsers Int?
+  totalWageredAmount     Float?
+  avgWageredAmount       Float?
+  totalWinsGenerated     Float?
+  avgWinPerClaim         Float?
+
+  // Engagement & Interaction
+  likes                  Int?
+  dislikes               Int?
+  shares                 Int?
+  comments               Int?
+  socialEngagementScore  Float?
+  emailClicks            Int?
+  pushClicks             Int?
+  inAppClicks            Int?
+  clickThroughRate       Float?
+
+  // Gamification / VIP / Loyalty
+  vipPointsEarned        Int?
+  loyaltyPointsEarned    Int?
+  streakBonus            Boolean?
+  milestoneBonus         Boolean?
+  specialEventBonus      Boolean?
+  tournamentBonus        Boolean?
+  bonusLevelRequired     Int?
+  bonusTier              UserTier?
+  achievementsUnlocked   String[]
+  leaderboardPoints      Float?
+
+  // Fraud / Security
+  suspiciousClaims       Int?
+  blockedUsers           String[]
+  flaggedUsers           String[]
+  bonusAbuseScore        Float?
+  maxClaimsPerUser       Int?
+  maxBonusAmountPerUser  Float?
+  autoFlagSuspicious     Boolean?
+
+  // Marketing / SEO / Campaigns
+  metaTitle              String?
+  metaDescription        String?
+  metaKeywords           String[]
+  campaignId             String?
+  campaignActive         Boolean?
+  campaignStartDate      DateTime?
+  campaignEndDate        DateTime?
+  targetRegions          String[]
+  targetLanguages        String[]
+  targetDeviceTypes      DeviceType[]
+  marketingScore         Float?
+
+  // AI & Recommendation
+  aiScore                Float?
+  recommendedForTier     UserTier?
+  predictedEngagement    Float?
+  predictedRedemptionRate Float?
+  engagementPrediction   Float?
+  suggestedGames         String[]
+  recommendedUsers       String[]
+  
+  // Misc / Reporting
+  notes                  String?
+  adminComments          String[]
+  history                Json?
+  totalPlayersImpacted   Int?
+  totalRevenueImpact     Float?
+}
+

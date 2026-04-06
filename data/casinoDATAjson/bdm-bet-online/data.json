@@ -1,0 +1,37 @@
+{
+  "name": "BDM BET Online",
+  "slug": "bdm-bet-online",
+  "country": "Spain",
+  "bonus": "Welcome Bonus 50% up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 465,
+  "providers": [
+    "Thunderkick",
+    "Playtech",
+    "NextGen",
+    "Greentube",
+    "Iron Dog Studio",
+    "IGT",
+    "1x2gaming",
+    "Gamomat"
+  ],
+  "likes": 733,
+  "comments": 399,
+  "operatingCountries": [
+    "Ireland",
+    "Poland",
+    "Finland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bdm-bet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193"
+  ]
+}

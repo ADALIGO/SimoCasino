@@ -1,0 +1,30 @@
+{
+  "name": "RoyalsCasino Casino",
+  "slug": "royalscasino-casino",
+  "country": "Denmark",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 4,
+  "revenueRank": 31,
+  "spins": 75,
+  "providers": [
+    "NextGen",
+    "Novomatic"
+  ],
+  "likes": 835,
+  "comments": 367,
+  "operatingCountries": [
+    "Austria",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=180",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royalscasino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

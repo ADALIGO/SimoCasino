@@ -1,0 +1,29 @@
+{
+  "name": "Euro Palace",
+  "slug": "euro-palace",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1622,
+  "comments": 60,
+  "operatingCountries": [
+    "Denmark",
+    "Norway",
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=191",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=razed",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ],
+  "reviewCount": 5
+}

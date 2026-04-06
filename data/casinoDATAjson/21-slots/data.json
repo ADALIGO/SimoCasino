@@ -1,0 +1,30 @@
+{
+  "name": "21 Slots",
+  "slug": "21-slots",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.1,
+  "revenueRank": 1,
+  "spins": 0,
+  "providers": [
+    "Red Tiger"
+  ],
+  "likes": 1955,
+  "comments": 291,
+  "operatingCountries": [
+    "Portugal",
+    "Austria",
+    "South Africa",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

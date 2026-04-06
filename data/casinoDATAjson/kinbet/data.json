@@ -1,0 +1,29 @@
+{
+  "name": "Kinbet",
+  "slug": "kinbet",
+  "country": "Morocco",
+  "bonus": "100% up to €/$1000 + 200 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 418,
+  "providers": [],
+  "likes": 299,
+  "comments": 357,
+  "operatingCountries": [
+    "South Africa",
+    "Finland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wikiluck",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Silver Sands Casino EURO Online",
+  "slug": "silver-sands-casino-euro-online",
+  "country": "Canada",
+  "bonus": "200% Bonus up to $500",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 126,
+  "providers": [
+    "Nolimit City",
+    "Playtech",
+    "Arrows Edge",
+    "Push Gaming",
+    "Blueprint Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 1859,
+  "comments": 421,
+  "operatingCountries": [
+    "Morocco",
+    "Australia",
+    "New Zealand",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=180",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=silver-sands-casino-euro-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ]
+}

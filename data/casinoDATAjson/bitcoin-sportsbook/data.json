@@ -1,0 +1,31 @@
+{
+  "name": "Bitcoin Sportsbook",
+  "slug": "bitcoin-sportsbook",
+  "country": "Morocco",
+  "bonus": "200% up to $1000 + 20 Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 37,
+  "providers": [],
+  "likes": 1346,
+  "comments": 299,
+  "operatingCountries": [
+    "Norway",
+    "Netherlands",
+    "Morocco",
+    "Italy",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=5",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfinal",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9"
+  ],
+  "reviewCount": 5
+}

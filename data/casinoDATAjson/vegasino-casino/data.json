@@ -1,0 +1,34 @@
+{
+  "name": "Vegasino Casino",
+  "slug": "vegasino-casino",
+  "country": "United Kingdom",
+  "bonus": "First Deposit 150% up to $50 + 150 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 218,
+  "providers": [
+    "Microgaming",
+    "NextGen",
+    "Wager Gaming",
+    "Amatic Industries",
+    "Rival",
+    "Yggdrasil",
+    "Greentube",
+    "Ash Gaming"
+  ],
+  "likes": 640,
+  "comments": 286,
+  "operatingCountries": [
+    "Czech Republic",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=195",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=vegasino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197"
+  ]
+}

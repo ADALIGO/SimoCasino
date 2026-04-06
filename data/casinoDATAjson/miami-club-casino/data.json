@@ -1,0 +1,32 @@
+{
+  "name": "Miami Club Casino",
+  "slug": "miami-club-casino",
+  "country": "Belgium",
+  "bonus": "Reload Bonus 150% up to $2000",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 160,
+  "providers": [
+    "Visionary iGaming",
+    "Pragmatic Play",
+    "Relax Gaming",
+    "1x2gaming",
+    "Blueprint Gaming",
+    "EGT"
+  ],
+  "likes": 583,
+  "comments": 182,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=146",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=miami-club-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ]
+}

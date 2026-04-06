@@ -1,0 +1,30 @@
+{
+  "name": "Bookmaker.XYZ Slots",
+  "slug": "bookmakerxyz-slots",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 387,
+  "providers": [
+    "Thunderkick",
+    "Wager Gaming",
+    "BetSoft",
+    "Blueprint Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1042,
+  "comments": 461,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bookmakerxyz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17"
+  ]
+}

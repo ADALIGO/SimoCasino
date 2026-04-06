@@ -1,0 +1,33 @@
+{
+  "name": "Hexabet Casino",
+  "slug": "hexabet-casino",
+  "country": "Finland",
+  "bonus": "150% Bonus up to $300",
+  "rating": 3.2,
+  "revenueRank": 80,
+  "spins": 347,
+  "providers": [
+    "Saucify",
+    "Relax Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 1182,
+  "comments": 349,
+  "operatingCountries": [
+    "Finland",
+    "United States",
+    "Spain",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=83",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hexabet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87"
+  ]
+}

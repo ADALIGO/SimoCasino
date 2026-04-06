@@ -1,0 +1,33 @@
+{
+  "name": "Pribet Online",
+  "slug": "pribet-online",
+  "country": "Netherlands",
+  "bonus": "VIP Bonus 50% up to $100",
+  "rating": 3,
+  "revenueRank": 78,
+  "spins": 154,
+  "providers": [
+    "Konami",
+    "Evolution Gaming",
+    "Relax Gaming",
+    "Playtech",
+    "Genesis Gaming",
+    "Wager Gaming"
+  ],
+  "likes": 125,
+  "comments": 130,
+  "operatingCountries": [
+    "Morocco",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pribet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85"
+  ]
+}

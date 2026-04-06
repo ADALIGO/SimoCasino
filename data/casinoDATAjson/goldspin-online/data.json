@@ -1,0 +1,36 @@
+{
+  "name": "GoldSpin Online",
+  "slug": "goldspin-online",
+  "country": "Canada",
+  "bonus": "Welcome Bonus 300% up to $200",
+  "rating": 4.3,
+  "revenueRank": 20,
+  "spins": 396,
+  "providers": [
+    "Aristocrat",
+    "Relax Gaming",
+    "Konami",
+    "Red Tiger",
+    "Spinlogic Gaming",
+    "Real Time Gaming"
+  ],
+  "likes": 1503,
+  "comments": 368,
+  "operatingCountries": [
+    "Netherlands",
+    "Denmark",
+    "Norway",
+    "Portugal",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=191",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldspin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

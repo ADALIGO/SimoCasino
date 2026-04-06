@@ -1,0 +1,35 @@
+{
+  "name": "White Lotus Slots",
+  "slug": "white-lotus-slots",
+  "country": "Portugal",
+  "bonus": "100% up to $100 + 300 Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 164,
+  "providers": [
+    "NetEnt",
+    "Saucify",
+    "Amatic Industries",
+    "Ash Gaming",
+    "Thunderkick",
+    "ELK Studios",
+    "Merkur"
+  ],
+  "likes": 743,
+  "comments": 483,
+  "operatingCountries": [
+    "Netherlands",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=white-lotus-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

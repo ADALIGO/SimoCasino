@@ -1,0 +1,31 @@
+{
+  "name": "Nords Casino",
+  "slug": "nords-casino",
+  "country": "South Africa",
+  "bonus": "250% Bonus up to $1000",
+  "rating": 4,
+  "revenueRank": 40,
+  "spins": 103,
+  "providers": [
+    "Evolution Gaming",
+    "1x2gaming",
+    "Microgaming",
+    "Visionary iGaming"
+  ],
+  "likes": 1060,
+  "comments": 439,
+  "operatingCountries": [
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=52",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=nords-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56"
+  ]
+}

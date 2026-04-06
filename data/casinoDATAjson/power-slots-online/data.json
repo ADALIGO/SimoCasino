@@ -1,0 +1,27 @@
+{
+  "name": "Power Slots Online",
+  "slug": "power-slots-online",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming"
+  ],
+  "likes": 691,
+  "comments": 113,
+  "operatingCountries": [
+    "Denmark",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=41",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=power-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43"
+  ]
+}

@@ -1,0 +1,55 @@
+﻿VERIFICATION REPORT
+======================================================================
+
+AZ:
+----------------------------------------------------------------------
+Total keys: 513
+Still English: 494
+
+Sample English strings remaining:
+  ΓÇó About You: Siz Haqq─▒nda
+  ΓÇó Account: Hesab
+  ΓÇó Account Settings: Hesab Parametrl╔Öri
+  ΓÇó Account tier: Hesab S╔Öviyy╔Ösi
+  ΓÇó Active Bonuses: Aktiv Bonuslar
+  ΓÇó Activity: F╔Öaliyy╔Öt
+  ΓÇó Activity Log: F╔Öaliyy╔Öt G├╝nl├╝y├╝
+  ΓÇó Affiliate: T╔Ör╔Öfda┼ƒ
+  ΓÇó Affiliate Program: T╔Ör╔Öfda┼ƒ Proqram─▒
+  ΓÇó Avatar: Avatar
+
+BG:
+----------------------------------------------------------------------
+Total keys: 503
+Still English: 315
+
+Sample English strings remaining:
+  ΓÇó about_simocasino: ╨₧╤é╨╜╨╛╤ü╨╜╨╛ Simocasino
+  ΓÇó cta_description: Get exclusive access to the best casino bonuses and promotio...
+  ΓÇó loading_dashboard_description: Please wait while we build your hub.
+  ΓÇó dashboard_hero_subtitle: Your casino hub is loaded with rewards, challenges, and fres...
+  ΓÇó xp_progress_label: XP progress
+  ΓÇó daily_bonus_claimed: Daily Bonus Claimed
+  ΓÇó edit_profile: Edit profile
+  ΓÇó ready_for_next_tier: You are ready for the next tier.
+  ΓÇó keep_playing_next_tier: Keep playing and hit the next tier.
+  ΓÇó progress_gamification_title: Progress & Gamification
+
+BN:
+----------------------------------------------------------------------
+Total keys: 503
+Still English: 314
+
+Sample English strings remaining:
+  ΓÇó cta_description: Get exclusive access to the best casino bonuses and promotio...
+  ΓÇó loading_dashboard_description: Please wait while we build your hub.
+  ΓÇó dashboard_hero_subtitle: Your casino hub is loaded with rewards, challenges, and fres...
+  ΓÇó xp_progress_label: XP progress
+  ΓÇó daily_bonus_claimed: Daily Bonus Claimed
+  ΓÇó edit_profile: Edit profile
+  ΓÇó ready_for_next_tier: You are ready for the next tier.
+  ΓÇó keep_playing_next_tier: Keep playing and hit the next tier.
+  ΓÇó progress_gamification_title: Progress & Gamification
+  ΓÇó track_level_streak: Track your level, streak, and achievements in one addictive ...
+
+======================================================================

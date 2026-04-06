@@ -1,0 +1,30 @@
+{
+  "name": "ReloadBet Slots",
+  "slug": "reloadbet-slots",
+  "country": "Norway",
+  "bonus": "Reload Bonus 125% up to $200",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 172,
+  "providers": [
+    "Gamomat"
+  ],
+  "likes": 1954,
+  "comments": 453,
+  "operatingCountries": [
+    "Morocco",
+    "Spain",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=reloadbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14"
+  ]
+}

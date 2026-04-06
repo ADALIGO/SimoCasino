@@ -1,0 +1,35 @@
+{
+  "name": "daddy Slots",
+  "slug": "daddy-slots",
+  "country": "United States",
+  "bonus": "Reload Bonus 50% up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Relax Gaming",
+    "Wager Gaming",
+    "NetEnt"
+  ],
+  "likes": 1973,
+  "comments": 480,
+  "operatingCountries": [
+    "Belgium",
+    "Canada",
+    "Morocco",
+    "Czech Republic",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=daddy-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ]
+}

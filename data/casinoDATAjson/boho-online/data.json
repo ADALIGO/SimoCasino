@@ -1,0 +1,29 @@
+{
+  "name": "BOHO Online",
+  "slug": "boho-online",
+  "country": "Spain",
+  "bonus": "300% Bonus up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 231,
+  "providers": [
+    "Blueprint Gaming"
+  ],
+  "likes": 1058,
+  "comments": 90,
+  "operatingCountries": [
+    "Ireland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=126",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boho-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128",
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130"
+  ]
+}

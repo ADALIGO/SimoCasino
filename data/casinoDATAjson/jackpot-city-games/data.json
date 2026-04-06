@@ -1,0 +1,33 @@
+{
+  "name": "Jackpot City Games",
+  "slug": "jackpot-city-games",
+  "country": "Morocco",
+  "bonus": "First Deposit 125% up to $2000 + 150 Free Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Rival",
+    "Greentube",
+    "Red Tiger",
+    "Konami"
+  ],
+  "likes": 279,
+  "comments": 159,
+  "operatingCountries": [
+    "Poland",
+    "Ireland",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-city-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ]
+}

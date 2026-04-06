@@ -1,0 +1,31 @@
+{
+  "name": "Jumba Bet Online",
+  "slug": "jumba-bet-online",
+  "country": "United States",
+  "bonus": "VIP Bonus 50% up to $50",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 77,
+  "providers": [
+    "IGT",
+    "Big Time Gaming"
+  ],
+  "likes": 805,
+  "comments": 337,
+  "operatingCountries": [
+    "France",
+    "Finland",
+    "Sweden",
+    "Czech Republic",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jumba-bet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Casino Extreme Casino",
+  "slug": "casino-extreme-casino",
+  "country": "Canada",
+  "bonus": "Welcome Bonus 100% up to $300",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 498,
+  "providers": [
+    "Greentube",
+    "Habanero Systems",
+    "Konami"
+  ],
+  "likes": 1703,
+  "comments": 338,
+  "operatingCountries": [
+    "Netherlands",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-extreme-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

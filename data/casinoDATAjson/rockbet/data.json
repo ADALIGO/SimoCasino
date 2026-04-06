@@ -1,0 +1,27 @@
+{
+  "name": "Rockbet",
+  "slug": "rockbet",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 0.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 43,
+  "comments": 280,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=40",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=amonbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44"
+  ],
+  "reviewCount": 5
+}

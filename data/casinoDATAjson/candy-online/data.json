@@ -1,0 +1,33 @@
+{
+  "name": "Candy Online",
+  "slug": "candy-online",
+  "country": "Sweden",
+  "bonus": "VIP Bonus 50% up to $1000",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 165,
+  "providers": [
+    "Quickspin",
+    "Nolimit City",
+    "Arrows Edge",
+    "Real Time Gaming",
+    "ELK Studios",
+    "Greentube"
+  ],
+  "likes": 649,
+  "comments": 491,
+  "operatingCountries": [
+    "New Zealand",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=candy-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

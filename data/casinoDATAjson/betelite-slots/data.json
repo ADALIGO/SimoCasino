@@ -1,0 +1,35 @@
+{
+  "name": "BetElite Slots",
+  "slug": "betelite-slots",
+  "country": "New Zealand",
+  "bonus": "Deposit Bonus 50% up to $300",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 189,
+  "providers": [
+    "Ash Gaming",
+    "Greentube",
+    "Amatic Industries",
+    "Quickspin",
+    "BetSoft"
+  ],
+  "likes": 939,
+  "comments": 330,
+  "operatingCountries": [
+    "Germany",
+    "Sweden",
+    "Canada",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betelite-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ]
+}

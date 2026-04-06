@@ -1,0 +1,32 @@
+{
+  "name": "Eddy Vegas Online",
+  "slug": "eddy-vegas-online",
+  "country": "United States",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.9,
+  "revenueRank": 48,
+  "spins": 43,
+  "providers": [
+    "Merkur",
+    "BetSoft",
+    "Pragmatic Play",
+    "Saucify"
+  ],
+  "likes": 71,
+  "comments": 365,
+  "operatingCountries": [
+    "Spain",
+    "Czech Republic",
+    "Ireland",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=115",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eddy-vegas-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=115",
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117"
+  ]
+}

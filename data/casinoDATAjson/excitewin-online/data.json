@@ -1,0 +1,32 @@
+{
+  "name": "ExciteWin Online",
+  "slug": "excitewin-online",
+  "country": "Sweden",
+  "bonus": "Welcome Package up to $300",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 101,
+  "providers": [
+    "Gamomat",
+    "Genesis Gaming",
+    "Real Time Gaming",
+    "IGT",
+    "Push Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 1286,
+  "comments": 18,
+  "operatingCountries": [
+    "Ireland",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=excitewin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122"
+  ]
+}

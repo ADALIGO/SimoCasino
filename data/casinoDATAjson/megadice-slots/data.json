@@ -1,0 +1,32 @@
+{
+  "name": "Megadice Slots",
+  "slug": "megadice-slots",
+  "country": "Australia",
+  "bonus": "Reload Bonus 150% up to $50",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 350,
+  "providers": [
+    "Blueprint Gaming",
+    "BetSoft",
+    "Merkur",
+    "NextGen",
+    "Spinlogic Gaming",
+    "Thunderkick",
+    "Aristocrat"
+  ],
+  "likes": 1056,
+  "comments": 402,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=105",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=megadice-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107"
+  ]
+}

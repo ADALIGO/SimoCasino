@@ -1,0 +1,32 @@
+{
+  "name": "DaVegas Online",
+  "slug": "davegas-online",
+  "country": "Belgium",
+  "bonus": "Reload Bonus 200% up to $200",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 449,
+  "providers": [
+    "NetEnt",
+    "Real Time Gaming"
+  ],
+  "likes": 2,
+  "comments": 275,
+  "operatingCountries": [
+    "Canada",
+    "Belgium",
+    "Netherlands",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=davegas-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101"
+  ]
+}

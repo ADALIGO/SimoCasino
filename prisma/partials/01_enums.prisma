@@ -1,0 +1,181 @@
+/////////////////////
+// ENUMS
+
+/////////////////////
+// User Casino Interaction & Gamification
+enum UserInteractionType {
+  VISIT
+  BET
+  BONUS_CLAIM
+  GAME_PLAY
+  REVIEW
+  LIKE
+  COMMENT
+  SHARE
+  REFERRAL_CLICK
+  LOGIN
+  LOGOUT
+  OTHER
+}
+
+// Complaint / Support
+enum ComplaintType {
+  PAYOUT_ISSUE
+  BONUS_ISSUE
+  TECHNICAL_ISSUE
+  ACCOUNT_ISSUE
+  REVIEW_DISPUTE
+  OTHER
+}
+
+enum ComplaintPriority {
+  LOW
+  MEDIUM
+  HIGH
+  URGENT
+}
+
+enum ComplaintStatus {
+  PENDING
+  IN_PROGRESS
+  RESOLVED
+  REJECTED
+  ESCALATED
+}
+
+// Article / Content
+enum ArticleCategory {
+  GUIDE
+  REVIEW
+  NEWS
+  BONUS
+  STRATEGY
+  TUTORIAL
+  INTERVIEW
+  FEATURE
+}
+
+enum ArticleSubCategory {
+  CASINO
+  SLOT
+  TABLE_GAME
+  LIVE_CASINO
+  SPORTSBOOK
+  CRYPTO
+  VIP
+  OTHER
+}
+
+// Campaign / Marketing
+enum CampaignType {
+  EMAIL
+  PUSH_NOTIFICATION
+  SOCIAL_MEDIA
+  AFFILIATE
+  ADVERTISING
+  BONUS_PROMOTION
+  SEASONAL
+}
+
+// AI / Prediction
+enum AiPredictionType {
+  ENGAGEMENT
+  CHURN
+  LTV
+  BONUS_EFFECTIVENESS
+  CONTENT_PREFERENCE
+}
+
+// Gamification / Reward Types
+enum RewardType {
+  XP
+  COINS
+  BADGE
+  LEVEL_UP
+  VIP_POINTS
+  LOYALTY_POINTS
+  STREAK_BONUS
+  MILESTONE_BONUS
+}
+
+// Misc / Status
+enum ResolutionStatus {
+  PENDING
+  REVIEWED
+  ACTIONED
+  REJECTED
+  CLOSED
+}
+
+enum EngagementLevel {
+  LOW
+  MEDIUM
+  HIGH
+  VERY_HIGH
+}
+
+enum ArticlePriority {
+  LOW
+  MEDIUM
+  HIGH
+}
+enum UserTier {
+  FREE
+  PREMIUM
+  VIP
+  ELITE
+  LEGEND
+}
+
+enum VerificationStatus {
+  UNVERIFIED
+  PENDING
+  VERIFIED
+  REJECTED
+}
+
+enum BonusType {
+  NO_DEPOSIT
+  WELCOME
+  DEPOSIT
+  FREE_SPINS
+  CASHBACK
+  DAILY
+  SEASONAL
+  VIP
+}
+
+enum GameType {
+  SLOT
+  TABLE
+  LIVE
+  VIDEO_POKER
+  SCRATCH
+  JACKPOT
+  BONUS
+}
+
+enum DeviceType {
+  DESKTOP
+  MOBILE
+  TABLET
+  BOT
+}
+
+enum Currency {
+  USD
+  EUR
+  GBP
+  CAD
+  BTC
+  ETH
+  USDT
+  ADA
+}
+
+enum ComplaintResolutionStatus {
+  OPEN
+  RESOLVED
+  REJECTED
+}
+

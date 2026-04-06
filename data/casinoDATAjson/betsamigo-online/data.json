@@ -1,0 +1,30 @@
+{
+  "name": "betsAMIGO Online",
+  "slug": "betsamigo-online",
+  "country": "Morocco",
+  "bonus": "Cashback up to 300%",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "Habanero Systems",
+    "Yggdrasil"
+  ],
+  "likes": 1042,
+  "comments": 160,
+  "operatingCountries": [
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsamigo-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Casino Mate Games",
+  "slug": "casino-mate-games",
+  "country": "Portugal",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 40,
+  "providers": [
+    "Pragmatic Play",
+    "Big Time Gaming",
+    "Wager Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 81,
+  "comments": 230,
+  "operatingCountries": [
+    "United States",
+    "Denmark",
+    "Belgium",
+    "Poland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=6",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-mate-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9"
+  ]
+}

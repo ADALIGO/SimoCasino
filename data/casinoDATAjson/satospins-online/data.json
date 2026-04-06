@@ -1,0 +1,36 @@
+{
+  "name": "SatoSpins Online",
+  "slug": "satospins-online",
+  "country": "Netherlands",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 453,
+  "providers": [
+    "Quickspin",
+    "Playtech",
+    "Blueprint Gaming",
+    "Real Time Gaming",
+    "Big Time Gaming",
+    "Saucify",
+    "Ash Gaming"
+  ],
+  "likes": 1177,
+  "comments": 184,
+  "operatingCountries": [
+    "Switzerland",
+    "South Africa",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=105",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=satospins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109"
+  ]
+}

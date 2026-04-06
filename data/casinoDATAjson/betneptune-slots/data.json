@@ -1,0 +1,32 @@
+{
+  "name": "BetNeptune Slots",
+  "slug": "betneptune-slots",
+  "country": "Canada",
+  "bonus": "VIP Bonus 50% up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 197,
+  "providers": [
+    "BetSoft",
+    "EGT",
+    "Spinlogic Gaming",
+    "Thunderkick",
+    "Merkur"
+  ],
+  "likes": 882,
+  "comments": 478,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=175",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betneptune-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179"
+  ]
+}

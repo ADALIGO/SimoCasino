@@ -1,0 +1,39 @@
+{
+  "name": "Bonanza Game Games",
+  "slug": "bonanza-game-games",
+  "country": "Australia",
+  "bonus": "Welcome Bonus 200% up to $300",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 306,
+  "providers": [
+    "Thunderkick",
+    "Microgaming",
+    "Nolimit City",
+    "Gamomat",
+    "Iron Dog Studio",
+    "Spinlogic Gaming",
+    "Blueprint Gaming",
+    "Red Tiger"
+  ],
+  "likes": 1819,
+  "comments": 82,
+  "operatingCountries": [
+    "Czech Republic",
+    "Portugal",
+    "South Africa",
+    "Belgium",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=181",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bonanza-game-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185"
+  ]
+}

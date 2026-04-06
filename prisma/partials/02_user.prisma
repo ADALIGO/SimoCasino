@@ -1,0 +1,217 @@
+/////////////////////
+// USER
+
+/////////////////////
+
+model User {
+  id                     String   @id @default(auto()) @map("_id") @db.ObjectId
+  email                  String   @unique
+  phone                  String?
+  username               String?
+  password               String?
+  firstName              String?
+  lastName               String?
+  profileImage           String?
+  bannerImage            String?
+  imageGallery           String[] @default([])
+  bio                    String?
+  personalQuote          String?
+  signature              String?
+  showFlagNextToUsername Boolean  @default(false)
+  hideGender             Boolean  @default(false)
+  preferredCasinoType    String?
+  favoriteGameType       String?
+  firstGambleYear        String?
+  biggestWin             String?
+  favoriteMeal           String?
+  favoriteMovie          String?
+  favoriteMusicGenre     String?
+  favoriteSeason         String?
+  facebookProfile        String?
+  twitterProfile         String?
+  instagramProfile       String?
+  location               String?
+  gender                 String?
+  dateOfBirth            DateTime?
+
+  // OAuth
+  githubId               String?
+  googleId               String?
+  appleId                String?
+  facebookId             String?
+  twitterId              String?
+
+  // Tier & Verification
+  userTier               UserTier @default(FREE)
+  verificationStatus     VerificationStatus @default(UNVERIFIED)
+  verifiedAt             DateTime?
+
+  // Account Status
+  isBanned               Boolean  @default(false)
+  bannedReason           String?
+  bannedAt               DateTime?
+  bannedUntil            DateTime?
+
+  // GEO & DEVICE
+  lastIp                 String?
+  lastCountry            String?
+  city                   String?
+  region                 String?
+  timezone               String?
+  userAgent              String?
+  deviceFingerprint      String?
+  browser                String?
+  os                     String?
+  deviceType             DeviceType?
+
+  // Network / ISP
+  isp                    String?
+  organization           String?
+  isProxy                Boolean  @default(false)
+  isVPN                  Boolean  @default(false)
+  isDatacenter           Boolean  @default(false)
+
+  // Risk & Fraud
+  riskScore              Float    @default(0)
+  isSuspicious           Boolean  @default(false)
+  isBot                  Boolean  @default(false)
+  fraudFlags             String[]
+
+  // Activity Tracking
+  totalClicks            Int      @default(0)
+  dailyClicks            Int      @default(0)
+  weeklyClicks           Int      @default(0)
+  monthlyClicks          Int      @default(0)
+  lastClickAt            DateTime?
+  sessionCount           Int      @default(0)
+  avgSessionDuration     Int?     // seconds
+  pagesVisited           Int      @default(0)
+  scrollDepth            Int?     // %
+  lastScrollAt           DateTime?
+  activeTimeThisSession  Int?     // seconds
+
+  // Gamification
+  totalPoints            Int      @default(0)
+  coins                  Int      @default(0)
+  currentLevel           Int      @default(1)
+  levelProgress          Int      @default(0)
+  xpToNextLevel          Int      @default(100)
+  streakDays             Int      @default(0)
+  lastActiveAt           DateTime?
+  achievements           String[]
+  unlockedFeatures       String[]
+
+  // Missions / Rewards
+  completedMissions      Int      @default(0)
+  dailyRewardsClaimed    Int      @default(0)
+  weeklyRewardsClaimed   Int      @default(0)
+  rewardActionsCompleted String[] @default([])
+  lastRewardAt           DateTime?
+  dailyLoginStreak       Int      @default(0)
+  vipPoints              Int      @default(0)
+
+  // Monetization
+  totalEarnings          Float    @default(0)
+  pendingEarnings        Float    @default(0)
+  withdrawnEarnings      Float    @default(0)
+  affiliateClicks        Int      @default(0)
+  conversionCount        Int      @default(0)
+  lastPayoutDate         DateTime?
+
+  // Engagement
+  pageViews              Int      @default(0)
+  avgClicksPerSession    Float    @default(0)
+  bounceRate             Float    @default(0)
+  timeOnPage             Int?     // seconds
+  newsletterSubscribed   Boolean  @default(false)
+
+  // Referral System
+  referralCode           String?
+  referredBy             String?
+  referralsCount         Int      @default(0)
+  articles               Article[]
+  referralEarnings       Float    @default(0)
+
+  // Notifications
+  notificationsEnabled   Boolean  @default(true)
+  emailNotifications     Boolean  @default(true)
+  pushNotifications      Boolean  @default(true)
+  smsNotifications       Boolean  @default(true)
+
+  // AI & Recommendations
+  aiScore                Float?   // platform AI recommendation score
+  recommendedSegments    String[] // beginner, high-roller, VIP
+  suggestedCasinos       String[] // recommended casino IDs
+  preferredGameTypes     GameType[]
+  engagementScore        Float?
+  retentionScore         Float?
+
+  // Content / Social
+  likedArticles          String[] 
+  savedArticles          String[]
+  commentsMade           Int?
+  upvotesGiven           Int?
+  downvotesGiven         Int?
+  socialShares           Int?
+  chatMessagesSent       Int?
+
+  // Security / Verification
+  twoFactorEnabled       Boolean  @default(false)
+  recoveryEmail          String?
+  recoveryPhone          String?
+  loginAttempts          Int      @default(0)
+  lastFailedLogin        DateTime?
+  accountActivityLogs    Json?
+
+  // Advanced Analytics
+  deviceCount            Int?
+  browserCount           Int?
+  operatingSystemCount   Int?
+  geoDiversityScore      Float?
+  sessionConsistency     Float?
+  timeOfDayActivity      Json?
+  weekdayActivity        Json?
+
+  // Betting / Casino Interaction
+  likedCasinoIds         String[]
+  followedCasinoIds      String[]
+  visitedCasinoIds       String[]
+  favoriteCasinoId       String?
+  lastVisitedCasinoId    String?
+  casinoPlayTime         Float?
+  casinoBetHistory       String[]
+  casinoWinLossHistory   String[]
+  casinoSessionCount     Int?
+  casinoDepositHistory   String[]
+
+  // Bonus / Rewards Interactions
+  claimedBonusIds        String[]
+  usedBonusIds           String[]
+  bonusClicks            Int      @default(0)
+  lastBonusClaimAt       DateTime?
+  bonusRedemptionScore   Float?
+
+  // VIP / Loyalty
+  vipLevel               Int?
+  vipStatus              String?
+  vipExpiration          DateTime?
+  vipRewardsEarned       String[]
+  loyaltyTierPoints      Int?
+  lifetimeRewards        String[]
+  vipInteractionScore    Float?
+
+  // Timestamps
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+  lastLoginAt            DateTime?
+  lastDailyLoginAt       DateTime?
+
+  // Relations
+  reviews                Review[]
+  bonusesClaimed         UserBonus[]
+  friends                String[]
+  messages               String[]
+  interactions           UserCasinoInteraction[]
+  complaints             Complaint[]
+}
+

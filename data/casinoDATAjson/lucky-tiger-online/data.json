@@ -1,0 +1,33 @@
+{
+  "name": "Lucky Tiger Online",
+  "slug": "lucky-tiger-online",
+  "country": "Sweden",
+  "bonus": "Welcome Bonus 200% up to $2000",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "ELK Studios",
+    "Nolimit City",
+    "EGT",
+    "Konami",
+    "Spinlogic Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 1598,
+  "comments": 445,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=53",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-tiger-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "PUB Online",
+  "slug": "pub-online",
+  "country": "Spain",
+  "bonus": "Welcome Package up to $200",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 310,
+  "providers": [
+    "Amatic Industries",
+    "Relax Gaming"
+  ],
+  "likes": 1675,
+  "comments": 257,
+  "operatingCountries": [
+    "Italy",
+    "Sweden",
+    "Poland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=pub-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Cherry Gold Online",
+  "slug": "cherry-gold-online",
+  "country": "Netherlands",
+  "bonus": "Reload Bonus 150% up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 305,
+  "providers": [
+    "Evolution Gaming",
+    "Spinlogic Gaming",
+    "Big Time Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 1144,
+  "comments": 384,
+  "operatingCountries": [
+    "Norway",
+    "Ireland",
+    "Belgium",
+    "South Africa",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cherry-gold-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Gamix",
+  "slug": "gamix",
+  "country": "Morocco",
+  "bonus": "100% up to $500 + 50 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1165,
+  "comments": 153,
+  "operatingCountries": [
+    "United Kingdom",
+    "Germany",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=160",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lunubet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ],
+  "reviewCount": 5
+}

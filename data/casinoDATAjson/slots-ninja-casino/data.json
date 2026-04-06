@@ -1,0 +1,35 @@
+{
+  "name": "Slots Ninja Casino",
+  "slug": "slots-ninja-casino",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 100% up to $2000",
+  "rating": 3.8,
+  "revenueRank": 99,
+  "spins": 273,
+  "providers": [
+    "Ash Gaming",
+    "Iron Dog Studio",
+    "Real Time Gaming",
+    "Microgaming",
+    "Arrows Edge",
+    "Amatic Industries",
+    "Playtech",
+    "Aristocrat"
+  ],
+  "likes": 32,
+  "comments": 363,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-ninja-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103"
+  ]
+}

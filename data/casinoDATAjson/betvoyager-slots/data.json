@@ -1,0 +1,28 @@
+{
+  "name": "BetVoyager Slots",
+  "slug": "betvoyager-slots",
+  "country": "Denmark",
+  "bonus": "Deposit Bonus 100% up to $300",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 146,
+  "providers": [
+    "Novomatic"
+  ],
+  "likes": 724,
+  "comments": 122,
+  "operatingCountries": [
+    "Switzerland",
+    "Denmark",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betvoyager-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ]
+}

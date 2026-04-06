@@ -1,0 +1,32 @@
+{
+  "name": "Bluffbet Games",
+  "slug": "bluffbet-games",
+  "country": "Sweden",
+  "bonus": "250% Bonus up to $500",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 100,
+  "providers": [
+    "Habanero Systems",
+    "Microgaming",
+    "Saucify",
+    "EGT"
+  ],
+  "likes": 1735,
+  "comments": 217,
+  "operatingCountries": [
+    "Finland",
+    "South Africa",
+    "Ireland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bluffbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82"
+  ]
+}

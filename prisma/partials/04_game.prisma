@@ -1,0 +1,111 @@
+/////////////////////
+// GAME
+
+/////////////////////
+
+model Game {
+  id                     String    @id @default(auto()) @map("_id") @db.ObjectId
+  casino                 Casino    @relation(fields: [casinoId], references: [id])
+  casinoId               String
+  name                   String
+  type                   GameType
+  provider               String
+  rating                 Float?
+  volatility             String?  // Low, Medium, High
+  hitFrequency           Float?  // %
+  jackpot                Float?
+  RTP                    Float?  // Return to player
+  maxBet                 Float?
+  minBet                 Float?
+  isFeatured             Boolean  @default(false)
+  isPopular              Boolean  @default(false)
+  tournamentsEnabled     Boolean  @default(false)
+  specialFeatures        String[]
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+
+  // Player Metrics
+  totalPlays             Int?     // total spins or sessions
+  dailyPlays             Int?
+  weeklyPlays            Int?
+  monthlyPlays           Int?
+  uniquePlayers          Int?
+  avgSessionDuration     Int?     // seconds
+  maxSessionDuration     Int?     // seconds
+  avgBetAmount           Float?
+  maxBetPlaced           Float?
+  minBetPlaced           Float?
+  totalWins              Float?
+  avgWinAmount           Float?
+  maxWinAmount           Float?
+  payoutFrequency        Float?   // % of sessions with win
+  lossRate               Float?   // % of sessions lost
+  houseEdge              Float?
+
+  // Engagement Metrics
+  playerRetentionRate    Float?
+  churnRate              Float?
+  repeatPlayers          Int?
+  favoriteCount          Int?
+  likeCount              Int?
+  dislikeCount           Int?
+  commentCount           Int?
+  shareCount             Int?
+  leaderboardPoints      Float?
+  tournamentPoints       Float?
+  completionRate         Float?   // % of rounds completed
+  dropOffRate            Float?   // % quit before session end
+
+  // Gamification / Tournaments
+  totalTournamentsPlayed Int?
+  tournamentWins         Int?
+  highScore              Float?
+  achievementsUnlocked   String[]
+  specialEventBonuses    String[]
+  dailyChallengesActive  Boolean?
+  weeklyChallengesActive Boolean?
+  seasonalChallengesActive Boolean?
+  bonusMultiplierActive  Boolean?
+  tournamentEligible     Boolean?
+
+  // AI & Recommendations
+  aiScore                Float?   // recommended for players
+  predictedPopularity    Float?
+  playerSegmentation     String[]
+  recommendedForTier     UserTier?
+  predictedChurnScore    Float?
+  engagementPrediction   Float?
+
+  // SEO / Marketing
+  seoTitle               String?
+  seoDescription         String?
+  seoKeywords            String[]
+  marketingScore         Float?
+  featuredInCampaign     Boolean?
+
+  // Device / Platform
+  mobileUsers            Int?
+  desktopUsers           Int?
+  tabletUsers            Int?
+  platformDiversityScore Float?
+  browserStats           Json?
+  osStats                Json?
+
+  // Fraud / Security
+  suspiciousActivityScore Float?
+  maxBetsPerPlayer       Int?
+  maxWinsPerPlayer       Float?
+  blockedPlayers         String[]
+  flaggedAccounts        String[]
+
+  // Misc Metrics
+  ratingsCount           Int?
+  reviewScore            Float?
+  complaintsCount        Int?
+  avgTimeToFirstWin      Int?     // seconds
+  engagementScore        Float?
+  payoutHistory          String[]
+  topPlayersIds          String[]
+  playerFeedback         Json?
+}
+

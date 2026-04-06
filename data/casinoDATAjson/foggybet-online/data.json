@@ -1,0 +1,35 @@
+{
+  "name": "FoggyBet Online",
+  "slug": "foggybet-online",
+  "country": "United States",
+  "bonus": "100% up to $1000 + 300 Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 50,
+  "providers": [
+    "Nolimit City",
+    "BetSoft",
+    "NetEnt",
+    "Yggdrasil",
+    "Push Gaming",
+    "Gamomat",
+    "Habanero Systems",
+    "Greentube"
+  ],
+  "likes": 1060,
+  "comments": 390,
+  "operatingCountries": [
+    "Italy",
+    "Austria",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=163",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=foggybet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

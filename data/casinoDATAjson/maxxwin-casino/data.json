@@ -1,0 +1,37 @@
+{
+  "name": "Maxxwin Casino",
+  "slug": "maxxwin-casino",
+  "country": "Spain",
+  "bonus": "100% up to $100 + 200 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 195,
+  "providers": [
+    "EGT",
+    "Real Time Gaming",
+    "Blueprint Gaming",
+    "Spinlogic Gaming",
+    "BetSoft",
+    "1x2gaming",
+    "Rival",
+    "Merkur"
+  ],
+  "likes": 1148,
+  "comments": 56,
+  "operatingCountries": [
+    "Germany",
+    "New Zealand",
+    "Switzerland",
+    "Finland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=161",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maxxwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163"
+  ]
+}

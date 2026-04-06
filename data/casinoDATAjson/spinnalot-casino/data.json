@@ -1,0 +1,38 @@
+{
+  "name": "Spinnalot Casino",
+  "slug": "spinnalot-casino",
+  "country": "Australia",
+  "bonus": "Reload Bonus 150% up to $200",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "IGT",
+    "Rival",
+    "1x2gaming",
+    "Konami",
+    "Wager Gaming",
+    "Spinlogic Gaming",
+    "Push Gaming"
+  ],
+  "likes": 769,
+  "comments": 19,
+  "operatingCountries": [
+    "France",
+    "United States",
+    "Morocco",
+    "New Zealand",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinnalot-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "TelBet",
+  "slug": "telbet",
+  "country": "Morocco",
+  "bonus": "200% up to ₿1 + 50 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 179,
+  "providers": [],
+  "likes": 1148,
+  "comments": 185,
+  "operatingCountries": [
+    "Morocco",
+    "Belgium",
+    "Finland",
+    "Czech Republic",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bk8-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ],
+  "reviewCount": 5
+}

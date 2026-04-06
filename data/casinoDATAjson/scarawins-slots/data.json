@@ -1,0 +1,30 @@
+{
+  "name": "Scarawins Slots",
+  "slug": "scarawins-slots",
+  "country": "Norway",
+  "bonus": "250% Bonus up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 75,
+  "providers": [
+    "Habanero Systems",
+    "Arrows Edge",
+    "BetSoft"
+  ],
+  "likes": 634,
+  "comments": 188,
+  "operatingCountries": [
+    "Canada",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=124",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=scarawins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127"
+  ]
+}

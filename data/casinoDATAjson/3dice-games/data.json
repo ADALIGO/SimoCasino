@@ -1,0 +1,27 @@
+{
+  "name": "3Dice Games",
+  "slug": "3dice-games",
+  "country": "United Kingdom",
+  "bonus": "125% Bonus up to $200",
+  "rating": 4.1,
+  "revenueRank": 9,
+  "spins": 369,
+  "providers": [
+    "Amatic Industries"
+  ],
+  "likes": 561,
+  "comments": 296,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=3dice-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

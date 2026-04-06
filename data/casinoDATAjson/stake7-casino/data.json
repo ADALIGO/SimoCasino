@@ -1,0 +1,27 @@
+{
+  "name": "Stake7 Casino",
+  "slug": "stake7-casino",
+  "country": "Germany",
+  "bonus": "First Deposit 150% up to $2000 + 150 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger"
+  ],
+  "likes": 730,
+  "comments": 204,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stake7-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113"
+  ]
+}

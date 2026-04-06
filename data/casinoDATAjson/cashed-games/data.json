@@ -1,0 +1,34 @@
+{
+  "name": "Cashed Games",
+  "slug": "cashed-games",
+  "country": "United Kingdom",
+  "bonus": "150% Bonus up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 319,
+  "providers": [
+    "Greentube",
+    "Evolution Gaming",
+    "Microgaming",
+    "ELK Studios",
+    "Relax Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 101,
+  "comments": 122,
+  "operatingCountries": [
+    "Poland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cashed-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "20Bet Online",
+  "slug": "20bet-online",
+  "country": "Australia",
+  "bonus": "Welcome Bonus 150% up to $500",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 342,
+  "providers": [
+    "Wager Gaming",
+    "WMS",
+    "Playtech",
+    "Greentube"
+  ],
+  "likes": 1671,
+  "comments": 237,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=20bet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ]
+}

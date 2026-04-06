@@ -1,0 +1,29 @@
+{
+  "name": "All Star Slots",
+  "slug": "all-star-slots",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 41,
+  "comments": 424,
+  "operatingCountries": [
+    "Poland",
+    "Denmark",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=68",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotslots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72"
+  ],
+  "reviewCount": 5
+}

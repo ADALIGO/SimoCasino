@@ -1,0 +1,34 @@
+{
+  "name": "HugoBets Slots",
+  "slug": "hugobets-slots",
+  "country": "South Africa",
+  "bonus": "300% Bonus up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 108,
+  "providers": [
+    "Relax Gaming",
+    "Pragmatic Play",
+    "Red Tiger",
+    "Blueprint Gaming",
+    "1x2gaming",
+    "Thunderkick"
+  ],
+  "likes": 805,
+  "comments": 143,
+  "operatingCountries": [
+    "Netherlands",
+    "Australia",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hugobets-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

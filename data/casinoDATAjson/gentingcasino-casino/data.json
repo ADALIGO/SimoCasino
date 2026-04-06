@@ -1,0 +1,33 @@
+{
+  "name": "GentingCasino Casino",
+  "slug": "gentingcasino-casino",
+  "country": "Australia",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 152,
+  "providers": [
+    "NetEnt",
+    "Ash Gaming"
+  ],
+  "likes": 240,
+  "comments": 279,
+  "operatingCountries": [
+    "Morocco",
+    "Sweden",
+    "Finland",
+    "Belgium",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=91",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gentingcasino-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93",
+    "https://picsum.photos/380/260?random=94",
+    "https://picsum.photos/380/260?random=95"
+  ]
+}

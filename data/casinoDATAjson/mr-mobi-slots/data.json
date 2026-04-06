@@ -1,0 +1,31 @@
+{
+  "name": "Mr Mobi Slots",
+  "slug": "mr-mobi-slots",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.8,
+  "revenueRank": 10,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Evolution Gaming",
+    "Merkur",
+    "Relax Gaming"
+  ],
+  "likes": 1756,
+  "comments": 40,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mr-mobi-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121"
+  ]
+}

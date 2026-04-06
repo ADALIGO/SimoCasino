@@ -1,0 +1,32 @@
+{
+  "name": "Betsixty Games",
+  "slug": "betsixty-games",
+  "country": "Sweden",
+  "bonus": "100% up to $500 + 50 Spins",
+  "rating": 4.9,
+  "revenueRank": 68,
+  "spins": 118,
+  "providers": [
+    "ELK Studios",
+    "Saucify",
+    "Relax Gaming"
+  ],
+  "likes": 59,
+  "comments": 345,
+  "operatingCountries": [
+    "Canada",
+    "Spain",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=4",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betsixty-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8"
+  ]
+}

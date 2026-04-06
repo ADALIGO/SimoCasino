@@ -1,0 +1,33 @@
+{
+  "name": "Casino Adrenaline Casino",
+  "slug": "casino-adrenaline-casino",
+  "country": "Canada",
+  "bonus": "Reload Bonus 150% up to $500",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Yggdrasil",
+    "Gamomat",
+    "Spinlogic Gaming",
+    "Big Time Gaming",
+    "Microgaming",
+    "EGT",
+    "Ash Gaming"
+  ],
+  "likes": 487,
+  "comments": 237,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=157",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-adrenaline-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160"
+  ]
+}

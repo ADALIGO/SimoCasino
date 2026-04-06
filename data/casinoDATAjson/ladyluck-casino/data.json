@@ -1,0 +1,34 @@
+{
+  "name": "LadyLuck Casino",
+  "slug": "ladyluck-casino",
+  "country": "Australia",
+  "bonus": "200% Bonus up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 369,
+  "providers": [
+    "Iron Dog Studio",
+    "Nolimit City",
+    "Novomatic",
+    "Saucify",
+    "Konami"
+  ],
+  "likes": 1299,
+  "comments": 219,
+  "operatingCountries": [
+    "South Africa",
+    "Australia",
+    "Switzerland",
+    "Finland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=195",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ladyluck-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197"
+  ]
+}

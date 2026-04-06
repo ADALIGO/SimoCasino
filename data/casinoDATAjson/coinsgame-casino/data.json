@@ -1,0 +1,27 @@
+{
+  "name": "Coins.Game Casino",
+  "slug": "coinsgame-casino",
+  "country": "Australia",
+  "bonus": "First Deposit 200% up to $50 + 50 Free Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 393,
+  "providers": [
+    "Microgaming"
+  ],
+  "likes": 368,
+  "comments": 397,
+  "operatingCountries": [
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=25",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coinsgame-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ]
+}

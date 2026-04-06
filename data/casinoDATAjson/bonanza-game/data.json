@@ -1,0 +1,30 @@
+{
+  "name": "Bonanza Game",
+  "slug": "bonanza-game",
+  "country": "Morocco",
+  "bonus": "100 Spins",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 448,
+  "providers": [],
+  "likes": 1914,
+  "comments": 398,
+  "operatingCountries": [
+    "Morocco",
+    "United Kingdom",
+    "Austria",
+    "Ireland",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goat-spins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ],
+  "reviewCount": 5
+}

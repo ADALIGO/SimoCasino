@@ -1,0 +1,29 @@
+{
+  "name": "Bassbet",
+  "slug": "bassbet",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 357,
+  "providers": [],
+  "likes": 1630,
+  "comments": 470,
+  "operatingCountries": [
+    "Czech Republic",
+    "Belgium",
+    "Italy",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=intellectbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41"
+  ],
+  "reviewCount": 5
+}

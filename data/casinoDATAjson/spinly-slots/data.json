@@ -1,0 +1,33 @@
+{
+  "name": "Spinly Slots",
+  "slug": "spinly-slots",
+  "country": "Norway",
+  "bonus": "100% up to $1000 + 200 Spins",
+  "rating": 3.2,
+  "revenueRank": 5,
+  "spins": 85,
+  "providers": [
+    "Merkur",
+    "Pragmatic Play",
+    "1x2gaming",
+    "Blueprint Gaming",
+    "Aristocrat",
+    "Nolimit City"
+  ],
+  "likes": 825,
+  "comments": 465,
+  "operatingCountries": [
+    "Belgium",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=13",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinly-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16"
+  ]
+}

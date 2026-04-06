@@ -1,0 +1,28 @@
+{
+  "name": "Vegas Days",
+  "slug": "vegas-days",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1,
+  "revenueRank": null,
+  "spins": 182,
+  "providers": [],
+  "likes": 732,
+  "comments": 338,
+  "operatingCountries": [
+    "Finland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=47",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=megapari",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48",
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51"
+  ],
+  "reviewCount": 5
+}

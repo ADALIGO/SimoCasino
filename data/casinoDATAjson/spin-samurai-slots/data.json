@@ -1,0 +1,33 @@
+{
+  "name": "Spin Samurai Slots",
+  "slug": "spin-samurai-slots",
+  "country": "Germany",
+  "bonus": "Welcome Bonus 300% up to $500",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Novomatic",
+    "BetSoft",
+    "Wager Gaming",
+    "Ash Gaming"
+  ],
+  "likes": 502,
+  "comments": 496,
+  "operatingCountries": [
+    "Italy",
+    "United Kingdom",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-samurai-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53"
+  ]
+}

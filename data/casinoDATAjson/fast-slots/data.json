@@ -1,0 +1,28 @@
+{
+  "name": "Fast Slots",
+  "slug": "fast-slots",
+  "country": "Morocco",
+  "bonus": "200% up to €5000 + 50 Spins",
+  "rating": 2.8,
+  "revenueRank": 64,
+  "spins": 29,
+  "providers": [],
+  "likes": 84,
+  "comments": 452,
+  "operatingCountries": [
+    "Belgium",
+    "Morocco",
+    "Canada",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=10",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tornadobet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ],
+  "reviewCount": 5
+}

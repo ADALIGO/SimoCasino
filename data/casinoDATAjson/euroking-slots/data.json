@@ -1,0 +1,29 @@
+{
+  "name": "EuroKing Slots",
+  "slug": "euroking-slots",
+  "country": "South Africa",
+  "bonus": "VIP Bonus 125% up to $500",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming"
+  ],
+  "likes": 1155,
+  "comments": 126,
+  "operatingCountries": [
+    "Norway",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euroking-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

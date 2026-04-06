@@ -1,0 +1,92 @@
+/* Tablet breakpoint rules for UserProgressHeader */
+@media (min-width: 640px)  {
+  .progress-header {
+    padding: 16px;
+
+    .container {
+      gap: 20px;
+      padding: 18px;
+    }
+  }
+
+  .level-section {
+    min-width: 120px;
+
+    .level-badge {
+      width: 70px;
+      height: 70px;
+
+      .badge-content .level-number {
+        font-size: 24px;
+      }
+    }
+  }
+
+  .progress-section {
+    min-width: 200px;
+
+    .points-display {
+      padding: 10px 14px;
+
+      .points-item .points-value {
+        font-size: 17px;
+      }
+    }
+
+    .progress-bar-container {
+      height: 24px;
+    }
+  }
+
+  .decorative-stars {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .progress-header {
+    display: block !important;
+    margin: 12px 0 !important;
+    padding: 12px !important;
+    overflow: visible !important;
+  }
+
+  .container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+    gap: 16px !important;
+  }
+
+  .level-section,
+  .progress-section {
+    width: 100% !important;
+    min-width: 0 !important;
+    flex: 1 1 100% !important;
+  }
+
+  .level-section {
+    justify-content: center !important;
+  }
+
+  .points-display {
+    flex-direction: column !important;
+    align-items: stretch !important;
+  }
+
+  .progress-bar-wrapper {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 10px !important;
+  }
+
+  .progress-bar-container {
+    width: 100% !important;
+  }
+
+  .decorative-stars {
+    display: none !important;
+  }
+}

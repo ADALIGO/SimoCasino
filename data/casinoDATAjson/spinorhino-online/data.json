@@ -1,0 +1,35 @@
+{
+  "name": "Spinorhino Online",
+  "slug": "spinorhino-online",
+  "country": "Norway",
+  "bonus": "Reload Bonus 50% up to $50",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "Yggdrasil",
+    "ELK Studios",
+    "Nolimit City",
+    "Big Time Gaming",
+    "Real Time Gaming",
+    "Greentube",
+    "1x2gaming"
+  ],
+  "likes": 1394,
+  "comments": 411,
+  "operatingCountries": [
+    "Belgium",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=106",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinorhino-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109"
+  ]
+}

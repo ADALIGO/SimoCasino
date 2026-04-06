@@ -1,0 +1,30 @@
+{
+  "name": "Chipstars Slots",
+  "slug": "chipstars-slots",
+  "country": "Canada",
+  "bonus": "VIP Bonus 250% up to $50",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Yggdrasil",
+    "Konami",
+    "NextGen"
+  ],
+  "likes": 1544,
+  "comments": 182,
+  "operatingCountries": [
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=chipstars-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144"
+  ]
+}

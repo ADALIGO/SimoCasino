@@ -1,0 +1,30 @@
+{
+  "name": "LegendPlay Casino",
+  "slug": "legendplay-casino",
+  "country": "United States",
+  "bonus": "First Deposit 250% up to $50 + 150 Free Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 224,
+  "providers": [
+    "Real Time Gaming",
+    "Gamomat"
+  ],
+  "likes": 1761,
+  "comments": 290,
+  "operatingCountries": [
+    "New Zealand",
+    "Germany",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=142",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=legendplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

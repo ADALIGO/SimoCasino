@@ -1,0 +1,37 @@
+{
+  "name": "Casino And Friends Casino",
+  "slug": "casino-and-friends-casino",
+  "country": "France",
+  "bonus": "Reload Bonus 100% up to $500",
+  "rating": 5,
+  "revenueRank": 38,
+  "spins": 34,
+  "providers": [
+    "Novomatic",
+    "Konami",
+    "Genesis Gaming",
+    "BetSoft",
+    "Wager Gaming",
+    "NextGen",
+    "Aristocrat",
+    "Evolution Gaming"
+  ],
+  "likes": 1143,
+  "comments": 412,
+  "operatingCountries": [
+    "Switzerland",
+    "Canada",
+    "Germany",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=49",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-and-friends-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=49",
+    "https://picsum.photos/380/260?random=50",
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52"
+  ]
+}

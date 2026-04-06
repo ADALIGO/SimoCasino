@@ -1,0 +1,30 @@
+{
+  "name": "TikiTaka Online",
+  "slug": "tikitaka-online",
+  "country": "Finland",
+  "bonus": "Reload Bonus 50% up to $2000",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NextGen",
+    "Push Gaming",
+    "Blueprint Gaming",
+    "Aristocrat"
+  ],
+  "likes": 246,
+  "comments": 95,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=63",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tikitaka-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64",
+    "https://picsum.photos/380/260?random=65",
+    "https://picsum.photos/380/260?random=66"
+  ]
+}

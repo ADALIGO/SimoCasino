@@ -1,0 +1,36 @@
+{
+  "name": "Casimba Slots",
+  "slug": "casimba-slots",
+  "country": "Italy",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.8,
+  "revenueRank": 48,
+  "spins": 194,
+  "providers": [
+    "Blueprint Gaming",
+    "NetEnt",
+    "Amatic Industries",
+    "EGT",
+    "Microgaming"
+  ],
+  "likes": 1454,
+  "comments": 22,
+  "operatingCountries": [
+    "Netherlands",
+    "United Kingdom",
+    "Australia",
+    "Portugal",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=107",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casimba-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "EgoGames Online",
+  "slug": "egogames-online",
+  "country": "South Africa",
+  "bonus": "Deposit Bonus 125% up to $300",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Relax Gaming",
+    "Genesis Gaming"
+  ],
+  "likes": 972,
+  "comments": 378,
+  "operatingCountries": [
+    "Norway",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=90",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=egogames-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

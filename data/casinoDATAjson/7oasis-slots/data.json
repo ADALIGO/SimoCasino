@@ -1,0 +1,30 @@
+{
+  "name": "7Oasis Slots",
+  "slug": "7oasis-slots",
+  "country": "South Africa",
+  "bonus": "Reload Bonus 125% up to $300",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 398,
+  "providers": [
+    "Playtech",
+    "Thunderkick",
+    "Blueprint Gaming",
+    "Wager Gaming",
+    "Nolimit City"
+  ],
+  "likes": 1550,
+  "comments": 214,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=7oasis-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ]
+}

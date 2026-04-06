@@ -1,0 +1,35 @@
+{
+  "name": "7 Sultans Slots",
+  "slug": "7-sultans-slots",
+  "country": "Switzerland",
+  "bonus": "First Deposit 150% up to $500 + 200 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 343,
+  "providers": [
+    "Real Time Gaming",
+    "IGT",
+    "1x2gaming",
+    "NextGen",
+    "Merkur",
+    "Arrows Edge",
+    "Microgaming",
+    "Greentube"
+  ],
+  "likes": 359,
+  "comments": 150,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=95",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=7-sultans-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

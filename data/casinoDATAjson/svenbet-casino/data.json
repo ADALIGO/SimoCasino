@@ -1,0 +1,31 @@
+{
+  "name": "Svenbet Casino",
+  "slug": "svenbet-casino",
+  "country": "Sweden",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Relax Gaming",
+    "Blueprint Gaming",
+    "IGT",
+    "1x2gaming"
+  ],
+  "likes": 62,
+  "comments": 432,
+  "operatingCountries": [
+    "Ireland",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=153",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=svenbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ]
+}

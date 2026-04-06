@@ -1,0 +1,36 @@
+{
+  "name": "SlotLux Slots",
+  "slug": "slotlux-slots",
+  "country": "Italy",
+  "bonus": "Reload Bonus 200% up to $500",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 114,
+  "providers": [
+    "BetSoft",
+    "NetEnt",
+    "Push Gaming",
+    "Ash Gaming",
+    "Novomatic",
+    "Red Tiger",
+    "Wager Gaming"
+  ],
+  "likes": 1338,
+  "comments": 497,
+  "operatingCountries": [
+    "Finland",
+    "Sweden",
+    "Poland",
+    "Italy",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotlux-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

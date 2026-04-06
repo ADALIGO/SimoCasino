@@ -1,0 +1,29 @@
+{
+  "name": "Talismania Online",
+  "slug": "talismania-online",
+  "country": "New Zealand",
+  "bonus": "VIP Bonus 250% up to $1000",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming"
+  ],
+  "likes": 515,
+  "comments": 203,
+  "operatingCountries": [
+    "Poland",
+    "Australia",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=talismania-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

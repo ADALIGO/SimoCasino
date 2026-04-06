@@ -1,0 +1,35 @@
+{
+  "name": "iBet Slots",
+  "slug": "ibet-slots",
+  "country": "New Zealand",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "BetSoft",
+    "Red Tiger",
+    "Big Time Gaming",
+    "Quickspin",
+    "Blueprint Gaming"
+  ],
+  "likes": 842,
+  "comments": 335,
+  "operatingCountries": [
+    "Finland",
+    "Canada",
+    "United States",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=25",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ibet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

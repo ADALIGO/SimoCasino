@@ -1,0 +1,33 @@
+{
+  "name": "Mr Mobi Casino",
+  "slug": "mr-mobi-casino",
+  "country": "Finland",
+  "bonus": "VIP Bonus 125% up to $200",
+  "rating": 4.5,
+  "revenueRank": 53,
+  "spins": 311,
+  "providers": [
+    "Visionary iGaming",
+    "Spinlogic Gaming",
+    "Blueprint Gaming",
+    "Gamomat",
+    "Relax Gaming",
+    "Real Time Gaming",
+    "Microgaming"
+  ],
+  "likes": 982,
+  "comments": 4,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=140",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mr-mobi-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

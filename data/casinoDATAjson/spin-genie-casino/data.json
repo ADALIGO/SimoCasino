@@ -1,0 +1,33 @@
+{
+  "name": "Spin Genie Casino",
+  "slug": "spin-genie-casino",
+  "country": "Canada",
+  "bonus": "VIP Bonus 125% up to $50",
+  "rating": 3,
+  "revenueRank": 55,
+  "spins": 171,
+  "providers": [
+    "Rival",
+    "Amatic Industries",
+    "Ash Gaming"
+  ],
+  "likes": 37,
+  "comments": 471,
+  "operatingCountries": [
+    "Netherlands",
+    "Belgium",
+    "Switzerland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-genie-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

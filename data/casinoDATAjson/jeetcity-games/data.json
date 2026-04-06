@@ -1,0 +1,29 @@
+{
+  "name": "JeetCity Games",
+  "slug": "jeetcity-games",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $100",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 119,
+  "providers": [
+    "Red Tiger",
+    "Nolimit City",
+    "Big Time Gaming"
+  ],
+  "likes": 421,
+  "comments": 134,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=121",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jeetcity-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124"
+  ]
+}

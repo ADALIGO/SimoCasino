@@ -1,0 +1,30 @@
+{
+  "name": "Slots Capital Casino",
+  "slug": "slots-capital-casino",
+  "country": "Austria",
+  "bonus": "Deposit Bonus 100% up to $200",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 234,
+  "providers": [
+    "Microgaming",
+    "Thunderkick",
+    "Gamomat",
+    "Ash Gaming"
+  ],
+  "likes": 1298,
+  "comments": 441,
+  "operatingCountries": [
+    "Spain",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=62",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-capital-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63",
+    "https://picsum.photos/380/260?random=64"
+  ]
+}

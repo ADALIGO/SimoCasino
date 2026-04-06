@@ -1,0 +1,37 @@
+{
+  "name": "Yabby Online",
+  "slug": "yabby-online",
+  "country": "Ireland",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 311,
+  "providers": [
+    "WMS",
+    "Relax Gaming",
+    "1x2gaming",
+    "Habanero Systems",
+    "Microgaming",
+    "Yggdrasil",
+    "Saucify"
+  ],
+  "likes": 806,
+  "comments": 398,
+  "operatingCountries": [
+    "Netherlands",
+    "Spain",
+    "Finland",
+    "Sweden",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=40",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yabby-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=40",
+    "https://picsum.photos/380/260?random=41",
+    "https://picsum.photos/380/260?random=42",
+    "https://picsum.photos/380/260?random=43"
+  ]
+}

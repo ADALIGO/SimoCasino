@@ -1,0 +1,33 @@
+{
+  "name": "Royale500 Casino",
+  "slug": "royale500-casino",
+  "country": "Norway",
+  "bonus": "Reload Bonus 250% up to $300",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 28,
+  "providers": [
+    "Ash Gaming",
+    "WMS"
+  ],
+  "likes": 1657,
+  "comments": 53,
+  "operatingCountries": [
+    "Germany",
+    "United States",
+    "South Africa",
+    "Norway",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royale500-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

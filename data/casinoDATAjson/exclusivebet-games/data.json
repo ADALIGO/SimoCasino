@@ -1,0 +1,31 @@
+{
+  "name": "ExclusiveBet Games",
+  "slug": "exclusivebet-games",
+  "country": "Ireland",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Pragmatic Play",
+    "Thunderkick"
+  ],
+  "likes": 50,
+  "comments": 123,
+  "operatingCountries": [
+    "Portugal",
+    "South Africa",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=exclusivebet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Bets Bunny Slots",
+  "slug": "bets-bunny-slots",
+  "country": "Denmark",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 220,
+  "providers": [
+    "Thunderkick",
+    "Gamomat",
+    "IGT"
+  ],
+  "likes": 287,
+  "comments": 365,
+  "operatingCountries": [
+    "Norway",
+    "Morocco",
+    "United Kingdom",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=77",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bets-bunny-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80"
+  ]
+}

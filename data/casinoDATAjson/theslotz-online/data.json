@@ -1,0 +1,34 @@
+{
+  "name": "TheSlotz Online",
+  "slug": "theslotz-online",
+  "country": "Netherlands",
+  "bonus": "Reload Bonus 50% up to $200",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 491,
+  "providers": [
+    "BetSoft",
+    "Aristocrat",
+    "Visionary iGaming"
+  ],
+  "likes": 1781,
+  "comments": 479,
+  "operatingCountries": [
+    "Denmark",
+    "Canada",
+    "Australia",
+    "Switzerland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=theslotz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114"
+  ]
+}

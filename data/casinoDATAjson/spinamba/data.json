@@ -1,0 +1,26 @@
+{
+  "name": "Spinamba",
+  "slug": "spinamba",
+  "country": "Morocco",
+  "bonus": "50% up to €1000 + 50 Spins",
+  "rating": 2,
+  "revenueRank": null,
+  "spins": 458,
+  "providers": [],
+  "likes": 347,
+  "comments": 472,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=this-is-vegas",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ],
+  "reviewCount": 5
+}

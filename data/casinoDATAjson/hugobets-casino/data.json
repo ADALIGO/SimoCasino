@@ -1,0 +1,30 @@
+{
+  "name": "HugoBets Casino",
+  "slug": "hugobets-casino",
+  "country": "Switzerland",
+  "bonus": "First Deposit 100% up to $50 + 300 Free Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NextGen",
+    "Quickspin",
+    "1x2gaming",
+    "BetSoft",
+    "EGT"
+  ],
+  "likes": 1416,
+  "comments": 155,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=130",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hugobets-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

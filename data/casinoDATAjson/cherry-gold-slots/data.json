@@ -1,0 +1,30 @@
+{
+  "name": "Cherry Gold Slots",
+  "slug": "cherry-gold-slots",
+  "country": "Poland",
+  "bonus": "100% up to $500 + 100 Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 117,
+  "providers": [
+    "Big Time Gaming"
+  ],
+  "likes": 1309,
+  "comments": 149,
+  "operatingCountries": [
+    "Morocco",
+    "Belgium",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cherry-gold-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "RockstarWin Online",
+  "slug": "rockstarwin-online",
+  "country": "Denmark",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 488,
+  "providers": [
+    "Gamomat",
+    "Ash Gaming"
+  ],
+  "likes": 1008,
+  "comments": 240,
+  "operatingCountries": [
+    "Netherlands",
+    "Switzerland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=15",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rockstarwin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

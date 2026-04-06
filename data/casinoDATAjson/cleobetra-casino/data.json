@@ -1,0 +1,28 @@
+{
+  "name": "Cleobetra Casino",
+  "slug": "cleobetra-casino",
+  "country": "Germany",
+  "bonus": "VIP Bonus 125% up to $200",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Aristocrat",
+    "Amatic Industries"
+  ],
+  "likes": 1942,
+  "comments": 390,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cleobetra-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Magius",
+  "slug": "magius",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 299,
+  "providers": [],
+  "likes": 1293,
+  "comments": 101,
+  "operatingCountries": [
+    "Switzerland",
+    "Germany",
+    "Czech Republic",
+    "Netherlands",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=95",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinostars",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97"
+  ],
+  "reviewCount": 5
+}

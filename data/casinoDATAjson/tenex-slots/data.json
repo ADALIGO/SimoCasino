@@ -1,0 +1,35 @@
+{
+  "name": "Tenex Slots",
+  "slug": "tenex-slots",
+  "country": "Australia",
+  "bonus": "Deposit Bonus 250% up to $200",
+  "rating": 3.5,
+  "revenueRank": 91,
+  "spins": 220,
+  "providers": [
+    "Visionary iGaming",
+    "Amatic Industries",
+    "NetEnt",
+    "Real Time Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 539,
+  "comments": 254,
+  "operatingCountries": [
+    "Germany",
+    "Australia",
+    "Spain",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=71",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tenex-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75"
+  ]
+}

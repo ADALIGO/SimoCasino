@@ -1,0 +1,35 @@
+{
+  "name": "Yabby Slots",
+  "slug": "yabby-slots",
+  "country": "United States",
+  "bonus": "200% Bonus up to $100",
+  "rating": 3.2,
+  "revenueRank": 96,
+  "spins": 242,
+  "providers": [
+    "BetSoft",
+    "Aristocrat",
+    "Wager Gaming",
+    "Real Time Gaming",
+    "Ash Gaming",
+    "IGT"
+  ],
+  "likes": 1041,
+  "comments": 259,
+  "operatingCountries": [
+    "Austria",
+    "Australia",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=14",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yabby-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15",
+    "https://picsum.photos/380/260?random=16",
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18"
+  ]
+}

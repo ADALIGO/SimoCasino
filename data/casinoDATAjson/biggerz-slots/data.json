@@ -1,0 +1,28 @@
+{
+  "name": "BiggerZ Slots",
+  "slug": "biggerz-slots",
+  "country": "Italy",
+  "bonus": "Reload Bonus 300% up to $50",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 300,
+  "providers": [
+    "Push Gaming",
+    "Playtech",
+    "Greentube"
+  ],
+  "likes": 778,
+  "comments": 381,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=biggerz-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

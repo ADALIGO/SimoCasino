@@ -1,0 +1,29 @@
+{
+  "name": "Ripper Online",
+  "slug": "ripper-online",
+  "country": "United Kingdom",
+  "bonus": "100% Bonus up to $50",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 490,
+  "providers": [
+    "Merkur",
+    "Arrows Edge"
+  ],
+  "likes": 1078,
+  "comments": 426,
+  "operatingCountries": [
+    "South Africa",
+    "Sweden",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ripper-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

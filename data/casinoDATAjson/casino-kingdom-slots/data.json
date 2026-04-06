@@ -1,0 +1,32 @@
+{
+  "name": "Casino Kingdom Slots",
+  "slug": "casino-kingdom-slots",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 50% up to $1000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "ELK Studios",
+    "Arrows Edge",
+    "1x2gaming",
+    "Pragmatic Play",
+    "Spinlogic Gaming"
+  ],
+  "likes": 117,
+  "comments": 387,
+  "operatingCountries": [
+    "France",
+    "New Zealand",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-kingdom-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166"
+  ]
+}

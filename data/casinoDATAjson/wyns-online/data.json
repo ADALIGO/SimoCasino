@@ -1,0 +1,32 @@
+{
+  "name": "Wyns Online",
+  "slug": "wyns-online",
+  "country": "Portugal",
+  "bonus": "Cashback up to 200%",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 472,
+  "providers": [
+    "EGT",
+    "NetEnt",
+    "Push Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 72,
+  "comments": 42,
+  "operatingCountries": [
+    "Switzerland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wyns-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

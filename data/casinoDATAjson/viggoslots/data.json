@@ -1,0 +1,28 @@
+{
+  "name": "Viggoslots",
+  "slug": "viggoslots",
+  "country": "Morocco",
+  "bonus": "100% up to €400 + 70 Spins",
+  "rating": 3.1,
+  "revenueRank": 45,
+  "spins": 195,
+  "providers": [],
+  "likes": 954,
+  "comments": 359,
+  "operatingCountries": [
+    "Austria",
+    "Norway",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-stars",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190"
+  ],
+  "reviewCount": 5
+}

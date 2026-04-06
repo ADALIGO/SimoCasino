@@ -1,0 +1,32 @@
+{
+  "name": "CasinoBet Games",
+  "slug": "casinobet-games",
+  "country": "Switzerland",
+  "bonus": "Deposit Bonus 125% up to $2000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Yggdrasil",
+    "NetEnt",
+    "IGT",
+    "Gamomat"
+  ],
+  "likes": 1170,
+  "comments": 282,
+  "operatingCountries": [
+    "Norway",
+    "Spain",
+    "Australia",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinobet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

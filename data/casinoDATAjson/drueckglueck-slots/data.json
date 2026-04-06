@@ -1,0 +1,37 @@
+{
+  "name": "DrueckGlueck Slots",
+  "slug": "drueckglueck-slots",
+  "country": "Netherlands",
+  "bonus": "100% up to $50 + 250 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "BetSoft",
+    "Arrows Edge",
+    "Gamomat",
+    "NetEnt",
+    "Relax Gaming",
+    "Genesis Gaming",
+    "Rival"
+  ],
+  "likes": 1879,
+  "comments": 183,
+  "operatingCountries": [
+    "Czech Republic",
+    "Morocco",
+    "Poland",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=82",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=drueckglueck-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84",
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86"
+  ]
+}

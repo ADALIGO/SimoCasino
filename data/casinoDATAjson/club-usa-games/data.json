@@ -1,0 +1,29 @@
+{
+  "name": "Club USA Games",
+  "slug": "club-usa-games",
+  "country": "Spain",
+  "bonus": "First Deposit 50% up to $1000 + 20 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 27,
+  "providers": [
+    "Real Time Gaming",
+    "Gamomat",
+    "EGT"
+  ],
+  "likes": 1147,
+  "comments": 213,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=125",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=club-usa-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128"
+  ]
+}

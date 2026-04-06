@@ -1,0 +1,29 @@
+{
+  "name": "Lucy's",
+  "slug": "lucys",
+  "country": "Morocco",
+  "bonus": "125% up to €400",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 930,
+  "comments": 484,
+  "operatingCountries": [
+    "Germany",
+    "Norway",
+    "Ireland",
+    "Portugal",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cazimbo",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,28 @@
+{
+  "name": "bets.io",
+  "slug": "betsio",
+  "country": "Morocco",
+  "bonus": "100% up to ₿1 + 100 Spins",
+  "rating": 2.9,
+  "revenueRank": 75,
+  "spins": 0,
+  "providers": [],
+  "likes": 1816,
+  "comments": 362,
+  "operatingCountries": [
+    "New Zealand",
+    "Ireland",
+    "France",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=174",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=7signs-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176"
+  ],
+  "reviewCount": 5
+}

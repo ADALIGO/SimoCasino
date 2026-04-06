@@ -1,0 +1,34 @@
+{
+  "name": "Casinozer Online",
+  "slug": "casinozer-online",
+  "country": "Ireland",
+  "bonus": "50% Bonus up to $100",
+  "rating": 3.4,
+  "revenueRank": 33,
+  "spins": 484,
+  "providers": [
+    "Push Gaming",
+    "Real Time Gaming",
+    "EGT",
+    "BetSoft",
+    "Ash Gaming"
+  ],
+  "likes": 1388,
+  "comments": 43,
+  "operatingCountries": [
+    "Australia",
+    "United Kingdom",
+    "New Zealand",
+    "Germany",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=54",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinozer-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=54",
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "BetKudos Slots",
+  "slug": "betkudos-slots",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.4,
+  "revenueRank": 35,
+  "spins": 105,
+  "providers": [
+    "Saucify",
+    "Spinlogic Gaming",
+    "BetSoft",
+    "Ash Gaming",
+    "NetEnt",
+    "Blueprint Gaming"
+  ],
+  "likes": 1926,
+  "comments": 207,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=116",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betkudos-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=116",
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118"
+  ]
+}

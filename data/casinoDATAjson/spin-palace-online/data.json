@@ -1,0 +1,32 @@
+{
+  "name": "Spin Palace Online",
+  "slug": "spin-palace-online",
+  "country": "Czech Republic",
+  "bonus": "First Deposit 150% up to $500 + 300 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 298,
+  "providers": [
+    "Arrows Edge",
+    "Iron Dog Studio",
+    "Evolution Gaming",
+    "Microgaming",
+    "Blueprint Gaming",
+    "Amatic Industries",
+    "Quickspin"
+  ],
+  "likes": 85,
+  "comments": 105,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-palace-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87"
+  ]
+}

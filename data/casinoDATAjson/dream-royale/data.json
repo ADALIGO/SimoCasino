@@ -1,0 +1,28 @@
+{
+  "name": "Dream Royale",
+  "slug": "dream-royale",
+  "country": "Morocco",
+  "bonus": "$75",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 346,
+  "providers": [],
+  "likes": 1890,
+  "comments": 289,
+  "operatingCountries": [
+    "Switzerland",
+    "South Africa",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=virtual-city",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ],
+  "reviewCount": 5
+}

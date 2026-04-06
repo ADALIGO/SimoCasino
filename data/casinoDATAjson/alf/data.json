@@ -1,0 +1,28 @@
+{
+  "name": "Alf",
+  "slug": "alf",
+  "country": "Morocco",
+  "bonus": "120% up to €500 + 200 Spins",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 97,
+  "providers": [],
+  "likes": 428,
+  "comments": 326,
+  "operatingCountries": [
+    "Germany",
+    "United Kingdom",
+    "Morocco",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dbbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91"
+  ],
+  "reviewCount": 5
+}

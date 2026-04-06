@@ -1,0 +1,29 @@
+{
+  "name": "Wild.io",
+  "slug": "wildio",
+  "country": "Morocco",
+  "bonus": "175% up to $50000",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 268,
+  "providers": [],
+  "likes": 49,
+  "comments": 484,
+  "operatingCountries": [
+    "Denmark",
+    "Portugal",
+    "France",
+    "Australia",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hexabet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ],
+  "reviewCount": 5
+}

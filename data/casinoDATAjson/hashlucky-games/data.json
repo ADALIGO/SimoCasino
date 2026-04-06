@@ -1,0 +1,33 @@
+{
+  "name": "HashLucky Games",
+  "slug": "hashlucky-games",
+  "country": "Morocco",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 475,
+  "providers": [
+    "WMS",
+    "Novomatic",
+    "Microgaming"
+  ],
+  "likes": 1765,
+  "comments": 437,
+  "operatingCountries": [
+    "United Kingdom",
+    "Canada",
+    "Spain",
+    "Italy",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hashlucky-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

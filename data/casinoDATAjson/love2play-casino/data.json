@@ -1,0 +1,32 @@
+{
+  "name": "Love2Play Casino",
+  "slug": "love2play-casino",
+  "country": "Australia",
+  "bonus": "VIP Bonus 300% up to $50",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Greentube",
+    "Genesis Gaming",
+    "Thunderkick",
+    "Gamomat",
+    "1x2gaming"
+  ],
+  "likes": 1837,
+  "comments": 144,
+  "operatingCountries": [
+    "Denmark",
+    "France",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=love2play-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

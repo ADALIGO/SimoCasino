@@ -1,0 +1,29 @@
+{
+  "name": "Lucky Kong",
+  "slug": "lucky-kong",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 4,
+  "revenueRank": 14,
+  "spins": 0,
+  "providers": [],
+  "likes": 101,
+  "comments": 391,
+  "operatingCountries": [
+    "South Africa",
+    "Finland",
+    "Netherlands",
+    "Norway",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=aussieplay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ],
+  "reviewCount": 5
+}

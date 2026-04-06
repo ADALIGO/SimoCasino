@@ -1,0 +1,31 @@
+{
+  "name": "Lucky Niki Casino",
+  "slug": "lucky-niki-casino",
+  "country": "Spain",
+  "bonus": "Welcome Package up to $50",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 396,
+  "providers": [
+    "Genesis Gaming",
+    "Evolution Gaming"
+  ],
+  "likes": 756,
+  "comments": 174,
+  "operatingCountries": [
+    "United States",
+    "South Africa",
+    "Denmark",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=157",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-niki-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160"
+  ]
+}

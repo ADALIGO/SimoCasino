@@ -1,0 +1,30 @@
+{
+  "name": "Casino Extreme Games",
+  "slug": "casino-extreme-games",
+  "country": "France",
+  "bonus": "Deposit Bonus 300% up to $200",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 265,
+  "providers": [
+    "EGT",
+    "Pragmatic Play"
+  ],
+  "likes": 1007,
+  "comments": 231,
+  "operatingCountries": [
+    "Morocco",
+    "Belgium",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=60",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-extreme-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=60",
+    "https://picsum.photos/380/260?random=61",
+    "https://picsum.photos/380/260?random=62",
+    "https://picsum.photos/380/260?random=63"
+  ]
+}

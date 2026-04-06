@@ -1,0 +1,31 @@
+{
+  "name": "Voltage Bet Slots",
+  "slug": "voltage-bet-slots",
+  "country": "Germany",
+  "bonus": "50% Bonus up to $50",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 358,
+  "providers": [
+    "Thunderkick",
+    "Red Tiger",
+    "Iron Dog Studio"
+  ],
+  "likes": 588,
+  "comments": 435,
+  "operatingCountries": [
+    "Ireland",
+    "Sweden",
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=voltage-bet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ]
+}

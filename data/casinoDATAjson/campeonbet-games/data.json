@@ -1,0 +1,29 @@
+{
+  "name": "Campeonbet Games",
+  "slug": "campeonbet-games",
+  "country": "Netherlands",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.7,
+  "revenueRank": 64,
+  "spins": 85,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 1145,
+  "comments": 432,
+  "operatingCountries": [
+    "Germany",
+    "Portugal",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=123",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=campeonbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=123",
+    "https://picsum.photos/380/260?random=124",
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126"
+  ]
+}

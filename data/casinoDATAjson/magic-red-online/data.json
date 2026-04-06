@@ -1,0 +1,32 @@
+{
+  "name": "Magic Red Online",
+  "slug": "magic-red-online",
+  "country": "Italy",
+  "bonus": "Welcome Bonus 200% up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 122,
+  "providers": [
+    "Ash Gaming",
+    "Saucify",
+    "Konami",
+    "Merkur"
+  ],
+  "likes": 500,
+  "comments": 361,
+  "operatingCountries": [
+    "Italy",
+    "Belgium",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=36",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=magic-red-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Mummys Gold Casino",
+  "slug": "mummys-gold-casino",
+  "country": "Czech Republic",
+  "bonus": "VIP Bonus 250% up to $200",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 174,
+  "providers": [
+    "Relax Gaming",
+    "Spinlogic Gaming",
+    "Evolution Gaming",
+    "Thunderkick",
+    "ELK Studios",
+    "Microgaming"
+  ],
+  "likes": 1866,
+  "comments": 124,
+  "operatingCountries": [
+    "Sweden",
+    "Belgium",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mummys-gold-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92",
+    "https://picsum.photos/380/260?random=93"
+  ]
+}

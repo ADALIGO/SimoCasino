@@ -1,0 +1,29 @@
+{
+  "name": "Anarchy Games",
+  "slug": "anarchy-games",
+  "country": "United Kingdom",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Nolimit City",
+    "NextGen",
+    "Evolution Gaming",
+    "EGT"
+  ],
+  "likes": 1922,
+  "comments": 252,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=185",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=anarchy-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ]
+}

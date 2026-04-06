@@ -1,0 +1,29 @@
+{
+  "name": "Simsinos",
+  "slug": "simsinos",
+  "country": "Morocco",
+  "bonus": "100% up to €/$250 + 110 Spins",
+  "rating": 3.2,
+  "revenueRank": 80,
+  "spins": 338,
+  "providers": [],
+  "likes": 75,
+  "comments": 283,
+  "operatingCountries": [
+    "Italy",
+    "Germany",
+    "Canada",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=azur",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83"
+  ],
+  "reviewCount": 5
+}

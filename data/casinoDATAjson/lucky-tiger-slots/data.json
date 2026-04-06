@@ -1,0 +1,35 @@
+{
+  "name": "Lucky Tiger Slots",
+  "slug": "lucky-tiger-slots",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 250% up to $200",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 321,
+  "providers": [
+    "Quickspin",
+    "Gamomat",
+    "Microgaming",
+    "ELK Studios",
+    "WMS",
+    "Ash Gaming",
+    "Big Time Gaming"
+  ],
+  "likes": 249,
+  "comments": 211,
+  "operatingCountries": [
+    "Netherlands",
+    "United Kingdom",
+    "Czech Republic",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lucky-tiger-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160"
+  ]
+}

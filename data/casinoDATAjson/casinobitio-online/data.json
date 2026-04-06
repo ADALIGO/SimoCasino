@@ -1,0 +1,32 @@
+{
+  "name": "Casinobit.io Online",
+  "slug": "casinobitio-online",
+  "country": "United States",
+  "bonus": "Reload Bonus 150% up to $1000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 349,
+  "providers": [
+    "Pragmatic Play",
+    "Real Time Gaming",
+    "NetEnt",
+    "Iron Dog Studio"
+  ],
+  "likes": 1937,
+  "comments": 337,
+  "operatingCountries": [
+    "United States",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=189",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinobitio-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Q88Bets",
+  "slug": "q88bets",
+  "country": "United Kingdom",
+  "bonus": "VIP Bonus 125% up to $50",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 402,
+  "providers": [
+    "WMS",
+    "Gamomat",
+    "Visionary iGaming",
+    "BetSoft",
+    "Microgaming",
+    "Yggdrasil"
+  ],
+  "likes": 124,
+  "comments": 92,
+  "operatingCountries": [
+    "Poland",
+    "Morocco",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slots-capital",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ]
+}

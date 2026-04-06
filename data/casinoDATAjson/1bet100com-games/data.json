@@ -1,0 +1,29 @@
+{
+  "name": "1bet100.com Games",
+  "slug": "1bet100com-games",
+  "country": "Italy",
+  "bonus": "Welcome Bonus 150% up to $100",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Real Time Gaming"
+  ],
+  "likes": 1100,
+  "comments": 358,
+  "operatingCountries": [
+    "United Kingdom",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1bet100com-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142"
+  ]
+}

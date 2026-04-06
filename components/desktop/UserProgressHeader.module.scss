@@ -1,0 +1,46 @@
+/* Desktop breakpoint rules for UserProgressHeader */
+@media (min-width: 1000px) {
+  .progress-header {
+    padding: 20px;
+
+    .container {
+      gap: 24px;
+      padding: 20px;
+    }
+  }
+
+  .level-section {
+    min-width: 140px;
+
+    .level-badge {
+      width: 80px;
+      height: 80px;
+
+      .badge-content .level-number {
+        font-size: 28px;
+      }
+    }
+  }
+
+  .progress-section {
+    min-width: 250px;
+
+    .points-display {
+      padding: 12px 16px;
+
+      .points-item .points-value {
+        font-size: 18px;
+      }
+    }
+
+    .progress-bar-container {
+      height: 28px;
+    }
+  }
+
+  .decorative-stars {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+  }
+}

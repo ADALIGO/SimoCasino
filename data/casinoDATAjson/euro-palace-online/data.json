@@ -1,0 +1,38 @@
+{
+  "name": "Euro Palace Online",
+  "slug": "euro-palace-online",
+  "country": "United Kingdom",
+  "bonus": "Deposit Bonus 125% up to $100",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 379,
+  "providers": [
+    "NetEnt",
+    "WMS",
+    "Blueprint Gaming",
+    "Amatic Industries",
+    "Real Time Gaming",
+    "1x2gaming",
+    "Ash Gaming"
+  ],
+  "likes": 1371,
+  "comments": 7,
+  "operatingCountries": [
+    "Norway",
+    "Italy",
+    "Denmark",
+    "Spain",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euro-palace-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

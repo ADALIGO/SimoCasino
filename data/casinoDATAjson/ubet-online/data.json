@@ -1,0 +1,34 @@
+{
+  "name": "UBET Online",
+  "slug": "ubet-online",
+  "country": "Morocco",
+  "bonus": "Cashback up to 250%",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 194,
+  "providers": [
+    "Visionary iGaming",
+    "Amatic Industries",
+    "Arrows Edge",
+    "Greentube",
+    "Merkur",
+    "1x2gaming",
+    "Playtech"
+  ],
+  "likes": 484,
+  "comments": 494,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=136",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ubet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

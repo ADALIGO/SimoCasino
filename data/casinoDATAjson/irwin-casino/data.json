@@ -1,0 +1,38 @@
+{
+  "name": "Irwin Casino",
+  "slug": "irwin-casino",
+  "country": "France",
+  "bonus": "250% Bonus up to $2000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 335,
+  "providers": [
+    "ELK Studios",
+    "BetSoft",
+    "Spinlogic Gaming",
+    "Nolimit City",
+    "Microgaming",
+    "Real Time Gaming",
+    "NetEnt"
+  ],
+  "likes": 1052,
+  "comments": 389,
+  "operatingCountries": [
+    "Denmark",
+    "Germany",
+    "Austria",
+    "New Zealand",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=72",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=irwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76"
+  ]
+}

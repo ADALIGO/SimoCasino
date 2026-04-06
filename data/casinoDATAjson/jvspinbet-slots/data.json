@@ -1,0 +1,35 @@
+{
+  "name": "JVspinbet Slots",
+  "slug": "jvspinbet-slots",
+  "country": "Spain",
+  "bonus": "First Deposit 125% up to $500 + 200 Free Spins",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Red Tiger",
+    "Big Time Gaming",
+    "Pragmatic Play",
+    "Saucify",
+    "WMS",
+    "Blueprint Gaming"
+  ],
+  "likes": 1427,
+  "comments": 68,
+  "operatingCountries": [
+    "United Kingdom",
+    "Morocco",
+    "Netherlands",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=137",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jvspinbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

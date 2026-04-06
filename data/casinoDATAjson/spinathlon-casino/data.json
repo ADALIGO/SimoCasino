@@ -1,0 +1,33 @@
+{
+  "name": "Spinathlon Casino",
+  "slug": "spinathlon-casino",
+  "country": "Portugal",
+  "bonus": "Deposit Bonus 125% up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 445,
+  "providers": [
+    "Nolimit City",
+    "Genesis Gaming",
+    "Visionary iGaming",
+    "Gamomat",
+    "ELK Studios"
+  ],
+  "likes": 1007,
+  "comments": 191,
+  "operatingCountries": [
+    "Australia",
+    "Spain",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=157",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinathlon-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160"
+  ]
+}

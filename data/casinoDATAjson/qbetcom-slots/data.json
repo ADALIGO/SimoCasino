@@ -1,0 +1,33 @@
+{
+  "name": "Qbet.com Slots",
+  "slug": "qbetcom-slots",
+  "country": "Denmark",
+  "bonus": "100% Bonus up to $300",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 434,
+  "providers": [
+    "Spinlogic Gaming",
+    "Blueprint Gaming",
+    "Greentube",
+    "Merkur",
+    "IGT",
+    "NetEnt"
+  ],
+  "likes": 442,
+  "comments": 373,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=qbetcom-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Jazzy Spins Casino",
+  "slug": "jazzy-spins-casino",
+  "country": "Canada",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 30,
+  "providers": [
+    "Merkur",
+    "IGT",
+    "Greentube",
+    "Red Tiger"
+  ],
+  "likes": 1200,
+  "comments": 338,
+  "operatingCountries": [
+    "Sweden",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jazzy-spins-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

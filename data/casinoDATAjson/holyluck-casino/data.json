@@ -1,0 +1,33 @@
+{
+  "name": "Holyluck Casino",
+  "slug": "holyluck-casino",
+  "country": "Germany",
+  "bonus": "100% Bonus up to $300",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 171,
+  "providers": [
+    "Amatic Industries",
+    "NetEnt",
+    "Visionary iGaming",
+    "Blueprint Gaming",
+    "Big Time Gaming",
+    "Red Tiger"
+  ],
+  "likes": 1749,
+  "comments": 187,
+  "operatingCountries": [
+    "Canada",
+    "Germany",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=132",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=holyluck-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Casino Brango Casino",
+  "slug": "casino-brango-casino",
+  "country": "Switzerland",
+  "bonus": "Cashback up to 200%",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 288,
+  "providers": [
+    "IGT",
+    "Konami",
+    "NetEnt",
+    "Nolimit City",
+    "1x2gaming",
+    "Habanero Systems",
+    "Visionary iGaming"
+  ],
+  "likes": 1817,
+  "comments": 461,
+  "operatingCountries": [
+    "Italy",
+    "Finland",
+    "Czech Republic",
+    "South Africa",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=34",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-brango-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36"
+  ]
+}

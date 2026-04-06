@@ -1,0 +1,33 @@
+{
+  "name": "Duelz Online",
+  "slug": "duelz-online",
+  "country": "France",
+  "bonus": "100% Bonus up to $1000",
+  "rating": 4,
+  "revenueRank": 15,
+  "spins": 45,
+  "providers": [
+    "Pragmatic Play",
+    "Greentube",
+    "Real Time Gaming",
+    "WMS",
+    "NextGen",
+    "Nolimit City"
+  ],
+  "likes": 1318,
+  "comments": 258,
+  "operatingCountries": [
+    "Germany",
+    "Italy",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=137",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=duelz-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ]
+}

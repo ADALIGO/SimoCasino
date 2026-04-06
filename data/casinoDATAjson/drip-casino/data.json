@@ -1,0 +1,32 @@
+{
+  "name": "DRIP Casino",
+  "slug": "drip-casino",
+  "country": "Czech Republic",
+  "bonus": "Cashback up to 200%",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Saucify",
+    "Quickspin",
+    "Real Time Gaming",
+    "Relax Gaming"
+  ],
+  "likes": 878,
+  "comments": 75,
+  "operatingCountries": [
+    "Sweden",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=89",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=drip-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ]
+}

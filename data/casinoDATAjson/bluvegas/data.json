@@ -1,0 +1,30 @@
+{
+  "name": "BluVegas",
+  "slug": "bluvegas",
+  "country": "Morocco",
+  "bonus": "200% up to €/$200 + 50 Spins",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 46,
+  "providers": [],
+  "likes": 1708,
+  "comments": 476,
+  "operatingCountries": [
+    "Canada",
+    "United States",
+    "Finland",
+    "Australia",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=20",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinsbro",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Slotgard Online",
+  "slug": "slotgard-online",
+  "country": "Germany",
+  "bonus": "Welcome Bonus 50% up to $50",
+  "rating": 4.7,
+  "revenueRank": 76,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Red Tiger",
+    "Genesis Gaming",
+    "EGT",
+    "WMS",
+    "Yggdrasil"
+  ],
+  "likes": 354,
+  "comments": 176,
+  "operatingCountries": [
+    "Belgium",
+    "South Africa",
+    "Ireland",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=9",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotgard-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13"
+  ]
+}

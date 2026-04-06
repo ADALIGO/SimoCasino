@@ -1,0 +1,30 @@
+{
+  "name": "Dazzle Games",
+  "slug": "dazzle-games",
+  "country": "Germany",
+  "bonus": "Reload Bonus 300% up to $500",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS"
+  ],
+  "likes": 1600,
+  "comments": 281,
+  "operatingCountries": [
+    "Norway",
+    "South Africa",
+    "Spain",
+    "Belgium",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dazzle-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

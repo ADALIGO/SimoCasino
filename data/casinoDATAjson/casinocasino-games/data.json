@@ -1,0 +1,32 @@
+{
+  "name": "CasinoCasino Games",
+  "slug": "casinocasino-games",
+  "country": "Netherlands",
+  "bonus": "150% Bonus up to $2000",
+  "rating": 4.8,
+  "revenueRank": 98,
+  "spins": 60,
+  "providers": [
+    "Push Gaming",
+    "1x2gaming",
+    "NetEnt",
+    "Relax Gaming",
+    "Nolimit City"
+  ],
+  "likes": 1379,
+  "comments": 318,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=6",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinocasino-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10"
+  ]
+}

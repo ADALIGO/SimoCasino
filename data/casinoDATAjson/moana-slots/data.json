@@ -1,0 +1,35 @@
+{
+  "name": "Moana Slots",
+  "slug": "moana-slots",
+  "country": "Czech Republic",
+  "bonus": "100% up to $500 + 200 Spins",
+  "rating": 3.8,
+  "revenueRank": 94,
+  "spins": 469,
+  "providers": [
+    "Konami",
+    "Aristocrat",
+    "Arrows Edge",
+    "Real Time Gaming",
+    "Ash Gaming",
+    "Pragmatic Play",
+    "Greentube"
+  ],
+  "likes": 1709,
+  "comments": 101,
+  "operatingCountries": [
+    "South Africa",
+    "Belgium",
+    "Finland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=139",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=moana-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

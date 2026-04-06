@@ -1,0 +1,33 @@
+{
+  "name": "Del Oro Slots",
+  "slug": "del-oro-slots",
+  "country": "United Kingdom",
+  "bonus": "100% up to $1000 + 200 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 63,
+  "providers": [
+    "Relax Gaming",
+    "Arrows Edge",
+    "Push Gaming",
+    "Red Tiger",
+    "Spinlogic Gaming",
+    "Novomatic",
+    "Konami"
+  ],
+  "likes": 816,
+  "comments": 371,
+  "operatingCountries": [
+    "Australia",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=del-oro-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201"
+  ]
+}

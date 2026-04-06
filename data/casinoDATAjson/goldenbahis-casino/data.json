@@ -1,0 +1,38 @@
+{
+  "name": "GoldenBahis Casino",
+  "slug": "goldenbahis-casino",
+  "country": "New Zealand",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 62,
+  "providers": [
+    "Gamomat",
+    "WMS",
+    "Habanero Systems",
+    "Visionary iGaming",
+    "EGT",
+    "Nolimit City",
+    "Playtech"
+  ],
+  "likes": 209,
+  "comments": 297,
+  "operatingCountries": [
+    "Germany",
+    "Sweden",
+    "Czech Republic",
+    "United Kingdom",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=77",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldenbahis-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Grand Hotel",
+  "slug": "grand-hotel",
+  "country": "Morocco",
+  "bonus": "100% up to €/$100",
+  "rating": 2.8,
+  "revenueRank": 37,
+  "spins": 406,
+  "providers": [],
+  "likes": 1900,
+  "comments": 224,
+  "operatingCountries": [
+    "Italy",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wonderluck",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,35 @@
+{
+  "name": "EmuCasino Slots",
+  "slug": "emucasino-slots",
+  "country": "Belgium",
+  "bonus": "VIP Bonus 250% up to $300",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 439,
+  "providers": [
+    "Real Time Gaming",
+    "Aristocrat",
+    "Habanero Systems",
+    "Konami",
+    "NetEnt",
+    "WMS",
+    "ELK Studios"
+  ],
+  "likes": 1219,
+  "comments": 64,
+  "operatingCountries": [
+    "Norway",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=emucasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

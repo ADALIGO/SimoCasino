@@ -1,0 +1,28 @@
+{
+  "name": "Slots.com Casino",
+  "slug": "slotscom-casino",
+  "country": "Australia",
+  "bonus": "Cashback up to 50%",
+  "rating": 3.5,
+  "revenueRank": 46,
+  "spins": 458,
+  "providers": [
+    "Iron Dog Studio",
+    "Nolimit City"
+  ],
+  "likes": 1844,
+  "comments": 42,
+  "operatingCountries": [
+    "Netherlands",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=79",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotscom-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81"
+  ]
+}

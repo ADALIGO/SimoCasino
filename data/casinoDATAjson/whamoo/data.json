@@ -1,0 +1,27 @@
+{
+  "name": "Whamoo",
+  "slug": "whamoo",
+  "country": "Morocco",
+  "bonus": "10 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1019,
+  "comments": 221,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=8",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinovibes",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10",
+    "https://picsum.photos/380/260?random=11",
+    "https://picsum.photos/380/260?random=12"
+  ],
+  "reviewCount": 5
+}

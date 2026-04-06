@@ -1,0 +1,31 @@
+{
+  "name": "2UP.io Games",
+  "slug": "2upio-games",
+  "country": "Italy",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.2,
+  "revenueRank": 71,
+  "spins": 48,
+  "providers": [
+    "Spinlogic Gaming",
+    "Habanero Systems",
+    "Merkur"
+  ],
+  "likes": 1878,
+  "comments": 33,
+  "operatingCountries": [
+    "Austria",
+    "France",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=2upio-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202"
+  ]
+}

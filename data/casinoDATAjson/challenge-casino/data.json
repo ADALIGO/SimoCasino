@@ -1,0 +1,33 @@
+{
+  "name": "Challenge Casino",
+  "slug": "challenge-casino",
+  "country": "Poland",
+  "bonus": "VIP Bonus 250% up to $100",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 222,
+  "providers": [
+    "Wager Gaming",
+    "Habanero Systems",
+    "Saucify",
+    "Ash Gaming",
+    "Push Gaming"
+  ],
+  "likes": 157,
+  "comments": 58,
+  "operatingCountries": [
+    "Sweden",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=153",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=challenge-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

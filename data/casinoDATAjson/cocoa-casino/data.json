@@ -1,0 +1,30 @@
+{
+  "name": "Cocoa Casino",
+  "slug": "cocoa-casino",
+  "country": "United States",
+  "bonus": "50% Bonus up to $200",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Evolution Gaming",
+    "Visionary iGaming"
+  ],
+  "likes": 470,
+  "comments": 176,
+  "operatingCountries": [
+    "Australia",
+    "Germany",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=187",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cocoa-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=187",
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189"
+  ]
+}

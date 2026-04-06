@@ -1,0 +1,34 @@
+{
+  "name": "LibraBet Casino",
+  "slug": "librabet-casino",
+  "country": "Finland",
+  "bonus": "Cashback up to 200%",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Thunderkick",
+    "Merkur",
+    "NextGen"
+  ],
+  "likes": 233,
+  "comments": 309,
+  "operatingCountries": [
+    "Poland",
+    "Switzerland",
+    "Germany",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=librabet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

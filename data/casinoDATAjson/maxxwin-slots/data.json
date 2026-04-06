@@ -1,0 +1,28 @@
+{
+  "name": "Maxxwin Slots",
+  "slug": "maxxwin-slots",
+  "country": "Portugal",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 288,
+  "providers": [
+    "Pragmatic Play"
+  ],
+  "likes": 606,
+  "comments": 372,
+  "operatingCountries": [
+    "Czech Republic",
+    "Switzerland",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=27",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maxxwin-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

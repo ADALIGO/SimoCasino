@@ -1,0 +1,33 @@
+{
+  "name": "Simsinos Slots",
+  "slug": "simsinos-slots",
+  "country": "Morocco",
+  "bonus": "Welcome Bonus 250% up to $300",
+  "rating": 3.7,
+  "revenueRank": 7,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Genesis Gaming",
+    "Nolimit City",
+    "Greentube",
+    "EGT",
+    "1x2gaming"
+  ],
+  "likes": 1643,
+  "comments": 31,
+  "operatingCountries": [
+    "Switzerland",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=196",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=simsinos-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197",
+    "https://picsum.photos/380/260?random=198",
+    "https://picsum.photos/380/260?random=199"
+  ]
+}

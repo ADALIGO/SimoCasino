@@ -1,0 +1,29 @@
+{
+  "name": "Betroom24 Online",
+  "slug": "betroom24-online",
+  "country": "France",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.1,
+  "revenueRank": 47,
+  "spins": 396,
+  "providers": [
+    "WMS",
+    "Konami",
+    "Gamomat"
+  ],
+  "likes": 822,
+  "comments": 52,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betroom24-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120"
+  ]
+}

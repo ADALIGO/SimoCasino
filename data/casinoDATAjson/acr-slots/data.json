@@ -1,0 +1,35 @@
+{
+  "name": "ACR Slots",
+  "slug": "acr-slots",
+  "country": "United Kingdom",
+  "bonus": "No Deposit 150 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 66,
+  "providers": [
+    "EGT",
+    "Red Tiger",
+    "Rival",
+    "Microgaming",
+    "WMS",
+    "Blueprint Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 160,
+  "comments": 482,
+  "operatingCountries": [
+    "Morocco",
+    "New Zealand",
+    "Germany",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=acr-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184"
+  ]
+}

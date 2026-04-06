@@ -1,0 +1,35 @@
+{
+  "name": "GoldSpin Casino",
+  "slug": "goldspin-casino",
+  "country": "Czech Republic",
+  "bonus": "Reload Bonus 150% up to $50",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 64,
+  "providers": [
+    "Novomatic",
+    "Ash Gaming",
+    "1x2gaming",
+    "WMS",
+    "NetEnt"
+  ],
+  "likes": 1428,
+  "comments": 475,
+  "operatingCountries": [
+    "Australia",
+    "Canada",
+    "Morocco",
+    "Ireland",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldspin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

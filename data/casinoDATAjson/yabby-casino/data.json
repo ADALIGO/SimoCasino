@@ -1,0 +1,37 @@
+{
+  "name": "Yabby Casino",
+  "slug": "yabby-casino",
+  "country": "Germany",
+  "bonus": "Welcome Package up to $2000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 300,
+  "providers": [
+    "Merkur",
+    "Gamomat",
+    "NextGen",
+    "Habanero Systems",
+    "Relax Gaming",
+    "Yggdrasil",
+    "Iron Dog Studio",
+    "Blueprint Gaming"
+  ],
+  "likes": 796,
+  "comments": 173,
+  "operatingCountries": [
+    "Finland",
+    "United States",
+    "Switzerland",
+    "Canada",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=6",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yabby-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8"
+  ]
+}

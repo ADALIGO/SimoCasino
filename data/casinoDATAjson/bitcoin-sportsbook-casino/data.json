@@ -1,0 +1,32 @@
+{
+  "name": "Bitcoin Sportsbook Casino",
+  "slug": "bitcoin-sportsbook-casino",
+  "country": "Belgium",
+  "bonus": "Cashback up to 100%",
+  "rating": 3.6,
+  "revenueRank": 98,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "Wager Gaming",
+    "Nolimit City"
+  ],
+  "likes": 12,
+  "comments": 288,
+  "operatingCountries": [
+    "Poland",
+    "Spain",
+    "Sweden",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=105",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitcoin-sportsbook-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

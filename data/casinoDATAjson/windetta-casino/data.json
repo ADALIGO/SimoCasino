@@ -1,0 +1,29 @@
+{
+  "name": "Windetta Casino",
+  "slug": "windetta-casino",
+  "country": "Belgium",
+  "bonus": "First Deposit 50% up to $500 + 300 Free Spins",
+  "rating": 4.4,
+  "revenueRank": 98,
+  "spins": 164,
+  "providers": [
+    "IGT"
+  ],
+  "likes": 1743,
+  "comments": 392,
+  "operatingCountries": [
+    "Switzerland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=119",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=windetta-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

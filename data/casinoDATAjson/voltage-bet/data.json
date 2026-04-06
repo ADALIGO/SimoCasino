@@ -1,0 +1,28 @@
+{
+  "name": "Voltage Bet",
+  "slug": "voltage-bet",
+  "country": "Morocco",
+  "bonus": "200% up to $2000 + 20 Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 70,
+  "providers": [],
+  "likes": 1400,
+  "comments": 163,
+  "operatingCountries": [
+    "Spain",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=88",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wallacebet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90",
+    "https://picsum.photos/380/260?random=91",
+    "https://picsum.photos/380/260?random=92"
+  ],
+  "reviewCount": 5
+}

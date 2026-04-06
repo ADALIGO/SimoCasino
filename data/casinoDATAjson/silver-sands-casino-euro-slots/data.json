@@ -1,0 +1,33 @@
+{
+  "name": "Silver Sands Casino EURO Slots",
+  "slug": "silver-sands-casino-euro-slots",
+  "country": "Switzerland",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 341,
+  "providers": [
+    "Habanero Systems",
+    "Konami",
+    "Merkur",
+    "Blueprint Gaming",
+    "ELK Studios"
+  ],
+  "likes": 314,
+  "comments": 82,
+  "operatingCountries": [
+    "Australia",
+    "Austria",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=silver-sands-casino-euro-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "1xBit Online",
+  "slug": "1xbit-online",
+  "country": "Portugal",
+  "bonus": "Deposit Bonus 300% up to $300",
+  "rating": 4.8,
+  "revenueRank": 27,
+  "spins": 32,
+  "providers": [
+    "NetEnt",
+    "Novomatic",
+    "Blueprint Gaming",
+    "Iron Dog Studio",
+    "Thunderkick",
+    "Microgaming",
+    "Habanero Systems",
+    "Red Tiger"
+  ],
+  "likes": 861,
+  "comments": 448,
+  "operatingCountries": [
+    "Finland",
+    "Netherlands",
+    "Italy",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=171",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=1xbit-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175"
+  ]
+}

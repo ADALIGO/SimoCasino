@@ -1,0 +1,30 @@
+{
+  "name": "RetroBet Online",
+  "slug": "retrobet-online",
+  "country": "Czech Republic",
+  "bonus": "100% up to $2000 + 300 Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 208,
+  "providers": [
+    "Visionary iGaming",
+    "Nolimit City",
+    "Wager Gaming"
+  ],
+  "likes": 1719,
+  "comments": 377,
+  "operatingCountries": [
+    "Morocco",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=135",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=retrobet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138"
+  ]
+}

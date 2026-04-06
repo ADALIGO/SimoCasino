@@ -1,0 +1,28 @@
+{
+  "name": "Regal",
+  "slug": "regal",
+  "country": "Morocco",
+  "bonus": "300% up to $6000",
+  "rating": 2.5,
+  "revenueRank": null,
+  "spins": 21,
+  "providers": [],
+  "likes": 738,
+  "comments": 136,
+  "operatingCountries": [
+    "Belgium",
+    "United States",
+    "Spain",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gangsta",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35"
+  ],
+  "reviewCount": 5
+}

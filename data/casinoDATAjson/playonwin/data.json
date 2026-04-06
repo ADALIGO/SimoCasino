@@ -1,0 +1,29 @@
+{
+  "name": "PlayOnWin",
+  "slug": "playonwin",
+  "country": "Morocco",
+  "bonus": "75% up to €100",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 417,
+  "providers": [],
+  "likes": 976,
+  "comments": 422,
+  "operatingCountries": [
+    "New Zealand",
+    "Czech Republic",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=165",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=satoshi-hero",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169"
+  ],
+  "reviewCount": 5
+}

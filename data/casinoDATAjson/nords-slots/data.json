@@ -1,0 +1,31 @@
+{
+  "name": "Nords Slots",
+  "slug": "nords-slots",
+  "country": "United Kingdom",
+  "bonus": "100% Bonus up to $2000",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Arrows Edge",
+    "Yggdrasil"
+  ],
+  "likes": 1019,
+  "comments": 32,
+  "operatingCountries": [
+    "Austria",
+    "Italy",
+    "France",
+    "Spain",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=nords-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143"
+  ]
+}

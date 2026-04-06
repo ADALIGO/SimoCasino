@@ -1,0 +1,28 @@
+{
+  "name": "BitGuruz Casino",
+  "slug": "bitguruz-casino",
+  "country": "United States",
+  "bonus": "100% up to $500 + 250 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 273,
+  "providers": [
+    "Iron Dog Studio",
+    "Quickspin"
+  ],
+  "likes": 63,
+  "comments": 375,
+  "operatingCountries": [
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=125",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitguruz-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=125",
+    "https://picsum.photos/380/260?random=126",
+    "https://picsum.photos/380/260?random=127",
+    "https://picsum.photos/380/260?random=128"
+  ]
+}

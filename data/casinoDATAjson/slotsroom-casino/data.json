@@ -1,0 +1,37 @@
+{
+  "name": "Slotsroom Casino",
+  "slug": "slotsroom-casino",
+  "country": "Belgium",
+  "bonus": "Deposit Bonus 200% up to $500",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "NextGen",
+    "Push Gaming",
+    "Pragmatic Play",
+    "Quickspin",
+    "BetSoft",
+    "Spinlogic Gaming"
+  ],
+  "likes": 563,
+  "comments": 278,
+  "operatingCountries": [
+    "United States",
+    "Norway",
+    "Austria",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotsroom-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172"
+  ]
+}

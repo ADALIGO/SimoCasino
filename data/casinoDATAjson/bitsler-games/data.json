@@ -1,0 +1,36 @@
+{
+  "name": "Bitsler Games",
+  "slug": "bitsler-games",
+  "country": "United States",
+  "bonus": "100% up to $50 + 100 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "WMS",
+    "Genesis Gaming",
+    "1x2gaming",
+    "Nolimit City",
+    "Gamomat",
+    "Yggdrasil",
+    "Habanero Systems",
+    "Real Time Gaming"
+  ],
+  "likes": 850,
+  "comments": 447,
+  "operatingCountries": [
+    "Netherlands",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=99",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitsler-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100",
+    "https://picsum.photos/380/260?random=101",
+    "https://picsum.photos/380/260?random=102",
+    "https://picsum.photos/380/260?random=103"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Uptown Pokies Slots",
+  "slug": "uptown-pokies-slots",
+  "country": "Ireland",
+  "bonus": "First Deposit 150% up to $200 + 50 Free Spins",
+  "rating": 3.7,
+  "revenueRank": 83,
+  "spins": 43,
+  "providers": [
+    "Arrows Edge"
+  ],
+  "likes": 188,
+  "comments": 209,
+  "operatingCountries": [
+    "Spain",
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=106",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=uptown-pokies-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110"
+  ]
+}

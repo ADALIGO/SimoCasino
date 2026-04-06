@@ -1,0 +1,30 @@
+{
+  "name": "Horus Games",
+  "slug": "horus-games",
+  "country": "Norway",
+  "bonus": "100% up to $1000 + 150 Spins",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Arrows Edge",
+    "Nolimit City"
+  ],
+  "likes": 191,
+  "comments": 357,
+  "operatingCountries": [
+    "New Zealand",
+    "Germany",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=194",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=horus-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196",
+    "https://picsum.photos/380/260?random=197"
+  ]
+}

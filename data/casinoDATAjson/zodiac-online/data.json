@@ -1,0 +1,32 @@
+{
+  "name": "Zodiac Online",
+  "slug": "zodiac-online",
+  "country": "Canada",
+  "bonus": "No Deposit 200 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 60,
+  "providers": [
+    "Konami",
+    "Saucify"
+  ],
+  "likes": 1366,
+  "comments": 320,
+  "operatingCountries": [
+    "United States",
+    "Sweden",
+    "Austria",
+    "New Zealand",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=zodiac-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

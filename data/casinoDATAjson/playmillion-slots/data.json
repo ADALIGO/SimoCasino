@@ -1,0 +1,31 @@
+{
+  "name": "PlayMillion Slots",
+  "slug": "playmillion-slots",
+  "country": "Switzerland",
+  "bonus": "VIP Bonus 100% up to $500",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 405,
+  "providers": [
+    "Iron Dog Studio",
+    "Thunderkick",
+    "Novomatic"
+  ],
+  "likes": 1262,
+  "comments": 321,
+  "operatingCountries": [
+    "South Africa",
+    "Belgium",
+    "Spain",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=playmillion-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46"
+  ]
+}

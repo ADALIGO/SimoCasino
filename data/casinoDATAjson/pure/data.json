@@ -1,0 +1,31 @@
+{
+  "name": "Pure",
+  "slug": "pure",
+  "country": "Morocco",
+  "bonus": "400% up to $6000",
+  "rating": 1.6,
+  "revenueRank": null,
+  "spins": 30,
+  "providers": [],
+  "likes": 1821,
+  "comments": 59,
+  "operatingCountries": [
+    "South Africa",
+    "Italy",
+    "Australia",
+    "Germany",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=66",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=legzo",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=66",
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70"
+  ],
+  "reviewCount": 5
+}

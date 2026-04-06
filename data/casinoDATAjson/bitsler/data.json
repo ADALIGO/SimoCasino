@@ -1,0 +1,35 @@
+{
+  "name": "Bitsler",
+  "slug": "bitsler",
+  "country": "United States",
+  "bonus": "Welcome Bonus 250% up to $50",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 56,
+  "providers": [
+    "BetSoft",
+    "Thunderkick",
+    "Real Time Gaming",
+    "Wager Gaming",
+    "Blueprint Gaming",
+    "Spinlogic Gaming",
+    "Big Time Gaming"
+  ],
+  "likes": 690,
+  "comments": 52,
+  "operatingCountries": [
+    "Ireland",
+    "Spain",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=144",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sol",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "BB Games",
+  "slug": "bb-games",
+  "country": "Belgium",
+  "bonus": "First Deposit 50% up to $300 + 300 Free Spins",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 18,
+  "providers": [
+    "Spinlogic Gaming",
+    "Novomatic",
+    "Yggdrasil",
+    "Gamomat",
+    "Real Time Gaming",
+    "Habanero Systems",
+    "EGT",
+    "NetEnt"
+  ],
+  "likes": 1366,
+  "comments": 246,
+  "operatingCountries": [
+    "Belgium",
+    "United Kingdom",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=104",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bb-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=104",
+    "https://picsum.photos/380/260?random=105",
+    "https://picsum.photos/380/260?random=106",
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108"
+  ]
+}

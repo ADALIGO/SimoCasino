@@ -1,0 +1,31 @@
+{
+  "name": "HighFlyBet Slots",
+  "slug": "highflybet-slots",
+  "country": "France",
+  "bonus": "Reload Bonus 250% up to $100",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 90,
+  "providers": [
+    "1x2gaming",
+    "Arrows Edge",
+    "Genesis Gaming"
+  ],
+  "likes": 773,
+  "comments": 230,
+  "operatingCountries": [
+    "New Zealand",
+    "Belgium",
+    "Ireland",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=192",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=highflybet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=192",
+    "https://picsum.photos/380/260?random=193",
+    "https://picsum.photos/380/260?random=194"
+  ]
+}

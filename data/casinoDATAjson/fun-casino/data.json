@@ -1,0 +1,37 @@
+{
+  "name": "Fun Casino",
+  "slug": "fun-casino",
+  "country": "Switzerland",
+  "bonus": "Cashback up to 150%",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 297,
+  "providers": [
+    "Wager Gaming",
+    "NetEnt",
+    "Microgaming",
+    "Relax Gaming",
+    "Genesis Gaming",
+    "IGT",
+    "Yggdrasil",
+    "Evolution Gaming"
+  ],
+  "likes": 461,
+  "comments": 428,
+  "operatingCountries": [
+    "Canada",
+    "New Zealand",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fun-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

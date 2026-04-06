@@ -1,0 +1,36 @@
+{
+  "name": "MonoPlay Slots",
+  "slug": "monoplay-slots",
+  "country": "Morocco",
+  "bonus": "100% up to $200 + 250 Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 360,
+  "providers": [
+    "Merkur",
+    "Visionary iGaming",
+    "Thunderkick",
+    "Real Time Gaming",
+    "Rival",
+    "Saucify",
+    "Push Gaming"
+  ],
+  "likes": 666,
+  "comments": 109,
+  "operatingCountries": [
+    "Austria",
+    "Canada",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=107",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=monoplay-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=107",
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

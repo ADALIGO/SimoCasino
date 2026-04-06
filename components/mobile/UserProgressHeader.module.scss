@@ -1,0 +1,86 @@
+/* Mobile breakpoint rules for UserProgressHeader */
+@media (max-width: 639px) {
+  .progress-header {
+    margin: 12px 0;
+    padding: 8px;
+
+    .container {
+      flex-direction: column;
+      gap: 12px;
+      padding: 12px;
+    }
+  }
+
+  .level-section {
+    min-width: auto;
+    width: 100%;
+    justify-content: center;
+
+    .level-badge {
+      width: 60px;
+      height: 60px;
+
+      .badge-content .level-number {
+        font-size: 20px;
+      }
+    }
+
+    .level-label {
+      .level-text {
+        font-size: 14px;
+      }
+
+      .max-level {
+        font-size: 10px;
+      }
+    }
+  }
+
+  .progress-section {
+    min-width: auto;
+    width: 100%;
+
+    .points-display {
+      padding: 8px 12px;
+      gap: 12px;
+      justify-content: space-around;
+
+      .points-item {
+        .points-value {
+          font-size: 16px;
+          min-width: 50px;
+        }
+
+        .points-label {
+          font-size: 10px;
+        }
+
+        .xp-value {
+          font-size: 12px;
+          min-width: 60px;
+        }
+
+        .xp-label {
+          font-size: 10px;
+        }
+      }
+    }
+
+    .progress-bar-wrapper {
+      gap: 8px;
+
+      .progress-bar-container {
+        height: 20px;
+      }
+
+      .progress-text {
+        font-size: 12px;
+        min-width: 30px;
+      }
+    }
+  }
+
+  .decorative-stars {
+    display: none;
+  }
+}

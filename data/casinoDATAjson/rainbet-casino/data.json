@@ -1,0 +1,32 @@
+{
+  "name": "RainBet Casino",
+  "slug": "rainbet-casino",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $300",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 257,
+  "providers": [
+    "1x2gaming",
+    "Konami",
+    "Iron Dog Studio"
+  ],
+  "likes": 253,
+  "comments": 384,
+  "operatingCountries": [
+    "Austria",
+    "Belgium",
+    "Sweden",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=87",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rainbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ]
+}

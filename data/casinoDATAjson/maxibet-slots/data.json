@@ -1,0 +1,34 @@
+{
+  "name": "MAXiBET Slots",
+  "slug": "maxibet-slots",
+  "country": "Czech Republic",
+  "bonus": "Reload Bonus 200% up to $2000",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Rival",
+    "WMS",
+    "Merkur",
+    "Relax Gaming",
+    "IGT"
+  ],
+  "likes": 911,
+  "comments": 53,
+  "operatingCountries": [
+    "Morocco",
+    "Netherlands",
+    "Italy",
+    "Portugal",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maxibet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119"
+  ]
+}

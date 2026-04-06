@@ -1,0 +1,28 @@
+{
+  "name": "The Stake House",
+  "slug": "the-stake-house",
+  "country": "Morocco",
+  "bonus": "200% up to €1000",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 494,
+  "providers": [],
+  "likes": 1057,
+  "comments": 33,
+  "operatingCountries": [
+    "Finland",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=141",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=comicplay",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=141",
+    "https://picsum.photos/380/260?random=142",
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ],
+  "reviewCount": 5
+}

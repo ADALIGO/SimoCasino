@@ -1,0 +1,33 @@
+{
+  "name": "BetMaximus Slots",
+  "slug": "betmaximus-slots",
+  "country": "Australia",
+  "bonus": "Reload Bonus 250% up to $1000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 296,
+  "providers": [
+    "Thunderkick",
+    "Habanero Systems",
+    "ELK Studios"
+  ],
+  "likes": 314,
+  "comments": 500,
+  "operatingCountries": [
+    "Morocco",
+    "Netherlands",
+    "Denmark",
+    "South Africa",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=6",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betmaximus-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=6",
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9"
+  ]
+}

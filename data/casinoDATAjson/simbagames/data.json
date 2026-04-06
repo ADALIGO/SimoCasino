@@ -1,0 +1,31 @@
+{
+  "name": "SimbaGames",
+  "slug": "simbagames",
+  "country": "Morocco",
+  "bonus": "50 Spins",
+  "rating": 2.4,
+  "revenueRank": null,
+  "spins": 487,
+  "providers": [],
+  "likes": 1292,
+  "comments": 358,
+  "operatingCountries": [
+    "Sweden",
+    "Switzerland",
+    "France",
+    "Netherlands",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=183",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrfortune",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186",
+    "https://picsum.photos/380/260?random=187"
+  ],
+  "reviewCount": 5
+}

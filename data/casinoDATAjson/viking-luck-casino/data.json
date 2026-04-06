@@ -1,0 +1,31 @@
+{
+  "name": "Viking Luck Casino",
+  "slug": "viking-luck-casino",
+  "country": "Belgium",
+  "bonus": "VIP Bonus 200% up to $300",
+  "rating": 3.1,
+  "revenueRank": 74,
+  "spins": 488,
+  "providers": [
+    "Aristocrat",
+    "Genesis Gaming",
+    "Evolution Gaming",
+    "Visionary iGaming",
+    "Red Tiger"
+  ],
+  "likes": 1302,
+  "comments": 189,
+  "operatingCountries": [
+    "South Africa",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=24",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=viking-luck-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26"
+  ]
+}

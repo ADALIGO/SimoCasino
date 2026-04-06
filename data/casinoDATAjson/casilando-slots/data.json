@@ -1,0 +1,36 @@
+{
+  "name": "Casilando Slots",
+  "slug": "casilando-slots",
+  "country": "United Kingdom",
+  "bonus": "Cashback up to 125%",
+  "rating": 4.8,
+  "revenueRank": 7,
+  "spins": 405,
+  "providers": [
+    "Visionary iGaming",
+    "Saucify",
+    "Blueprint Gaming",
+    "Big Time Gaming",
+    "Quickspin"
+  ],
+  "likes": 1598,
+  "comments": 154,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria",
+    "Sweden",
+    "New Zealand",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=75",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casilando-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "SlotyStake Online",
+  "slug": "slotystake-online",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 200% up to $1000",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 303,
+  "providers": [
+    "Amatic Industries",
+    "Real Time Gaming",
+    "Greentube",
+    "Wager Gaming"
+  ],
+  "likes": 147,
+  "comments": 92,
+  "operatingCountries": [
+    "Netherlands",
+    "Czech Republic",
+    "Morocco",
+    "Portugal",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotystake-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ]
+}

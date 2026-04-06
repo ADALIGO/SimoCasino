@@ -1,0 +1,31 @@
+{
+  "name": "GGbet",
+  "slug": "ggbet",
+  "country": "Morocco",
+  "bonus": "150% up to €500 + 20 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 473,
+  "providers": [],
+  "likes": 678,
+  "comments": 269,
+  "operatingCountries": [
+    "Ireland",
+    "France",
+    "Switzerland",
+    "United States",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=164",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=777",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168"
+  ],
+  "reviewCount": 5
+}

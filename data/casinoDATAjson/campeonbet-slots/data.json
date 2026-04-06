@@ -1,0 +1,36 @@
+{
+  "name": "Campeonbet Slots",
+  "slug": "campeonbet-slots",
+  "country": "Czech Republic",
+  "bonus": "Cashback up to 100%",
+  "rating": 4.2,
+  "revenueRank": 23,
+  "spins": 358,
+  "providers": [
+    "Visionary iGaming",
+    "Yggdrasil",
+    "1x2gaming",
+    "Aristocrat",
+    "Greentube",
+    "Konami",
+    "WMS",
+    "Red Tiger"
+  ],
+  "likes": 1477,
+  "comments": 410,
+  "operatingCountries": [
+    "Czech Republic",
+    "Italy",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=148",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=campeonbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Maria Online",
+  "slug": "maria-online",
+  "country": "Switzerland",
+  "bonus": "First Deposit 200% up to $2000 + 250 Free Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 17,
+  "providers": [
+    "IGT",
+    "Visionary iGaming",
+    "Amatic Industries",
+    "Microgaming",
+    "Playtech",
+    "Relax Gaming"
+  ],
+  "likes": 1569,
+  "comments": 166,
+  "operatingCountries": [
+    "Sweden",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maria-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157"
+  ]
+}

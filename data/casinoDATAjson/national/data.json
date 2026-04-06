@@ -1,0 +1,33 @@
+{
+  "name": "National",
+  "slug": "national",
+  "country": "Morocco",
+  "bonus": "100% up to €/$100 + 100 Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 231,
+  "providers": [
+    "1x2gaming",
+    "Amatic Industries",
+    "Ash Gaming"
+  ],
+  "likes": 1527,
+  "comments": 355,
+  "operatingCountries": [
+    "South Africa",
+    "Spain",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euroking",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89"
+  ],
+  "reviewCount": 260
+}

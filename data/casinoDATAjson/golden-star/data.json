@@ -1,0 +1,30 @@
+{
+  "name": "Golden Star",
+  "slug": "golden-star",
+  "country": "Morocco",
+  "bonus": "100% up to €/$1000 + 300 Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 413,
+  "providers": [],
+  "likes": 728,
+  "comments": 300,
+  "operatingCountries": [
+    "Czech Republic",
+    "Sweden",
+    "South Africa",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sapphirebet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ],
+  "reviewCount": 5
+}

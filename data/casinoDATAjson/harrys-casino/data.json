@@ -1,0 +1,31 @@
+{
+  "name": "Harry's Casino",
+  "slug": "harrys-casino",
+  "country": "New Zealand",
+  "bonus": "100% Bonus up to $200",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 4,
+  "providers": [
+    "Wager Gaming",
+    "Pragmatic Play",
+    "Ash Gaming"
+  ],
+  "likes": 1342,
+  "comments": 167,
+  "operatingCountries": [
+    "Norway",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=163",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=harrys-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167"
+  ]
+}

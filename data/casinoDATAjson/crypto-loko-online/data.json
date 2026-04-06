@@ -1,0 +1,29 @@
+{
+  "name": "Crypto Loko Online",
+  "slug": "crypto-loko-online",
+  "country": "Finland",
+  "bonus": "Reload Bonus 150% up to $50",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 263,
+  "providers": [
+    "Microgaming",
+    "1x2gaming"
+  ],
+  "likes": 667,
+  "comments": 428,
+  "operatingCountries": [
+    "France",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=168",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=crypto-loko-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

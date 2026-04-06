@@ -1,0 +1,37 @@
+{
+  "name": "Jackpot Wheel Slots",
+  "slug": "jackpot-wheel-slots",
+  "country": "Ireland",
+  "bonus": "Welcome Package up to $500",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 48,
+  "providers": [
+    "Gamomat",
+    "Ash Gaming",
+    "Arrows Edge",
+    "EGT",
+    "NextGen",
+    "Iron Dog Studio"
+  ],
+  "likes": 835,
+  "comments": 422,
+  "operatingCountries": [
+    "New Zealand",
+    "Denmark",
+    "Poland",
+    "France",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=72",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-wheel-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76"
+  ]
+}

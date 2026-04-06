@@ -1,0 +1,81 @@
+{
+  "name": "Gamblezen",
+  "slug": "gamblezen",
+  "country": "Morocco",
+  "bonus": "220% up to €500 + 100 Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 234,
+  "providers": [
+    "1x2gaming",
+    "Amatic Industries",
+    "Ash Gaming"
+  ],
+  "likes": 582,
+  "comments": 445,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "languages": [
+    "English",
+    "Spanish",
+    "German",
+    "Norwegian",
+    "Finnish",
+    "Polish",
+    "French",
+    "Danish",
+    "Italian"
+  ],
+  "license": "Curacao",
+  "description": "Gamblezen is a mobile-friendly online casino licensed in Curacao with fast crypto support, live casino games, a generous VIP program and multiple currencies.",
+  "appAvailable": false,
+  "minDeposit": 20,
+  "minWithdrawal": 20,
+  "withdrawalLimit": 2000,
+  "withdrawalTime": "Ewallets: 0-24 business hours; Wire Transfer: 2-3 business days; Crypto Wallet: 0-24 business hours",
+  "currencies": [
+    "EUR",
+    "CAD",
+    "USD"
+  ],
+  "vipLevels": 5,
+  "vipRewards": [
+    "Up to 30% cashback",
+    "VIP manager / prioritized support",
+    "Higher limits",
+    "Individual bonuses by request"
+  ],
+  "liveCasinoAvailable": true,
+  "supportEmail": "support@gamblezen.com",
+  "supportPhone": null,
+  "cryptoSupport": true,
+  "popularGames": [
+    "Gem Crush",
+    "Blade Master",
+    "Fire Stampede",
+    "Candy Jar Clusters",
+    "Hellapeños",
+    "Sugar Pop",
+    "Fortune Dragons",
+    "Hell’Sing",
+    "Fortuna de los Muertos",
+    "Gems Bonanza",
+    "Goddes Of Fortunes",
+    "Moon Sisters: Hold and Win",
+    "Golden Elk",
+    "Grand Pepper Party"
+  ],
+  "isFeatured": true,
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gamblezen",
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148"
+  ],
+  "reviewCount": 1241
+}

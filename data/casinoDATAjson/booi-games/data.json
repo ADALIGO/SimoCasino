@@ -1,0 +1,32 @@
+{
+  "name": "Booi Games",
+  "slug": "booi-games",
+  "country": "Australia",
+  "bonus": "VIP Bonus 125% up to $500",
+  "rating": 3.6,
+  "revenueRank": 45,
+  "spins": 447,
+  "providers": [
+    "Playtech",
+    "Habanero Systems",
+    "Pragmatic Play",
+    "Ash Gaming",
+    "IGT",
+    "Big Time Gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 300,
+  "comments": 415,
+  "operatingCountries": [
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=booi-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201"
+  ]
+}

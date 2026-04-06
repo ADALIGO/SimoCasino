@@ -1,0 +1,30 @@
+{
+  "name": "Dream Vegas Games",
+  "slug": "dream-vegas-games",
+  "country": "Australia",
+  "bonus": "First Deposit 250% up to $500 + 100 Free Spins",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 203,
+  "providers": [
+    "Nolimit City"
+  ],
+  "likes": 506,
+  "comments": 206,
+  "operatingCountries": [
+    "Netherlands",
+    "Austria",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=95",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dream-vegas-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Casinova Games",
+  "slug": "casinova-games",
+  "country": "Italy",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 485,
+  "providers": [
+    "1x2gaming",
+    "Evolution Gaming",
+    "Rival",
+    "Gamomat",
+    "NextGen",
+    "IGT"
+  ],
+  "likes": 469,
+  "comments": 326,
+  "operatingCountries": [
+    "Netherlands",
+    "Italy",
+    "Australia",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=44",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinova-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47"
+  ]
+}

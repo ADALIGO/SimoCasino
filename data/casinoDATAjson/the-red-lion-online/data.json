@@ -1,0 +1,35 @@
+{
+  "name": "The Red Lion Online",
+  "slug": "the-red-lion-online",
+  "country": "United States",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3,
+  "revenueRank": 37,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Amatic Industries",
+    "Arrows Edge",
+    "Nolimit City",
+    "Relax Gaming"
+  ],
+  "likes": 1913,
+  "comments": 14,
+  "operatingCountries": [
+    "United Kingdom",
+    "Sweden",
+    "Denmark",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=35",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=the-red-lion-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ]
+}

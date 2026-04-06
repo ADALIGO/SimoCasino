@@ -1,0 +1,28 @@
+{
+  "name": "BetBona",
+  "slug": "betbona",
+  "country": "Morocco",
+  "bonus": "105% up to €700 + 90 Spins",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 368,
+  "providers": [],
+  "likes": 706,
+  "comments": 251,
+  "operatingCountries": [
+    "Portugal",
+    "Switzerland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=45",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=scarawins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=45",
+    "https://picsum.photos/380/260?random=46",
+    "https://picsum.photos/380/260?random=47",
+    "https://picsum.photos/380/260?random=48"
+  ],
+  "reviewCount": 5
+}

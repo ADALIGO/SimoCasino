@@ -1,0 +1,38 @@
+{
+  "name": "CasinoAndYou Games",
+  "slug": "casinoandyou-games",
+  "country": "Italy",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.1,
+  "revenueRank": 50,
+  "spins": 0,
+  "providers": [
+    "Saucify",
+    "Visionary iGaming",
+    "WMS",
+    "Pragmatic Play",
+    "NextGen",
+    "IGT",
+    "Playtech"
+  ],
+  "likes": 1532,
+  "comments": 271,
+  "operatingCountries": [
+    "Austria",
+    "Switzerland",
+    "Italy",
+    "Poland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=200",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoandyou-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202",
+    "https://picsum.photos/380/260?random=203",
+    "https://picsum.photos/380/260?random=204"
+  ]
+}

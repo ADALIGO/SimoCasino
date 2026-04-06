@@ -1,0 +1,31 @@
+{
+  "name": "BoaBoa Games",
+  "slug": "boaboa-games",
+  "country": "Morocco",
+  "bonus": "First Deposit 100% up to $50 + 300 Free Spins",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Visionary iGaming",
+    "Genesis Gaming",
+    "Real Time Gaming",
+    "Relax Gaming",
+    "Microgaming"
+  ],
+  "likes": 1048,
+  "comments": 241,
+  "operatingCountries": [
+    "Australia",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=29",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boaboa-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31"
+  ]
+}

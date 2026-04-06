@@ -1,0 +1,27 @@
+{
+  "name": "Scatters Casino",
+  "slug": "scatters-casino",
+  "country": "France",
+  "bonus": "VIP Bonus 250% up to $100",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 302,
+  "providers": [
+    "Ash Gaming"
+  ],
+  "likes": 267,
+  "comments": 273,
+  "operatingCountries": [
+    "Italy",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=181",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=scatters-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183"
+  ]
+}

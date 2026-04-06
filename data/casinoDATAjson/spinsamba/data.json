@@ -1,0 +1,30 @@
+{
+  "name": "SpinSamba",
+  "slug": "spinsamba",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.3,
+  "revenueRank": null,
+  "spins": 337,
+  "providers": [],
+  "likes": 1328,
+  "comments": 324,
+  "operatingCountries": [
+    "United Kingdom",
+    "Morocco",
+    "Italy",
+    "Finland",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=melbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ],
+  "reviewCount": 5
+}

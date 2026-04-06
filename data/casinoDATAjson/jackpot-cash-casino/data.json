@@ -1,0 +1,34 @@
+{
+  "name": "Jackpot Cash Casino",
+  "slug": "jackpot-cash-casino",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 150% up to $500",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 264,
+  "providers": [
+    "Visionary iGaming",
+    "Push Gaming",
+    "BetSoft",
+    "Ash Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 755,
+  "comments": 35,
+  "operatingCountries": [
+    "Denmark",
+    "South Africa",
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackpot-cash-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172"
+  ]
+}

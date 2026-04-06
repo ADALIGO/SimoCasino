@@ -1,0 +1,27 @@
+{
+  "name": "RetroBet",
+  "slug": "retrobet",
+  "country": "Morocco",
+  "bonus": "100% up to €/$1000 + 100 Spins",
+  "rating": 4.5,
+  "revenueRank": 16,
+  "spins": 211,
+  "providers": [],
+  "likes": 1874,
+  "comments": 318,
+  "operatingCountries": [
+    "Czech Republic",
+    "Morocco",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=55",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=21prive-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=55",
+    "https://picsum.photos/380/260?random=56",
+    "https://picsum.photos/380/260?random=57"
+  ],
+  "reviewCount": 5
+}

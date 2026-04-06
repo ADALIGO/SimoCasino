@@ -1,0 +1,31 @@
+{
+  "name": "Patang",
+  "slug": "patang",
+  "country": "Morocco",
+  "bonus": "50% up to ₹10000",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 238,
+  "comments": 376,
+  "operatingCountries": [
+    "Belgium",
+    "Czech Republic",
+    "United States",
+    "Denmark",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=145",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tedbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147",
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149"
+  ],
+  "reviewCount": 5
+}

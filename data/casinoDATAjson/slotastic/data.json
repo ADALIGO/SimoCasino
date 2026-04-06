@@ -1,0 +1,26 @@
+{
+  "name": "Slotastic",
+  "slug": "slotastic",
+  "country": "Morocco",
+  "bonus": "$30",
+  "rating": 2.9,
+  "revenueRank": null,
+  "spins": 387,
+  "providers": [],
+  "likes": 545,
+  "comments": 82,
+  "operatingCountries": [
+    "Finland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwhale-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ],
+  "reviewCount": 5
+}

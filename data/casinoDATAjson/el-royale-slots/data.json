@@ -1,0 +1,31 @@
+{
+  "name": "El Royale Slots",
+  "slug": "el-royale-slots",
+  "country": "United States",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 229,
+  "providers": [
+    "Evolution Gaming",
+    "Habanero Systems",
+    "Konami",
+    "Greentube",
+    "Thunderkick"
+  ],
+  "likes": 790,
+  "comments": 107,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=144",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=el-royale-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ]
+}

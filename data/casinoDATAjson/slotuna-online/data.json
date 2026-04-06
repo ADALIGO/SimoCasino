@@ -1,0 +1,32 @@
+{
+  "name": "Slotuna Online",
+  "slug": "slotuna-online",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 250% up to $1000",
+  "rating": 5,
+  "revenueRank": 85,
+  "spins": 482,
+  "providers": [
+    "Thunderkick",
+    "Rival",
+    "Red Tiger",
+    "Arrows Edge",
+    "Spinlogic Gaming",
+    "EGT"
+  ],
+  "likes": 1502,
+  "comments": 173,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=159",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotuna-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

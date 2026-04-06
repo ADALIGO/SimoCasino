@@ -1,0 +1,32 @@
+{
+  "name": "GrandWin Casino",
+  "slug": "grandwin-casino",
+  "country": "France",
+  "bonus": "First Deposit 100% up to $2000 + 20 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 478,
+  "providers": [
+    "Blueprint Gaming",
+    "Playtech",
+    "Quickspin",
+    "Greentube",
+    "Novomatic",
+    "Rival"
+  ],
+  "likes": 738,
+  "comments": 18,
+  "operatingCountries": [
+    "Switzerland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=79",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=grandwin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81"
+  ]
+}

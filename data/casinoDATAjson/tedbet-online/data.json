@@ -1,0 +1,31 @@
+{
+  "name": "Tedbet Online",
+  "slug": "tedbet-online",
+  "country": "Germany",
+  "bonus": "Deposit Bonus 50% up to $200",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 385,
+  "providers": [
+    "Thunderkick",
+    "Merkur",
+    "Greentube"
+  ],
+  "likes": 387,
+  "comments": 486,
+  "operatingCountries": [
+    "Czech Republic",
+    "New Zealand",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=tedbet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89"
+  ]
+}

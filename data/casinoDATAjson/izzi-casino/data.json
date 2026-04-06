@@ -1,0 +1,32 @@
+{
+  "name": "IZZI Casino",
+  "slug": "izzi-casino",
+  "country": "New Zealand",
+  "bonus": "Deposit Bonus 200% up to $50",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 220,
+  "providers": [
+    "NetEnt",
+    "NextGen",
+    "Nolimit City",
+    "IGT",
+    "Merkur",
+    "1x2gaming"
+  ],
+  "likes": 1808,
+  "comments": 160,
+  "operatingCountries": [
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=117",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=izzi-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=117",
+    "https://picsum.photos/380/260?random=118",
+    "https://picsum.photos/380/260?random=119",
+    "https://picsum.photos/380/260?random=120"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Detective Slots",
+  "slug": "detective-slots",
+  "country": "Morocco",
+  "bonus": "$50 + 900 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 207,
+  "providers": [],
+  "likes": 1563,
+  "comments": 225,
+  "operatingCountries": [
+    "Italy",
+    "Spain",
+    "Morocco",
+    "Denmark",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=98",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cashed",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99",
+    "https://picsum.photos/380/260?random=100"
+  ],
+  "reviewCount": 5
+}

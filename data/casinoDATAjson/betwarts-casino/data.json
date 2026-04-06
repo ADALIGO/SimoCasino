@@ -1,0 +1,34 @@
+{
+  "name": "Betwarts Casino",
+  "slug": "betwarts-casino",
+  "country": "Sweden",
+  "bonus": "First Deposit 125% up to $200 + 250 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries",
+    "Nolimit City",
+    "IGT",
+    "Red Tiger",
+    "Ash Gaming",
+    "Evolution Gaming",
+    "Aristocrat"
+  ],
+  "likes": 1287,
+  "comments": 150,
+  "operatingCountries": [
+    "Italy",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=120",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betwarts-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=120",
+    "https://picsum.photos/380/260?random=121",
+    "https://picsum.photos/380/260?random=122",
+    "https://picsum.photos/380/260?random=123"
+  ]
+}

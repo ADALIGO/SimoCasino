@@ -1,0 +1,31 @@
+{
+  "name": "Wettson Online",
+  "slug": "wettson-online",
+  "country": "Austria",
+  "bonus": "Deposit Bonus 50% up to $100",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 216,
+  "providers": [
+    "Gamomat",
+    "Iron Dog Studio",
+    "EGT"
+  ],
+  "likes": 202,
+  "comments": 491,
+  "operatingCountries": [
+    "Australia",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=158",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wettson-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160",
+    "https://picsum.photos/380/260?random=161",
+    "https://picsum.photos/380/260?random=162"
+  ]
+}

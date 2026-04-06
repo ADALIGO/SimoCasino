@@ -1,0 +1,31 @@
+{
+  "name": "Sapphirebet Casino",
+  "slug": "sapphirebet-casino",
+  "country": "Norway",
+  "bonus": "No Deposit 300 Free Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 406,
+  "providers": [
+    "Push Gaming",
+    "Merkur",
+    "Arrows Edge"
+  ],
+  "likes": 304,
+  "comments": 495,
+  "operatingCountries": [
+    "Poland",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=24",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sapphirebet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ]
+}

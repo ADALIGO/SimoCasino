@@ -1,0 +1,31 @@
+{
+  "name": "Casino-X Online",
+  "slug": "casino-x-online",
+  "country": "Ireland",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 332,
+  "providers": [
+    "ELK Studios",
+    "NextGen",
+    "Big Time Gaming"
+  ],
+  "likes": 1205,
+  "comments": 206,
+  "operatingCountries": [
+    "Italy",
+    "Portugal",
+    "Denmark",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=134",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-x-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136"
+  ]
+}

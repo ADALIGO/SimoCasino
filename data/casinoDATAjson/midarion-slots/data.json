@@ -1,0 +1,29 @@
+{
+  "name": "Midarion Slots",
+  "slug": "midarion-slots",
+  "country": "Sweden",
+  "bonus": "50% Bonus up to $200",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 242,
+  "providers": [
+    "Relax Gaming",
+    "Iron Dog Studio",
+    "Amatic Industries"
+  ],
+  "likes": 830,
+  "comments": 269,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=midarion-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ]
+}

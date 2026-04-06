@@ -1,0 +1,37 @@
+{
+  "name": "Sushi Online",
+  "slug": "sushi-online",
+  "country": "Morocco",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 274,
+  "providers": [
+    "Saucify",
+    "Big Time Gaming",
+    "Iron Dog Studio",
+    "Spinlogic Gaming",
+    "Greentube",
+    "Amatic Industries",
+    "ELK Studios"
+  ],
+  "likes": 1748,
+  "comments": 177,
+  "operatingCountries": [
+    "United States",
+    "Netherlands",
+    "Canada",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=74",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=sushi-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "888Arabic Slots",
+  "slug": "888arabic-slots",
+  "country": "Australia",
+  "bonus": "Deposit Bonus 200% up to $50",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 195,
+  "providers": [
+    "Red Tiger",
+    "Yggdrasil"
+  ],
+  "likes": 920,
+  "comments": 355,
+  "operatingCountries": [
+    "Netherlands",
+    "Australia",
+    "Finland",
+    "Portugal",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=3",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=888arabic-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6"
+  ]
+}

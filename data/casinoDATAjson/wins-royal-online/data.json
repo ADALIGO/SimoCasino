@@ -1,0 +1,32 @@
+{
+  "name": "Wins Royal Online",
+  "slug": "wins-royal-online",
+  "country": "United Kingdom",
+  "bonus": "250% Bonus up to $100",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 293,
+  "providers": [
+    "EGT",
+    "WMS",
+    "1x2gaming",
+    "Visionary iGaming"
+  ],
+  "likes": 505,
+  "comments": 387,
+  "operatingCountries": [
+    "Norway",
+    "Denmark",
+    "Portugal",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=wins-royal-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ]
+}

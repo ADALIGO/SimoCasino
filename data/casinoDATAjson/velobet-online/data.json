@@ -1,0 +1,32 @@
+{
+  "name": "Velobet Online",
+  "slug": "velobet-online",
+  "country": "United Kingdom",
+  "bonus": "VIP Bonus 50% up to $2000",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Wager Gaming",
+    "IGT",
+    "Iron Dog Studio",
+    "ELK Studios"
+  ],
+  "likes": 1882,
+  "comments": 395,
+  "operatingCountries": [
+    "Finland",
+    "United Kingdom",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=51",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=velobet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=51",
+    "https://picsum.photos/380/260?random=52",
+    "https://picsum.photos/380/260?random=53",
+    "https://picsum.photos/380/260?random=54"
+  ]
+}

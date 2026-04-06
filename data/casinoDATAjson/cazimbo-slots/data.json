@@ -1,0 +1,30 @@
+{
+  "name": "Cazimbo Slots",
+  "slug": "cazimbo-slots",
+  "country": "New Zealand",
+  "bonus": "Reload Bonus 50% up to $1000",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 226,
+  "providers": [
+    "Push Gaming"
+  ],
+  "likes": 1468,
+  "comments": 388,
+  "operatingCountries": [
+    "Denmark",
+    "Italy",
+    "Portugal",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cazimbo-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

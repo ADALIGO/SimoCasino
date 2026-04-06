@@ -1,0 +1,32 @@
+{
+  "name": "Bitcoin Sportsbook Online",
+  "slug": "bitcoin-sportsbook-online",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 125% up to $50",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 489,
+  "providers": [
+    "Rival",
+    "EGT",
+    "Red Tiger",
+    "Greentube",
+    "1x2gaming",
+    "Spinlogic Gaming"
+  ],
+  "likes": 1322,
+  "comments": 136,
+  "operatingCountries": [
+    "Denmark",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=190",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitcoin-sportsbook-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

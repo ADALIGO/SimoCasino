@@ -1,0 +1,37 @@
+{
+  "name": "Blaze Spins Slots",
+  "slug": "blaze-spins-slots",
+  "country": "South Africa",
+  "bonus": "Welcome Package up to $500",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 423,
+  "providers": [
+    "Greentube",
+    "Merkur",
+    "1x2gaming",
+    "NetEnt",
+    "Wager Gaming",
+    "EGT",
+    "Real Time Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 149,
+  "comments": 420,
+  "operatingCountries": [
+    "Denmark",
+    "Finland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=109",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blaze-spins-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113"
+  ]
+}

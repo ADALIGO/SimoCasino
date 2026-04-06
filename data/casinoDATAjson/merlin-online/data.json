@@ -1,0 +1,30 @@
+{
+  "name": "Merlin Online",
+  "slug": "merlin-online",
+  "country": "Belgium",
+  "bonus": "Welcome Bonus 250% up to $300",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 185,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 1201,
+  "comments": 50,
+  "operatingCountries": [
+    "Belgium",
+    "United Kingdom",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=merlin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71"
+  ]
+}

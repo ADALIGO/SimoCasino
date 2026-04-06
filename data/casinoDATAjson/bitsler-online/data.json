@@ -1,0 +1,34 @@
+{
+  "name": "Bitsler Online",
+  "slug": "bitsler-online",
+  "country": "Ireland",
+  "bonus": "Welcome Bonus 200% up to $200",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Wager Gaming",
+    "Konami",
+    "Habanero Systems",
+    "NetEnt",
+    "BetSoft"
+  ],
+  "likes": 340,
+  "comments": 296,
+  "operatingCountries": [
+    "Canada",
+    "Italy",
+    "South Africa",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitsler-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88"
+  ]
+}

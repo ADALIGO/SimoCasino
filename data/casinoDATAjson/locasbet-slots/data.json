@@ -1,0 +1,32 @@
+{
+  "name": "Locasbet Slots",
+  "slug": "locasbet-slots",
+  "country": "Australia",
+  "bonus": "Reload Bonus 150% up to $100",
+  "rating": 4.8,
+  "revenueRank": 55,
+  "spins": 452,
+  "providers": [
+    "IGT",
+    "Relax Gaming",
+    "WMS"
+  ],
+  "likes": 1525,
+  "comments": 295,
+  "operatingCountries": [
+    "United States",
+    "Finland",
+    "South Africa",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=7",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=locasbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=7",
+    "https://picsum.photos/380/260?random=8",
+    "https://picsum.photos/380/260?random=9",
+    "https://picsum.photos/380/260?random=10"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Windetta",
+  "slug": "windetta",
+  "country": "Morocco",
+  "bonus": "150% up to €500",
+  "rating": 2.6,
+  "revenueRank": 98,
+  "spins": 66,
+  "providers": [],
+  "likes": 1586,
+  "comments": 92,
+  "operatingCountries": [
+    "Austria",
+    "Poland",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=31",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betandyou-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ],
+  "reviewCount": 5
+}

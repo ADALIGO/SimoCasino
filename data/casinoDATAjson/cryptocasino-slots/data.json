@@ -1,0 +1,35 @@
+{
+  "name": "CryptoCasino Slots",
+  "slug": "cryptocasino-slots",
+  "country": "Portugal",
+  "bonus": "Cashback up to 125%",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 26,
+  "providers": [
+    "Genesis Gaming",
+    "Arrows Edge",
+    "NetEnt",
+    "ELK Studios",
+    "Red Tiger",
+    "Spinlogic Gaming",
+    "Merkur"
+  ],
+  "likes": 864,
+  "comments": 447,
+  "operatingCountries": [
+    "United States",
+    "Norway",
+    "Spain",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=108",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptocasino-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=108",
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110"
+  ]
+}

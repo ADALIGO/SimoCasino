@@ -1,0 +1,35 @@
+{
+  "name": "Casino Max Games",
+  "slug": "casino-max-games",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 200% up to $500",
+  "rating": 4.6,
+  "revenueRank": 57,
+  "spins": 162,
+  "providers": [
+    "NextGen",
+    "Quickspin",
+    "Merkur",
+    "Evolution Gaming",
+    "Habanero Systems",
+    "WMS",
+    "Rival",
+    "Arrows Edge"
+  ],
+  "likes": 1906,
+  "comments": 241,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-max-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155"
+  ]
+}

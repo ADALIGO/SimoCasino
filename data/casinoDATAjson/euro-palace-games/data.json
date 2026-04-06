@@ -1,0 +1,27 @@
+{
+  "name": "Euro Palace Games",
+  "slug": "euro-palace-games",
+  "country": "Portugal",
+  "bonus": "First Deposit 125% up to $300 + 250 Free Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming"
+  ],
+  "likes": 175,
+  "comments": 302,
+  "operatingCountries": [
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=199",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=euro-palace-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=199",
+    "https://picsum.photos/380/260?random=200",
+    "https://picsum.photos/380/260?random=201",
+    "https://picsum.photos/380/260?random=202"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Rox Online",
+  "slug": "rox-online",
+  "country": "Morocco",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 205,
+  "providers": [
+    "Relax Gaming",
+    "Ash Gaming",
+    "Novomatic",
+    "Push Gaming",
+    "Nolimit City",
+    "WMS"
+  ],
+  "likes": 1362,
+  "comments": 213,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=73",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rox-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74",
+    "https://picsum.photos/380/260?random=75",
+    "https://picsum.photos/380/260?random=76",
+    "https://picsum.photos/380/260?random=77"
+  ]
+}

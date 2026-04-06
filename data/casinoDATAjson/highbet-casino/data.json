@@ -1,0 +1,27 @@
+{
+  "name": "Highbet Casino",
+  "slug": "highbet-casino",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $100",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 276,
+  "providers": [
+    "Arrows Edge"
+  ],
+  "likes": 1196,
+  "comments": 466,
+  "operatingCountries": [
+    "Finland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=highbet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ]
+}

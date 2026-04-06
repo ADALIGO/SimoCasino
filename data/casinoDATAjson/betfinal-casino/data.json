@@ -1,0 +1,31 @@
+{
+  "name": "Betfinal Casino",
+  "slug": "betfinal-casino",
+  "country": "Italy",
+  "bonus": "Cashback up to 250%",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Konami",
+    "Push Gaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 1174,
+  "comments": 89,
+  "operatingCountries": [
+    "Denmark",
+    "Germany",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=166",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfinal-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168"
+  ]
+}

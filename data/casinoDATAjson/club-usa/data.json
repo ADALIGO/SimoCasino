@@ -1,0 +1,28 @@
+{
+  "name": "Club USA",
+  "slug": "club-usa",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 146,
+  "providers": [],
+  "likes": 416,
+  "comments": 158,
+  "operatingCountries": [
+    "United Kingdom",
+    "Spain",
+    "Germany",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=180",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=players-palace",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181",
+    "https://picsum.photos/380/260?random=182"
+  ],
+  "reviewCount": 5
+}

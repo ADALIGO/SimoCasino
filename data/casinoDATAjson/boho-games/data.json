@@ -1,0 +1,32 @@
+{
+  "name": "BOHO Games",
+  "slug": "boho-games",
+  "country": "Poland",
+  "bonus": "100% up to $2000 + 50 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 18,
+  "providers": [
+    "Gamomat",
+    "1x2gaming",
+    "WMS",
+    "Visionary iGaming",
+    "Blueprint Gaming"
+  ],
+  "likes": 304,
+  "comments": 336,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=95",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boho-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=95",
+    "https://picsum.photos/380/260?random=96",
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

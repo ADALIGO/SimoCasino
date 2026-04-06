@@ -1,0 +1,33 @@
+{
+  "name": "Housebets Slots",
+  "slug": "housebets-slots",
+  "country": "United States",
+  "bonus": "125% Bonus up to $200",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Gamomat",
+    "Wager Gaming",
+    "Habanero Systems",
+    "Quickspin"
+  ],
+  "likes": 1606,
+  "comments": 293,
+  "operatingCountries": [
+    "Morocco",
+    "Netherlands",
+    "Sweden",
+    "South Africa",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=194",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=housebets-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=194",
+    "https://picsum.photos/380/260?random=195",
+    "https://picsum.photos/380/260?random=196"
+  ]
+}

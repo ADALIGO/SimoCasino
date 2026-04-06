@@ -1,0 +1,35 @@
+{
+  "name": "OceanSpin Casino",
+  "slug": "oceanspin-casino",
+  "country": "Norway",
+  "bonus": "Welcome Bonus 300% up to $100",
+  "rating": 4.9,
+  "revenueRank": 98,
+  "spins": 0,
+  "providers": [
+    "IGT",
+    "Novomatic",
+    "Playtech",
+    "Red Tiger",
+    "Arrows Edge",
+    "Wager Gaming",
+    "Yggdrasil"
+  ],
+  "likes": 341,
+  "comments": 291,
+  "operatingCountries": [
+    "Denmark",
+    "Canada",
+    "Netherlands",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=77",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=oceanspin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "EU Casino",
+  "slug": "eu-casino",
+  "country": "Netherlands",
+  "bonus": "100% up to $2000 + 150 Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 340,
+  "providers": [
+    "Gamomat",
+    "BetSoft",
+    "Wager Gaming",
+    "Arrows Edge"
+  ],
+  "likes": 836,
+  "comments": 81,
+  "operatingCountries": [
+    "Australia",
+    "Denmark",
+    "Finland",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eu-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ]
+}

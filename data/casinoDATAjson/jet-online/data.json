@@ -1,0 +1,37 @@
+{
+  "name": "Jet Online",
+  "slug": "jet-online",
+  "country": "Finland",
+  "bonus": "150% Bonus up to $2000",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 264,
+  "providers": [
+    "Aristocrat",
+    "Blueprint Gaming",
+    "Gamomat",
+    "EGT",
+    "BetSoft",
+    "Push Gaming"
+  ],
+  "likes": 1837,
+  "comments": 438,
+  "operatingCountries": [
+    "Portugal",
+    "Canada",
+    "Czech Republic",
+    "Australia",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=133",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jet-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135",
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Coin Casino",
+  "slug": "coin-casino",
+  "country": "Norway",
+  "bonus": "No Deposit 20 Free Spins",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 104,
+  "providers": [
+    "ELK Studios",
+    "EGT",
+    "Relax Gaming",
+    "Amatic Industries"
+  ],
+  "likes": 47,
+  "comments": 257,
+  "operatingCountries": [
+    "Norway",
+    "Poland",
+    "Germany",
+    "Netherlands",
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=169",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=169",
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171"
+  ]
+}

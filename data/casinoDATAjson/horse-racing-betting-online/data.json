@@ -1,0 +1,32 @@
+{
+  "name": "Horse Racing Betting Online",
+  "slug": "horse-racing-betting-online",
+  "country": "France",
+  "bonus": "First Deposit 200% up to $50 + 50 Free Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Genesis Gaming",
+    "Big Time Gaming",
+    "Gamomat",
+    "Rival"
+  ],
+  "likes": 1863,
+  "comments": 182,
+  "operatingCountries": [
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=69",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=horse-racing-betting-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73"
+  ]
+}

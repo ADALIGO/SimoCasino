@@ -1,0 +1,51 @@
+@media (min-width: 687px) {
+  .header {
+    padding: 8px 18px;
+    gap: 16px;
+
+    .logo {
+      font-size: 18px;
+    }
+
+    .sidebar-toggle {
+      font-size: 19px;
+    }
+
+    .user-menu {
+      width: auto;
+      flex-wrap: nowrap;
+      min-width: 0;
+      overflow: hidden;
+
+      select {
+        font-size: 12px;
+        padding: 6px 10px;
+      }
+
+      .btn {
+        font-size: 12px;
+        padding: 6px 10px;
+      }
+    }
+
+    .header :global(.progress-compact) {
+      order: unset;
+      width: auto;
+    }
+  }
+  
+}
+
+@media (min-width: 768px) {
+  .header {
+    padding: 8px 32px;
+
+    .nav {
+      display: flex;
+    }
+
+    .logo {
+      font-size: 20px;
+    }
+  }
+}

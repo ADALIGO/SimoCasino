@@ -1,0 +1,32 @@
+{
+  "name": "Irwin Online",
+  "slug": "irwin-online",
+  "country": "Australia",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 208,
+  "providers": [
+    "Wager Gaming",
+    "WMS",
+    "Genesis Gaming",
+    "Nolimit City",
+    "Relax Gaming",
+    "Microgaming"
+  ],
+  "likes": 1440,
+  "comments": 198,
+  "operatingCountries": [
+    "Australia",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=2",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=irwin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4"
+  ]
+}

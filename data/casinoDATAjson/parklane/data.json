@@ -1,0 +1,30 @@
+{
+  "name": "Parklane",
+  "slug": "parklane",
+  "country": "Morocco",
+  "bonus": "No bonus",
+  "rating": 1.2,
+  "revenueRank": 51,
+  "spins": 185,
+  "providers": [],
+  "likes": 1251,
+  "comments": 366,
+  "operatingCountries": [
+    "Portugal",
+    "Czech Republic",
+    "Morocco",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=all-jackpots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ],
+  "reviewCount": 5
+}

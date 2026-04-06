@@ -1,0 +1,31 @@
+{
+  "name": "Fast Slots Games",
+  "slug": "fast-slots-games",
+  "country": "Belgium",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 303,
+  "providers": [
+    "Visionary iGaming",
+    "Genesis Gaming"
+  ],
+  "likes": 1775,
+  "comments": 417,
+  "operatingCountries": [
+    "United Kingdom",
+    "Portugal",
+    "Sweden",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=110",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=fast-slots-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113"
+  ]
+}

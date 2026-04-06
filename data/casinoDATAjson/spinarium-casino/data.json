@@ -1,0 +1,30 @@
+{
+  "name": "Spinarium Casino",
+  "slug": "spinarium-casino",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 50% up to $1000",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 99,
+  "providers": [
+    "Red Tiger",
+    "Visionary iGaming"
+  ],
+  "likes": 1153,
+  "comments": 395,
+  "operatingCountries": [
+    "Germany",
+    "Portugal",
+    "Ireland",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=189",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinarium-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191"
+  ]
+}

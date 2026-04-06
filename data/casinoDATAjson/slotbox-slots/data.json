@@ -1,0 +1,27 @@
+{
+  "name": "Slotbox Slots",
+  "slug": "slotbox-slots",
+  "country": "Portugal",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Genesis Gaming",
+    "Ash Gaming"
+  ],
+  "likes": 131,
+  "comments": 342,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotbox-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178"
+  ]
+}

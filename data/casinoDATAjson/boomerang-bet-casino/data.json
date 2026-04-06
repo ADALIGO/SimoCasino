@@ -1,0 +1,38 @@
+{
+  "name": "Boomerang Bet Casino",
+  "slug": "boomerang-bet-casino",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 150% up to $300",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 499,
+  "providers": [
+    "NextGen",
+    "BetSoft",
+    "Amatic Industries",
+    "Relax Gaming",
+    "Genesis Gaming",
+    "ELK Studios",
+    "WMS",
+    "Red Tiger"
+  ],
+  "likes": 154,
+  "comments": 418,
+  "operatingCountries": [
+    "United States",
+    "Germany",
+    "Belgium",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=165",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boomerang-bet-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=165",
+    "https://picsum.photos/380/260?random=166",
+    "https://picsum.photos/380/260?random=167",
+    "https://picsum.photos/380/260?random=168",
+    "https://picsum.photos/380/260?random=169"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Spinzwin Online",
+  "slug": "spinzwin-online",
+  "country": "Portugal",
+  "bonus": "VIP Bonus 150% up to $50",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 226,
+  "providers": [
+    "Rival",
+    "Konami",
+    "Habanero Systems"
+  ],
+  "likes": 605,
+  "comments": 493,
+  "operatingCountries": [
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=85",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spinzwin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=85",
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87"
+  ]
+}

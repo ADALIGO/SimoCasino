@@ -1,0 +1,25 @@
+{
+  "name": "BK8",
+  "slug": "bk8",
+  "country": "Morocco",
+  "bonus": "100% up to $100",
+  "rating": 2.7,
+  "revenueRank": null,
+  "spins": 470,
+  "providers": [],
+  "likes": 1900,
+  "comments": 282,
+  "operatingCountries": [
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=yukon-gold",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ],
+  "reviewCount": 5
+}

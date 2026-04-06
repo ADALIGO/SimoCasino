@@ -1,0 +1,32 @@
+{
+  "name": "Luckyblock Online",
+  "slug": "luckyblock-online",
+  "country": "Czech Republic",
+  "bonus": "VIP Bonus 200% up to $50",
+  "rating": 4,
+  "revenueRank": null,
+  "spins": 224,
+  "providers": [
+    "Rival"
+  ],
+  "likes": 1221,
+  "comments": 327,
+  "operatingCountries": [
+    "Australia",
+    "Portugal",
+    "Spain",
+    "Norway",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckyblock-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134",
+    "https://picsum.photos/380/260?random=135"
+  ]
+}

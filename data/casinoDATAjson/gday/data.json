@@ -1,0 +1,28 @@
+{
+  "name": "G'Day",
+  "slug": "gday",
+  "country": "Morocco",
+  "bonus": "100% up to €100 + 25 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 253,
+  "providers": [],
+  "likes": 133,
+  "comments": 426,
+  "operatingCountries": [
+    "United States",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=77",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goldenbahis",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79",
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81"
+  ],
+  "reviewCount": 5
+}

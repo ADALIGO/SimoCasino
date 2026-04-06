@@ -1,0 +1,29 @@
+{
+  "name": "Hercules Casino",
+  "slug": "hercules-casino",
+  "country": "United States",
+  "bonus": "Welcome Bonus 150% up to $50",
+  "rating": 4.2,
+  "revenueRank": null,
+  "spins": 332,
+  "providers": [
+    "EGT",
+    "Playtech"
+  ],
+  "likes": 924,
+  "comments": 81,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=68",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hercules-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Blue Chip Online",
+  "slug": "blue-chip-online",
+  "country": "Portugal",
+  "bonus": "Welcome Bonus 150% up to $2000",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 456,
+  "providers": [
+    "Iron Dog Studio",
+    "Blueprint Gaming"
+  ],
+  "likes": 1616,
+  "comments": 80,
+  "operatingCountries": [
+    "Spain",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=blue-chip-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59",
+    "https://picsum.photos/380/260?random=60"
+  ]
+}

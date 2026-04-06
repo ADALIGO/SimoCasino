@@ -1,0 +1,30 @@
+{
+  "name": "ETH Casino",
+  "slug": "eth-casino",
+  "country": "United States",
+  "bonus": "Welcome Bonus 200% up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 154,
+  "providers": [
+    "Thunderkick",
+    "Real Time Gaming",
+    "Konami"
+  ],
+  "likes": 1631,
+  "comments": 306,
+  "operatingCountries": [
+    "Italy",
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eth-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33"
+  ]
+}

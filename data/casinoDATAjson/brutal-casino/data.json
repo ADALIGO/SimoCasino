@@ -1,0 +1,29 @@
+{
+  "name": "Brutal Casino",
+  "slug": "brutal-casino",
+  "country": "Austria",
+  "bonus": "Cashback up to 50%",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Merkur",
+    "Aristocrat",
+    "Big Time Gaming"
+  ],
+  "likes": 202,
+  "comments": 454,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=183",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=brutal-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

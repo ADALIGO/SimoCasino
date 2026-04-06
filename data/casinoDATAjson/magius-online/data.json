@@ -1,0 +1,29 @@
+{
+  "name": "Magius Online",
+  "slug": "magius-online",
+  "country": "Denmark",
+  "bonus": "100% up to $500 + 300 Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 80,
+  "providers": [
+    "Saucify",
+    "Relax Gaming",
+    "EGT"
+  ],
+  "likes": 1531,
+  "comments": 112,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=170",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=magius-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

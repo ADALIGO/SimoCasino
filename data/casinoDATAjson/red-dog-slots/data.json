@@ -1,0 +1,38 @@
+{
+  "name": "Red Dog Slots",
+  "slug": "red-dog-slots",
+  "country": "Sweden",
+  "bonus": "100% up to $500 + 250 Spins",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 195,
+  "providers": [
+    "ELK Studios",
+    "NetEnt",
+    "Saucify",
+    "Thunderkick",
+    "Evolution Gaming",
+    "WMS",
+    "Wager Gaming"
+  ],
+  "likes": 1905,
+  "comments": 117,
+  "operatingCountries": [
+    "Germany",
+    "Ireland",
+    "New Zealand",
+    "United Kingdom",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=2",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=red-dog-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=2",
+    "https://picsum.photos/380/260?random=3",
+    "https://picsum.photos/380/260?random=4",
+    "https://picsum.photos/380/260?random=5",
+    "https://picsum.photos/380/260?random=6"
+  ]
+}

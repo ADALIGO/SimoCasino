@@ -1,0 +1,27 @@
+{
+  "name": "StakeClub Casino",
+  "slug": "stakeclub-casino",
+  "country": "Switzerland",
+  "bonus": "300% Bonus up to $50",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Playtech",
+    "Genesis Gaming"
+  ],
+  "likes": 183,
+  "comments": 471,
+  "operatingCountries": [
+    "Australia"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=112",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stakeclub-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=112",
+    "https://picsum.photos/380/260?random=113",
+    "https://picsum.photos/380/260?random=114"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "BikiniSlots",
+  "slug": "bikinislots",
+  "country": "Morocco",
+  "bonus": "250% up to $2500",
+  "rating": 2.1,
+  "revenueRank": null,
+  "spins": 6,
+  "providers": [],
+  "likes": 979,
+  "comments": 367,
+  "operatingCountries": [
+    "Spain",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=stonevegas",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ],
+  "reviewCount": 5
+}

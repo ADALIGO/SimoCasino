@@ -1,0 +1,25 @@
+{
+  "name": "Silverplay",
+  "slug": "silverplay",
+  "country": "Morocco",
+  "bonus": "125% up to €125",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 271,
+  "providers": [],
+  "likes": 1532,
+  "comments": 90,
+  "operatingCountries": [
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=svenbet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164"
+  ],
+  "reviewCount": 5
+}

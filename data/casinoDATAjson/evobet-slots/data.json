@@ -1,0 +1,29 @@
+{
+  "name": "EvoBet Slots",
+  "slug": "evobet-slots",
+  "country": "Germany",
+  "bonus": "Welcome Bonus 100% up to $300",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 345,
+  "providers": [
+    "Big Time Gaming"
+  ],
+  "likes": 1227,
+  "comments": 406,
+  "operatingCountries": [
+    "United States",
+    "Norway",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=81",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=evobet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84"
+  ]
+}

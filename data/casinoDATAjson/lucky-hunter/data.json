@@ -1,0 +1,31 @@
+{
+  "name": "Lucky Hunter",
+  "slug": "lucky-hunter",
+  "country": "Morocco",
+  "bonus": "100% up to €/$4000 + 150 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [],
+  "likes": 1473,
+  "comments": 132,
+  "operatingCountries": [
+    "Ireland",
+    "Poland",
+    "Spain",
+    "Finland",
+    "Sweden"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=86",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=maria",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=86",
+    "https://picsum.photos/380/260?random=87",
+    "https://picsum.photos/380/260?random=88",
+    "https://picsum.photos/380/260?random=89",
+    "https://picsum.photos/380/260?random=90"
+  ],
+  "reviewCount": 5
+}

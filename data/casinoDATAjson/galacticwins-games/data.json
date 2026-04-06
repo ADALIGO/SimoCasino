@@ -1,0 +1,35 @@
+{
+  "name": "GalacticWins Games",
+  "slug": "galacticwins-games",
+  "country": "Germany",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 109,
+  "providers": [
+    "Big Time Gaming",
+    "Push Gaming",
+    "Ash Gaming",
+    "Playtech",
+    "Habanero Systems",
+    "Real Time Gaming",
+    "Konami"
+  ],
+  "likes": 894,
+  "comments": 386,
+  "operatingCountries": [
+    "Spain",
+    "United States",
+    "Denmark",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=galacticwins-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "DrueckGlueck Games",
+  "slug": "drueckglueck-games",
+  "country": "Canada",
+  "bonus": "No Deposit 250 Free Spins",
+  "rating": 3.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Greentube",
+    "Wager Gaming",
+    "Aristocrat",
+    "Spinlogic Gaming"
+  ],
+  "likes": 129,
+  "comments": 52,
+  "operatingCountries": [
+    "United States",
+    "New Zealand",
+    "Sweden",
+    "Norway",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=drueckglueck-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32",
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34"
+  ]
+}

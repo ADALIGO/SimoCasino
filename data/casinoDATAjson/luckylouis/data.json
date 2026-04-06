@@ -1,0 +1,29 @@
+{
+  "name": "LuckyLouis",
+  "slug": "luckylouis",
+  "country": "Morocco",
+  "bonus": "100 Spins",
+  "rating": 2.2,
+  "revenueRank": null,
+  "spins": 311,
+  "providers": [],
+  "likes": 1442,
+  "comments": 139,
+  "operatingCountries": [
+    "New Zealand",
+    "Switzerland",
+    "Ireland",
+    "Spain",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=37",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=37",
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39"
+  ],
+  "reviewCount": 5
+}

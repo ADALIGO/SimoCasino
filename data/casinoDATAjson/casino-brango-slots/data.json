@@ -1,0 +1,32 @@
+{
+  "name": "Casino Brango Slots",
+  "slug": "casino-brango-slots",
+  "country": "Sweden",
+  "bonus": "100% up to $1000 + 300 Spins",
+  "rating": 3.8,
+  "revenueRank": null,
+  "spins": 497,
+  "providers": [
+    "NextGen",
+    "Arrows Edge"
+  ],
+  "likes": 1630,
+  "comments": 88,
+  "operatingCountries": [
+    "Belgium",
+    "Morocco",
+    "Switzerland",
+    "Denmark",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-brango-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

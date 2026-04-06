@@ -1,0 +1,31 @@
+{
+  "name": "Slotified Casino",
+  "slug": "slotified-casino",
+  "country": "Belgium",
+  "bonus": "No Deposit 100 Free Spins",
+  "rating": 3.6,
+  "revenueRank": 64,
+  "spins": 156,
+  "providers": [
+    "NextGen",
+    "Rival",
+    "Arrows Edge",
+    "Merkur",
+    "Genesis Gaming",
+    "Playtech"
+  ],
+  "likes": 817,
+  "comments": 250,
+  "operatingCountries": [
+    "Belgium"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=67",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=slotified-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=67",
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69"
+  ]
+}

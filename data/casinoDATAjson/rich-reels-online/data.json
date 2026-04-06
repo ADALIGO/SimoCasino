@@ -1,0 +1,34 @@
+{
+  "name": "Rich Reels Online",
+  "slug": "rich-reels-online",
+  "country": "Denmark",
+  "bonus": "Welcome Package up to $1000",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 416,
+  "providers": [
+    "Nolimit City",
+    "Novomatic",
+    "Spinlogic Gaming",
+    "Quickspin"
+  ],
+  "likes": 1321,
+  "comments": 152,
+  "operatingCountries": [
+    "New Zealand",
+    "Morocco",
+    "France",
+    "Austria",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=170",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=rich-reels-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=170",
+    "https://picsum.photos/380/260?random=171",
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173"
+  ]
+}

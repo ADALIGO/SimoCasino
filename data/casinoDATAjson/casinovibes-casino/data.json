@@ -1,0 +1,28 @@
+{
+  "name": "CasinoVibes Casino",
+  "slug": "casinovibes-casino",
+  "country": "France",
+  "bonus": "VIP Bonus 100% up to $50",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 16,
+  "providers": [
+    "Merkur",
+    "Aristocrat"
+  ],
+  "likes": 560,
+  "comments": 181,
+  "operatingCountries": [
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=136",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinovibes-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139"
+  ]
+}

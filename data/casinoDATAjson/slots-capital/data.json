@@ -1,0 +1,28 @@
+{
+  "name": "Slots Capital",
+  "slug": "slots-capital",
+  "country": "Morocco",
+  "bonus": "15 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 362,
+  "providers": [],
+  "likes": 600,
+  "comments": 166,
+  "operatingCountries": [
+    "Germany",
+    "France",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=888-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ],
+  "reviewCount": 5
+}

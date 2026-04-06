@@ -1,0 +1,27 @@
+{
+  "name": "Niyvi",
+  "slug": "niyvi",
+  "country": "Morocco",
+  "bonus": "200% + 100 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 17,
+  "providers": [],
+  "likes": 1404,
+  "comments": 51,
+  "operatingCountries": [
+    "Austria",
+    "Czech Republic",
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=177",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jackbit",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179"
+  ],
+  "reviewCount": 5
+}

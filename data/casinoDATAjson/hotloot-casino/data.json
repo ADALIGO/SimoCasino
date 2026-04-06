@@ -1,0 +1,34 @@
+{
+  "name": "HotLoot Casino",
+  "slug": "hotloot-casino",
+  "country": "Norway",
+  "bonus": "100% up to $500 + 50 Spins",
+  "rating": 4.7,
+  "revenueRank": 47,
+  "spins": 0,
+  "providers": [
+    "Aristocrat",
+    "Thunderkick",
+    "Wager Gaming",
+    "Iron Dog Studio",
+    "Greentube",
+    "Amatic Industries",
+    "WMS",
+    "Visionary iGaming"
+  ],
+  "likes": 183,
+  "comments": 122,
+  "operatingCountries": [
+    "Netherlands",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=179",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=hotloot-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180",
+    "https://picsum.photos/380/260?random=181"
+  ]
+}

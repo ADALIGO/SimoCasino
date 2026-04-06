@@ -1,0 +1,35 @@
+{
+  "name": "Bet25 Online",
+  "slug": "bet25-online",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 125% up to $500",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 5,
+  "providers": [
+    "EGT",
+    "Microgaming",
+    "Evolution Gaming",
+    "Saucify",
+    "Merkur",
+    "Real Time Gaming",
+    "Gamomat"
+  ],
+  "likes": 73,
+  "comments": 273,
+  "operatingCountries": [
+    "Denmark",
+    "Germany",
+    "Australia",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=172",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bet25-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174"
+  ]
+}

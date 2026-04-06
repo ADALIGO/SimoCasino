@@ -1,0 +1,30 @@
+{
+  "name": "RitzSlots Casino",
+  "slug": "ritzslots-casino",
+  "country": "Finland",
+  "bonus": "Welcome Bonus 100% up to $300",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 145,
+  "providers": [
+    "Gamomat",
+    "Habanero Systems",
+    "Thunderkick"
+  ],
+  "likes": 816,
+  "comments": 236,
+  "operatingCountries": [
+    "Poland",
+    "Canada",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=184",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ritzslots-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

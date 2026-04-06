@@ -1,0 +1,28 @@
+{
+  "name": "Challenge",
+  "slug": "challenge",
+  "country": "Morocco",
+  "bonus": "25% up to $800",
+  "rating": 2.6,
+  "revenueRank": null,
+  "spins": 202,
+  "providers": [],
+  "likes": 1338,
+  "comments": 208,
+  "operatingCountries": [
+    "Canada",
+    "Denmark",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=151",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=boaboa",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152",
+    "https://picsum.photos/380/260?random=153",
+    "https://picsum.photos/380/260?random=154"
+  ],
+  "reviewCount": 5
+}

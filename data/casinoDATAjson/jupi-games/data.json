@@ -1,0 +1,32 @@
+{
+  "name": "Jupi Games",
+  "slug": "jupi-games",
+  "country": "Spain",
+  "bonus": "Reload Bonus 250% up to $500",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 179,
+  "providers": [
+    "ELK Studios",
+    "Ash Gaming",
+    "Thunderkick",
+    "Red Tiger"
+  ],
+  "likes": 601,
+  "comments": 118,
+  "operatingCountries": [
+    "Netherlands",
+    "United States",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jupi-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "EarnBet Slots",
+  "slug": "earnbet-slots",
+  "country": "Ireland",
+  "bonus": "100% up to $50 + 100 Spins",
+  "rating": 4.8,
+  "revenueRank": null,
+  "spins": 320,
+  "providers": [
+    "NextGen",
+    "Push Gaming",
+    "1x2gaming",
+    "Quickspin",
+    "WMS"
+  ],
+  "likes": 1098,
+  "comments": 214,
+  "operatingCountries": [
+    "Denmark",
+    "Netherlands",
+    "Sweden",
+    "Finland",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=174",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=earnbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=174",
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178"
+  ]
+}

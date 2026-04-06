@@ -1,0 +1,29 @@
+{
+  "name": "Metawin",
+  "slug": "metawin",
+  "country": "Morocco",
+  "bonus": "20 Spins",
+  "rating": 3.3,
+  "revenueRank": 77,
+  "spins": 0,
+  "providers": [],
+  "likes": 1920,
+  "comments": 349,
+  "operatingCountries": [
+    "Portugal",
+    "United States",
+    "Australia",
+    "Netherlands",
+    "Norway"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=154",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=galacticwins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=154",
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156"
+  ],
+  "reviewCount": 5
+}

@@ -1,0 +1,25 @@
+{
+  "name": "arcanebet",
+  "slug": "arcanebet",
+  "country": "Morocco",
+  "bonus": "100% up to €1000",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 469,
+  "providers": [],
+  "likes": 614,
+  "comments": 279,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=77",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptowins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=77",
+    "https://picsum.photos/380/260?random=78",
+    "https://picsum.photos/380/260?random=79"
+  ],
+  "reviewCount": 5
+}

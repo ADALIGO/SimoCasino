@@ -1,0 +1,33 @@
+{
+  "name": "Citobet Games",
+  "slug": "citobet-games",
+  "country": "South Africa",
+  "bonus": "100% up to $50 + 300 Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 47,
+  "providers": [
+    "1x2gaming",
+    "Pragmatic Play",
+    "Novomatic",
+    "EGT",
+    "Red Tiger",
+    "Relax Gaming"
+  ],
+  "likes": 1730,
+  "comments": 44,
+  "operatingCountries": [
+    "France",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=109",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=citobet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111",
+    "https://picsum.photos/380/260?random=112"
+  ]
+}

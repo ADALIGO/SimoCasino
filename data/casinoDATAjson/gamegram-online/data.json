@@ -1,0 +1,37 @@
+{
+  "name": "Gamegram Online",
+  "slug": "gamegram-online",
+  "country": "Italy",
+  "bonus": "Reload Bonus 100% up to $2000",
+  "rating": 4.5,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Quickspin",
+    "Genesis Gaming",
+    "NetEnt",
+    "Merkur",
+    "Push Gaming",
+    "Yggdrasil",
+    "Arrows Edge",
+    "1x2gaming"
+  ],
+  "likes": 485,
+  "comments": 115,
+  "operatingCountries": [
+    "Czech Republic",
+    "Poland",
+    "United States",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=162",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=gamegram-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=162",
+    "https://picsum.photos/380/260?random=163",
+    "https://picsum.photos/380/260?random=164",
+    "https://picsum.photos/380/260?random=165"
+  ]
+}

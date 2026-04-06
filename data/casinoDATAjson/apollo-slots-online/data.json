@@ -1,0 +1,34 @@
+{
+  "name": "Apollo Slots Online",
+  "slug": "apollo-slots-online",
+  "country": "Czech Republic",
+  "bonus": "Welcome Package up to $200",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Evolution Gaming",
+    "Habanero Systems",
+    "IGT",
+    "Microgaming",
+    "Red Tiger",
+    "Gamomat"
+  ],
+  "likes": 1829,
+  "comments": 113,
+  "operatingCountries": [
+    "New Zealand",
+    "Czech Republic",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=189",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=apollo-slots-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

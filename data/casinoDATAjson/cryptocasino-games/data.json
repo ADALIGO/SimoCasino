@@ -1,0 +1,35 @@
+{
+  "name": "CryptoCasino Games",
+  "slug": "cryptocasino-games",
+  "country": "Belgium",
+  "bonus": "250% Bonus up to $500",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "1x2gaming",
+    "Relax Gaming",
+    "BetSoft",
+    "Saucify",
+    "ELK Studios",
+    "Red Tiger"
+  ],
+  "likes": 746,
+  "comments": 69,
+  "operatingCountries": [
+    "Switzerland",
+    "Austria",
+    "Germany",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=155",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=cryptocasino-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=155",
+    "https://picsum.photos/380/260?random=156",
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Royal Reels Slots",
+  "slug": "royal-reels-slots",
+  "country": "United Kingdom",
+  "bonus": "Deposit Bonus 200% up to $2000",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 482,
+  "providers": [
+    "Habanero Systems",
+    "Aristocrat",
+    "Saucify",
+    "Big Time Gaming"
+  ],
+  "likes": 1474,
+  "comments": 227,
+  "operatingCountries": [
+    "Denmark",
+    "South Africa",
+    "Italy",
+    "Germany",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royal-reels-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Betroom24 Casino",
+  "slug": "betroom24-casino",
+  "country": "Netherlands",
+  "bonus": "Welcome Bonus 100% up to $2000",
+  "rating": 3.7,
+  "revenueRank": null,
+  "spins": 88,
+  "providers": [
+    "NextGen",
+    "Real Time Gaming",
+    "Evolution Gaming",
+    "Thunderkick",
+    "Wager Gaming",
+    "ELK Studios"
+  ],
+  "likes": 183,
+  "comments": 207,
+  "operatingCountries": [
+    "United States",
+    "Germany",
+    "Ireland",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=136",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betroom24-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=136",
+    "https://picsum.photos/380/260?random=137",
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140"
+  ]
+}

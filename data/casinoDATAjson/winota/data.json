@@ -1,0 +1,27 @@
+{
+  "name": "Winota",
+  "slug": "winota",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.8,
+  "revenueRank": null,
+  "spins": 283,
+  "providers": [],
+  "likes": 12,
+  "comments": 49,
+  "operatingCountries": [
+    "Belgium",
+    "Spain",
+    "Canada"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casinoextra",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21"
+  ],
+  "reviewCount": 5
+}

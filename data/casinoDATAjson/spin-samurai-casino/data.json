@@ -1,0 +1,28 @@
+{
+  "name": "Spin Samurai Casino",
+  "slug": "spin-samurai-casino",
+  "country": "Poland",
+  "bonus": "Welcome Bonus 50% up to $2000",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 301,
+  "providers": [
+    "BetSoft",
+    "Saucify"
+  ],
+  "likes": 1864,
+  "comments": 215,
+  "operatingCountries": [
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=spin-samurai-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36"
+  ]
+}

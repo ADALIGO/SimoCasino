@@ -1,0 +1,35 @@
+{
+  "name": "Platin Casino",
+  "slug": "platin-casino",
+  "country": "Austria",
+  "bonus": "Reload Bonus 150% up to $100",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 114,
+  "providers": [
+    "Saucify",
+    "Spinlogic Gaming",
+    "NetEnt",
+    "Push Gaming",
+    "NextGen",
+    "Ash Gaming",
+    "Thunderkick"
+  ],
+  "likes": 1937,
+  "comments": 204,
+  "operatingCountries": [
+    "Belgium",
+    "Canada",
+    "Czech Republic",
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=43",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=platin-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=43",
+    "https://picsum.photos/380/260?random=44",
+    "https://picsum.photos/380/260?random=45"
+  ]
+}

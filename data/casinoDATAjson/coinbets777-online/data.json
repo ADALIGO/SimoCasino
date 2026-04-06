@@ -1,0 +1,37 @@
+{
+  "name": "Coinbets777 Online",
+  "slug": "coinbets777-online",
+  "country": "Sweden",
+  "bonus": "Deposit Bonus 200% up to $500",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 95,
+  "providers": [
+    "Evolution Gaming",
+    "Gamomat",
+    "BetSoft",
+    "IGT",
+    "Microgaming",
+    "Real Time Gaming",
+    "Spinlogic Gaming",
+    "ELK Studios"
+  ],
+  "likes": 715,
+  "comments": 393,
+  "operatingCountries": [
+    "Portugal",
+    "Germany",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=176",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=coinbets777-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177",
+    "https://picsum.photos/380/260?random=178",
+    "https://picsum.photos/380/260?random=179",
+    "https://picsum.photos/380/260?random=180"
+  ]
+}

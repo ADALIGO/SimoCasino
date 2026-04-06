@@ -1,0 +1,27 @@
+{
+  "name": "Bet25",
+  "slug": "bet25",
+  "country": "Morocco",
+  "bonus": "150%",
+  "rating": 3,
+  "revenueRank": null,
+  "spins": 233,
+  "providers": [],
+  "likes": 1206,
+  "comments": 453,
+  "operatingCountries": [
+    "Netherlands",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=157",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=lizaro",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=157",
+    "https://picsum.photos/380/260?random=158",
+    "https://picsum.photos/380/260?random=159",
+    "https://picsum.photos/380/260?random=160"
+  ],
+  "reviewCount": 5
+}

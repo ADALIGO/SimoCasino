@@ -1,0 +1,32 @@
+{
+  "name": "Voltslot Casino",
+  "slug": "voltslot-casino",
+  "country": "Germany",
+  "bonus": "Cashback up to 300%",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Greentube",
+    "Visionary iGaming"
+  ],
+  "likes": 1278,
+  "comments": 84,
+  "operatingCountries": [
+    "France",
+    "Netherlands",
+    "Czech Republic",
+    "Denmark",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=144",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=voltslot-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ]
+}

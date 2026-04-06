@@ -1,0 +1,28 @@
+{
+  "name": "Scatters Slots",
+  "slug": "scatters-slots",
+  "country": "Netherlands",
+  "bonus": "100% up to $1000 + 250 Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 279,
+  "providers": [
+    "Visionary iGaming",
+    "Rival",
+    "Red Tiger"
+  ],
+  "likes": 266,
+  "comments": 465,
+  "operatingCountries": [
+    "South Africa"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=97",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=scatters-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=97",
+    "https://picsum.photos/380/260?random=98",
+    "https://picsum.photos/380/260?random=99"
+  ]
+}

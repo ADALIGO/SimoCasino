@@ -1,0 +1,28 @@
+{
+  "name": "Goat Spins Online",
+  "slug": "goat-spins-online",
+  "country": "Germany",
+  "bonus": "First Deposit 125% up to $1000 + 150 Free Spins",
+  "rating": 3.2,
+  "revenueRank": null,
+  "spins": 218,
+  "providers": [
+    "Habanero Systems"
+  ],
+  "likes": 1102,
+  "comments": 349,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=68",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=goat-spins-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=68",
+    "https://picsum.photos/380/260?random=69",
+    "https://picsum.photos/380/260?random=70",
+    "https://picsum.photos/380/260?random=71",
+    "https://picsum.photos/380/260?random=72"
+  ]
+}

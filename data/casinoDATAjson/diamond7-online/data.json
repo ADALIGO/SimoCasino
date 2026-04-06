@@ -1,0 +1,35 @@
+{
+  "name": "Diamond7 Online",
+  "slug": "diamond7-online",
+  "country": "Spain",
+  "bonus": "Welcome Bonus 150% up to $500",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Saucify",
+    "Quickspin",
+    "Konami",
+    "Yggdrasil",
+    "IGT",
+    "Wager Gaming",
+    "Thunderkick"
+  ],
+  "likes": 1205,
+  "comments": 75,
+  "operatingCountries": [
+    "Australia",
+    "France",
+    "Austria",
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=72",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=diamond7-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=72",
+    "https://picsum.photos/380/260?random=73",
+    "https://picsum.photos/380/260?random=74"
+  ]
+}

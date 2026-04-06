@@ -1,0 +1,35 @@
+{
+  "name": "Azur Slots",
+  "slug": "azur-slots",
+  "country": "Switzerland",
+  "bonus": "Welcome Package up to $50",
+  "rating": 4.7,
+  "revenueRank": 66,
+  "spins": 249,
+  "providers": [
+    "Yggdrasil",
+    "Genesis Gaming",
+    "Red Tiger",
+    "NetEnt",
+    "Gamomat",
+    "Aristocrat",
+    "Arrows Edge",
+    "Visionary iGaming"
+  ],
+  "likes": 1424,
+  "comments": 298,
+  "operatingCountries": [
+    "Canada",
+    "Germany"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=129",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=azur-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=129",
+    "https://picsum.photos/380/260?random=130",
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132"
+  ]
+}

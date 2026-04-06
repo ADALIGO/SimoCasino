@@ -1,0 +1,30 @@
+{
+  "name": "MaxiPlay",
+  "slug": "maxiplay",
+  "country": "Morocco",
+  "bonus": "50 Spins",
+  "rating": 0,
+  "revenueRank": null,
+  "spins": 204,
+  "providers": [
+    "T&C's Apply",
+    "2.7 / 5"
+  ],
+  "likes": 1217,
+  "comments": 381,
+  "operatingCountries": [
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=148",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=megabet",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=148",
+    "https://picsum.photos/380/260?random=149",
+    "https://picsum.photos/380/260?random=150",
+    "https://picsum.photos/380/260?random=151",
+    "https://picsum.photos/380/260?random=152"
+  ],
+  "reviewCount": 0
+}

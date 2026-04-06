@@ -1,0 +1,31 @@
+{
+  "name": "Casino And Friends Online",
+  "slug": "casino-and-friends-online",
+  "country": "Spain",
+  "bonus": "No Deposit 50 Free Spins",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 78,
+  "providers": [
+    "NetEnt",
+    "BetSoft",
+    "WMS"
+  ],
+  "likes": 557,
+  "comments": 61,
+  "operatingCountries": [
+    "Netherlands",
+    "Switzerland",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=17",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-and-friends-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=17",
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Jozz Games",
+  "slug": "jozz-games",
+  "country": "Czech Republic",
+  "bonus": "Welcome Bonus 150% up to $200",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 344,
+  "providers": [
+    "Amatic Industries",
+    "Nolimit City",
+    "Greentube",
+    "Merkur",
+    "Aristocrat",
+    "Rival",
+    "Yggdrasil",
+    "Red Tiger"
+  ],
+  "likes": 1002,
+  "comments": 469,
+  "operatingCountries": [
+    "Norway",
+    "Spain",
+    "Australia",
+    "Germany",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=18",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=jozz-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=18",
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Dublinbet Slots",
+  "slug": "dublinbet-slots",
+  "country": "New Zealand",
+  "bonus": "125% Bonus up to $100",
+  "rating": 4.6,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Amatic Industries"
+  ],
+  "likes": 1176,
+  "comments": 149,
+  "operatingCountries": [
+    "France",
+    "Germany",
+    "Finland",
+    "Italy",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=30",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=dublinbet-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=30",
+    "https://picsum.photos/380/260?random=31",
+    "https://picsum.photos/380/260?random=32"
+  ]
+}

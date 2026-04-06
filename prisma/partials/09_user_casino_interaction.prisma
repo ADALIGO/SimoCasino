@@ -1,0 +1,116 @@
+/////////////////////
+// USER-CASINO INTERACTION
+
+/////////////////////
+
+model UserCasinoInteraction {
+  id                        String    @id @default(auto()) @map("_id") @db.ObjectId
+  user                      User      @relation(fields: [userId], references: [id])
+  userId                    String
+  casino                    Casino    @relation(fields: [casinoId], references: [id])
+  casinoId                  String
+  gameId                    String?   // optional, if interaction is for a specific game
+  bonusId                   String?   // optional, if interaction involves a bonus
+
+  // Session & Time Tracking
+  sessionId                 String?
+  sessionStart              DateTime?
+  sessionEnd                DateTime?
+  sessionDurationSeconds    Int?
+  lastInteractionAt         DateTime?
+  totalTimeSpent            Float?    // total seconds spent
+  avgSessionDuration        Float?
+  totalSessions             Int?
+
+  // Betting / Game Metrics
+  totalBets                 Float?
+  avgBetAmount              Float?
+  maxBet                    Float?
+  minBet                    Float?
+  totalWins                 Float?
+  totalLosses               Float?
+  gamesPlayedCount          Int?
+  uniqueGamesPlayed         Int?
+  jackpotsWon               Float?
+  hitFrequency              Float?
+
+  // Bonus / Reward Usage
+  bonusesClaimed            Int?
+  bonusesUsed               Int?
+  bonusWinTotal             Float?
+  bonusEffectivenessScore   Float?
+  vipPointsEarned           Int?
+  loyaltyPointsEarned       Int?
+  streakBonusesUsed         Int?
+  milestoneBonusesUsed      Int?
+  tournamentBonusesUsed     Int?
+
+  // Engagement & Interaction
+  clicks                    Int?
+  pageViews                 Int?
+  scrollDepth               Float?
+  likes                     Int?
+  dislikes                  Int?
+  commentsCount             Int?
+  shares                    Int?
+  referralClicks            Int?
+  lastClickAt               DateTime?
+  dailyInteractionCount     Int?
+  weeklyInteractionCount    Int?
+  monthlyInteractionCount   Int?
+
+  // Device & Network
+  deviceType                DeviceType?
+  browser                   String?
+  os                        String?
+  ipAddress                 String?
+  country                   String?
+  region                    String?
+  city                      String?
+  proxyDetected             Boolean?
+  vpnDetected               Boolean?
+  datacenterDetected        Boolean?
+
+  // Gamification / Progress
+  levelAtInteraction        Int?
+  xpGained                  Int?
+  achievementsUnlocked      String[]
+  leaderboardPointsGained   Float?
+  streakDays                Int?
+  missionsCompleted         Int?
+  dailyRewardClaimed        Boolean?
+  weeklyRewardClaimed       Boolean?
+
+  // Fraud / Security
+  suspiciousBehaviorScore   Float?
+  flaggedForReview          Boolean?
+  duplicateInteractionScore Float?
+  abnormalBettingPattern    Boolean?
+  rapidClicksDetected       Boolean?
+
+  // Marketing / Campaign
+  campaignId                String?
+  campaignType              String?
+  campaignStartDate         DateTime?
+  campaignEndDate           DateTime?
+  campaignRegionTarget      String[]
+  campaignDeviceTarget      DeviceType[]
+  campaignLanguageTarget    String[]
+  engagementScore           Float?
+  predictedConversion       Float?
+
+  // AI / Recommendation
+  aiEngagementScore         Float?
+  predictedNextAction       String?
+  recommendedGames          String[]
+  recommendedBonuses        String[]
+  predictedChurnScore       Float?
+  predictedLifetimeValue    Float?
+
+  // Admin / Misc
+  adminNotes                String[]
+  history                   Json?
+  createdAt                 DateTime  @default(now())
+  updatedAt                 DateTime  @updatedAt
+}
+

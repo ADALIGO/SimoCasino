@@ -1,0 +1,28 @@
+{
+  "name": "Viking Luck",
+  "slug": "viking-luck",
+  "country": "Morocco",
+  "bonus": "100% up to €500 + 200 Spins",
+  "rating": 2.5,
+  "revenueRank": 85,
+  "spins": 286,
+  "providers": [],
+  "likes": 1803,
+  "comments": 382,
+  "operatingCountries": [
+    "Morocco",
+    "Sweden",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=26",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=royspins",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29"
+  ],
+  "reviewCount": 5
+}

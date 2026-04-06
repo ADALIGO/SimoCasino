@@ -1,0 +1,28 @@
+{
+  "name": "Winbay Casino",
+  "slug": "winbay-casino",
+  "country": "France",
+  "bonus": "VIP Bonus 200% up to $50",
+  "rating": 4.3,
+  "revenueRank": 2,
+  "spins": 0,
+  "providers": [
+    "Novomatic",
+    "Habanero Systems",
+    "Greentube"
+  ],
+  "likes": 1870,
+  "comments": 50,
+  "operatingCountries": [
+    "Poland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=38",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=winbay-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=38",
+    "https://picsum.photos/380/260?random=39",
+    "https://picsum.photos/380/260?random=40"
+  ]
+}

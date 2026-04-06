@@ -1,0 +1,31 @@
+{
+  "name": "BetfourU Games",
+  "slug": "betfouru-games",
+  "country": "Morocco",
+  "bonus": "First Deposit 150% up to $2000 + 50 Free Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 168,
+  "providers": [
+    "Ash Gaming",
+    "Red Tiger",
+    "Amatic Industries",
+    "NetEnt",
+    "Konami"
+  ],
+  "likes": 1591,
+  "comments": 137,
+  "operatingCountries": [
+    "Belgium",
+    "Netherlands"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfouru-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ]
+}

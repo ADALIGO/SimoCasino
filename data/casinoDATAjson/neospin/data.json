@@ -1,0 +1,30 @@
+{
+  "name": "neospin",
+  "slug": "neospin",
+  "country": "Morocco",
+  "bonus": "100% up to €6000 + 100 Spins",
+  "rating": 3.1,
+  "revenueRank": null,
+  "spins": 135,
+  "providers": [],
+  "likes": 1588,
+  "comments": 476,
+  "operatingCountries": [
+    "Poland",
+    "Portugal",
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=143",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=casino-brango",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=143",
+    "https://picsum.photos/380/260?random=144",
+    "https://picsum.photos/380/260?random=145",
+    "https://picsum.photos/380/260?random=146",
+    "https://picsum.photos/380/260?random=147"
+  ],
+  "reviewCount": 5
+}

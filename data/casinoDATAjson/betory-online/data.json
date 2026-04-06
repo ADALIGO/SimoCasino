@@ -1,0 +1,37 @@
+{
+  "name": "Betory Online",
+  "slug": "betory-online",
+  "country": "Morocco",
+  "bonus": "300% Bonus up to $50",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 44,
+  "providers": [
+    "Arrows Edge",
+    "Konami",
+    "WMS",
+    "Visionary iGaming",
+    "IGT",
+    "Microgaming",
+    "Quickspin",
+    "Amatic Industries"
+  ],
+  "likes": 1378,
+  "comments": 20,
+  "operatingCountries": [
+    "Spain",
+    "Italy",
+    "Sweden",
+    "New Zealand",
+    "Morocco"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=172",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betory-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=172",
+    "https://picsum.photos/380/260?random=173",
+    "https://picsum.photos/380/260?random=174"
+  ]
+}

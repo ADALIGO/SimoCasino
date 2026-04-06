@@ -1,0 +1,34 @@
+{
+  "name": "MrPunter Slots",
+  "slug": "mrpunter-slots",
+  "country": "Australia",
+  "bonus": "100% up to $500 + 200 Spins",
+  "rating": 4.1,
+  "revenueRank": null,
+  "spins": 45,
+  "providers": [
+    "Wager Gaming",
+    "Novomatic",
+    "Genesis Gaming",
+    "Visionary iGaming",
+    "ELK Studios",
+    "Greentube"
+  ],
+  "likes": 1692,
+  "comments": 462,
+  "operatingCountries": [
+    "United Kingdom",
+    "France",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=12",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=mrpunter-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=12",
+    "https://picsum.photos/380/260?random=13",
+    "https://picsum.photos/380/260?random=14",
+    "https://picsum.photos/380/260?random=15"
+  ]
+}

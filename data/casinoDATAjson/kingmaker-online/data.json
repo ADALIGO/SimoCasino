@@ -1,0 +1,35 @@
+{
+  "name": "Kingmaker Online",
+  "slug": "kingmaker-online",
+  "country": "Netherlands",
+  "bonus": "First Deposit 125% up to $1000 + 300 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 473,
+  "providers": [
+    "Merkur",
+    "Real Time Gaming",
+    "WMS",
+    "1x2gaming",
+    "Playtech",
+    "NetEnt"
+  ],
+  "likes": 352,
+  "comments": 59,
+  "operatingCountries": [
+    "Spain",
+    "Switzerland",
+    "Portugal",
+    "Italy"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=21",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=kingmaker-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23",
+    "https://picsum.photos/380/260?random=24"
+  ]
+}

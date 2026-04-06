@@ -1,0 +1,29 @@
+{
+  "name": "PowerUp",
+  "slug": "powerup",
+  "country": "Morocco",
+  "bonus": "150% up to €/$1000 + 100 Spins",
+  "rating": 3.3,
+  "revenueRank": null,
+  "spins": 21,
+  "providers": [],
+  "likes": 675,
+  "comments": 126,
+  "operatingCountries": [
+    "Canada",
+    "South Africa",
+    "Czech Republic"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=19",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bitguruz",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=19",
+    "https://picsum.photos/380/260?random=20",
+    "https://picsum.photos/380/260?random=21",
+    "https://picsum.photos/380/260?random=22",
+    "https://picsum.photos/380/260?random=23"
+  ],
+  "reviewCount": 5
+}

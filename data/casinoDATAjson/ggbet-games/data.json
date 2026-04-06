@@ -1,0 +1,32 @@
+{
+  "name": "GGbet Games",
+  "slug": "ggbet-games",
+  "country": "Portugal",
+  "bonus": "First Deposit 100% up to $2000 + 50 Free Spins",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "NetEnt"
+  ],
+  "likes": 226,
+  "comments": 223,
+  "operatingCountries": [
+    "Netherlands",
+    "Belgium",
+    "Austria",
+    "Denmark",
+    "Finland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=188",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ggbet-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=188",
+    "https://picsum.photos/380/260?random=189",
+    "https://picsum.photos/380/260?random=190",
+    "https://picsum.photos/380/260?random=191",
+    "https://picsum.photos/380/260?random=192"
+  ]
+}

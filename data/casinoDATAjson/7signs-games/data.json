@@ -1,0 +1,32 @@
+{
+  "name": "7Signs Games",
+  "slug": "7signs-games",
+  "country": "United States",
+  "bonus": "100% up to $100 + 250 Spins",
+  "rating": 5,
+  "revenueRank": null,
+  "spins": 437,
+  "providers": [
+    "Wager Gaming",
+    "Arrows Edge",
+    "ELK Studios",
+    "Red Tiger",
+    "Konami",
+    "Quickspin",
+    "Rival"
+  ],
+  "likes": 1542,
+  "comments": 286,
+  "operatingCountries": [
+    "Spain"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=28",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=7signs-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=28",
+    "https://picsum.photos/380/260?random=29",
+    "https://picsum.photos/380/260?random=30"
+  ]
+}

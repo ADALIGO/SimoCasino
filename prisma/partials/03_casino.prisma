@@ -1,0 +1,157 @@
+/////////////////////
+// CASINO
+
+/////////////////////
+
+model Casino {
+  id                     String   @id @default(auto()) @map("_id") @db.ObjectId
+  name                   String
+  slug                   String   @unique
+  country                String
+  description            String?
+  bonus                  String
+  rating                 Float    @default(0)
+  revenueRank            Int?
+  spins                  Int?     @default(0)
+  providers              String[]
+  likes                  Int?     @default(0)
+  comments               Int?     @default(0)
+  operatingCountries     String[]
+  languages              String[]
+  license                String?
+  appAvailable           Boolean  @default(false)
+  minDeposit             Float?
+  minWithdrawal          Float?
+  withdrawalLimit        Float?
+  withdrawalTime         String?
+  currencies             Currency[]
+  vipLevels              Int?
+  vipRewards             String[]
+  liveCasinoAvailable    Boolean  @default(false)
+  supportEmail           String?
+  supportPhone           String?
+  avatarUrl              String?
+  imageUrl               String?
+  imageGallery           String[]
+  affiliateLink          String?
+  isAffiliate            Boolean  @default(false)
+  isPremium              Boolean  @default(false)
+  isExclusive            Boolean  @default(false)
+  displayPriority        Int?
+  jackpotAmount          Float?
+  isFeatured             Boolean  @default(false)
+  isNew                  Boolean  @default(false)
+  totalPlayers           Int?     @default(0)
+  monthlyActivePlayers   Int?     @default(0)
+  cryptoSupport          Boolean  @default(false)
+  popularGames           String[]
+  tournamentsActive      Boolean  @default(false)
+  leaderboardEnabled     Boolean  @default(false)
+  analyticsTracking      Boolean  @default(true)
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+
+  // Relations
+  games                  Game[]
+  bonuses                Bonus[]
+  reviews                Review[]
+  userCasinoInteractions UserCasinoInteraction[]
+  complaints             Complaint[]
+  fraudDetection         FraudDetection?
+
+  // Marketing & SEO
+  metaTitle              String?
+  metaDescription        String?
+  metaKeywords           String[]
+  seoScore               Float?
+  organicTrafficScore    Float?
+  paidAdsScore           Float?
+  affiliatePerformance   Json?
+  socialMediaLinks       String[]
+  socialFollowers        Int?
+  promotionsActive       Boolean  @default(false)
+
+  // Engagement & Player Metrics
+  dailyActivePlayers     Int?
+  weeklyActivePlayers    Int?
+  retentionRate          Float?
+  churnRate              Float?
+  avgSessionDuration     Int?     // seconds
+  avgBetPerUser          Float?
+  avgWinPerUser          Float?
+  maxBetPlaced           Float?
+  maxWin                 Float?
+  jackpotHistory         String[]
+  bonusRedemptionRate    Float?
+  favoriteGamesIds       String[]
+  topPlayersIds          String[]
+
+  // Gamification & Tournaments
+  totalTournaments       Int?
+  tournamentWinners      String[]
+  topLeaderboardPlayers  String[]
+  specialEventsActive    Boolean?
+  seasonalRewards        String[]
+  vipTournamentEligible  Boolean?
+  tournamentPrizePool    Float?
+
+  // Payments / Transactions
+  totalDeposits          Float?
+  totalWithdrawals       Float?
+  avgDepositAmount       Float?
+  avgWithdrawalAmount    Float?
+  paymentMethods         String[]
+  cryptoTransactions     Int?
+  fiatTransactions       Int?
+  pendingWithdrawals     Float?
+
+  // Fraud & Security
+  suspiciousAccounts     String[]
+  chargebacks            Float?
+  blockedIPs             String[]
+  fraudScore             Float?
+  accountFlags           String[]
+  antiMoneyLaunderingScore Float?
+  maxBetsPerUser         Int?
+  maxWinsPerUser         Float?
+
+  // VIP & Loyalty
+  totalVIPPlayers        Int?
+  vipRetentionRate       Float?
+  vipRewardsClaimed      String[]
+  lifetimeVIPRevenue     Float?
+  vipEngagementScore     Float?
+
+  // Device & Mobile Tracking
+  mobileUsers            Int?
+  desktopUsers           Int?
+  tabletUsers            Int?
+  deviceDiversityScore   Float?
+  appDownloads           Int?
+  appRetentionRate       Float?
+
+  // AI & Recommendation
+  aiScore                Float?
+  aiRecommendedGames     String[]
+  predictedChurnScore    Float?
+  playerSegmentation     String[]
+  engagementPrediction   Float?
+
+  // Social / Content
+  userGeneratedContent   String[]
+  forumThreads           String[]
+  reviewsCount           Int?
+  topReviewers           String[]
+  socialShares           Int?
+  communityEngagement    Float?
+
+  // Misc Metrics
+  complaintsCount        Int?
+  supportTicketsOpen     Int?
+  supportTicketsResolved Int?
+  averageResponseTime    Int? // seconds
+  awards                 String[]
+  certifications         String[]
+  industryRank           Int?
+}
+

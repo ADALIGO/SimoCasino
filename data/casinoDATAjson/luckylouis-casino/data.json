@@ -1,0 +1,29 @@
+{
+  "name": "LuckyLouis Casino",
+  "slug": "luckylouis-casino",
+  "country": "Sweden",
+  "bonus": "Welcome Bonus 250% up to $100",
+  "rating": 4.4,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "ELK Studios",
+    "Nolimit City"
+  ],
+  "likes": 1254,
+  "comments": 34,
+  "operatingCountries": [
+    "Switzerland",
+    "New Zealand"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=131",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=luckylouis-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=131",
+    "https://picsum.photos/380/260?random=132",
+    "https://picsum.photos/380/260?random=133",
+    "https://picsum.photos/380/260?random=134"
+  ]
+}

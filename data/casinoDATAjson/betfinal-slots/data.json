@@ -1,0 +1,31 @@
+{
+  "name": "Betfinal Slots",
+  "slug": "betfinal-slots",
+  "country": "Italy",
+  "bonus": "100% up to $1000 + 100 Spins",
+  "rating": 4.3,
+  "revenueRank": null,
+  "spins": 0,
+  "providers": [
+    "Thunderkick",
+    "Evolution Gaming",
+    "Pragmatic Play"
+  ],
+  "likes": 480,
+  "comments": 439,
+  "operatingCountries": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=80",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=betfinal-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=80",
+    "https://picsum.photos/380/260?random=81",
+    "https://picsum.photos/380/260?random=82",
+    "https://picsum.photos/380/260?random=83",
+    "https://picsum.photos/380/260?random=84"
+  ]
+}

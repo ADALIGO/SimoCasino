@@ -1,0 +1,36 @@
+{
+  "name": "Midarion Casino",
+  "slug": "midarion-casino",
+  "country": "Spain",
+  "bonus": "Welcome Bonus 100% up to $500",
+  "rating": 4.9,
+  "revenueRank": null,
+  "spins": 315,
+  "providers": [
+    "Greentube",
+    "Red Tiger",
+    "Nolimit City",
+    "Playtech",
+    "Iron Dog Studio",
+    "NextGen",
+    "Arrows Edge",
+    "Habanero Systems"
+  ],
+  "likes": 184,
+  "comments": 248,
+  "operatingCountries": [
+    "Canada",
+    "Denmark"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=182",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=midarion-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=182",
+    "https://picsum.photos/380/260?random=183",
+    "https://picsum.photos/380/260?random=184",
+    "https://picsum.photos/380/260?random=185",
+    "https://picsum.photos/380/260?random=186"
+  ]
+}

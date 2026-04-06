@@ -1,0 +1,34 @@
+{
+  "name": "Beef Slots",
+  "slug": "beef-slots",
+  "country": "Poland",
+  "bonus": "Deposit Bonus 250% up to $300",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 214,
+  "providers": [
+    "Novomatic",
+    "Merkur",
+    "Real Time Gaming",
+    "Visionary iGaming",
+    "Push Gaming",
+    "Microgaming",
+    "Nolimit City",
+    "Spinlogic Gaming"
+  ],
+  "likes": 751,
+  "comments": 446,
+  "operatingCountries": [
+    "Germany",
+    "France"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=57",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=beef-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=57",
+    "https://picsum.photos/380/260?random=58",
+    "https://picsum.photos/380/260?random=59"
+  ]
+}

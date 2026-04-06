@@ -1,0 +1,32 @@
+{
+  "name": "Bombastic Casino",
+  "slug": "bombastic-casino",
+  "country": "Australia",
+  "bonus": "Reload Bonus 50% up to $300",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 295,
+  "providers": [
+    "NetEnt",
+    "Red Tiger"
+  ],
+  "likes": 1316,
+  "comments": 220,
+  "operatingCountries": [
+    "Ireland",
+    "New Zealand",
+    "Belgium",
+    "United States"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=24",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bombastic-casino",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=24",
+    "https://picsum.photos/380/260?random=25",
+    "https://picsum.photos/380/260?random=26",
+    "https://picsum.photos/380/260?random=27",
+    "https://picsum.photos/380/260?random=28"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "AquaWin Games",
+  "slug": "aquawin-games",
+  "country": "New Zealand",
+  "bonus": "Cashback up to 250%",
+  "rating": 4.7,
+  "revenueRank": null,
+  "spins": 239,
+  "providers": [
+    "Konami",
+    "Spinlogic Gaming",
+    "NetEnt"
+  ],
+  "likes": 1236,
+  "comments": 419,
+  "operatingCountries": [
+    "Switzerland",
+    "Austria",
+    "Spain",
+    "United Kingdom"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=175",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=aquawin-games",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=175",
+    "https://picsum.photos/380/260?random=176",
+    "https://picsum.photos/380/260?random=177"
+  ]
+}

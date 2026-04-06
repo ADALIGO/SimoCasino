@@ -1,0 +1,31 @@
+{
+  "name": "Justspin Online",
+  "slug": "justspin-online",
+  "country": "Norway",
+  "bonus": "Welcome Bonus 125% up to $100",
+  "rating": 3.5,
+  "revenueRank": null,
+  "spins": 43,
+  "providers": [
+    "Konami",
+    "Rival",
+    "Spinlogic Gaming",
+    "Relax Gaming",
+    "Iron Dog Studio"
+  ],
+  "likes": 1177,
+  "comments": 210,
+  "operatingCountries": [
+    "Portugal"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=138",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=justspin-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=138",
+    "https://picsum.photos/380/260?random=139",
+    "https://picsum.photos/380/260?random=140",
+    "https://picsum.photos/380/260?random=141"
+  ]
+}

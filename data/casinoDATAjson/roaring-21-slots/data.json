@@ -1,0 +1,38 @@
+{
+  "name": "Roaring 21 Slots",
+  "slug": "roaring-21-slots",
+  "country": "South Africa",
+  "bonus": "First Deposit 200% up to $1000 + 250 Free Spins",
+  "rating": 3.9,
+  "revenueRank": null,
+  "spins": 134,
+  "providers": [
+    "Relax Gaming",
+    "Ash Gaming",
+    "NextGen",
+    "Microgaming",
+    "Wager Gaming",
+    "Real Time Gaming",
+    "Nolimit City",
+    "Spinlogic Gaming"
+  ],
+  "likes": 246,
+  "comments": 193,
+  "operatingCountries": [
+    "Sweden",
+    "United Kingdom",
+    "Portugal",
+    "Switzerland"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=33",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=roaring-21-slots",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=33",
+    "https://picsum.photos/380/260?random=34",
+    "https://picsum.photos/380/260?random=35",
+    "https://picsum.photos/380/260?random=36",
+    "https://picsum.photos/380/260?random=37"
+  ]
+}

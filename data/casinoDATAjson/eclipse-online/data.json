@@ -1,0 +1,32 @@
+{
+  "name": "Eclipse Online",
+  "slug": "eclipse-online",
+  "country": "Ireland",
+  "bonus": "VIP Bonus 200% up to $100",
+  "rating": 3.4,
+  "revenueRank": null,
+  "spins": 15,
+  "providers": [
+    "Gamomat",
+    "1x2gaming",
+    "Push Gaming",
+    "Ash Gaming",
+    "NetEnt"
+  ],
+  "likes": 1157,
+  "comments": 290,
+  "operatingCountries": [
+    "Morocco",
+    "United Kingdom",
+    "Austria"
+  ],
+  "createdAt": "2026-03-25T21:26:20.499864+00:00",
+  "updatedAt": "2026-03-25T21:26:20.499864+00:00",
+  "imageUrl": "https://picsum.photos/380/260?random=109",
+  "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=eclipse-online",
+  "imageGallery": [
+    "https://picsum.photos/380/260?random=109",
+    "https://picsum.photos/380/260?random=110",
+    "https://picsum.photos/380/260?random=111"
+  ]
+}

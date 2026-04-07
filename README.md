@@ -91,9 +91,19 @@ simocasino/
 
 3. **Set up environment variables:**
 
-   Create a `.env.local` file in the root directory:
+   Copy `.env.example` to `.env.local` and fill in your values:
+   ```bash
+   copy .env.example .env.local
+   ```
+
+   Example values:
    ```env
    DATABASE_URL="mongodb+srv://username:password@cluster.mongodb.net/simocasino?retryWrites=true&w=majority"
+   CLOUDINARY_CLOUD_NAME=your_cloud_name
+   CLOUDINARY_API_KEY=your_cloudinary_api_key
+   CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+   NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=your_cloud_name
+   NEXT_PUBLIC_CLOUDINARY_UPLOAD_PRESET=your_upload_preset
    NEXT_PUBLIC_API_URL="http://localhost:3000"
    NODE_ENV="development"
    ```
@@ -112,6 +122,27 @@ simocasino/
    ```bash
    npm run prisma:seed
    ```
+
+### Vercel Deployment
+
+This project is compatible with Vercel and can be deployed directly from the GitHub repository.
+
+1. Push your branch to GitHub.
+2. Go to https://vercel.com and import the `ADALIGO/SimoCasino` repository.
+3. Set the following environment variables in the Vercel dashboard:
+   - `DATABASE_URL`
+   - `CLOUDINARY_CLOUD_NAME`
+   - `CLOUDINARY_API_KEY`
+   - `CLOUDINARY_API_SECRET`
+   - `NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME`
+   - `NEXT_PUBLIC_CLOUDINARY_UPLOAD_PRESET`
+   - `NEXT_PUBLIC_API_URL`
+
+4. Use the default settings for Next.js. Vercel will use:
+   - Build command: `npm run build`
+   - Output directory: leave blank
+
+5. Deploy.
 
 ### Development
 

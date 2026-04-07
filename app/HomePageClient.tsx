@@ -2,6 +2,7 @@
 
 import { useDeferredGuestCountry } from '@/hooks/useDeferredGuestCountry';
 import { useTranslation } from 'react-i18next';
+import { useEffect } from 'react';
 import BonusCard from '@/components/BonusCard';
 import CasinoCard from '@/components/CasinoCard';
 import styles from './page.module.scss';
@@ -44,6 +45,37 @@ interface HomeClientProps {
   }>>;
 }
 
+function AdSenseBlock({
+  slot,
+  className,
+}: {
+  slot: string;
+  className?: string | undefined;
+}) {
+  useEffect(() => {
+    if (typeof window !== 'undefined' && (window as any).adsbygoogle) {
+      try {
+        (window as any).adsbygoogle.push({});
+      } catch (error) {
+        // ignore if the ad script is not ready yet
+      }
+    }
+  }, []);
+
+  return (
+    <div className={`${styles['ad-container']} ${className ?? ''}`.trim()}>
+      <ins
+        className="adsbygoogle"
+        style={{ display: 'block', textAlign: 'center' }}
+        data-ad-client="ca-pub-5167901888083039"
+        data-ad-slot={slot}
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      />
+    </div>
+  );
+}
+
 export default function HomeClient({ featuredBonuses, featuredCasinos, casinoData }: HomeClientProps) {
   const { t } = useTranslation();
   const guestCountry = useDeferredGuestCountry();
@@ -82,6 +114,8 @@ export default function HomeClient({ featuredBonuses, featuredCasinos, casinoDat
           <button className={styles['hero-button']}>{t('hero_button')}</button>
         </div>
       </section>
+
+      <AdSenseBlock slot="1234567890" className={styles['ad-hero']} />
 
       <section className={styles['bonuses-section']}>
         <h2 className={styles['section-title']}>{t('featured_bonuses')}</h2>
@@ -123,6 +157,8 @@ export default function HomeClient({ featuredBonuses, featuredCasinos, casinoDat
           ))}
         </div>
       </section>
+
+      <AdSenseBlock slot="1234567891" className={styles['ad-inline']} />
 
       {/* Casinos by Country Sections */}
       {Object.entries(casinoData).slice(0, 6).map(([country, casinos]) => (
@@ -223,6 +259,8 @@ export default function HomeClient({ featuredBonuses, featuredCasinos, casinoDat
           </div>
         </div>
       </section>
+
+      <AdSenseBlock slot="1234567892" className={styles['ad-footer']} />
 
       {/* Latest News/Blog Section */}
       <section className={styles['news-section']}>

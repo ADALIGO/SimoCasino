@@ -226,6 +226,25 @@
   }
 }
 
+.ad-container {
+  width: 100%;
+  max-width: 1080px;
+  margin: 32px auto;
+  padding: 0 16px;
+}
+
+.ad-hero {
+  margin-bottom: 48px;
+}
+
+.ad-inline {
+  margin: 40px auto;
+}
+
+.ad-footer {
+  margin: 40px auto;
+}
+
 .cta-section {
   background: linear-gradient(135deg, #FF6B35, #F25C54);
   color: white;

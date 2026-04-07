@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from 'next';
+import { Analytics } from '@vercel/analytics/react';
 import { Providers } from './providers';
 import './globals.scss';
 
@@ -171,6 +172,7 @@ export default function RootLayout({
           Skip to main content
         </a>
         <Providers>{children}</Providers>
+        <Analytics />
       </body>
     </html>
   );

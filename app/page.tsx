@@ -1,7 +1,10 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import HOMELayouts from '@/app/layouts/HOMELayouts';
 import HomePageClient from './HomePageClient';
 import styles from './page.module.scss';
+import fs from 'fs';
+import path from 'path';
 
 export const metadata: Metadata = {
   title: 'Simocasino - Best Online Casinos, Bonuses & Reviews',
@@ -57,6 +60,105 @@ export const metadata: Metadata = {
 // Enable ISR caching for 1 hour (ultra-fast for repeated visits)
 export const revalidate = 3600;
 
+// Load casino data from JSON file
+async function loadCasinoData() {
+  try {
+    const filePath = path.join(process.cwd(), 'casinos_data.json');
+    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const casinos = JSON.parse(fileContents);
+
+    // Group casinos by country and take top 4 per country
+    const casinosByCountry: Record<string, any[]> = {};
+
+    casinos.forEach((casino: any) => {
+      const country = casino.country || 'International';
+      if (!casinosByCountry[country]) {
+        casinosByCountry[country] = [];
+      }
+      if (casinosByCountry[country].length < 4) {
+        casinosByCountry[country].push({
+          name: casino.name,
+          country: casino.country,
+          bonus: casino.bonus,
+          rating: casino.rating || 4.0,
+          slug: casino.slug || casino.name.toLowerCase().replace(/\s+/g, '-'),
+          spins: casino.spins || 50,
+          providers: casino.providers || ['Playtech'],
+          likes: casino.likes || 0,
+          comments: casino.comments || 0,
+          operatingCountries: casino.operatingCountries || [casino.country],
+          imageUrl: casino.imageUrl,
+          avatarUrl: casino.avatarUrl,
+          imageGallery: casino.imageGallery,
+        });
+      }
+    });
+
+    return casinosByCountry;
+  } catch (error) {
+    console.error('Error loading casino data:', error);
+    // Fallback to hardcoded data
+    return {
+      'United Kingdom': [
+        {
+          name: 'Betfair',
+          country: 'United Kingdom',
+          bonus: 'Welcome Bonus 50% up to $200',
+          rating: 4.8,
+          slug: 'betfair-united-kingdom',
+          spins: 50,
+          providers: ['Playtech'],
+          likes: 0,
+          comments: 0,
+          operatingCountries: ['United Kingdom', 'United States'],
+        },
+      ],
+      'Australia': [
+        {
+          name: 'PokerStars',
+          country: 'Australia',
+          bonus: 'First Deposit Match 100%',
+          rating: 4.7,
+          slug: 'pokerstars-australia',
+          spins: 50,
+          providers: ['Playtech'],
+          likes: 0,
+          comments: 0,
+          operatingCountries: ['Australia', 'United States'],
+        },
+      ],
+      'United States': [
+        {
+          name: '888 Casino',
+          country: 'United States',
+          bonus: '$88 No Deposit Bonus',
+          rating: 4.6,
+          slug: '888-casino-united-states',
+          spins: 50,
+          providers: ['Playtech'],
+          likes: 0,
+          comments: 0,
+          operatingCountries: ['United States'],
+        },
+      ],
+      'Canada': [
+        {
+          name: 'Bet365',
+          country: 'Canada',
+          bonus: 'Up to $200 Welcome Bonus',
+          rating: 4.9,
+          slug: 'bet365-canada',
+          spins: 50,
+          providers: ['Playtech'],
+          likes: 0,
+          comments: 0,
+          operatingCountries: ['Canada', 'United States'],
+        },
+      ],
+    };
+  }
+}
+
 const featuredBonuses = [
   {
     amount: '+50%',
@@ -73,36 +175,29 @@ const featuredBonuses = [
     type: 'VIP Rewards',
     description: 'Exclusive rewards for loyal players',
   },
-];
-
-const featuredCasinos = [
   {
-    name: 'Betfair',
-    country: 'United Kingdom',
-    bonus: 'Welcome Bonus 50% up to $200',
-    rating: 4.8,
+    amount: '200%',
+    type: 'Reload Bonus',
+    description: 'Get 200% bonus on your next deposit',
   },
   {
-    name: 'PokerStars',
-    country: 'Australia',
-    bonus: 'First Deposit Match 100%',
-    rating: 4.7,
+    amount: '25',
+    type: 'Daily Spins',
+    description: 'Free spins every day for active players',
   },
   {
-    name: '888 Casino',
-    country: 'United States',
-    bonus: '$88 No Deposit Bonus',
-    rating: 4.6,
-  },
-  {
-    name: 'Bet365',
-    country: 'Canada',
-    bonus: 'Up to $200 Welcome Bonus',
-    rating: 4.9,
+    amount: '$1000',
+    type: 'High Roller',
+    description: 'Exclusive bonuses for big depositors',
   },
 ];
 
-export default function Home() {
+export default async function Home() {
+  const casinoData = await loadCasinoData();
+
+  // Flatten casino data for featured casinos
+  const featuredCasinos = Object.values(casinoData).flat().slice(0, 8);
+
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -123,6 +218,99 @@ export default function Home() {
         <HomePageClient
           featuredBonuses={featuredBonuses}
           featuredCasinos={featuredCasinos}
+          casinoData={casinoData}
+        />
+
+        <div
+          id="ads-container"
+          style={{ marginTop: '2rem', minHeight: 300, width: 160 }}
+        >
+          <div id="container-6a438426211ee34f97653e5b8b3930dc"></div>
+        </div>
+
+        <Script
+          id="adstera-160x300-config"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `var atOptions = { 'key' : '4a96bad988472f5c08706236693e5c2a', 'format' : 'iframe', 'height' : 300, 'width' : 160, 'params' : {} };`,
+          }}
+        />
+        <Script
+          src="https://www.highperformanceformat.com/4a96bad988472f5c08706236693e5c2a/invoke.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          src="https://pl29086571.profitablecpmratenetwork.com/3b/f9/98/3bf9984f88d21806c74cc520f7196579.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          async
+          data-cfasync="false"
+          src="https://pl29086572.profitablecpmratenetwork.com/6a438426211ee34f97653e5b8b3930dc/invoke.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          src="https://pl29086573.profitablecpmratenetwork.com/83/70/2f/83702f8cf68e9b423b2d88d068369e3d.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          src="https://www.profitablecpmratenetwork.com/vr532hde?key=5e311e07db3b13e8e30c3d03fd9d16ed"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="adstera-468x60-config"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `var atOptions = { 'key' : '900782abd397a75722ad2c793a5691d3', 'format' : 'iframe', 'height' : 60, 'width' : 468, 'params' : {} };`,
+          }}
+        />
+        <Script
+          src="https://www.highperformanceformat.com/900782abd397a75722ad2c793a5691d3/invoke.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="adstera-250x300-config"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `var atOptions = { 'key' : '4dac1448d738c715b0d23b1fd480d26b', 'format' : 'iframe', 'height' : 250, 'width' : 300, 'params' : {} };`,
+          }}
+        />
+        <Script
+          src="https://www.highperformanceformat.com/4dac1448d738c715b0d23b1fd480d26b/invoke.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="adstera-600x160-config"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `var atOptions = { 'key' : '1d7d7c7d95c6b000e30a1f7e3d598dcd', 'format' : 'iframe', 'height' : 600, 'width' : 160, 'params' : {} };`,
+          }}
+        />
+        <Script
+          src="https://www.highperformanceformat.com/1d7d7c7d95c6b000e30a1f7e3d598dcd/invoke.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="adstera-50x320-config"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `var atOptions = { 'key' : '353c0b680c42e97fed336e24cee5b36d', 'format' : 'iframe', 'height' : 50, 'width' : 320, 'params' : {} };`,
+          }}
+        />
+        <Script
+          src="https://www.highperformanceformat.com/353c0b680c42e97fed336e24cee5b36d/invoke.js"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="adstera-728x90-config"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `var atOptions = { 'key' : '608b4337a131b24d8e10c5b1e2ac73b3', 'format' : 'iframe', 'height' : 90, 'width' : 728, 'params' : {} };`,
+          }}
+        />
+        <Script
+          src="https://www.highperformanceformat.com/608b4337a131b24d8e10c5b1e2ac73b3/invoke.js"
+          strategy="afterInteractive"
         />
 
         <script

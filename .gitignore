@@ -44,5 +44,9 @@ Thumbs.db
 .turbo
 .turbopack
 
+# Vercel temporary build state
+.temp-vc-build
+
 # Prisma
 prisma/.env
+.vercel

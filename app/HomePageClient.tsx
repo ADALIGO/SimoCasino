@@ -176,7 +176,7 @@ export default function HomeClient({ featuredBonuses, featuredCasinos, casinoDat
                   spins={casino.spins}
                   providers={casino.providers}
                   likes={casino.likes}
-                  operatingCountries={casino.operatingCountries}
+                  operatingCountries={casino.operatingCountries ?? [casino.country]}
                   {...(casino.imageUrl && { imageUrl: casino.imageUrl })}
                   {...(casino.avatarUrl && { avatarUrl: casino.avatarUrl })}
                   {...(casino.imageGallery && { imageGallery: casino.imageGallery })}

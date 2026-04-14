@@ -1,8 +1,6 @@
 'use client';
 
-import { useDeferredGuestCountry } from '@/hooks/useDeferredGuestCountry';
 import { useTranslation } from 'react-i18next';
-import { useEffect } from 'react';
 import BonusCard from '@/components/BonusCard';
 import CasinoCard from '@/components/CasinoCard';
 import styles from './page.module.scss';
@@ -15,107 +13,53 @@ interface HomeClientProps {
   }>;
   featuredCasinos: Array<{
     name: string;
-    country: string;
-    bonus: string;
     rating: number;
-    slug?: string;
     spins?: number;
-    providers?: string[];
     likes?: number;
-    comments?: number;
-    operatingCountries?: string[];
-    imageUrl?: string;
-    avatarUrl?: string;
-    imageGallery?: string[];
+    website?: string;
+    affiliateLink?: string;
+    isAffiliate?: boolean;
+    isPremium?: boolean;
+    isExclusive?: boolean;
   }>;
   casinoData: Record<string, Array<{
     name: string;
-    country: string;
-    bonus: string;
+    website: string;
     rating: number;
-    slug?: string;
     spins?: number;
-    providers?: string[];
     likes?: number;
-    comments?: number;
-    operatingCountries?: string[];
-    imageUrl?: string;
-    avatarUrl?: string;
-    imageGallery?: string[];
+    affiliateLink?: string;
+    isAffiliate?: boolean;
+    isPremium?: boolean;
+    isExclusive?: boolean;
   }>>;
-}
-
-function AdSenseBlock({
-  slot,
-  className,
-}: {
-  slot: string;
-  className?: string | undefined;
-}) {
-  useEffect(() => {
-    if (typeof window !== 'undefined' && (window as any).adsbygoogle) {
-      try {
-        (window as any).adsbygoogle.push({});
-      } catch (error) {
-        // ignore if the ad script is not ready yet
-      }
-    }
-  }, []);
-
-  return (
-    <div className={`${styles['ad-container']} ${className ?? ''}`.trim()}>
-      <ins
-        className="adsbygoogle"
-        style={{ display: 'block', textAlign: 'center' }}
-        data-ad-client="ca-pub-5167901888083039"
-        data-ad-slot={slot}
-        data-ad-format="auto"
-        data-full-width-responsive="true"
-      />
-    </div>
-  );
 }
 
 export default function HomeClient({ featuredBonuses, featuredCasinos, casinoData }: HomeClientProps) {
   const { t } = useTranslation();
-  const guestCountry = useDeferredGuestCountry();
 
   // Normalize casino data
   const normalizedCasinos = featuredCasinos.map((casino) => ({
-    slug:
-      casino.slug ||
-      `${casino.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}-${casino.country
-        .toLowerCase()
-        .replace(/\s+/g, '-')}`,
     spins: casino.spins ?? 50,
-    providers: casino.providers ?? ['Playtech'],
     likes: casino.likes ?? 0,
-    comments: casino.comments ?? 0,
-    operatingCountries:
-      casino.operatingCountries ?? [casino.country, 'United States', 'United Kingdom'],
+    website: casino.website,
+    affiliateLink: casino.affiliateLink,
+    isAffiliate: casino.isAffiliate ?? false,
+    isPremium: casino.isPremium ?? false,
+    isExclusive: casino.isExclusive ?? false,
     ...casino,
   }));
 
   return (
     <>
       <section className={styles['hero-section']}>
-        <video
-          className={styles['hero-video-bg']}
-          autoPlay
-          muted
-          loop
-          playsInline
-        >
-          <source src="/SIMOCASINOphoto/video/sectionvideo.mp4" type="video/mp4" />
-        </video>
+       
         <div className={styles['hero-content']}>
           <h1 className={styles['hero-title']}>{t('hero_title')}</h1>
           <p className={styles['hero-subtitle']}>{t('hero_subtitle')}</p>
           <button className={styles['hero-button']}>{t('hero_button')}</button>
         </div>
       </section>
-
-      <AdSenseBlock slot="1234567890" className={styles['ad-hero']} />
 
       <section className={styles['bonuses-section']}>
         <h2 className={styles['section-title']}>{t('featured_bonuses')}</h2>
@@ -134,59 +78,26 @@ export default function HomeClient({ featuredBonuses, featuredCasinos, casinoDat
 
       {/* Featured Casinos Section */}
       <section className={styles['casinos-section']}>
-        <h2 className={styles['section-title']}>🏆 Featured Casinos</h2>
+        <h2 className={styles['section-title']}>🏆 Top 10 Trusted Casinos</h2>
+        <p className={styles['section-subtitle']}>Explore the highest-rated, most trusted casinos selected for high confidence and popularity.</p>
         <div className={styles['casinos-grid']}>
-          {normalizedCasinos.slice(0, 4).map((casino) => (
+          {normalizedCasinos.slice(0, 10).map((casino) => (
             <div key={casino.name} className={styles['casino-card-wrapper']}>
               <CasinoCard
                 name={casino.name}
-                country={casino.country}
-                bonus={casino.bonus}
                 rating={casino.rating}
-                slug={casino.slug}
                 spins={casino.spins}
-                providers={casino.providers}
                 likes={casino.likes}
-                operatingCountries={casino.operatingCountries}
-                {...(casino.imageUrl && { imageUrl: casino.imageUrl })}
-                {...(casino.avatarUrl && { avatarUrl: casino.avatarUrl })}
-                {...(casino.imageGallery && { imageGallery: casino.imageGallery })}
-                guestCountry={guestCountry}
+                website={casino.website}
+                affiliateLink={casino.affiliateLink}
+                isAffiliate={casino.isAffiliate}
+                isPremium={casino.isPremium}
+                isExclusive={casino.isExclusive}
               />
             </div>
           ))}
         </div>
       </section>
-
-      <AdSenseBlock slot="1234567891" className={styles['ad-inline']} />
-
-      {/* Casinos by Country Sections */}
-      {Object.entries(casinoData).slice(0, 6).map(([country, casinos]) => (
-        <section key={country} className={styles['casinos-section']}>
-          <h2 className={styles['section-title']}>{t('top_casinos_in', { country })}</h2>
-          <div className={styles['casinos-grid']}>
-            {casinos.map((casino) => (
-              <div key={casino.name} className={styles['casino-card-wrapper']}>
-                <CasinoCard
-                  name={casino.name}
-                  country={casino.country}
-                  bonus={casino.bonus}
-                  rating={casino.rating}
-                  slug={casino.slug}
-                  spins={casino.spins}
-                  providers={casino.providers}
-                  likes={casino.likes}
-                  operatingCountries={casino.operatingCountries ?? [casino.country]}
-                  {...(casino.imageUrl && { imageUrl: casino.imageUrl })}
-                  {...(casino.avatarUrl && { avatarUrl: casino.avatarUrl })}
-                  {...(casino.imageGallery && { imageGallery: casino.imageGallery })}
-                  guestCountry={guestCountry}
-                />
-              </div>
-            ))}
-          </div>
-        </section>
-      ))}
 
       {/* Popular Games Section */}
       <section className={styles['games-section']}>
@@ -259,8 +170,6 @@ export default function HomeClient({ featuredBonuses, featuredCasinos, casinoDat
           </div>
         </div>
       </section>
-
-      <AdSenseBlock slot="1234567892" className={styles['ad-footer']} />
 
       {/* Latest News/Blog Section */}
       <section className={styles['news-section']}>

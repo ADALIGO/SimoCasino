@@ -13,6 +13,7 @@ model User {
   lastName               String?
   profileImage           String?
   bannerImage            String?
+  profileVideo           String?
   imageGallery           String[] @default([])
   bio                    String?
   personalQuote          String?

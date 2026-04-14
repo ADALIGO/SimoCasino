@@ -128,6 +128,7 @@ async function importCasinos() {
         vipLevels: normalizeNumber(casino.vipLevels),
         vipRewards: normalizeStringArray(casino.vipRewards),
         liveCasinoAvailable: casino.liveCasinoAvailable !== undefined ? Boolean(casino.liveCasinoAvailable) : false,
+        website: normalizeString(casino.website) || undefined,
         supportEmail: normalizeString(casino.supportEmail) || undefined,
         supportPhone: normalizeString(casino.supportPhone) || undefined,
         avatarUrl: normalizeString(casino.avatarUrl) || undefined,

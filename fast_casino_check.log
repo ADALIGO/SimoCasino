@@ -1,0 +1,84 @@
+[2026-04-11T16:18:35.460Z] ⚠️ No valid resume progress found, starting from the beginning
+[2026-04-11T16:18:35.466Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:18:35.467Z] ⚙️  Fast checking 10 entries with concurrency 12 [infer-only]
+[2026-04-11T16:18:35.473Z] 💾 Saved progress at 10/10 entries
+[2026-04-11T16:18:35.475Z] ✅ Completed fast check for 10 casinos
+[2026-04-11T16:18:35.477Z]    Output file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.txt
+[2026-04-11T16:18:35.478Z]    JSON file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.json
+[2026-04-11T16:18:59.527Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:18:59.531Z] ⚙️  Fast checking 10 entries with concurrency 12 [infer-only]
+[2026-04-11T16:18:59.536Z] 💾 Saved progress at 10/10 entries
+[2026-04-11T16:18:59.542Z] ✅ Completed fast check for 10 casinos
+[2026-04-11T16:18:59.544Z]    Output file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.txt
+[2026-04-11T16:18:59.545Z]    JSON file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.json
+[2026-04-11T16:19:42.637Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:19:42.643Z] ⚙️  Fast checking 10 entries with concurrency 12 [infer-only]
+[2026-04-11T16:19:42.648Z] 💾 Saved progress at 10/10 entries
+[2026-04-11T16:19:42.652Z] ✅ Completed fast check for 10 casinos
+[2026-04-11T16:19:42.653Z]    Output file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.txt
+[2026-04-11T16:19:42.654Z]    JSON file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.json
+[2026-04-11T16:19:50.460Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:19:50.465Z] ⚙️  Fast checking 5 entries with concurrency 4 
+[2026-04-11T16:20:47.347Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:20:47.351Z] ⚙️  Fast checking 5 entries with concurrency 4 
+[2026-04-11T16:21:04.117Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:21:04.123Z] ⚙️  Fast checking 5 entries with concurrency 4 
+[2026-04-11T16:21:13.090Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:21:13.093Z] ⚙️  Fast checking 5 entries with concurrency 4 
+[2026-04-11T16:24:22.591Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:24:22.595Z] ⚙️  Fast checking 4000 entries with concurrency 8 
+[2026-04-11T16:33:55.146Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T16:33:55.153Z] ⚙️  Fast checking 4000 entries with concurrency 8 
+[2026-04-11T23:50:45.970Z] 🔄 Resuming from entry 1512/4000 (1510 already processed)
+[2026-04-11T23:50:45.973Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T23:50:45.973Z] ⚙️  Fast checking 4000 entries with concurrency 12 
+[2026-04-11T23:51:33.911Z] 🔄 Resuming from entry 1512/4000 (1510 already processed)
+[2026-04-11T23:51:33.915Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T23:51:33.916Z] ⚙️  Fast checking 4000 entries with concurrency 6 
+[2026-04-11T23:55:00.039Z] 🔄 Resuming from entry 1512/4000 (1510 already processed)
+[2026-04-11T23:55:00.044Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T23:55:00.044Z] ⚙️  Fast checking 4000 entries with concurrency 6 
+[2026-04-11T23:56:44.957Z] 🔄 Resuming from entry 1511/4000 (1509 already processed)
+[2026-04-11T23:56:44.961Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T23:56:44.962Z] ⚙️  Fast checking 4000 entries with concurrency 6 
+[2026-04-11T23:58:34.463Z] 🔄 Resuming from entry 5/5 (1509 already processed)
+[2026-04-11T23:58:34.467Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T23:58:34.468Z] ⚙️  Fast checking 5 entries with concurrency 2 
+[2026-04-11T23:59:07.447Z] 💾 Saved progress at 5/5 entries
+[2026-04-11T23:59:07.455Z] ✅ Completed fast check for 5 casinos
+[2026-04-11T23:59:07.456Z]    Output file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.txt
+[2026-04-11T23:59:07.458Z]    JSON file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.json
+[2026-04-11T23:59:17.312Z] 🔄 Resuming from entry 6/4000 (1510 already processed)
+[2026-04-11T23:59:17.316Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-11T23:59:17.316Z] ⚙️  Fast checking 4000 entries with concurrency 6 
+[2026-04-12T00:01:16.371Z] 🔄 Resuming from entry 1511/4000 (1510 already processed)
+[2026-04-12T00:01:16.377Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:01:16.377Z] ⚙️  Fast checking 4000 entries with concurrency 6 
+[2026-04-12T00:04:07.463Z] 🔄 Resuming from entry 1511/4000 (1510 already processed)
+[2026-04-12T00:04:07.467Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:04:07.468Z] ⚙️  Fast checking 4000 entries with concurrency 6 
+[2026-04-12T00:05:08.632Z] 🔄 Resuming from entry 1511/4000 (1510 already processed)
+[2026-04-12T00:05:08.636Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:05:08.637Z] ⚙️  Fast checking 4000 entries with concurrency 1 
+[2026-04-12T00:06:43.125Z] 🔄 Resuming from entry 1/1 (1510 already processed)
+[2026-04-12T00:06:43.129Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:06:43.129Z] ⚙️  Fast checking 1 entries with concurrency 1 
+[2026-04-12T00:06:56.048Z] 🔄 Resuming from entry 2/2 (1510 already processed)
+[2026-04-12T00:06:56.054Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:06:56.055Z] ⚙️  Fast checking 2 entries with concurrency 1 
+[2026-04-12T00:07:30.315Z] 🔄 Resuming from entry 2/2 (1510 already processed)
+[2026-04-12T00:07:30.322Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:07:30.323Z] ⚙️  Fast checking 2 entries with concurrency 1 
+[2026-04-12T00:08:22.373Z] 🔄 Resuming from entry 1511/4000 (1510 already processed)
+[2026-04-12T00:08:22.377Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:08:22.378Z] ⚙️  Fast checking 2 entries with concurrency 1 
+[2026-04-12T00:08:41.136Z] 🔄 Resuming from entry 1511/4000 (1510 already processed)
+[2026-04-12T00:08:41.140Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:08:41.141Z] ⚙️  Fast checking 1 entries with concurrency 1 [infer-only]
+[2026-04-12T00:08:41.150Z] 💾 Saved progress at 1511/4000 entries
+[2026-04-12T00:08:41.157Z] ✅ Completed fast check for 1 casinos
+[2026-04-12T00:08:41.158Z]    Output file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.txt
+[2026-04-12T00:08:41.159Z]    JSON file: C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\all_4000_casinos_checked_style.json
+[2026-04-12T00:09:40.315Z] 🔄 Resuming from entry 1512/4000 (1511 already processed)
+[2026-04-12T00:09:40.319Z] 📦 Loaded 4000 casinos from C:\Users\simoo\OneDrive\Bureau\SIMOCASINO\casinos_data.json
+[2026-04-12T00:09:40.321Z] ⚙️  Fast checking 1 entries with concurrency 1 

@@ -1,0 +1,5054 @@
+{
+  "createdAt": "2026-04-12T00:27:43.164Z",
+  "totalInput": 1512,
+  "activeCount": 725,
+  "invalidCount": 262,
+  "duplicateSlugs": 11,
+  "duplicateHosts": 12,
+  "fixedDomains": 725,
+  "invalidEntries": [
+    {
+      "name": "Fresh",
+      "slug": "fresh",
+      "reason": "No valid website found",
+      "candidates": [
+        "fresh",
+        "fresh.com",
+        "fresh.net",
+        "fresh.org",
+        "fresh.io",
+        "fresh.co",
+        "fresh.casino",
+        "fresh.bet",
+        "fresh.site",
+        "fresh.online",
+        "fresh-casino.com",
+        "fresh-bet.com"
+      ]
+    },
+    {
+      "name": "North",
+      "slug": "north",
+      "reason": "No valid website found",
+      "candidates": [
+        "north",
+        "north.com",
+        "north.net",
+        "north.org",
+        "north.io",
+        "north.co",
+        "north.casino",
+        "north.bet",
+        "north.site",
+        "north.online",
+        "north-casino.com",
+        "north-bet.com"
+      ]
+    },
+    {
+      "name": "Lake Palace",
+      "slug": "lake-palace",
+      "reason": "No valid website found",
+      "candidates": [
+        "lake-palace",
+        "lake-palace.com",
+        "lake-palace.net",
+        "lake-palace.org",
+        "lake-palace.io",
+        "lake-palace.co",
+        "lake-palace.casino",
+        "lake-palace.bet",
+        "lake-palace.site",
+        "lake-palace.online",
+        "lake-palace-casino.com",
+        "lake-palace-bet.com"
+      ]
+    },
+    {
+      "name": "Blizz",
+      "slug": "blizz",
+      "reason": "No valid website found",
+      "candidates": [
+        "blizz",
+        "blizz.com",
+        "blizz.net",
+        "blizz.org",
+        "blizz.io",
+        "blizz.co",
+        "blizz.casino",
+        "blizz.bet",
+        "blizz.site",
+        "blizz.online",
+        "blizz-casino.com",
+        "blizz-bet.com"
+      ]
+    },
+    {
+      "name": "Casinobit.io",
+      "slug": "casinobitio",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinobit.io",
+        "www.casinobit.io",
+        "casinobitio.com",
+        "casinobitio.net",
+        "casinobitio.org",
+        "casinobitio.io",
+        "casinobitio.co",
+        "casinobitio.casino",
+        "casinobitio.bet",
+        "casinobitio.site",
+        "casinobitio.online"
+      ]
+    },
+    {
+      "name": "ShangriLa Live",
+      "slug": "shangrila-live",
+      "reason": "No valid website found",
+      "candidates": [
+        "shangrila-live",
+        "shangrila-live.com",
+        "shangrila-live.net",
+        "shangrila-live.org",
+        "shangrila-live.io",
+        "shangrila-live.co",
+        "shangrila-live.casino",
+        "shangrila-live.bet",
+        "shangrila-live.site",
+        "shangrila-live.online",
+        "shangrila-live-casino.com",
+        "shangrila-live-bet.com"
+      ]
+    },
+    {
+      "name": "Zet",
+      "slug": "zet",
+      "reason": "No valid website found",
+      "candidates": [
+        "zet",
+        "zet.com",
+        "zet.net",
+        "zet.org",
+        "zet.io",
+        "zet.co",
+        "zet.casino",
+        "zet.bet",
+        "zet.site",
+        "zet.online",
+        "zet-casino.com",
+        "zet-bet.com"
+      ]
+    },
+    {
+      "name": "Will's",
+      "slug": "wills",
+      "reason": "No valid website found",
+      "candidates": [
+        "will-s",
+        "will-s.com",
+        "will-s.net",
+        "will-s.org",
+        "will-s.io",
+        "will-s.co",
+        "will-s.casino",
+        "will-s.bet",
+        "will-s.site",
+        "will-s.online",
+        "will-s-casino.com",
+        "will-s-bet.com",
+        "wills.com",
+        "wills.net",
+        "wills.org",
+        "wills.io",
+        "wills.co",
+        "wills.casino",
+        "wills.bet",
+        "wills.site",
+        "wills.online"
+      ]
+    },
+    {
+      "name": "Tusk",
+      "slug": "tusk",
+      "reason": "No valid website found",
+      "candidates": [
+        "tusk",
+        "tusk.com",
+        "tusk.net",
+        "tusk.org",
+        "tusk.io",
+        "tusk.co",
+        "tusk.casino",
+        "tusk.bet",
+        "tusk.site",
+        "tusk.online",
+        "tusk-casino.com",
+        "tusk-bet.com"
+      ]
+    },
+    {
+      "name": "Fullhouse",
+      "slug": "fullhouse",
+      "reason": "No valid website found",
+      "candidates": [
+        "fullhouse",
+        "fullhouse.com",
+        "fullhouse.net",
+        "fullhouse.org",
+        "fullhouse.io",
+        "fullhouse.co",
+        "fullhouse.casino",
+        "fullhouse.bet",
+        "fullhouse.site",
+        "fullhouse.online",
+        "fullhouse-casino.com",
+        "fullhouse-bet.com"
+      ]
+    },
+    {
+      "name": "JeetCity",
+      "slug": "jeetcity",
+      "reason": "No valid website found",
+      "candidates": [
+        "jeetcity",
+        "jeetcity.com",
+        "jeetcity.net",
+        "jeetcity.org",
+        "jeetcity.io",
+        "jeetcity.co",
+        "jeetcity.casino",
+        "jeetcity.bet",
+        "jeetcity.site",
+        "jeetcity.online",
+        "jeetcity-casino.com",
+        "jeetcity-bet.com"
+      ]
+    },
+    {
+      "name": "Club USA",
+      "slug": "club-usa",
+      "reason": "No valid website found",
+      "candidates": [
+        "club-usa",
+        "club-usa.com",
+        "club-usa.net",
+        "club-usa.org",
+        "club-usa.io",
+        "club-usa.co",
+        "club-usa.casino",
+        "club-usa.bet",
+        "club-usa.site",
+        "club-usa.online",
+        "club-usa-casino.com",
+        "club-usa-bet.com"
+      ]
+    },
+    {
+      "name": "KingPalace",
+      "slug": "kingpalace",
+      "reason": "No valid website found",
+      "candidates": [
+        "kingpalace",
+        "kingpalace.com",
+        "kingpalace.net",
+        "kingpalace.org",
+        "kingpalace.io",
+        "kingpalace.co",
+        "kingpalace.casino",
+        "kingpalace.bet",
+        "kingpalace.site",
+        "kingpalace.online",
+        "kingpalace-casino.com",
+        "kingpalace-bet.com"
+      ]
+    },
+    {
+      "name": "Horse Racing Betting",
+      "slug": "horse-racing-betting",
+      "reason": "No valid website found",
+      "candidates": [
+        "horse-racing-betting",
+        "horse-racing-betting.com",
+        "horse-racing-betting.net",
+        "horse-racing-betting.org",
+        "horse-racing-betting.io",
+        "horse-racing-betting.co",
+        "horse-racing-betting.casino",
+        "horse-racing-betting.bet",
+        "horse-racing-betting.site",
+        "horse-racing-betting.online",
+        "horse-racing-betting-casino.com",
+        "horse-racing-betting-bet.com"
+      ]
+    },
+    {
+      "name": "Tip-top.bet",
+      "slug": "tip-topbet",
+      "reason": "No valid website found",
+      "candidates": [
+        "tip-top.bet",
+        "www.tip-top.bet",
+        "tip-topbet.com",
+        "tip-topbet.net",
+        "tip-topbet.org",
+        "tip-topbet.io",
+        "tip-topbet.co",
+        "tip-topbet.casino",
+        "tip-topbet.bet",
+        "tip-topbet.site",
+        "tip-topbet.online"
+      ]
+    },
+    {
+      "name": "Euro Palace",
+      "slug": "euro-palace",
+      "reason": "No valid website found",
+      "candidates": [
+        "euro-palace",
+        "euro-palace.com",
+        "euro-palace.net",
+        "euro-palace.org",
+        "euro-palace.io",
+        "euro-palace.co",
+        "euro-palace.casino",
+        "euro-palace.bet",
+        "euro-palace.site",
+        "euro-palace.online",
+        "euro-palace-casino.com",
+        "euro-palace-bet.com"
+      ]
+    },
+    {
+      "name": "Banzai Slots",
+      "slug": "banzai-slots",
+      "reason": "No valid website found",
+      "candidates": [
+        "banzai-slots",
+        "banzai-slots.com",
+        "banzai-slots.net",
+        "banzai-slots.org",
+        "banzai-slots.io",
+        "banzai-slots.co",
+        "banzai-slots.casino",
+        "banzai-slots.bet",
+        "banzai-slots.site",
+        "banzai-slots.online",
+        "banzai-slots-casino.com",
+        "banzai-slots-bet.com"
+      ]
+    },
+    {
+      "name": "True Poker",
+      "slug": "true-poker",
+      "reason": "No valid website found",
+      "candidates": [
+        "true-poker",
+        "true-poker.com",
+        "true-poker.net",
+        "true-poker.org",
+        "true-poker.io",
+        "true-poker.co",
+        "true-poker.casino",
+        "true-poker.bet",
+        "true-poker.site",
+        "true-poker.online",
+        "true-poker-casino.com",
+        "true-poker-bet.com"
+      ]
+    },
+    {
+      "name": "Megarich",
+      "slug": "megarich",
+      "reason": "No valid website found",
+      "candidates": [
+        "megarich",
+        "megarich.com",
+        "megarich.net",
+        "megarich.org",
+        "megarich.io",
+        "megarich.co",
+        "megarich.casino",
+        "megarich.bet",
+        "megarich.site",
+        "megarich.online",
+        "megarich-casino.com",
+        "megarich-bet.com"
+      ]
+    },
+    {
+      "name": "Cash o' Lot",
+      "slug": "cash-o-lot",
+      "reason": "No valid website found",
+      "candidates": [
+        "cash-o-lot",
+        "cash-o-lot.com",
+        "cash-o-lot.net",
+        "cash-o-lot.org",
+        "cash-o-lot.io",
+        "cash-o-lot.co",
+        "cash-o-lot.casino",
+        "cash-o-lot.bet",
+        "cash-o-lot.site",
+        "cash-o-lot.online",
+        "cash-o-lot-casino.com",
+        "cash-o-lot-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky Bonanza",
+      "slug": "lucky-bonanza",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky-bonanza",
+        "lucky-bonanza.com",
+        "lucky-bonanza.net",
+        "lucky-bonanza.org",
+        "lucky-bonanza.io",
+        "lucky-bonanza.co",
+        "lucky-bonanza.casino",
+        "lucky-bonanza.bet",
+        "lucky-bonanza.site",
+        "lucky-bonanza.online",
+        "lucky-bonanza-casino.com",
+        "lucky-bonanza-bet.com"
+      ]
+    },
+    {
+      "name": "Vegas Amped",
+      "slug": "vegas-amped",
+      "reason": "No valid website found",
+      "candidates": [
+        "vegas-amped",
+        "vegas-amped.com",
+        "vegas-amped.net",
+        "vegas-amped.org",
+        "vegas-amped.io",
+        "vegas-amped.co",
+        "vegas-amped.casino",
+        "vegas-amped.bet",
+        "vegas-amped.site",
+        "vegas-amped.online",
+        "vegas-amped-casino.com",
+        "vegas-amped-bet.com"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "slug": "tiktok",
+      "reason": "No valid website found",
+      "candidates": [
+        "tiktok",
+        "tiktok.com",
+        "tiktok.net",
+        "tiktok.org",
+        "tiktok.io",
+        "tiktok.co",
+        "tiktok.casino",
+        "tiktok.bet",
+        "tiktok.site",
+        "tiktok.online",
+        "tiktok-casino.com",
+        "tiktok-bet.com"
+      ]
+    },
+    {
+      "name": "Vegas Palms",
+      "slug": "vegas-palms",
+      "reason": "No valid website found",
+      "candidates": [
+        "vegas-palms",
+        "vegas-palms.com",
+        "vegas-palms.net",
+        "vegas-palms.org",
+        "vegas-palms.io",
+        "vegas-palms.co",
+        "vegas-palms.casino",
+        "vegas-palms.bet",
+        "vegas-palms.site",
+        "vegas-palms.online",
+        "vegas-palms-casino.com",
+        "vegas-palms-bet.com"
+      ]
+    },
+    {
+      "name": "CryptoCasino",
+      "slug": "cryptocasino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cryptocasino",
+        "cryptocasino.com",
+        "cryptocasino.net",
+        "cryptocasino.org",
+        "cryptocasino.io",
+        "cryptocasino.co",
+        "cryptocasino.casino",
+        "cryptocasino.bet",
+        "cryptocasino.site",
+        "cryptocasino.online",
+        "cryptocasino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Royal Club",
+      "slug": "casino-royal-club",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-royal-club",
+        "casino-royal-club.com",
+        "casino-royal-club.net",
+        "casino-royal-club.org",
+        "casino-royal-club.io",
+        "casino-royal-club.co",
+        "casino-royal-club.casino",
+        "casino-royal-club.bet",
+        "casino-royal-club.site",
+        "casino-royal-club.online",
+        "casino-royal-club-casino.com",
+        "casino-royal-club-bet.com"
+      ]
+    },
+    {
+      "name": "888Arabic",
+      "slug": "888arabic",
+      "reason": "No valid website found",
+      "candidates": [
+        "888arabic",
+        "888arabic.com",
+        "888arabic.net",
+        "888arabic.org",
+        "888arabic.io",
+        "888arabic.co",
+        "888arabic.casino",
+        "888arabic.bet",
+        "888arabic.site",
+        "888arabic.online",
+        "888arabic-casino.com",
+        "888arabic-bet.com"
+      ]
+    },
+    {
+      "name": "Casinohuone",
+      "slug": "casinohuone",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinohuone",
+        "casinohuone.com",
+        "casinohuone.net",
+        "casinohuone.org",
+        "casinohuone.io",
+        "casinohuone.co",
+        "casinohuone.casino",
+        "casinohuone.bet",
+        "casinohuone.site",
+        "casinohuone.online",
+        "casinohuone-casino.com",
+        "casinohuone-bet.com"
+      ]
+    },
+    {
+      "name": "GoodDayForPlay (GDF Play)",
+      "slug": "gooddayforplay-gdf-play",
+      "reason": "No valid website found",
+      "candidates": [
+        "gooddayforplay-gdf-play",
+        "gooddayforplay-gdf-play.com",
+        "gooddayforplay-gdf-play.net",
+        "gooddayforplay-gdf-play.org",
+        "gooddayforplay-gdf-play.io",
+        "gooddayforplay-gdf-play.co",
+        "gooddayforplay-gdf-play.casino",
+        "gooddayforplay-gdf-play.bet",
+        "gooddayforplay-gdf-play.site",
+        "gooddayforplay-gdf-play.online",
+        "gooddayforplay-gdf-play-casino.com",
+        "gooddayforplay-gdf-play-bet.com"
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "slug": "great-britain",
+      "reason": "No valid website found",
+      "candidates": [
+        "great-britain",
+        "great-britain.com",
+        "great-britain.net",
+        "great-britain.org",
+        "great-britain.io",
+        "great-britain.co",
+        "great-britain.casino",
+        "great-britain.bet",
+        "great-britain.site",
+        "great-britain.online",
+        "great-britain-casino.com",
+        "great-britain-bet.com"
+      ]
+    },
+    {
+      "name": "Ramenbet",
+      "slug": "ramenbet",
+      "reason": "No valid website found",
+      "candidates": [
+        "ramenbet",
+        "ramenbet.com",
+        "ramenbet.net",
+        "ramenbet.org",
+        "ramenbet.io",
+        "ramenbet.co",
+        "ramenbet.casino",
+        "ramenbet.bet",
+        "ramenbet.site",
+        "ramenbet.online",
+        "ramenbet-casino.com"
+      ]
+    },
+    {
+      "name": "Jokersino",
+      "slug": "jokersino",
+      "reason": "No valid website found",
+      "candidates": [
+        "jokersino",
+        "jokersino.com",
+        "jokersino.net",
+        "jokersino.org",
+        "jokersino.io",
+        "jokersino.co",
+        "jokersino.casino",
+        "jokersino.bet",
+        "jokersino.site",
+        "jokersino.online",
+        "jokersino-casino.com",
+        "jokersino-bet.com"
+      ]
+    },
+    {
+      "name": "Rembrandt",
+      "slug": "rembrandt",
+      "reason": "No valid website found",
+      "candidates": [
+        "rembrandt",
+        "rembrandt.com",
+        "rembrandt.net",
+        "rembrandt.org",
+        "rembrandt.io",
+        "rembrandt.co",
+        "rembrandt.casino",
+        "rembrandt.bet",
+        "rembrandt.site",
+        "rembrandt.online",
+        "rembrandt-casino.com",
+        "rembrandt-bet.com"
+      ]
+    },
+    {
+      "name": "Spin",
+      "slug": "spin",
+      "reason": "No valid website found",
+      "candidates": [
+        "spin",
+        "spin.com",
+        "spin.net",
+        "spin.org",
+        "spin.io",
+        "spin.co",
+        "spin.casino",
+        "spin.bet",
+        "spin.site",
+        "spin.online",
+        "spin-casino.com",
+        "spin-bet.com"
+      ]
+    },
+    {
+      "name": "Slotified",
+      "slug": "slotified",
+      "reason": "No valid website found",
+      "candidates": [
+        "slotified",
+        "slotified.com",
+        "slotified.net",
+        "slotified.org",
+        "slotified.io",
+        "slotified.co",
+        "slotified.casino",
+        "slotified.bet",
+        "slotified.site",
+        "slotified.online",
+        "slotified-casino.com",
+        "slotified-bet.com"
+      ]
+    },
+    {
+      "name": "SG",
+      "slug": "sg",
+      "reason": "No valid website found",
+      "candidates": [
+        "sg",
+        "sg.com",
+        "sg.net",
+        "sg.org",
+        "sg.io",
+        "sg.co",
+        "sg.casino",
+        "sg.bet",
+        "sg.site",
+        "sg.online",
+        "sg-casino.com",
+        "sg-bet.com"
+      ]
+    },
+    {
+      "name": "America777",
+      "slug": "america777",
+      "reason": "No valid website found",
+      "candidates": [
+        "america777",
+        "america777.com",
+        "america777.net",
+        "america777.org",
+        "america777.io",
+        "america777.co",
+        "america777.casino",
+        "america777.bet",
+        "america777.site",
+        "america777.online",
+        "america777-casino.com",
+        "america777-bet.com"
+      ]
+    },
+    {
+      "name": "Versailles",
+      "slug": "versailles",
+      "reason": "No valid website found",
+      "candidates": [
+        "versailles",
+        "versailles.com",
+        "versailles.net",
+        "versailles.org",
+        "versailles.io",
+        "versailles.co",
+        "versailles.casino",
+        "versailles.bet",
+        "versailles.site",
+        "versailles.online",
+        "versailles-casino.com",
+        "versailles-bet.com"
+      ]
+    },
+    {
+      "name": "Fansport",
+      "slug": "fansport",
+      "reason": "No valid website found",
+      "candidates": [
+        "fansport",
+        "fansport.com",
+        "fansport.net",
+        "fansport.org",
+        "fansport.io",
+        "fansport.co",
+        "fansport.casino",
+        "fansport.bet",
+        "fansport.site",
+        "fansport.online",
+        "fansport-casino.com",
+        "fansport-bet.com"
+      ]
+    },
+    {
+      "name": "Tournaverse",
+      "slug": "tournaverse",
+      "reason": "No valid website found",
+      "candidates": [
+        "tournaverse",
+        "tournaverse.com",
+        "tournaverse.net",
+        "tournaverse.org",
+        "tournaverse.io",
+        "tournaverse.co",
+        "tournaverse.casino",
+        "tournaverse.bet",
+        "tournaverse.site",
+        "tournaverse.online",
+        "tournaverse-casino.com",
+        "tournaverse-bet.com"
+      ]
+    },
+    {
+      "name": "Let's Lucky",
+      "slug": "lets-lucky",
+      "reason": "No valid website found",
+      "candidates": [
+        "let-s-lucky",
+        "let-s-lucky.com",
+        "let-s-lucky.net",
+        "let-s-lucky.org",
+        "let-s-lucky.io",
+        "let-s-lucky.co",
+        "let-s-lucky.casino",
+        "let-s-lucky.bet",
+        "let-s-lucky.site",
+        "let-s-lucky.online",
+        "let-s-lucky-casino.com",
+        "let-s-lucky-bet.com",
+        "lets-lucky.com",
+        "lets-lucky.net",
+        "lets-lucky.org",
+        "lets-lucky.io",
+        "lets-lucky.co",
+        "lets-lucky.casino",
+        "lets-lucky.bet",
+        "lets-lucky.site",
+        "lets-lucky.online"
+      ]
+    },
+    {
+      "name": "Paradise 8",
+      "slug": "paradise-8",
+      "reason": "No valid website found",
+      "candidates": [
+        "paradise-8",
+        "paradise-8.com",
+        "paradise-8.net",
+        "paradise-8.org",
+        "paradise-8.io",
+        "paradise-8.co",
+        "paradise-8.casino",
+        "paradise-8.bet",
+        "paradise-8.site",
+        "paradise-8.online",
+        "paradise-8-casino.com",
+        "paradise-8-bet.com"
+      ]
+    },
+    {
+      "name": "2UP.io",
+      "slug": "2upio",
+      "reason": "No valid website found",
+      "candidates": [
+        "2up.io",
+        "www.2up.io",
+        "2upio.com",
+        "2upio.net",
+        "2upio.org",
+        "2upio.io",
+        "2upio.co",
+        "2upio.casino",
+        "2upio.bet",
+        "2upio.site",
+        "2upio.online"
+      ]
+    },
+    {
+      "name": "William Hill",
+      "slug": "william-hill",
+      "reason": "No valid website found",
+      "candidates": [
+        "william-hill",
+        "william-hill.com",
+        "william-hill.net",
+        "william-hill.org",
+        "william-hill.io",
+        "william-hill.co",
+        "william-hill.casino",
+        "william-hill.bet",
+        "william-hill.site",
+        "william-hill.online",
+        "william-hill-casino.com",
+        "william-hill-bet.com"
+      ]
+    },
+    {
+      "name": "BikiniSlots",
+      "slug": "bikinislots",
+      "reason": "No valid website found",
+      "candidates": [
+        "bikinislots",
+        "bikinislots.com",
+        "bikinislots.net",
+        "bikinislots.org",
+        "bikinislots.io",
+        "bikinislots.co",
+        "bikinislots.casino",
+        "bikinislots.bet",
+        "bikinislots.site",
+        "bikinislots.online",
+        "bikinislots-casino.com",
+        "bikinislots-bet.com"
+      ]
+    },
+    {
+      "name": "Slotland",
+      "slug": "slotland",
+      "reason": "No valid website found",
+      "candidates": [
+        "slotland",
+        "slotland.com",
+        "slotland.net",
+        "slotland.org",
+        "slotland.io",
+        "slotland.co",
+        "slotland.casino",
+        "slotland.bet",
+        "slotland.site",
+        "slotland.online",
+        "slotland-casino.com",
+        "slotland-bet.com"
+      ]
+    },
+    {
+      "name": "Jackpot Paradise",
+      "slug": "jackpot-paradise",
+      "reason": "No valid website found",
+      "candidates": [
+        "jackpot-paradise",
+        "jackpot-paradise.com",
+        "jackpot-paradise.net",
+        "jackpot-paradise.org",
+        "jackpot-paradise.io",
+        "jackpot-paradise.co",
+        "jackpot-paradise.casino",
+        "jackpot-paradise.bet",
+        "jackpot-paradise.site",
+        "jackpot-paradise.online",
+        "jackpot-paradise-casino.com",
+        "jackpot-paradise-bet.com"
+      ]
+    },
+    {
+      "name": "CryptoSlots",
+      "slug": "cryptoslots",
+      "reason": "No valid website found",
+      "candidates": [
+        "cryptoslots",
+        "cryptoslots.com",
+        "cryptoslots.net",
+        "cryptoslots.org",
+        "cryptoslots.io",
+        "cryptoslots.co",
+        "cryptoslots.casino",
+        "cryptoslots.bet",
+        "cryptoslots.site",
+        "cryptoslots.online",
+        "cryptoslots-casino.com",
+        "cryptoslots-bet.com"
+      ]
+    },
+    {
+      "name": "Casino RedKings",
+      "slug": "casino-redkings",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-redkings",
+        "casino-redkings.com",
+        "casino-redkings.net",
+        "casino-redkings.org",
+        "casino-redkings.io",
+        "casino-redkings.co",
+        "casino-redkings.casino",
+        "casino-redkings.bet",
+        "casino-redkings.site",
+        "casino-redkings.online",
+        "casino-redkings-casino.com",
+        "casino-redkings-bet.com"
+      ]
+    },
+    {
+      "name": "Goldfishka",
+      "slug": "goldfishka",
+      "reason": "No valid website found",
+      "candidates": [
+        "goldfishka",
+        "goldfishka.com",
+        "goldfishka.net",
+        "goldfishka.org",
+        "goldfishka.io",
+        "goldfishka.co",
+        "goldfishka.casino",
+        "goldfishka.bet",
+        "goldfishka.site",
+        "goldfishka.online",
+        "goldfishka-casino.com",
+        "goldfishka-bet.com"
+      ]
+    },
+    {
+      "name": "Winbig21",
+      "slug": "winbig21",
+      "reason": "No valid website found",
+      "candidates": [
+        "winbig21",
+        "winbig21.com",
+        "winbig21.net",
+        "winbig21.org",
+        "winbig21.io",
+        "winbig21.co",
+        "winbig21.casino",
+        "winbig21.bet",
+        "winbig21.site",
+        "winbig21.online",
+        "winbig21-casino.com",
+        "winbig21-bet.com"
+      ]
+    },
+    {
+      "name": "Hit Me Bet",
+      "slug": "hit-me-bet",
+      "reason": "No valid website found",
+      "candidates": [
+        "hit-me-bet",
+        "hit-me-bet.com",
+        "hit-me-bet.net",
+        "hit-me-bet.org",
+        "hit-me-bet.io",
+        "hit-me-bet.co",
+        "hit-me-bet.casino",
+        "hit-me-bet.bet",
+        "hit-me-bet.site",
+        "hit-me-bet.online",
+        "hit-me-bet-casino.com"
+      ]
+    },
+    {
+      "name": "Spin Dimension",
+      "slug": "spin-dimension",
+      "reason": "No valid website found",
+      "candidates": [
+        "spin-dimension",
+        "spin-dimension.com",
+        "spin-dimension.net",
+        "spin-dimension.org",
+        "spin-dimension.io",
+        "spin-dimension.co",
+        "spin-dimension.casino",
+        "spin-dimension.bet",
+        "spin-dimension.site",
+        "spin-dimension.online",
+        "spin-dimension-casino.com",
+        "spin-dimension-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky Owl Club",
+      "slug": "lucky-owl-club",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky-owl-club",
+        "lucky-owl-club.com",
+        "lucky-owl-club.net",
+        "lucky-owl-club.org",
+        "lucky-owl-club.io",
+        "lucky-owl-club.co",
+        "lucky-owl-club.casino",
+        "lucky-owl-club.bet",
+        "lucky-owl-club.site",
+        "lucky-owl-club.online",
+        "lucky-owl-club-casino.com",
+        "lucky-owl-club-bet.com"
+      ]
+    },
+    {
+      "name": "WeezyBet.com",
+      "slug": "weezybetcom",
+      "reason": "No valid website found",
+      "candidates": [
+        "weezybet.com",
+        "www.weezybet.com",
+        "weezybetcom.com",
+        "weezybetcom.net",
+        "weezybetcom.org",
+        "weezybetcom.io",
+        "weezybetcom.co",
+        "weezybetcom.casino",
+        "weezybetcom.bet",
+        "weezybetcom.site",
+        "weezybetcom.online"
+      ]
+    },
+    {
+      "name": "Virtual City",
+      "slug": "virtual-city",
+      "reason": "No valid website found",
+      "candidates": [
+        "virtual-city",
+        "virtual-city.com",
+        "virtual-city.net",
+        "virtual-city.org",
+        "virtual-city.io",
+        "virtual-city.co",
+        "virtual-city.casino",
+        "virtual-city.bet",
+        "virtual-city.site",
+        "virtual-city.online",
+        "virtual-city-casino.com",
+        "virtual-city-bet.com"
+      ]
+    },
+    {
+      "name": "Vanguard",
+      "slug": "vanguard",
+      "reason": "No valid website found",
+      "candidates": [
+        "vanguard",
+        "vanguard.com",
+        "vanguard.net",
+        "vanguard.org",
+        "vanguard.io",
+        "vanguard.co",
+        "vanguard.casino",
+        "vanguard.bet",
+        "vanguard.site",
+        "vanguard.online",
+        "vanguard-casino.com",
+        "vanguard-bet.com"
+      ]
+    },
+    {
+      "name": "Limitless",
+      "slug": "limitless",
+      "reason": "No valid website found",
+      "candidates": [
+        "limitless",
+        "limitless.com",
+        "limitless.net",
+        "limitless.org",
+        "limitless.io",
+        "limitless.co",
+        "limitless.casino",
+        "limitless.bet",
+        "limitless.site",
+        "limitless.online",
+        "limitless-casino.com",
+        "limitless-bet.com"
+      ]
+    },
+    {
+      "name": "Wolf Spins",
+      "slug": "wolf-spins",
+      "reason": "No valid website found",
+      "candidates": [
+        "wolf-spins",
+        "wolf-spins.com",
+        "wolf-spins.net",
+        "wolf-spins.org",
+        "wolf-spins.io",
+        "wolf-spins.co",
+        "wolf-spins.casino",
+        "wolf-spins.bet",
+        "wolf-spins.site",
+        "wolf-spins.online",
+        "wolf-spins-casino.com",
+        "wolf-spins-bet.com"
+      ]
+    },
+    {
+      "name": "Manhattan Slots",
+      "slug": "manhattan-slots",
+      "reason": "No valid website found",
+      "candidates": [
+        "manhattan-slots",
+        "manhattan-slots.com",
+        "manhattan-slots.net",
+        "manhattan-slots.org",
+        "manhattan-slots.io",
+        "manhattan-slots.co",
+        "manhattan-slots.casino",
+        "manhattan-slots.bet",
+        "manhattan-slots.site",
+        "manhattan-slots.online",
+        "manhattan-slots-casino.com",
+        "manhattan-slots-bet.com"
+      ]
+    },
+    {
+      "name": "BigMamoo",
+      "slug": "bigmamoo",
+      "reason": "No valid website found",
+      "candidates": [
+        "bigmamoo",
+        "bigmamoo.com",
+        "bigmamoo.net",
+        "bigmamoo.org",
+        "bigmamoo.io",
+        "bigmamoo.co",
+        "bigmamoo.casino",
+        "bigmamoo.bet",
+        "bigmamoo.site",
+        "bigmamoo.online",
+        "bigmamoo-casino.com",
+        "bigmamoo-bet.com"
+      ]
+    },
+    {
+      "name": "Hyper",
+      "slug": "hyper",
+      "reason": "No valid website found",
+      "candidates": [
+        "hyper",
+        "hyper.com",
+        "hyper.net",
+        "hyper.org",
+        "hyper.io",
+        "hyper.co",
+        "hyper.casino",
+        "hyper.bet",
+        "hyper.site",
+        "hyper.online",
+        "hyper-casino.com",
+        "hyper-bet.com"
+      ]
+    },
+    {
+      "name": "BK8",
+      "slug": "bk8",
+      "reason": "No valid website found",
+      "candidates": [
+        "bk8",
+        "bk8.com",
+        "bk8.net",
+        "bk8.org",
+        "bk8.io",
+        "bk8.co",
+        "bk8.casino",
+        "bk8.bet",
+        "bk8.site",
+        "bk8.online",
+        "bk8-casino.com",
+        "bk8-bet.com"
+      ]
+    },
+    {
+      "name": "Swift",
+      "slug": "swift",
+      "reason": "No valid website found",
+      "candidates": [
+        "swift",
+        "swift.com",
+        "swift.net",
+        "swift.org",
+        "swift.io",
+        "swift.co",
+        "swift.casino",
+        "swift.bet",
+        "swift.site",
+        "swift.online",
+        "swift-casino.com",
+        "swift-bet.com"
+      ]
+    },
+    {
+      "name": "Golden Reef",
+      "slug": "golden-reef",
+      "reason": "No valid website found",
+      "candidates": [
+        "golden-reef",
+        "golden-reef.com",
+        "golden-reef.net",
+        "golden-reef.org",
+        "golden-reef.io",
+        "golden-reef.co",
+        "golden-reef.casino",
+        "golden-reef.bet",
+        "golden-reef.site",
+        "golden-reef.online",
+        "golden-reef-casino.com",
+        "golden-reef-bet.com"
+      ]
+    },
+    {
+      "name": "AMPM (Mirror) (Mirror)",
+      "slug": "1xbet-casino-duplicate",
+      "reason": "No valid website found",
+      "candidates": [
+        "ampm-mirror-mirror",
+        "ampm-mirror-mirror.com",
+        "ampm-mirror-mirror.net",
+        "ampm-mirror-mirror.org",
+        "ampm-mirror-mirror.io",
+        "ampm-mirror-mirror.co",
+        "ampm-mirror-mirror.casino",
+        "ampm-mirror-mirror.bet",
+        "ampm-mirror-mirror.site",
+        "ampm-mirror-mirror.online",
+        "ampm-mirror-mirror-casino.com",
+        "ampm-mirror-mirror-bet.com",
+        "1xbet-casino-duplicate.com",
+        "1xbet-casino-duplicate.net",
+        "1xbet-casino-duplicate.org",
+        "1xbet-casino-duplicate.io",
+        "1xbet-casino-duplicate.co",
+        "1xbet-casino-duplicate.casino",
+        "1xbet-casino-duplicate.bet",
+        "1xbet-casino-duplicate.site",
+        "1xbet-casino-duplicate.online"
+      ]
+    },
+    {
+      "name": "Satoshi Hero",
+      "slug": "satoshi-hero",
+      "reason": "No valid website found",
+      "candidates": [
+        "satoshi-hero",
+        "satoshi-hero.com",
+        "satoshi-hero.net",
+        "satoshi-hero.org",
+        "satoshi-hero.io",
+        "satoshi-hero.co",
+        "satoshi-hero.casino",
+        "satoshi-hero.bet",
+        "satoshi-hero.site",
+        "satoshi-hero.online",
+        "satoshi-hero-casino.com",
+        "satoshi-hero-bet.com"
+      ]
+    },
+    {
+      "name": "Maria",
+      "slug": "maria",
+      "reason": "No valid website found",
+      "candidates": [
+        "maria",
+        "maria.com",
+        "maria.net",
+        "maria.org",
+        "maria.io",
+        "maria.co",
+        "maria.casino",
+        "maria.bet",
+        "maria.site",
+        "maria.online",
+        "maria-casino.com",
+        "maria-bet.com"
+      ]
+    },
+    {
+      "name": "Azur",
+      "slug": "azur",
+      "reason": "No valid website found",
+      "candidates": [
+        "azur",
+        "azur.com",
+        "azur.net",
+        "azur.org",
+        "azur.io",
+        "azur.co",
+        "azur.casino",
+        "azur.bet",
+        "azur.site",
+        "azur.online",
+        "azur-casino.com",
+        "azur-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Napoli",
+      "slug": "casino-napoli",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-napoli",
+        "casino-napoli.com",
+        "casino-napoli.net",
+        "casino-napoli.org",
+        "casino-napoli.io",
+        "casino-napoli.co",
+        "casino-napoli.casino",
+        "casino-napoli.bet",
+        "casino-napoli.site",
+        "casino-napoli.online",
+        "casino-napoli-casino.com",
+        "casino-napoli-bet.com"
+      ]
+    },
+    {
+      "name": "This Is Vegas",
+      "slug": "this-is-vegas",
+      "reason": "No valid website found",
+      "candidates": [
+        "this-is-vegas",
+        "this-is-vegas.com",
+        "this-is-vegas.net",
+        "this-is-vegas.org",
+        "this-is-vegas.io",
+        "this-is-vegas.co",
+        "this-is-vegas.casino",
+        "this-is-vegas.bet",
+        "this-is-vegas.site",
+        "this-is-vegas.online",
+        "this-is-vegas-casino.com",
+        "this-is-vegas-bet.com"
+      ]
+    },
+    {
+      "name": "LOKI",
+      "slug": "loki",
+      "reason": "No valid website found",
+      "candidates": [
+        "loki",
+        "loki.com",
+        "loki.net",
+        "loki.org",
+        "loki.io",
+        "loki.co",
+        "loki.casino",
+        "loki.bet",
+        "loki.site",
+        "loki.online",
+        "loki-casino.com",
+        "loki-bet.com"
+      ]
+    },
+    {
+      "name": "Joy",
+      "slug": "joy",
+      "reason": "No valid website found",
+      "candidates": [
+        "joy",
+        "joy.com",
+        "joy.net",
+        "joy.org",
+        "joy.io",
+        "joy.co",
+        "joy.casino",
+        "joy.bet",
+        "joy.site",
+        "joy.online",
+        "joy-casino.com",
+        "joy-bet.com"
+      ]
+    },
+    {
+      "name": "777",
+      "slug": "777",
+      "reason": "No valid website found",
+      "candidates": [
+        "777",
+        "777.com",
+        "777.net",
+        "777.org",
+        "777.io",
+        "777.co",
+        "777.casino",
+        "777.bet",
+        "777.site",
+        "777.online",
+        "777-casino.com",
+        "777-bet.com"
+      ]
+    },
+    {
+      "name": "EU",
+      "slug": "eu",
+      "reason": "No valid website found",
+      "candidates": [
+        "eu",
+        "eu.com",
+        "eu.net",
+        "eu.org",
+        "eu.io",
+        "eu.co",
+        "eu.casino",
+        "eu.bet",
+        "eu.site",
+        "eu.online",
+        "eu-casino.com",
+        "eu-bet.com"
+      ]
+    },
+    {
+      "name": "888",
+      "slug": "888",
+      "reason": "No valid website found",
+      "candidates": [
+        "888",
+        "888.com",
+        "888.net",
+        "888.org",
+        "888.io",
+        "888.co",
+        "888.casino",
+        "888.bet",
+        "888.site",
+        "888.online",
+        "888-casino.com",
+        "888-bet.com"
+      ]
+    },
+    {
+      "name": "Harry's",
+      "slug": "harry-s",
+      "reason": "No valid website found",
+      "candidates": [
+        "harry-s",
+        "harry-s.com",
+        "harry-s.net",
+        "harry-s.org",
+        "harry-s.io",
+        "harry-s.co",
+        "harry-s.casino",
+        "harry-s.bet",
+        "harry-s.site",
+        "harry-s.online",
+        "harry-s-casino.com",
+        "harry-s-bet.com"
+      ]
+    },
+    {
+      "name": "Supreme Play",
+      "slug": "supreme-play",
+      "reason": "No valid website found",
+      "candidates": [
+        "supreme-play",
+        "supreme-play.com",
+        "supreme-play.net",
+        "supreme-play.org",
+        "supreme-play.io",
+        "supreme-play.co",
+        "supreme-play.casino",
+        "supreme-play.bet",
+        "supreme-play.site",
+        "supreme-play.online",
+        "supreme-play-casino.com",
+        "supreme-play-bet.com"
+      ]
+    },
+    {
+      "name": "Top Tally",
+      "slug": "top-tally",
+      "reason": "No valid website found",
+      "candidates": [
+        "top-tally",
+        "top-tally.com",
+        "top-tally.net",
+        "top-tally.org",
+        "top-tally.io",
+        "top-tally.co",
+        "top-tally.casino",
+        "top-tally.bet",
+        "top-tally.site",
+        "top-tally.online",
+        "top-tally-casino.com",
+        "top-tally-bet.com"
+      ]
+    },
+    {
+      "name": "Zlatobet",
+      "slug": "zlatobet",
+      "reason": "No valid website found",
+      "candidates": [
+        "zlatobet",
+        "zlatobet.com",
+        "zlatobet.net",
+        "zlatobet.org",
+        "zlatobet.io",
+        "zlatobet.co",
+        "zlatobet.casino",
+        "zlatobet.bet",
+        "zlatobet.site",
+        "zlatobet.online",
+        "zlatobet-casino.com"
+      ]
+    },
+    {
+      "name": "Fonbet",
+      "slug": "fonbet",
+      "reason": "No valid website found",
+      "candidates": [
+        "fonbet",
+        "fonbet.com",
+        "fonbet.net",
+        "fonbet.org",
+        "fonbet.io",
+        "fonbet.co",
+        "fonbet.casino",
+        "fonbet.bet",
+        "fonbet.site",
+        "fonbet.online",
+        "fonbet-casino.com"
+      ]
+    },
+    {
+      "name": "Spinfinity",
+      "slug": "spinfinity",
+      "reason": "No valid website found",
+      "candidates": [
+        "spinfinity",
+        "spinfinity.com",
+        "spinfinity.net",
+        "spinfinity.org",
+        "spinfinity.io",
+        "spinfinity.co",
+        "spinfinity.casino",
+        "spinfinity.bet",
+        "spinfinity.site",
+        "spinfinity.online",
+        "spinfinity-casino.com",
+        "spinfinity-bet.com"
+      ]
+    },
+    {
+      "name": "Jazz Casino And Sportsbook",
+      "slug": "jazz-casino-and-sportsbook",
+      "reason": "No valid website found",
+      "candidates": [
+        "jazz-casino-and-sportsbook",
+        "jazz-casino-and-sportsbook.com",
+        "jazz-casino-and-sportsbook.net",
+        "jazz-casino-and-sportsbook.org",
+        "jazz-casino-and-sportsbook.io",
+        "jazz-casino-and-sportsbook.co",
+        "jazz-casino-and-sportsbook.casino",
+        "jazz-casino-and-sportsbook.bet",
+        "jazz-casino-and-sportsbook.site",
+        "jazz-casino-and-sportsbook.online",
+        "jazz-casino-and-sportsbook-casino.com",
+        "jazz-casino-and-sportsbook-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Max",
+      "slug": "casino-max",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-max",
+        "casino-max.com",
+        "casino-max.net",
+        "casino-max.org",
+        "casino-max.io",
+        "casino-max.co",
+        "casino-max.casino",
+        "casino-max.bet",
+        "casino-max.site",
+        "casino-max.online",
+        "casino-max-casino.com",
+        "casino-max-bet.com"
+      ]
+    },
+    {
+      "name": "LTC",
+      "slug": "ltc",
+      "reason": "No valid website found",
+      "candidates": [
+        "ltc",
+        "ltc.com",
+        "ltc.net",
+        "ltc.org",
+        "ltc.io",
+        "ltc.co",
+        "ltc.casino",
+        "ltc.bet",
+        "ltc.site",
+        "ltc.online",
+        "ltc-casino.com",
+        "ltc-bet.com"
+      ]
+    },
+    {
+      "name": "Irwin",
+      "slug": "irwin",
+      "reason": "No valid website found",
+      "candidates": [
+        "irwin",
+        "irwin.com",
+        "irwin.net",
+        "irwin.org",
+        "irwin.io",
+        "irwin.co",
+        "irwin.casino",
+        "irwin.bet",
+        "irwin.site",
+        "irwin.online",
+        "irwin-casino.com",
+        "irwin-bet.com"
+      ]
+    },
+    {
+      "name": "Windetta",
+      "slug": "windetta",
+      "reason": "No valid website found",
+      "candidates": [
+        "windetta",
+        "windetta.com",
+        "windetta.net",
+        "windetta.org",
+        "windetta.io",
+        "windetta.co",
+        "windetta.casino",
+        "windetta.bet",
+        "windetta.site",
+        "windetta.online",
+        "windetta-casino.com",
+        "windetta-bet.com"
+      ]
+    },
+    {
+      "name": "Betsio.com",
+      "slug": "betsiocom",
+      "reason": "No valid website found",
+      "candidates": [
+        "betsio.com",
+        "www.betsio.com",
+        "betsiocom.com",
+        "betsiocom.net",
+        "betsiocom.org",
+        "betsiocom.io",
+        "betsiocom.co",
+        "betsiocom.casino",
+        "betsiocom.bet",
+        "betsiocom.site",
+        "betsiocom.online"
+      ]
+    },
+    {
+      "name": "Spellwin",
+      "slug": "spellwin",
+      "reason": "No valid website found",
+      "candidates": [
+        "spellwin",
+        "spellwin.com",
+        "spellwin.net",
+        "spellwin.org",
+        "spellwin.io",
+        "spellwin.co",
+        "spellwin.casino",
+        "spellwin.bet",
+        "spellwin.site",
+        "spellwin.online",
+        "spellwin-casino.com",
+        "spellwin-bet.com"
+      ]
+    },
+    {
+      "name": "Betfinal Casino",
+      "slug": "betfinal-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "betfinal-casino",
+        "betfinal-casino.com",
+        "betfinal-casino.net",
+        "betfinal-casino.org",
+        "betfinal-casino.io",
+        "betfinal-casino.co",
+        "betfinal-casino.casino",
+        "betfinal-casino.bet",
+        "betfinal-casino.site",
+        "betfinal-casino.online",
+        "betfinal-casino-bet.com"
+      ]
+    },
+    {
+      "name": "BetfourU Casino",
+      "slug": "betfouru-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "betfouru-casino",
+        "betfouru-casino.com",
+        "betfouru-casino.net",
+        "betfouru-casino.org",
+        "betfouru-casino.io",
+        "betfouru-casino.co",
+        "betfouru-casino.casino",
+        "betfouru-casino.bet",
+        "betfouru-casino.site",
+        "betfouru-casino.online",
+        "betfouru-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Betico Casino",
+      "slug": "betico-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "betico-casino",
+        "betico-casino.com",
+        "betico-casino.net",
+        "betico-casino.org",
+        "betico-casino.io",
+        "betico-casino.co",
+        "betico-casino.casino",
+        "betico-casino.bet",
+        "betico-casino.site",
+        "betico-casino.online",
+        "betico-casino-bet.com"
+      ]
+    },
+    {
+      "name": "BetliveCasino Casino",
+      "slug": "betlivecasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "betlivecasino-casino",
+        "betlivecasino-casino.com",
+        "betlivecasino-casino.net",
+        "betlivecasino-casino.org",
+        "betlivecasino-casino.io",
+        "betlivecasino-casino.co",
+        "betlivecasino-casino.casino",
+        "betlivecasino-casino.bet",
+        "betlivecasino-casino.site",
+        "betlivecasino-casino.online",
+        "betlivecasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Betmode Casino",
+      "slug": "betmode-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "betmode-casino",
+        "betmode-casino.com",
+        "betmode-casino.net",
+        "betmode-casino.org",
+        "betmode-casino.io",
+        "betmode-casino.co",
+        "betmode-casino.casino",
+        "betmode-casino.bet",
+        "betmode-casino.site",
+        "betmode-casino.online",
+        "betmode-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Betroom24 Casino",
+      "slug": "betroom24-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "betroom24-casino",
+        "betroom24-casino.com",
+        "betroom24-casino.net",
+        "betroom24-casino.org",
+        "betroom24-casino.io",
+        "betroom24-casino.co",
+        "betroom24-casino.casino",
+        "betroom24-casino.bet",
+        "betroom24-casino.site",
+        "betroom24-casino.online",
+        "betroom24-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Bets Bunny Casino",
+      "slug": "bets-bunny-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bets-bunny-casino",
+        "bets-bunny-casino.com",
+        "bets-bunny-casino.net",
+        "bets-bunny-casino.org",
+        "bets-bunny-casino.io",
+        "bets-bunny-casino.co",
+        "bets-bunny-casino.casino",
+        "bets-bunny-casino.bet",
+        "bets-bunny-casino.site",
+        "bets-bunny-casino.online",
+        "bets-bunny-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Betsio.com Casino",
+      "slug": "betsiocom-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "betsio.com-casino",
+        "betsio.com-casino.com",
+        "betsio.com-casino.net",
+        "betsio.com-casino.org",
+        "betsio.com-casino.io",
+        "betsio.com-casino.co",
+        "betsio.com-casino.casino",
+        "betsio.com-casino.bet",
+        "betsio.com-casino.site",
+        "betsio.com-casino.online",
+        "betsio.com-casino-bet.com",
+        "betsiocom-casino.com",
+        "betsiocom-casino.net",
+        "betsiocom-casino.org",
+        "betsiocom-casino.io",
+        "betsiocom-casino.co",
+        "betsiocom-casino.casino",
+        "betsiocom-casino.bet",
+        "betsiocom-casino.site",
+        "betsiocom-casino.online"
+      ]
+    },
+    {
+      "name": "BettyWins Casino",
+      "slug": "bettywins-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bettywins-casino",
+        "bettywins-casino.com",
+        "bettywins-casino.net",
+        "bettywins-casino.org",
+        "bettywins-casino.io",
+        "bettywins-casino.co",
+        "bettywins-casino.casino",
+        "bettywins-casino.bet",
+        "bettywins-casino.site",
+        "bettywins-casino.online",
+        "bettywins-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Big5 Casino",
+      "slug": "big5-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "big5-casino",
+        "big5-casino.com",
+        "big5-casino.net",
+        "big5-casino.org",
+        "big5-casino.io",
+        "big5-casino.co",
+        "big5-casino.casino",
+        "big5-casino.bet",
+        "big5-casino.site",
+        "big5-casino.online",
+        "big5-casino-bet.com"
+      ]
+    },
+    {
+      "name": "BiggerZ Casino",
+      "slug": "biggerz-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "biggerz-casino",
+        "biggerz-casino.com",
+        "biggerz-casino.net",
+        "biggerz-casino.org",
+        "biggerz-casino.io",
+        "biggerz-casino.co",
+        "biggerz-casino.casino",
+        "biggerz-casino.bet",
+        "biggerz-casino.site",
+        "biggerz-casino.online",
+        "biggerz-casino-bet.com"
+      ]
+    },
+    {
+      "name": "BitCasino.io Casino",
+      "slug": "bitcasinoio-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bitcasino.io-casino",
+        "bitcasino.io-casino.com",
+        "bitcasino.io-casino.net",
+        "bitcasino.io-casino.org",
+        "bitcasino.io-casino.io",
+        "bitcasino.io-casino.co",
+        "bitcasino.io-casino.casino",
+        "bitcasino.io-casino.bet",
+        "bitcasino.io-casino.site",
+        "bitcasino.io-casino.online",
+        "bitcasino.io-casino-bet.com",
+        "bitcasinoio-casino.com",
+        "bitcasinoio-casino.net",
+        "bitcasinoio-casino.org",
+        "bitcasinoio-casino.io",
+        "bitcasinoio-casino.co",
+        "bitcasinoio-casino.casino",
+        "bitcasinoio-casino.bet",
+        "bitcasinoio-casino.site",
+        "bitcasinoio-casino.online"
+      ]
+    },
+    {
+      "name": "Bitcoin Sportsbook Casino",
+      "slug": "bitcoin-sportsbook-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bitcoin-sportsbook-casino",
+        "bitcoin-sportsbook-casino.com",
+        "bitcoin-sportsbook-casino.net",
+        "bitcoin-sportsbook-casino.org",
+        "bitcoin-sportsbook-casino.io",
+        "bitcoin-sportsbook-casino.co",
+        "bitcoin-sportsbook-casino.casino",
+        "bitcoin-sportsbook-casino.bet",
+        "bitcoin-sportsbook-casino.site",
+        "bitcoin-sportsbook-casino.online",
+        "bitcoin-sportsbook-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Bitcoin.com Games Casino",
+      "slug": "bitcoincom-games-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bitcoin.com-games-casino",
+        "bitcoin.com-games-casino.com",
+        "bitcoin.com-games-casino.net",
+        "bitcoin.com-games-casino.org",
+        "bitcoin.com-games-casino.io",
+        "bitcoin.com-games-casino.co",
+        "bitcoin.com-games-casino.casino",
+        "bitcoin.com-games-casino.bet",
+        "bitcoin.com-games-casino.site",
+        "bitcoin.com-games-casino.online",
+        "bitcoin.com-games-casino-bet.com",
+        "bitcoincom-games-casino.com",
+        "bitcoincom-games-casino.net",
+        "bitcoincom-games-casino.org",
+        "bitcoincom-games-casino.io",
+        "bitcoincom-games-casino.co",
+        "bitcoincom-games-casino.casino",
+        "bitcoincom-games-casino.bet",
+        "bitcoincom-games-casino.site",
+        "bitcoincom-games-casino.online"
+      ]
+    },
+    {
+      "name": "Black Chip Poker Casino",
+      "slug": "black-chip-poker-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "black-chip-poker-casino",
+        "black-chip-poker-casino.com",
+        "black-chip-poker-casino.net",
+        "black-chip-poker-casino.org",
+        "black-chip-poker-casino.io",
+        "black-chip-poker-casino.co",
+        "black-chip-poker-casino.casino",
+        "black-chip-poker-casino.bet",
+        "black-chip-poker-casino.site",
+        "black-chip-poker-casino.online",
+        "black-chip-poker-casino-bet.com"
+      ]
+    },
+    {
+      "name": "BlackJack Ballroom Casino",
+      "slug": "blackjack-ballroom-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "blackjack-ballroom-casino",
+        "blackjack-ballroom-casino.com",
+        "blackjack-ballroom-casino.net",
+        "blackjack-ballroom-casino.org",
+        "blackjack-ballroom-casino.io",
+        "blackjack-ballroom-casino.co",
+        "blackjack-ballroom-casino.casino",
+        "blackjack-ballroom-casino.bet",
+        "blackjack-ballroom-casino.site",
+        "blackjack-ballroom-casino.online",
+        "blackjack-ballroom-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Bloody Slots Casino",
+      "slug": "bloody-slots-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bloody-slots-casino",
+        "bloody-slots-casino.com",
+        "bloody-slots-casino.net",
+        "bloody-slots-casino.org",
+        "bloody-slots-casino.io",
+        "bloody-slots-casino.co",
+        "bloody-slots-casino.casino",
+        "bloody-slots-casino.bet",
+        "bloody-slots-casino.site",
+        "bloody-slots-casino.online",
+        "bloody-slots-casino-bet.com"
+      ]
+    },
+    {
+      "name": "BluVegas Casino",
+      "slug": "bluvegas-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bluvegas-casino",
+        "bluvegas-casino.com",
+        "bluvegas-casino.net",
+        "bluvegas-casino.org",
+        "bluvegas-casino.io",
+        "bluvegas-casino.co",
+        "bluvegas-casino.casino",
+        "bluvegas-casino.bet",
+        "bluvegas-casino.site",
+        "bluvegas-casino.online",
+        "bluvegas-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Blue Chip Casino",
+      "slug": "blue-chip-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "blue-chip-casino",
+        "blue-chip-casino.com",
+        "blue-chip-casino.net",
+        "blue-chip-casino.org",
+        "blue-chip-casino.io",
+        "blue-chip-casino.co",
+        "blue-chip-casino.casino",
+        "blue-chip-casino.bet",
+        "blue-chip-casino.site",
+        "blue-chip-casino.online",
+        "blue-chip-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Bluffbet Casino",
+      "slug": "bluffbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bluffbet-casino",
+        "bluffbet-casino.com",
+        "bluffbet-casino.net",
+        "bluffbet-casino.org",
+        "bluffbet-casino.io",
+        "bluffbet-casino.co",
+        "bluffbet-casino.casino",
+        "bluffbet-casino.bet",
+        "bluffbet-casino.site",
+        "bluffbet-casino.online",
+        "bluffbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Bookmaker Casino",
+      "slug": "bookmaker-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bookmaker-casino",
+        "bookmaker-casino.com",
+        "bookmaker-casino.net",
+        "bookmaker-casino.org",
+        "bookmaker-casino.io",
+        "bookmaker-casino.co",
+        "bookmaker-casino.casino",
+        "bookmaker-casino.bet",
+        "bookmaker-casino.site",
+        "bookmaker-casino.online",
+        "bookmaker-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Bookmaker.XYZ Casino",
+      "slug": "bookmakerxyz-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "bookmaker.xyz-casino",
+        "bookmaker.xyz-casino.com",
+        "bookmaker.xyz-casino.net",
+        "bookmaker.xyz-casino.org",
+        "bookmaker.xyz-casino.io",
+        "bookmaker.xyz-casino.co",
+        "bookmaker.xyz-casino.casino",
+        "bookmaker.xyz-casino.bet",
+        "bookmaker.xyz-casino.site",
+        "bookmaker.xyz-casino.online",
+        "bookmaker.xyz-casino-bet.com",
+        "bookmakerxyz-casino.com",
+        "bookmakerxyz-casino.net",
+        "bookmakerxyz-casino.org",
+        "bookmakerxyz-casino.io",
+        "bookmakerxyz-casino.co",
+        "bookmakerxyz-casino.casino",
+        "bookmakerxyz-casino.bet",
+        "bookmakerxyz-casino.site",
+        "bookmakerxyz-casino.online"
+      ]
+    },
+    {
+      "name": "Brasil777 Casino",
+      "slug": "brasil777-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "brasil777-casino",
+        "brasil777-casino.com",
+        "brasil777-casino.net",
+        "brasil777-casino.org",
+        "brasil777-casino.io",
+        "brasil777-casino.co",
+        "brasil777-casino.casino",
+        "brasil777-casino.bet",
+        "brasil777-casino.site",
+        "brasil777-casino.online",
+        "brasil777-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Campeonbet Casino",
+      "slug": "campeonbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "campeonbet-casino",
+        "campeonbet-casino.com",
+        "campeonbet-casino.net",
+        "campeonbet-casino.org",
+        "campeonbet-casino.io",
+        "campeonbet-casino.co",
+        "campeonbet-casino.casino",
+        "campeonbet-casino.bet",
+        "campeonbet-casino.site",
+        "campeonbet-casino.online",
+        "campeonbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Canada777 Casino",
+      "slug": "canada777-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "canada777-casino",
+        "canada777-casino.com",
+        "canada777-casino.net",
+        "canada777-casino.org",
+        "canada777-casino.io",
+        "canada777-casino.co",
+        "canada777-casino.casino",
+        "canada777-casino.bet",
+        "canada777-casino.site",
+        "canada777-casino.online",
+        "canada777-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Candy Casino",
+      "slug": "candy-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "candy-casino",
+        "candy-casino.com",
+        "candy-casino.net",
+        "candy-casino.org",
+        "candy-casino.io",
+        "candy-casino.co",
+        "candy-casino.casino",
+        "candy-casino.bet",
+        "candy-casino.site",
+        "candy-casino.online",
+        "candy-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Captain Cooks Casino",
+      "slug": "captain-cooks-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "captain-cooks-casino",
+        "captain-cooks-casino.com",
+        "captain-cooks-casino.net",
+        "captain-cooks-casino.org",
+        "captain-cooks-casino.io",
+        "captain-cooks-casino.co",
+        "captain-cooks-casino.casino",
+        "captain-cooks-casino.bet",
+        "captain-cooks-casino.site",
+        "captain-cooks-casino.online",
+        "captain-cooks-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CashiMashi Casino",
+      "slug": "cashimashi-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cashimashi-casino",
+        "cashimashi-casino.com",
+        "cashimashi-casino.net",
+        "cashimashi-casino.org",
+        "cashimashi-casino.io",
+        "cashimashi-casino.co",
+        "cashimashi-casino.casino",
+        "cashimashi-casino.bet",
+        "cashimashi-casino.site",
+        "cashimashi-casino.online",
+        "cashimashi-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casilando Casino",
+      "slug": "casilando-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casilando-casino",
+        "casilando-casino.com",
+        "casilando-casino.net",
+        "casilando-casino.org",
+        "casilando-casino.io",
+        "casilando-casino.co",
+        "casilando-casino.casino",
+        "casilando-casino.bet",
+        "casilando-casino.site",
+        "casilando-casino.online",
+        "casilando-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casimpo Casino",
+      "slug": "casimpo-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casimpo-casino",
+        "casimpo-casino.com",
+        "casimpo-casino.net",
+        "casimpo-casino.org",
+        "casimpo-casino.io",
+        "casimpo-casino.co",
+        "casimpo-casino.casino",
+        "casimpo-casino.bet",
+        "casimpo-casino.site",
+        "casimpo-casino.online",
+        "casimpo-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Action Casino",
+      "slug": "casino-action-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-action-casino",
+        "casino-action-casino.com",
+        "casino-action-casino.net",
+        "casino-action-casino.org",
+        "casino-action-casino.io",
+        "casino-action-casino.co",
+        "casino-action-casino.casino",
+        "casino-action-casino.bet",
+        "casino-action-casino.site",
+        "casino-action-casino.online",
+        "casino-action-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Adrenaline Casino",
+      "slug": "casino-adrenaline-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-adrenaline-casino",
+        "casino-adrenaline-casino.com",
+        "casino-adrenaline-casino.net",
+        "casino-adrenaline-casino.org",
+        "casino-adrenaline-casino.io",
+        "casino-adrenaline-casino.co",
+        "casino-adrenaline-casino.casino",
+        "casino-adrenaline-casino.bet",
+        "casino-adrenaline-casino.site",
+        "casino-adrenaline-casino.online",
+        "casino-adrenaline-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino And Friends Casino",
+      "slug": "casino-and-friends-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-and-friends-casino",
+        "casino-and-friends-casino.com",
+        "casino-and-friends-casino.net",
+        "casino-and-friends-casino.org",
+        "casino-and-friends-casino.io",
+        "casino-and-friends-casino.co",
+        "casino-and-friends-casino.casino",
+        "casino-and-friends-casino.bet",
+        "casino-and-friends-casino.site",
+        "casino-and-friends-casino.online",
+        "casino-and-friends-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Brango Casino",
+      "slug": "casino-brango-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-brango-casino",
+        "casino-brango-casino.com",
+        "casino-brango-casino.net",
+        "casino-brango-casino.org",
+        "casino-brango-casino.io",
+        "casino-brango-casino.co",
+        "casino-brango-casino.casino",
+        "casino-brango-casino.bet",
+        "casino-brango-casino.site",
+        "casino-brango-casino.online",
+        "casino-brango-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Classic Casino",
+      "slug": "casino-classic-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-classic-casino",
+        "casino-classic-casino.com",
+        "casino-classic-casino.net",
+        "casino-classic-casino.org",
+        "casino-classic-casino.io",
+        "casino-classic-casino.co",
+        "casino-classic-casino.casino",
+        "casino-classic-casino.bet",
+        "casino-classic-casino.site",
+        "casino-classic-casino.online",
+        "casino-classic-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Days Casino",
+      "slug": "casino-days-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-days-casino",
+        "casino-days-casino.com",
+        "casino-days-casino.net",
+        "casino-days-casino.org",
+        "casino-days-casino.io",
+        "casino-days-casino.co",
+        "casino-days-casino.casino",
+        "casino-days-casino.bet",
+        "casino-days-casino.site",
+        "casino-days-casino.online",
+        "casino-days-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Estrella Casino",
+      "slug": "casino-estrella-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-estrella-casino",
+        "casino-estrella-casino.com",
+        "casino-estrella-casino.net",
+        "casino-estrella-casino.org",
+        "casino-estrella-casino.io",
+        "casino-estrella-casino.co",
+        "casino-estrella-casino.casino",
+        "casino-estrella-casino.bet",
+        "casino-estrella-casino.site",
+        "casino-estrella-casino.online",
+        "casino-estrella-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Extreme Casino",
+      "slug": "casino-extreme-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-extreme-casino",
+        "casino-extreme-casino.com",
+        "casino-extreme-casino.net",
+        "casino-extreme-casino.org",
+        "casino-extreme-casino.io",
+        "casino-extreme-casino.co",
+        "casino-extreme-casino.casino",
+        "casino-extreme-casino.bet",
+        "casino-extreme-casino.site",
+        "casino-extreme-casino.online",
+        "casino-extreme-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Infinity Casino",
+      "slug": "casino-infinity-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-infinity-casino",
+        "casino-infinity-casino.com",
+        "casino-infinity-casino.net",
+        "casino-infinity-casino.org",
+        "casino-infinity-casino.io",
+        "casino-infinity-casino.co",
+        "casino-infinity-casino.casino",
+        "casino-infinity-casino.bet",
+        "casino-infinity-casino.site",
+        "casino-infinity-casino.online",
+        "casino-infinity-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Kingdom Casino",
+      "slug": "casino-kingdom-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-kingdom-casino",
+        "casino-kingdom-casino.com",
+        "casino-kingdom-casino.net",
+        "casino-kingdom-casino.org",
+        "casino-kingdom-casino.io",
+        "casino-kingdom-casino.co",
+        "casino-kingdom-casino.casino",
+        "casino-kingdom-casino.bet",
+        "casino-kingdom-casino.site",
+        "casino-kingdom-casino.online",
+        "casino-kingdom-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Kings Casino",
+      "slug": "casino-kings-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-kings-casino",
+        "casino-kings-casino.com",
+        "casino-kings-casino.net",
+        "casino-kings-casino.org",
+        "casino-kings-casino.io",
+        "casino-kings-casino.co",
+        "casino-kings-casino.casino",
+        "casino-kings-casino.bet",
+        "casino-kings-casino.site",
+        "casino-kings-casino.online",
+        "casino-kings-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Mate Casino",
+      "slug": "casino-mate-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-mate-casino",
+        "casino-mate-casino.com",
+        "casino-mate-casino.net",
+        "casino-mate-casino.org",
+        "casino-mate-casino.io",
+        "casino-mate-casino.co",
+        "casino-mate-casino.casino",
+        "casino-mate-casino.bet",
+        "casino-mate-casino.site",
+        "casino-mate-casino.online",
+        "casino-mate-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Max Casino",
+      "slug": "casino-max-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-max-casino",
+        "casino-max-casino.com",
+        "casino-max-casino.net",
+        "casino-max-casino.org",
+        "casino-max-casino.io",
+        "casino-max-casino.co",
+        "casino-max-casino.casino",
+        "casino-max-casino.bet",
+        "casino-max-casino.site",
+        "casino-max-casino.online",
+        "casino-max-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Midas Casino",
+      "slug": "casino-midas-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-midas-casino",
+        "casino-midas-casino.com",
+        "casino-midas-casino.net",
+        "casino-midas-casino.org",
+        "casino-midas-casino.io",
+        "casino-midas-casino.co",
+        "casino-midas-casino.casino",
+        "casino-midas-casino.bet",
+        "casino-midas-casino.site",
+        "casino-midas-casino.online",
+        "casino-midas-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Napoli Casino",
+      "slug": "casino-napoli-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-napoli-casino",
+        "casino-napoli-casino.com",
+        "casino-napoli-casino.net",
+        "casino-napoli-casino.org",
+        "casino-napoli-casino.io",
+        "casino-napoli-casino.co",
+        "casino-napoli-casino.casino",
+        "casino-napoli-casino.bet",
+        "casino-napoli-casino.site",
+        "casino-napoli-casino.online",
+        "casino-napoli-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Night Casino",
+      "slug": "casino-night-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-night-casino",
+        "casino-night-casino.com",
+        "casino-night-casino.net",
+        "casino-night-casino.org",
+        "casino-night-casino.io",
+        "casino-night-casino.co",
+        "casino-night-casino.casino",
+        "casino-night-casino.bet",
+        "casino-night-casino.site",
+        "casino-night-casino.online",
+        "casino-night-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Orca Casino",
+      "slug": "casino-orca-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-orca-casino",
+        "casino-orca-casino.com",
+        "casino-orca-casino.net",
+        "casino-orca-casino.org",
+        "casino-orca-casino.io",
+        "casino-orca-casino.co",
+        "casino-orca-casino.casino",
+        "casino-orca-casino.bet",
+        "casino-orca-casino.site",
+        "casino-orca-casino.online",
+        "casino-orca-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Prestige Casino",
+      "slug": "casino-prestige-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-prestige-casino",
+        "casino-prestige-casino.com",
+        "casino-prestige-casino.net",
+        "casino-prestige-casino.org",
+        "casino-prestige-casino.io",
+        "casino-prestige-casino.co",
+        "casino-prestige-casino.casino",
+        "casino-prestige-casino.bet",
+        "casino-prestige-casino.site",
+        "casino-prestige-casino.online",
+        "casino-prestige-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino RedKings Casino",
+      "slug": "casino-redkings-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-redkings-casino",
+        "casino-redkings-casino.com",
+        "casino-redkings-casino.net",
+        "casino-redkings-casino.org",
+        "casino-redkings-casino.io",
+        "casino-redkings-casino.co",
+        "casino-redkings-casino.casino",
+        "casino-redkings-casino.bet",
+        "casino-redkings-casino.site",
+        "casino-redkings-casino.online",
+        "casino-redkings-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Rocket Casino",
+      "slug": "casino-rocket-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-rocket-casino",
+        "casino-rocket-casino.com",
+        "casino-rocket-casino.net",
+        "casino-rocket-casino.org",
+        "casino-rocket-casino.io",
+        "casino-rocket-casino.co",
+        "casino-rocket-casino.casino",
+        "casino-rocket-casino.bet",
+        "casino-rocket-casino.site",
+        "casino-rocket-casino.online",
+        "casino-rocket-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casino Sieger Casino",
+      "slug": "casino-sieger-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casino-sieger-casino",
+        "casino-sieger-casino.com",
+        "casino-sieger-casino.net",
+        "casino-sieger-casino.org",
+        "casino-sieger-casino.io",
+        "casino-sieger-casino.co",
+        "casino-sieger-casino.casino",
+        "casino-sieger-casino.bet",
+        "casino-sieger-casino.site",
+        "casino-sieger-casino.online",
+        "casino-sieger-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CasinoBet Casino",
+      "slug": "casinobet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinobet-casino",
+        "casinobet-casino.com",
+        "casinobet-casino.net",
+        "casinobet-casino.org",
+        "casinobet-casino.io",
+        "casinobet-casino.co",
+        "casinobet-casino.casino",
+        "casinobet-casino.bet",
+        "casinobet-casino.site",
+        "casinobet-casino.online",
+        "casinobet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CasinoCasino Casino",
+      "slug": "casinocasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinocasino-casino",
+        "casinocasino-casino.com",
+        "casinocasino-casino.net",
+        "casinocasino-casino.org",
+        "casinocasino-casino.io",
+        "casinocasino-casino.co",
+        "casinocasino-casino.casino",
+        "casinocasino-casino.bet",
+        "casinocasino-casino.site",
+        "casinocasino-casino.online",
+        "casinocasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CasinoJEFE Casino",
+      "slug": "casinojefe-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinojefe-casino",
+        "casinojefe-casino.com",
+        "casinojefe-casino.net",
+        "casinojefe-casino.org",
+        "casinojefe-casino.io",
+        "casinojefe-casino.co",
+        "casinojefe-casino.casino",
+        "casinojefe-casino.bet",
+        "casinojefe-casino.site",
+        "casinojefe-casino.online",
+        "casinojefe-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CasinoVibes Casino",
+      "slug": "casinovibes-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinovibes-casino",
+        "casinovibes-casino.com",
+        "casinovibes-casino.net",
+        "casinovibes-casino.org",
+        "casinovibes-casino.io",
+        "casinovibes-casino.co",
+        "casinovibes-casino.casino",
+        "casinovibes-casino.bet",
+        "casinovibes-casino.site",
+        "casinovibes-casino.online",
+        "casinovibes-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Casinobit.io Casino",
+      "slug": "casinobitio-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinobit.io-casino",
+        "casinobit.io-casino.com",
+        "casinobit.io-casino.net",
+        "casinobit.io-casino.org",
+        "casinobit.io-casino.io",
+        "casinobit.io-casino.co",
+        "casinobit.io-casino.casino",
+        "casinobit.io-casino.bet",
+        "casinobit.io-casino.site",
+        "casinobit.io-casino.online",
+        "casinobit.io-casino-bet.com",
+        "casinobitio-casino.com",
+        "casinobitio-casino.net",
+        "casinobitio-casino.org",
+        "casinobitio-casino.io",
+        "casinobitio-casino.co",
+        "casinobitio-casino.casino",
+        "casinobitio-casino.bet",
+        "casinobitio-casino.site",
+        "casinobitio-casino.online"
+      ]
+    },
+    {
+      "name": "Casinohuone Casino",
+      "slug": "casinohuone-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "casinohuone-casino",
+        "casinohuone-casino.com",
+        "casinohuone-casino.net",
+        "casinohuone-casino.org",
+        "casinohuone-casino.io",
+        "casinohuone-casino.co",
+        "casinohuone-casino.casino",
+        "casinohuone-casino.bet",
+        "casinohuone-casino.site",
+        "casinohuone-casino.online",
+        "casinohuone-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CatCasino Casino",
+      "slug": "catcasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "catcasino-casino",
+        "catcasino-casino.com",
+        "catcasino-casino.net",
+        "catcasino-casino.org",
+        "catcasino-casino.io",
+        "catcasino-casino.co",
+        "catcasino-casino.casino",
+        "catcasino-casino.bet",
+        "catcasino-casino.site",
+        "catcasino-casino.online",
+        "catcasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Cazimbo Casino",
+      "slug": "cazimbo-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cazimbo-casino",
+        "cazimbo-casino.com",
+        "cazimbo-casino.net",
+        "cazimbo-casino.org",
+        "cazimbo-casino.io",
+        "cazimbo-casino.co",
+        "cazimbo-casino.casino",
+        "cazimbo-casino.bet",
+        "cazimbo-casino.site",
+        "cazimbo-casino.online",
+        "cazimbo-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Challenge Casino",
+      "slug": "challenge-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "challenge-casino",
+        "challenge-casino.com",
+        "challenge-casino.net",
+        "challenge-casino.org",
+        "challenge-casino.io",
+        "challenge-casino.co",
+        "challenge-casino.casino",
+        "challenge-casino.bet",
+        "challenge-casino.site",
+        "challenge-casino.online",
+        "challenge-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Chancer Casino",
+      "slug": "chancer-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "chancer-casino",
+        "chancer-casino.com",
+        "chancer-casino.net",
+        "chancer-casino.org",
+        "chancer-casino.io",
+        "chancer-casino.co",
+        "chancer-casino.casino",
+        "chancer-casino.bet",
+        "chancer-casino.site",
+        "chancer-casino.online",
+        "chancer-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Citobet Casino",
+      "slug": "citobet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "citobet-casino",
+        "citobet-casino.com",
+        "citobet-casino.net",
+        "citobet-casino.org",
+        "citobet-casino.io",
+        "citobet-casino.co",
+        "citobet-casino.casino",
+        "citobet-casino.bet",
+        "citobet-casino.site",
+        "citobet-casino.online",
+        "citobet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Cloudbet Casino",
+      "slug": "cloudbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cloudbet-casino",
+        "cloudbet-casino.com",
+        "cloudbet-casino.net",
+        "cloudbet-casino.org",
+        "cloudbet-casino.io",
+        "cloudbet-casino.co",
+        "cloudbet-casino.casino",
+        "cloudbet-casino.bet",
+        "cloudbet-casino.site",
+        "cloudbet-casino.online",
+        "cloudbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Club USA Casino",
+      "slug": "club-usa-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "club-usa-casino",
+        "club-usa-casino.com",
+        "club-usa-casino.net",
+        "club-usa-casino.org",
+        "club-usa-casino.io",
+        "club-usa-casino.co",
+        "club-usa-casino.casino",
+        "club-usa-casino.bet",
+        "club-usa-casino.site",
+        "club-usa-casino.online",
+        "club-usa-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Coinbets777 Casino",
+      "slug": "coinbets777-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "coinbets777-casino",
+        "coinbets777-casino.com",
+        "coinbets777-casino.net",
+        "coinbets777-casino.org",
+        "coinbets777-casino.io",
+        "coinbets777-casino.co",
+        "coinbets777-casino.casino",
+        "coinbets777-casino.bet",
+        "coinbets777-casino.site",
+        "coinbets777-casino.online",
+        "coinbets777-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Coinplay Casino",
+      "slug": "coinplay-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "coinplay-casino",
+        "coinplay-casino.com",
+        "coinplay-casino.net",
+        "coinplay-casino.org",
+        "coinplay-casino.io",
+        "coinplay-casino.co",
+        "coinplay-casino.casino",
+        "coinplay-casino.bet",
+        "coinplay-casino.site",
+        "coinplay-casino.online",
+        "coinplay-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Coins.Game Casino",
+      "slug": "coinsgame-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "coins.game-casino",
+        "coins.game-casino.com",
+        "coins.game-casino.net",
+        "coins.game-casino.org",
+        "coins.game-casino.io",
+        "coins.game-casino.co",
+        "coins.game-casino.casino",
+        "coins.game-casino.bet",
+        "coins.game-casino.site",
+        "coins.game-casino.online",
+        "coins.game-casino-bet.com",
+        "coinsgame-casino.com",
+        "coinsgame-casino.net",
+        "coinsgame-casino.org",
+        "coinsgame-casino.io",
+        "coinsgame-casino.co",
+        "coinsgame-casino.casino",
+        "coinsgame-casino.bet",
+        "coinsgame-casino.site",
+        "coinsgame-casino.online"
+      ]
+    },
+    {
+      "name": "Colosseum",
+      "slug": "colosseum",
+      "reason": "No valid website found",
+      "candidates": [
+        "colosseum",
+        "colosseum.com",
+        "colosseum.net",
+        "colosseum.org",
+        "colosseum.io",
+        "colosseum.co",
+        "colosseum.casino",
+        "colosseum.bet",
+        "colosseum.site",
+        "colosseum.online",
+        "colosseum-casino.com",
+        "colosseum-bet.com"
+      ]
+    },
+    {
+      "name": "ComicPlay Casino",
+      "slug": "comicplay-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "comicplay-casino",
+        "comicplay-casino.com",
+        "comicplay-casino.net",
+        "comicplay-casino.org",
+        "comicplay-casino.io",
+        "comicplay-casino.co",
+        "comicplay-casino.casino",
+        "comicplay-casino.bet",
+        "comicplay-casino.site",
+        "comicplay-casino.online",
+        "comicplay-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Conquer Casino",
+      "slug": "conquer-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "conquer-casino",
+        "conquer-casino.com",
+        "conquer-casino.net",
+        "conquer-casino.org",
+        "conquer-casino.io",
+        "conquer-casino.co",
+        "conquer-casino.casino",
+        "conquer-casino.bet",
+        "conquer-casino.site",
+        "conquer-casino.online",
+        "conquer-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Coolzino Casino",
+      "slug": "coolzino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "coolzino-casino",
+        "coolzino-casino.com",
+        "coolzino-casino.net",
+        "coolzino-casino.org",
+        "coolzino-casino.io",
+        "coolzino-casino.co",
+        "coolzino-casino.casino",
+        "coolzino-casino.bet",
+        "coolzino-casino.site",
+        "coolzino-casino.online",
+        "coolzino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CosmicSlot Casino",
+      "slug": "cosmicslot-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cosmicslot-casino",
+        "cosmicslot-casino.com",
+        "cosmicslot-casino.net",
+        "cosmicslot-casino.org",
+        "cosmicslot-casino.io",
+        "cosmicslot-casino.co",
+        "cosmicslot-casino.casino",
+        "cosmicslot-casino.bet",
+        "cosmicslot-casino.site",
+        "cosmicslot-casino.online",
+        "cosmicslot-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Cosmobet Casino",
+      "slug": "cosmobet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cosmobet-casino",
+        "cosmobet-casino.com",
+        "cosmobet-casino.net",
+        "cosmobet-casino.org",
+        "cosmobet-casino.io",
+        "cosmobet-casino.co",
+        "cosmobet-casino.casino",
+        "cosmobet-casino.bet",
+        "cosmobet-casino.site",
+        "cosmobet-casino.online",
+        "cosmobet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Crashino Casino",
+      "slug": "crashino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "crashino-casino",
+        "crashino-casino.com",
+        "crashino-casino.net",
+        "crashino-casino.org",
+        "crashino-casino.io",
+        "crashino-casino.co",
+        "crashino-casino.casino",
+        "crashino-casino.bet",
+        "crashino-casino.site",
+        "crashino-casino.online",
+        "crashino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CrazePlay Casino",
+      "slug": "crazeplay-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "crazeplay-casino",
+        "crazeplay-casino.com",
+        "crazeplay-casino.net",
+        "crazeplay-casino.org",
+        "crazeplay-casino.io",
+        "crazeplay-casino.co",
+        "crazeplay-casino.casino",
+        "crazeplay-casino.bet",
+        "crazeplay-casino.site",
+        "crazeplay-casino.online",
+        "crazeplay-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CrownPlay Casino",
+      "slug": "crownplay-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "crownplay-casino",
+        "crownplay-casino.com",
+        "crownplay-casino.net",
+        "crownplay-casino.org",
+        "crownplay-casino.io",
+        "crownplay-casino.co",
+        "crownplay-casino.casino",
+        "crownplay-casino.bet",
+        "crownplay-casino.site",
+        "crownplay-casino.online",
+        "crownplay-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Crypto Games Casino",
+      "slug": "crypto-games-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "crypto-games-casino",
+        "crypto-games-casino.com",
+        "crypto-games-casino.net",
+        "crypto-games-casino.org",
+        "crypto-games-casino.io",
+        "crypto-games-casino.co",
+        "crypto-games-casino.casino",
+        "crypto-games-casino.bet",
+        "crypto-games-casino.site",
+        "crypto-games-casino.online",
+        "crypto-games-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Crypto Loko Casino",
+      "slug": "crypto-loko-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "crypto-loko-casino",
+        "crypto-loko-casino.com",
+        "crypto-loko-casino.net",
+        "crypto-loko-casino.org",
+        "crypto-loko-casino.io",
+        "crypto-loko-casino.co",
+        "crypto-loko-casino.casino",
+        "crypto-loko-casino.bet",
+        "crypto-loko-casino.site",
+        "crypto-loko-casino.online",
+        "crypto-loko-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CryptoCasino Casino",
+      "slug": "cryptocasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cryptocasino-casino",
+        "cryptocasino-casino.com",
+        "cryptocasino-casino.net",
+        "cryptocasino-casino.org",
+        "cryptocasino-casino.io",
+        "cryptocasino-casino.co",
+        "cryptocasino-casino.casino",
+        "cryptocasino-casino.bet",
+        "cryptocasino-casino.site",
+        "cryptocasino-casino.online",
+        "cryptocasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CryptoLeo Casino",
+      "slug": "cryptoleo-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cryptoleo-casino",
+        "cryptoleo-casino.com",
+        "cryptoleo-casino.net",
+        "cryptoleo-casino.org",
+        "cryptoleo-casino.io",
+        "cryptoleo-casino.co",
+        "cryptoleo-casino.casino",
+        "cryptoleo-casino.bet",
+        "cryptoleo-casino.site",
+        "cryptoleo-casino.online",
+        "cryptoleo-casino-bet.com"
+      ]
+    },
+    {
+      "name": "CryptoSlots Casino",
+      "slug": "cryptoslots-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "cryptoslots-casino",
+        "cryptoslots-casino.com",
+        "cryptoslots-casino.net",
+        "cryptoslots-casino.org",
+        "cryptoslots-casino.io",
+        "cryptoslots-casino.co",
+        "cryptoslots-casino.casino",
+        "cryptoslots-casino.bet",
+        "cryptoslots-casino.site",
+        "cryptoslots-casino.online",
+        "cryptoslots-casino-bet.com"
+      ]
+    },
+    {
+      "name": "DBbet Casino",
+      "slug": "dbbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "dbbet-casino",
+        "dbbet-casino.com",
+        "dbbet-casino.net",
+        "dbbet-casino.org",
+        "dbbet-casino.io",
+        "dbbet-casino.co",
+        "dbbet-casino.casino",
+        "dbbet-casino.bet",
+        "dbbet-casino.site",
+        "dbbet-casino.online",
+        "dbbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "DEDPRZ Casino",
+      "slug": "dedprz-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "dedprz-casino",
+        "dedprz-casino.com",
+        "dedprz-casino.net",
+        "dedprz-casino.org",
+        "dedprz-casino.io",
+        "dedprz-casino.co",
+        "dedprz-casino.casino",
+        "dedprz-casino.bet",
+        "dedprz-casino.site",
+        "dedprz-casino.online",
+        "dedprz-casino-bet.com"
+      ]
+    },
+    {
+      "name": "DaVinci's Gold Casino",
+      "slug": "davincis-gold-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "davinci-s-gold-casino",
+        "davinci-s-gold-casino.com",
+        "davinci-s-gold-casino.net",
+        "davinci-s-gold-casino.org",
+        "davinci-s-gold-casino.io",
+        "davinci-s-gold-casino.co",
+        "davinci-s-gold-casino.casino",
+        "davinci-s-gold-casino.bet",
+        "davinci-s-gold-casino.site",
+        "davinci-s-gold-casino.online",
+        "davinci-s-gold-casino-bet.com",
+        "davincis-gold-casino.com",
+        "davincis-gold-casino.net",
+        "davincis-gold-casino.org",
+        "davincis-gold-casino.io",
+        "davincis-gold-casino.co",
+        "davincis-gold-casino.casino",
+        "davincis-gold-casino.bet",
+        "davincis-gold-casino.site",
+        "davincis-gold-casino.online"
+      ]
+    },
+    {
+      "name": "DepositWin Casino",
+      "slug": "depositwin-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "depositwin-casino",
+        "depositwin-casino.com",
+        "depositwin-casino.net",
+        "depositwin-casino.org",
+        "depositwin-casino.io",
+        "depositwin-casino.co",
+        "depositwin-casino.casino",
+        "depositwin-casino.bet",
+        "depositwin-casino.site",
+        "depositwin-casino.online",
+        "depositwin-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Detective Slots Casino",
+      "slug": "detective-slots-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "detective-slots-casino",
+        "detective-slots-casino.com",
+        "detective-slots-casino.net",
+        "detective-slots-casino.org",
+        "detective-slots-casino.io",
+        "detective-slots-casino.co",
+        "detective-slots-casino.casino",
+        "detective-slots-casino.bet",
+        "detective-slots-casino.site",
+        "detective-slots-casino.online",
+        "detective-slots-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Diamond7 Casino",
+      "slug": "diamond7-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "diamond7-casino",
+        "diamond7-casino.com",
+        "diamond7-casino.net",
+        "diamond7-casino.org",
+        "diamond7-casino.io",
+        "diamond7-casino.co",
+        "diamond7-casino.casino",
+        "diamond7-casino.bet",
+        "diamond7-casino.site",
+        "diamond7-casino.online",
+        "diamond7-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Divas Luck Casino",
+      "slug": "divas-luck-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "divas-luck-casino",
+        "divas-luck-casino.com",
+        "divas-luck-casino.net",
+        "divas-luck-casino.org",
+        "divas-luck-casino.io",
+        "divas-luck-casino.co",
+        "divas-luck-casino.casino",
+        "divas-luck-casino.bet",
+        "divas-luck-casino.site",
+        "divas-luck-casino.online",
+        "divas-luck-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Dreamplay Casino",
+      "slug": "dreamplay-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "dreamplay-casino",
+        "dreamplay-casino.com",
+        "dreamplay-casino.net",
+        "dreamplay-casino.org",
+        "dreamplay-casino.io",
+        "dreamplay-casino.co",
+        "dreamplay-casino.casino",
+        "dreamplay-casino.bet",
+        "dreamplay-casino.site",
+        "dreamplay-casino.online",
+        "dreamplay-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Eclipse Casino",
+      "slug": "eclipse-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "eclipse-casino",
+        "eclipse-casino.com",
+        "eclipse-casino.net",
+        "eclipse-casino.org",
+        "eclipse-casino.io",
+        "eclipse-casino.co",
+        "eclipse-casino.casino",
+        "eclipse-casino.bet",
+        "eclipse-casino.site",
+        "eclipse-casino.online",
+        "eclipse-casino-bet.com"
+      ]
+    },
+    {
+      "name": "EmuCasino Casino",
+      "slug": "emucasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "emucasino-casino",
+        "emucasino-casino.com",
+        "emucasino-casino.net",
+        "emucasino-casino.org",
+        "emucasino-casino.io",
+        "emucasino-casino.co",
+        "emucasino-casino.casino",
+        "emucasino-casino.bet",
+        "emucasino-casino.site",
+        "emucasino-casino.online",
+        "emucasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "EnergyCasino Casino",
+      "slug": "energycasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "energycasino-casino",
+        "energycasino-casino.com",
+        "energycasino-casino.net",
+        "energycasino-casino.org",
+        "energycasino-casino.io",
+        "energycasino-casino.co",
+        "energycasino-casino.casino",
+        "energycasino-casino.bet",
+        "energycasino-casino.site",
+        "energycasino-casino.online",
+        "energycasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Euro Palace Casino",
+      "slug": "euro-palace-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "euro-palace-casino",
+        "euro-palace-casino.com",
+        "euro-palace-casino.net",
+        "euro-palace-casino.org",
+        "euro-palace-casino.io",
+        "euro-palace-casino.co",
+        "euro-palace-casino.casino",
+        "euro-palace-casino.bet",
+        "euro-palace-casino.site",
+        "euro-palace-casino.online",
+        "euro-palace-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Everygame Classic Casino",
+      "slug": "everygame-classic-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "everygame-classic-casino",
+        "everygame-classic-casino.com",
+        "everygame-classic-casino.net",
+        "everygame-classic-casino.org",
+        "everygame-classic-casino.io",
+        "everygame-classic-casino.co",
+        "everygame-classic-casino.casino",
+        "everygame-classic-casino.bet",
+        "everygame-classic-casino.site",
+        "everygame-classic-casino.online",
+        "everygame-classic-casino-bet.com"
+      ]
+    },
+    {
+      "name": "ExciteWin Casino",
+      "slug": "excitewin-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "excitewin-casino",
+        "excitewin-casino.com",
+        "excitewin-casino.net",
+        "excitewin-casino.org",
+        "excitewin-casino.io",
+        "excitewin-casino.co",
+        "excitewin-casino.casino",
+        "excitewin-casino.bet",
+        "excitewin-casino.site",
+        "excitewin-casino.online",
+        "excitewin-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Fairpari Casino",
+      "slug": "fairpari-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "fairpari-casino",
+        "fairpari-casino.com",
+        "fairpari-casino.net",
+        "fairpari-casino.org",
+        "fairpari-casino.io",
+        "fairpari-casino.co",
+        "fairpari-casino.casino",
+        "fairpari-casino.bet",
+        "fairpari-casino.site",
+        "fairpari-casino.online",
+        "fairpari-casino-bet.com"
+      ]
+    },
+    {
+      "name": "FlukyOne Casino",
+      "slug": "flukyone-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "flukyone-casino",
+        "flukyone-casino.com",
+        "flukyone-casino.net",
+        "flukyone-casino.org",
+        "flukyone-casino.io",
+        "flukyone-casino.co",
+        "flukyone-casino.casino",
+        "flukyone-casino.bet",
+        "flukyone-casino.site",
+        "flukyone-casino.online",
+        "flukyone-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Forvetbet Casino",
+      "slug": "forvetbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "forvetbet-casino",
+        "forvetbet-casino.com",
+        "forvetbet-casino.net",
+        "forvetbet-casino.org",
+        "forvetbet-casino.io",
+        "forvetbet-casino.co",
+        "forvetbet-casino.casino",
+        "forvetbet-casino.bet",
+        "forvetbet-casino.site",
+        "forvetbet-casino.online",
+        "forvetbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Free Spin Casino",
+      "slug": "free-spin-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "free-spin-casino",
+        "free-spin-casino.com",
+        "free-spin-casino.net",
+        "free-spin-casino.org",
+        "free-spin-casino.io",
+        "free-spin-casino.co",
+        "free-spin-casino.casino",
+        "free-spin-casino.bet",
+        "free-spin-casino.site",
+        "free-spin-casino.online",
+        "free-spin-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Fruits4Real Casino",
+      "slug": "fruits4real-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "fruits4real-casino",
+        "fruits4real-casino.com",
+        "fruits4real-casino.net",
+        "fruits4real-casino.org",
+        "fruits4real-casino.io",
+        "fruits4real-casino.co",
+        "fruits4real-casino.casino",
+        "fruits4real-casino.bet",
+        "fruits4real-casino.site",
+        "fruits4real-casino.online",
+        "fruits4real-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Fullhouse Casino",
+      "slug": "fullhouse-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "fullhouse-casino",
+        "fullhouse-casino.com",
+        "fullhouse-casino.net",
+        "fullhouse-casino.org",
+        "fullhouse-casino.io",
+        "fullhouse-casino.co",
+        "fullhouse-casino.casino",
+        "fullhouse-casino.bet",
+        "fullhouse-casino.site",
+        "fullhouse-casino.online",
+        "fullhouse-casino-bet.com"
+      ]
+    },
+    {
+      "name": "FunBetCasino Casino",
+      "slug": "funbetcasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "funbetcasino-casino",
+        "funbetcasino-casino.com",
+        "funbetcasino-casino.net",
+        "funbetcasino-casino.org",
+        "funbetcasino-casino.io",
+        "funbetcasino-casino.co",
+        "funbetcasino-casino.casino",
+        "funbetcasino-casino.bet",
+        "funbetcasino-casino.site",
+        "funbetcasino-casino.online",
+        "funbetcasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "GGPoker Casino",
+      "slug": "ggpoker-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "ggpoker-casino",
+        "ggpoker-casino.com",
+        "ggpoker-casino.net",
+        "ggpoker-casino.org",
+        "ggpoker-casino.io",
+        "ggpoker-casino.co",
+        "ggpoker-casino.casino",
+        "ggpoker-casino.bet",
+        "ggpoker-casino.site",
+        "ggpoker-casino.online",
+        "ggpoker-casino-bet.com"
+      ]
+    },
+    {
+      "name": "GentingCasino Casino",
+      "slug": "gentingcasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "gentingcasino-casino",
+        "gentingcasino-casino.com",
+        "gentingcasino-casino.net",
+        "gentingcasino-casino.org",
+        "gentingcasino-casino.io",
+        "gentingcasino-casino.co",
+        "gentingcasino-casino.casino",
+        "gentingcasino-casino.bet",
+        "gentingcasino-casino.site",
+        "gentingcasino-casino.online",
+        "gentingcasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "GladiatorsBet Casino",
+      "slug": "gladiatorsbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "gladiatorsbet-casino",
+        "gladiatorsbet-casino.com",
+        "gladiatorsbet-casino.net",
+        "gladiatorsbet-casino.org",
+        "gladiatorsbet-casino.io",
+        "gladiatorsbet-casino.co",
+        "gladiatorsbet-casino.casino",
+        "gladiatorsbet-casino.bet",
+        "gladiatorsbet-casino.site",
+        "gladiatorsbet-casino.online",
+        "gladiatorsbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Golden Reef Casino",
+      "slug": "golden-reef-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "golden-reef-casino",
+        "golden-reef-casino.com",
+        "golden-reef-casino.net",
+        "golden-reef-casino.org",
+        "golden-reef-casino.io",
+        "golden-reef-casino.co",
+        "golden-reef-casino.casino",
+        "golden-reef-casino.bet",
+        "golden-reef-casino.site",
+        "golden-reef-casino.online",
+        "golden-reef-casino-bet.com"
+      ]
+    },
+    {
+      "name": "GoldenBahis Casino",
+      "slug": "goldenbahis-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "goldenbahis-casino",
+        "goldenbahis-casino.com",
+        "goldenbahis-casino.net",
+        "goldenbahis-casino.org",
+        "goldenbahis-casino.io",
+        "goldenbahis-casino.co",
+        "goldenbahis-casino.casino",
+        "goldenbahis-casino.bet",
+        "goldenbahis-casino.site",
+        "goldenbahis-casino.online",
+        "goldenbahis-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Goldfishka Casino",
+      "slug": "goldfishka-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "goldfishka-casino",
+        "goldfishka-casino.com",
+        "goldfishka-casino.net",
+        "goldfishka-casino.org",
+        "goldfishka-casino.io",
+        "goldfishka-casino.co",
+        "goldfishka-casino.casino",
+        "goldfishka-casino.bet",
+        "goldfishka-casino.site",
+        "goldfishka-casino.online",
+        "goldfishka-casino-bet.com"
+      ]
+    },
+    {
+      "name": "GoodDayForPlay (GDF Play) Casino",
+      "slug": "gooddayforplay-gdf-play-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "gooddayforplay-gdf-play-casino",
+        "gooddayforplay-gdf-play-casino.com",
+        "gooddayforplay-gdf-play-casino.net",
+        "gooddayforplay-gdf-play-casino.org",
+        "gooddayforplay-gdf-play-casino.io",
+        "gooddayforplay-gdf-play-casino.co",
+        "gooddayforplay-gdf-play-casino.casino",
+        "gooddayforplay-gdf-play-casino.bet",
+        "gooddayforplay-gdf-play-casino.site",
+        "gooddayforplay-gdf-play-casino.online",
+        "gooddayforplay-gdf-play-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Grand Club Casino",
+      "slug": "grand-club-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "grand-club-casino",
+        "grand-club-casino.com",
+        "grand-club-casino.net",
+        "grand-club-casino.org",
+        "grand-club-casino.io",
+        "grand-club-casino.co",
+        "grand-club-casino.casino",
+        "grand-club-casino.bet",
+        "grand-club-casino.site",
+        "grand-club-casino.online",
+        "grand-club-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Great Britain Casino",
+      "slug": "great-britain-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "great-britain-casino",
+        "great-britain-casino.com",
+        "great-britain-casino.net",
+        "great-britain-casino.org",
+        "great-britain-casino.io",
+        "great-britain-casino.co",
+        "great-britain-casino.casino",
+        "great-britain-casino.bet",
+        "great-britain-casino.site",
+        "great-britain-casino.online",
+        "great-britain-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Great Slots Casino",
+      "slug": "great-slots-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "great-slots-casino",
+        "great-slots-casino.com",
+        "great-slots-casino.net",
+        "great-slots-casino.org",
+        "great-slots-casino.io",
+        "great-slots-casino.co",
+        "great-slots-casino.casino",
+        "great-slots-casino.bet",
+        "great-slots-casino.site",
+        "great-slots-casino.online",
+        "great-slots-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Hit Me Bet Casino",
+      "slug": "hit-me-bet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "hit-me-bet-casino",
+        "hit-me-bet-casino.com",
+        "hit-me-bet-casino.net",
+        "hit-me-bet-casino.org",
+        "hit-me-bet-casino.io",
+        "hit-me-bet-casino.co",
+        "hit-me-bet-casino.casino",
+        "hit-me-bet-casino.bet",
+        "hit-me-bet-casino.site",
+        "hit-me-bet-casino.online",
+        "hit-me-bet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Horse Racing Betting Casino",
+      "slug": "horse-racing-betting-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "horse-racing-betting-casino",
+        "horse-racing-betting-casino.com",
+        "horse-racing-betting-casino.net",
+        "horse-racing-betting-casino.org",
+        "horse-racing-betting-casino.io",
+        "horse-racing-betting-casino.co",
+        "horse-racing-betting-casino.casino",
+        "horse-racing-betting-casino.bet",
+        "horse-racing-betting-casino.site",
+        "horse-racing-betting-casino.online",
+        "horse-racing-betting-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Hype Kasino Casino",
+      "slug": "hype-kasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "hype-kasino-casino",
+        "hype-kasino-casino.com",
+        "hype-kasino-casino.net",
+        "hype-kasino-casino.org",
+        "hype-kasino-casino.io",
+        "hype-kasino-casino.co",
+        "hype-kasino-casino.casino",
+        "hype-kasino-casino.bet",
+        "hype-kasino-casino.site",
+        "hype-kasino-casino.online",
+        "hype-kasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "IceCasino Casino",
+      "slug": "icecasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "icecasino-casino",
+        "icecasino-casino.com",
+        "icecasino-casino.net",
+        "icecasino-casino.org",
+        "icecasino-casino.io",
+        "icecasino-casino.co",
+        "icecasino-casino.casino",
+        "icecasino-casino.bet",
+        "icecasino-casino.site",
+        "icecasino-casino.online",
+        "icecasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Intobet Casino",
+      "slug": "intobet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "intobet-casino",
+        "intobet-casino.com",
+        "intobet-casino.net",
+        "intobet-casino.org",
+        "intobet-casino.io",
+        "intobet-casino.co",
+        "intobet-casino.casino",
+        "intobet-casino.bet",
+        "intobet-casino.site",
+        "intobet-casino.online",
+        "intobet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "JVspinbet Casino",
+      "slug": "jvspinbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "jvspinbet-casino",
+        "jvspinbet-casino.com",
+        "jvspinbet-casino.net",
+        "jvspinbet-casino.org",
+        "jvspinbet-casino.io",
+        "jvspinbet-casino.co",
+        "jvspinbet-casino.casino",
+        "jvspinbet-casino.bet",
+        "jvspinbet-casino.site",
+        "jvspinbet-casino.online",
+        "jvspinbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Jackpot Paradise Casino",
+      "slug": "jackpot-paradise-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "jackpot-paradise-casino",
+        "jackpot-paradise-casino.com",
+        "jackpot-paradise-casino.net",
+        "jackpot-paradise-casino.org",
+        "jackpot-paradise-casino.io",
+        "jackpot-paradise-casino.co",
+        "jackpot-paradise-casino.casino",
+        "jackpot-paradise-casino.bet",
+        "jackpot-paradise-casino.site",
+        "jackpot-paradise-casino.online",
+        "jackpot-paradise-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Jazzy Spins Casino",
+      "slug": "jazzy-spins-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "jazzy-spins-casino",
+        "jazzy-spins-casino.com",
+        "jazzy-spins-casino.net",
+        "jazzy-spins-casino.org",
+        "jazzy-spins-casino.io",
+        "jazzy-spins-casino.co",
+        "jazzy-spins-casino.casino",
+        "jazzy-spins-casino.bet",
+        "jazzy-spins-casino.site",
+        "jazzy-spins-casino.online",
+        "jazzy-spins-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Jumba Bet Casino",
+      "slug": "jumba-bet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "jumba-bet-casino",
+        "jumba-bet-casino.com",
+        "jumba-bet-casino.net",
+        "jumba-bet-casino.org",
+        "jumba-bet-casino.io",
+        "jumba-bet-casino.co",
+        "jumba-bet-casino.casino",
+        "jumba-bet-casino.bet",
+        "jumba-bet-casino.site",
+        "jumba-bet-casino.online",
+        "jumba-bet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Jurassic Slots Casino",
+      "slug": "jurassic-slots-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "jurassic-slots-casino",
+        "jurassic-slots-casino.com",
+        "jurassic-slots-casino.net",
+        "jurassic-slots-casino.org",
+        "jurassic-slots-casino.io",
+        "jurassic-slots-casino.co",
+        "jurassic-slots-casino.casino",
+        "jurassic-slots-casino.bet",
+        "jurassic-slots-casino.site",
+        "jurassic-slots-casino.online",
+        "jurassic-slots-casino-bet.com"
+      ]
+    },
+    {
+      "name": "JustCasino Crypto Casino",
+      "slug": "justcasino-crypto-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "justcasino-crypto-casino",
+        "justcasino-crypto-casino.com",
+        "justcasino-crypto-casino.net",
+        "justcasino-crypto-casino.org",
+        "justcasino-crypto-casino.io",
+        "justcasino-crypto-casino.co",
+        "justcasino-crypto-casino.casino",
+        "justcasino-crypto-casino.bet",
+        "justcasino-crypto-casino.site",
+        "justcasino-crypto-casino.online",
+        "justcasino-crypto-casino-bet.com"
+      ]
+    },
+    {
+      "name": "KikoBet Casino",
+      "slug": "kikobet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "kikobet-casino",
+        "kikobet-casino.com",
+        "kikobet-casino.net",
+        "kikobet-casino.org",
+        "kikobet-casino.io",
+        "kikobet-casino.co",
+        "kikobet-casino.casino",
+        "kikobet-casino.bet",
+        "kikobet-casino.site",
+        "kikobet-casino.online",
+        "kikobet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "KingPalace Casino",
+      "slug": "kingpalace-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "kingpalace-casino",
+        "kingpalace-casino.com",
+        "kingpalace-casino.net",
+        "kingpalace-casino.org",
+        "kingpalace-casino.io",
+        "kingpalace-casino.co",
+        "kingpalace-casino.casino",
+        "kingpalace-casino.bet",
+        "kingpalace-casino.site",
+        "kingpalace-casino.online",
+        "kingpalace-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Kryptosino Casino",
+      "slug": "kryptosino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "kryptosino-casino",
+        "kryptosino-casino.com",
+        "kryptosino-casino.net",
+        "kryptosino-casino.org",
+        "kryptosino-casino.io",
+        "kryptosino-casino.co",
+        "kryptosino-casino.casino",
+        "kryptosino-casino.bet",
+        "kryptosino-casino.site",
+        "kryptosino-casino.online",
+        "kryptosino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "LadyLuck Casino",
+      "slug": "ladyluck-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "ladyluck-casino",
+        "ladyluck-casino.com",
+        "ladyluck-casino.net",
+        "ladyluck-casino.org",
+        "ladyluck-casino.io",
+        "ladyluck-casino.co",
+        "ladyluck-casino.casino",
+        "ladyluck-casino.bet",
+        "ladyluck-casino.site",
+        "ladyluck-casino.online",
+        "ladyluck-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lekkerbets Casino",
+      "slug": "lekkerbets-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lekkerbets-casino",
+        "lekkerbets-casino.com",
+        "lekkerbets-casino.net",
+        "lekkerbets-casino.org",
+        "lekkerbets-casino.io",
+        "lekkerbets-casino.co",
+        "lekkerbets-casino.casino",
+        "lekkerbets-casino.bet",
+        "lekkerbets-casino.site",
+        "lekkerbets-casino.online",
+        "lekkerbets-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Love2Play Casino",
+      "slug": "love2play-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "love2play-casino",
+        "love2play-casino.com",
+        "love2play-casino.net",
+        "love2play-casino.org",
+        "love2play-casino.io",
+        "love2play-casino.co",
+        "love2play-casino.casino",
+        "love2play-casino.bet",
+        "love2play-casino.site",
+        "love2play-casino.online",
+        "love2play-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky Bonanza Casino",
+      "slug": "lucky-bonanza-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky-bonanza-casino",
+        "lucky-bonanza-casino.com",
+        "lucky-bonanza-casino.net",
+        "lucky-bonanza-casino.org",
+        "lucky-bonanza-casino.io",
+        "lucky-bonanza-casino.co",
+        "lucky-bonanza-casino.casino",
+        "lucky-bonanza-casino.bet",
+        "lucky-bonanza-casino.site",
+        "lucky-bonanza-casino.online",
+        "lucky-bonanza-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky Bull Casino",
+      "slug": "lucky-bull-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky-bull-casino",
+        "lucky-bull-casino.com",
+        "lucky-bull-casino.net",
+        "lucky-bull-casino.org",
+        "lucky-bull-casino.io",
+        "lucky-bull-casino.co",
+        "lucky-bull-casino.casino",
+        "lucky-bull-casino.bet",
+        "lucky-bull-casino.site",
+        "lucky-bull-casino.online",
+        "lucky-bull-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky Emperor Casino",
+      "slug": "lucky-emperor-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky-emperor-casino",
+        "lucky-emperor-casino.com",
+        "lucky-emperor-casino.net",
+        "lucky-emperor-casino.org",
+        "lucky-emperor-casino.io",
+        "lucky-emperor-casino.co",
+        "lucky-emperor-casino.casino",
+        "lucky-emperor-casino.bet",
+        "lucky-emperor-casino.site",
+        "lucky-emperor-casino.online",
+        "lucky-emperor-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky Niki Casino",
+      "slug": "lucky-niki-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky-niki-casino",
+        "lucky-niki-casino.com",
+        "lucky-niki-casino.net",
+        "lucky-niki-casino.org",
+        "lucky-niki-casino.io",
+        "lucky-niki-casino.co",
+        "lucky-niki-casino.casino",
+        "lucky-niki-casino.bet",
+        "lucky-niki-casino.site",
+        "lucky-niki-casino.online",
+        "lucky-niki-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky Owl Club Casino",
+      "slug": "lucky-owl-club-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky-owl-club-casino",
+        "lucky-owl-club-casino.com",
+        "lucky-owl-club-casino.net",
+        "lucky-owl-club-casino.org",
+        "lucky-owl-club-casino.io",
+        "lucky-owl-club-casino.co",
+        "lucky-owl-club-casino.casino",
+        "lucky-owl-club-casino.bet",
+        "lucky-owl-club-casino.site",
+        "lucky-owl-club-casino.online",
+        "lucky-owl-club-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lucky.fun Casino",
+      "slug": "luckyfun-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucky.fun-casino",
+        "lucky.fun-casino.com",
+        "lucky.fun-casino.net",
+        "lucky.fun-casino.org",
+        "lucky.fun-casino.io",
+        "lucky.fun-casino.co",
+        "lucky.fun-casino.casino",
+        "lucky.fun-casino.bet",
+        "lucky.fun-casino.site",
+        "lucky.fun-casino.online",
+        "lucky.fun-casino-bet.com",
+        "luckyfun-casino.com",
+        "luckyfun-casino.net",
+        "luckyfun-casino.org",
+        "luckyfun-casino.io",
+        "luckyfun-casino.co",
+        "luckyfun-casino.casino",
+        "luckyfun-casino.bet",
+        "luckyfun-casino.site",
+        "luckyfun-casino.online"
+      ]
+    },
+    {
+      "name": "LuckyHour Casino",
+      "slug": "luckyhour-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "luckyhour-casino",
+        "luckyhour-casino.com",
+        "luckyhour-casino.net",
+        "luckyhour-casino.org",
+        "luckyhour-casino.io",
+        "luckyhour-casino.co",
+        "luckyhour-casino.casino",
+        "luckyhour-casino.bet",
+        "luckyhour-casino.site",
+        "luckyhour-casino.online",
+        "luckyhour-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Lucy's Casino",
+      "slug": "lucys-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "lucy-s-casino",
+        "lucy-s-casino.com",
+        "lucy-s-casino.net",
+        "lucy-s-casino.org",
+        "lucy-s-casino.io",
+        "lucy-s-casino.co",
+        "lucy-s-casino.casino",
+        "lucy-s-casino.bet",
+        "lucy-s-casino.site",
+        "lucy-s-casino.online",
+        "lucy-s-casino-bet.com",
+        "lucys-casino.com",
+        "lucys-casino.net",
+        "lucys-casino.org",
+        "lucys-casino.io",
+        "lucys-casino.co",
+        "lucys-casino.casino",
+        "lucys-casino.bet",
+        "lucys-casino.site",
+        "lucys-casino.online"
+      ]
+    },
+    {
+      "name": "MAXiBET Casino",
+      "slug": "maxibet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "maxibet-casino",
+        "maxibet-casino.com",
+        "maxibet-casino.net",
+        "maxibet-casino.org",
+        "maxibet-casino.io",
+        "maxibet-casino.co",
+        "maxibet-casino.casino",
+        "maxibet-casino.bet",
+        "maxibet-casino.site",
+        "maxibet-casino.online",
+        "maxibet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "MadCasino Casino",
+      "slug": "madcasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "madcasino-casino",
+        "madcasino-casino.com",
+        "madcasino-casino.net",
+        "madcasino-casino.org",
+        "madcasino-casino.io",
+        "madcasino-casino.co",
+        "madcasino-casino.casino",
+        "madcasino-casino.bet",
+        "madcasino-casino.site",
+        "madcasino-casino.online",
+        "madcasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Martin Casino",
+      "slug": "martin-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "martin-casino",
+        "martin-casino.com",
+        "martin-casino.net",
+        "martin-casino.org",
+        "martin-casino.io",
+        "martin-casino.co",
+        "martin-casino.casino",
+        "martin-casino.bet",
+        "martin-casino.site",
+        "martin-casino.online",
+        "martin-casino-bet.com"
+      ]
+    },
+    {
+      "name": "MaxiPlay Casino",
+      "slug": "maxiplay-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "maxiplay-casino",
+        "maxiplay-casino.com",
+        "maxiplay-casino.net",
+        "maxiplay-casino.org",
+        "maxiplay-casino.io",
+        "maxiplay-casino.co",
+        "maxiplay-casino.casino",
+        "maxiplay-casino.bet",
+        "maxiplay-casino.site",
+        "maxiplay-casino.online",
+        "maxiplay-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Maxxwin Casino",
+      "slug": "maxxwin-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "maxxwin-casino",
+        "maxxwin-casino.com",
+        "maxxwin-casino.net",
+        "maxxwin-casino.org",
+        "maxxwin-casino.io",
+        "maxxwin-casino.co",
+        "maxxwin-casino.casino",
+        "maxxwin-casino.bet",
+        "maxxwin-casino.site",
+        "maxxwin-casino.online",
+        "maxxwin-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Metawin Casino",
+      "slug": "metawin-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "metawin-casino",
+        "metawin-casino.com",
+        "metawin-casino.net",
+        "metawin-casino.org",
+        "metawin-casino.io",
+        "metawin-casino.co",
+        "metawin-casino.casino",
+        "metawin-casino.bet",
+        "metawin-casino.site",
+        "metawin-casino.online",
+        "metawin-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Milky Way Casino",
+      "slug": "milky-way-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "milky-way-casino",
+        "milky-way-casino.com",
+        "milky-way-casino.net",
+        "milky-way-casino.org",
+        "milky-way-casino.io",
+        "milky-way-casino.co",
+        "milky-way-casino.casino",
+        "milky-way-casino.bet",
+        "milky-way-casino.site",
+        "milky-way-casino.online",
+        "milky-way-casino-bet.com"
+      ]
+    },
+    {
+      "name": "MobileWins Casino",
+      "slug": "mobilewins-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "mobilewins-casino",
+        "mobilewins-casino.com",
+        "mobilewins-casino.net",
+        "mobilewins-casino.org",
+        "mobilewins-casino.io",
+        "mobilewins-casino.co",
+        "mobilewins-casino.casino",
+        "mobilewins-casino.bet",
+        "mobilewins-casino.site",
+        "mobilewins-casino.online",
+        "mobilewins-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Monkey Tilt Casino",
+      "slug": "monkey-tilt-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "monkey-tilt-casino",
+        "monkey-tilt-casino.com",
+        "monkey-tilt-casino.net",
+        "monkey-tilt-casino.org",
+        "monkey-tilt-casino.io",
+        "monkey-tilt-casino.co",
+        "monkey-tilt-casino.casino",
+        "monkey-tilt-casino.bet",
+        "monkey-tilt-casino.site",
+        "monkey-tilt-casino.online",
+        "monkey-tilt-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Mr Mobi Casino",
+      "slug": "mr-mobi-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "mr-mobi-casino",
+        "mr-mobi-casino.com",
+        "mr-mobi-casino.net",
+        "mr-mobi-casino.org",
+        "mr-mobi-casino.io",
+        "mr-mobi-casino.co",
+        "mr-mobi-casino.casino",
+        "mr-mobi-casino.bet",
+        "mr-mobi-casino.site",
+        "mr-mobi-casino.online",
+        "mr-mobi-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Mr SuperPlay",
+      "slug": "mr-superplay",
+      "reason": "No valid website found",
+      "candidates": [
+        "mr-superplay",
+        "mr-superplay.com",
+        "mr-superplay.net",
+        "mr-superplay.org",
+        "mr-superplay.io",
+        "mr-superplay.co",
+        "mr-superplay.casino",
+        "mr-superplay.bet",
+        "mr-superplay.site",
+        "mr-superplay.online",
+        "mr-superplay-casino.com",
+        "mr-superplay-bet.com"
+      ]
+    },
+    {
+      "name": "MrJackVegas Casino",
+      "slug": "mrjackvegas-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "mrjackvegas-casino",
+        "mrjackvegas-casino.com",
+        "mrjackvegas-casino.net",
+        "mrjackvegas-casino.org",
+        "mrjackvegas-casino.io",
+        "mrjackvegas-casino.co",
+        "mrjackvegas-casino.casino",
+        "mrjackvegas-casino.bet",
+        "mrjackvegas-casino.site",
+        "mrjackvegas-casino.online",
+        "mrjackvegas-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Music Hall Casino",
+      "slug": "music-hall-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "music-hall-casino",
+        "music-hall-casino.com",
+        "music-hall-casino.net",
+        "music-hall-casino.org",
+        "music-hall-casino.io",
+        "music-hall-casino.co",
+        "music-hall-casino.casino",
+        "music-hall-casino.bet",
+        "music-hall-casino.site",
+        "music-hall-casino.online",
+        "music-hall-casino-bet.com"
+      ]
+    },
+    {
+      "name": "NineCasino Casino",
+      "slug": "ninecasino-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "ninecasino-casino",
+        "ninecasino-casino.com",
+        "ninecasino-casino.net",
+        "ninecasino-casino.org",
+        "ninecasino-casino.io",
+        "ninecasino-casino.co",
+        "ninecasino-casino.casino",
+        "ninecasino-casino.bet",
+        "ninecasino-casino.site",
+        "ninecasino-casino.online",
+        "ninecasino-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Niyvi Casino",
+      "slug": "niyvi-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "niyvi-casino",
+        "niyvi-casino.com",
+        "niyvi-casino.net",
+        "niyvi-casino.org",
+        "niyvi-casino.io",
+        "niyvi-casino.co",
+        "niyvi-casino.casino",
+        "niyvi-casino.bet",
+        "niyvi-casino.site",
+        "niyvi-casino.online",
+        "niyvi-casino-bet.com"
+      ]
+    },
+    {
+      "name": "No Bonus Casino",
+      "slug": "no-bonus-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "no-bonus-casino",
+        "no-bonus-casino.com",
+        "no-bonus-casino.net",
+        "no-bonus-casino.org",
+        "no-bonus-casino.io",
+        "no-bonus-casino.co",
+        "no-bonus-casino.casino",
+        "no-bonus-casino.bet",
+        "no-bonus-casino.site",
+        "no-bonus-casino.online",
+        "no-bonus-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Oh My Spins Casino",
+      "slug": "oh-my-spins-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "oh-my-spins-casino",
+        "oh-my-spins-casino.com",
+        "oh-my-spins-casino.net",
+        "oh-my-spins-casino.org",
+        "oh-my-spins-casino.io",
+        "oh-my-spins-casino.co",
+        "oh-my-spins-casino.casino",
+        "oh-my-spins-casino.bet",
+        "oh-my-spins-casino.site",
+        "oh-my-spins-casino.online",
+        "oh-my-spins-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Opabet Casino",
+      "slug": "opabet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "opabet-casino",
+        "opabet-casino.com",
+        "opabet-casino.net",
+        "opabet-casino.org",
+        "opabet-casino.io",
+        "opabet-casino.co",
+        "opabet-casino.casino",
+        "opabet-casino.bet",
+        "opabet-casino.site",
+        "opabet-casino.online",
+        "opabet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Osombet Casino",
+      "slug": "osombet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "osombet-casino",
+        "osombet-casino.com",
+        "osombet-casino.net",
+        "osombet-casino.org",
+        "osombet-casino.io",
+        "osombet-casino.co",
+        "osombet-casino.casino",
+        "osombet-casino.bet",
+        "osombet-casino.site",
+        "osombet-casino.online",
+        "osombet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Ovitoons Casino",
+      "slug": "ovitoons-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "ovitoons-casino",
+        "ovitoons-casino.com",
+        "ovitoons-casino.net",
+        "ovitoons-casino.org",
+        "ovitoons-casino.io",
+        "ovitoons-casino.co",
+        "ovitoons-casino.casino",
+        "ovitoons-casino.bet",
+        "ovitoons-casino.site",
+        "ovitoons-casino.online",
+        "ovitoons-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Pinnacle Sports Casino",
+      "slug": "pinnacle-sports-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "pinnacle-sports-casino",
+        "pinnacle-sports-casino.com",
+        "pinnacle-sports-casino.net",
+        "pinnacle-sports-casino.org",
+        "pinnacle-sports-casino.io",
+        "pinnacle-sports-casino.co",
+        "pinnacle-sports-casino.casino",
+        "pinnacle-sports-casino.bet",
+        "pinnacle-sports-casino.site",
+        "pinnacle-sports-casino.online",
+        "pinnacle-sports-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Placebet.io Casino",
+      "slug": "placebetio-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "placebet.io-casino",
+        "placebet.io-casino.com",
+        "placebet.io-casino.net",
+        "placebet.io-casino.org",
+        "placebet.io-casino.io",
+        "placebet.io-casino.co",
+        "placebet.io-casino.casino",
+        "placebet.io-casino.bet",
+        "placebet.io-casino.site",
+        "placebet.io-casino.online",
+        "placebet.io-casino-bet.com",
+        "placebetio-casino.com",
+        "placebetio-casino.net",
+        "placebetio-casino.org",
+        "placebetio-casino.io",
+        "placebetio-casino.co",
+        "placebetio-casino.casino",
+        "placebetio-casino.bet",
+        "placebetio-casino.site",
+        "placebetio-casino.online"
+      ]
+    },
+    {
+      "name": "Platinum Play Casino",
+      "slug": "platinum-play-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "platinum-play-casino",
+        "platinum-play-casino.com",
+        "platinum-play-casino.net",
+        "platinum-play-casino.org",
+        "platinum-play-casino.io",
+        "platinum-play-casino.co",
+        "platinum-play-casino.casino",
+        "platinum-play-casino.bet",
+        "platinum-play-casino.site",
+        "platinum-play-casino.online",
+        "platinum-play-casino-bet.com"
+      ]
+    },
+    {
+      "name": "PlayMojo Casino",
+      "slug": "playmojo-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "playmojo-casino",
+        "playmojo-casino.com",
+        "playmojo-casino.net",
+        "playmojo-casino.org",
+        "playmojo-casino.io",
+        "playmojo-casino.co",
+        "playmojo-casino.casino",
+        "playmojo-casino.bet",
+        "playmojo-casino.site",
+        "playmojo-casino.online",
+        "playmojo-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Players Palace Casino",
+      "slug": "players-palace-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "players-palace-casino",
+        "players-palace-casino.com",
+        "players-palace-casino.net",
+        "players-palace-casino.org",
+        "players-palace-casino.io",
+        "players-palace-casino.co",
+        "players-palace-casino.casino",
+        "players-palace-casino.bet",
+        "players-palace-casino.site",
+        "players-palace-casino.online",
+        "players-palace-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Power Slots Casino",
+      "slug": "power-slots-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "power-slots-casino",
+        "power-slots-casino.com",
+        "power-slots-casino.net",
+        "power-slots-casino.org",
+        "power-slots-casino.io",
+        "power-slots-casino.co",
+        "power-slots-casino.casino",
+        "power-slots-casino.bet",
+        "power-slots-casino.site",
+        "power-slots-casino.online",
+        "power-slots-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Qbet.com Casino",
+      "slug": "qbetcom-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "qbet.com-casino",
+        "qbet.com-casino.com",
+        "qbet.com-casino.net",
+        "qbet.com-casino.org",
+        "qbet.com-casino.io",
+        "qbet.com-casino.co",
+        "qbet.com-casino.casino",
+        "qbet.com-casino.bet",
+        "qbet.com-casino.site",
+        "qbet.com-casino.online",
+        "qbet.com-casino-bet.com",
+        "qbetcom-casino.com",
+        "qbetcom-casino.net",
+        "qbetcom-casino.org",
+        "qbetcom-casino.io",
+        "qbetcom-casino.co",
+        "qbetcom-casino.casino",
+        "qbetcom-casino.bet",
+        "qbetcom-casino.site",
+        "qbetcom-casino.online"
+      ]
+    },
+    {
+      "name": "Ramenbet Casino",
+      "slug": "ramenbet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "ramenbet-casino",
+        "ramenbet-casino.com",
+        "ramenbet-casino.net",
+        "ramenbet-casino.org",
+        "ramenbet-casino.io",
+        "ramenbet-casino.co",
+        "ramenbet-casino.casino",
+        "ramenbet-casino.bet",
+        "ramenbet-casino.site",
+        "ramenbet-casino.online",
+        "ramenbet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "RedAxePlay Casino",
+      "slug": "redaxeplay-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "redaxeplay-casino",
+        "redaxeplay-casino.com",
+        "redaxeplay-casino.net",
+        "redaxeplay-casino.org",
+        "redaxeplay-casino.io",
+        "redaxeplay-casino.co",
+        "redaxeplay-casino.casino",
+        "redaxeplay-casino.bet",
+        "redaxeplay-casino.site",
+        "redaxeplay-casino.online",
+        "redaxeplay-casino-bet.com"
+      ]
+    },
+    {
+      "name": "RedStar Casino",
+      "slug": "redstar-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "redstar-casino",
+        "redstar-casino.com",
+        "redstar-casino.net",
+        "redstar-casino.org",
+        "redstar-casino.io",
+        "redstar-casino.co",
+        "redstar-casino.casino",
+        "redstar-casino.bet",
+        "redstar-casino.site",
+        "redstar-casino.online",
+        "redstar-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Regal Casino",
+      "slug": "regal-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "regal-casino",
+        "regal-casino.com",
+        "regal-casino.net",
+        "regal-casino.org",
+        "regal-casino.io",
+        "regal-casino.co",
+        "regal-casino.casino",
+        "regal-casino.bet",
+        "regal-casino.site",
+        "regal-casino.online",
+        "regal-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Rembrandt Casino",
+      "slug": "rembrandt-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "rembrandt-casino",
+        "rembrandt-casino.com",
+        "rembrandt-casino.net",
+        "rembrandt-casino.org",
+        "rembrandt-casino.io",
+        "rembrandt-casino.co",
+        "rembrandt-casino.casino",
+        "rembrandt-casino.bet",
+        "rembrandt-casino.site",
+        "rembrandt-casino.online",
+        "rembrandt-casino-bet.com"
+      ]
+    },
+    {
+      "name": "RetroBet Casino",
+      "slug": "retrobet-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "retrobet-casino",
+        "retrobet-casino.com",
+        "retrobet-casino.net",
+        "retrobet-casino.org",
+        "retrobet-casino.io",
+        "retrobet-casino.co",
+        "retrobet-casino.casino",
+        "retrobet-casino.bet",
+        "retrobet-casino.site",
+        "retrobet-casino.online",
+        "retrobet-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Rich Reels Casino",
+      "slug": "rich-reels-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "rich-reels-casino",
+        "rich-reels-casino.com",
+        "rich-reels-casino.net",
+        "rich-reels-casino.org",
+        "rich-reels-casino.io",
+        "rich-reels-casino.co",
+        "rich-reels-casino.casino",
+        "rich-reels-casino.bet",
+        "rich-reels-casino.site",
+        "rich-reels-casino.online",
+        "rich-reels-casino-bet.com"
+      ]
+    },
+    {
+      "name": "Rise of Bets Casino",
+      "slug": "rise-of-bets-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "rise-of-bets-casino",
+        "rise-of-bets-casino.com",
+        "rise-of-bets-casino.net",
+        "rise-of-bets-casino.org",
+        "rise-of-bets-casino.io",
+        "rise-of-bets-casino.co",
+        "rise-of-bets-casino.casino",
+        "rise-of-bets-casino.bet",
+        "rise-of-bets-casino.site",
+        "rise-of-bets-casino.online",
+        "rise-of-bets-casino-bet.com"
+      ]
+    },
+    {
+      "name": "RitzSlots Casino",
+      "slug": "ritzslots-casino",
+      "reason": "No valid website found",
+      "candidates": [
+        "ritzslots-casino",
+        "ritzslots-casino.com",
+        "ritzslots-casino.net",
+        "ritzslots-casino.org",
+        "ritzslots-casino.io",
+        "ritzslots-casino.co",
+        "ritzslots-casino.casino",
+        "ritzslots-casino.bet",
+        "ritzslots-casino.site",
+        "ritzslots-casino.online",
+        "ritzslots-casino-bet.com"
+      ]
+    }
+  ],
+  "duplicateSlugEntries": [
+    {
+      "name": "Bitsler",
+      "slug": "bitsler"
+    },
+    {
+      "name": "Bizzo",
+      "slug": "bizzo"
+    },
+    {
+      "name": "Cherry Gold",
+      "slug": "cherry-gold"
+    },
+    {
+      "name": "Eddy Vegas",
+      "slug": "eddy-vegas"
+    },
+    {
+      "name": "FortuneJack",
+      "slug": "fortunejack"
+    },
+    {
+      "name": "Horus",
+      "slug": "horus"
+    },
+    {
+      "name": "HotSlots",
+      "slug": "hotslots"
+    },
+    {
+      "name": "Maria",
+      "slug": "maria"
+    },
+    {
+      "name": "Nextbet",
+      "slug": "nextbet"
+    },
+    {
+      "name": "Q88Bets",
+      "slug": "q88bets"
+    },
+    {
+      "name": "ReloadBet",
+      "slug": "reloadbet"
+    }
+  ],
+  "duplicateHostEntries": [
+    {
+      "name": "Betway Casino",
+      "slug": "betway-casino",
+      "host": "betway-casino.com",
+      "website": "https://betway-casino.com/"
+    },
+    {
+      "name": "Dazzle Casino",
+      "slug": "dazzle-casino",
+      "host": "dazzle-casino.com",
+      "website": "https://dazzle-casino.com/"
+    },
+    {
+      "name": "Dream Royale Casino",
+      "slug": "dream-royale-casino",
+      "host": "dream-royale-casino.com",
+      "website": "https://dream-royale-casino.com/"
+    },
+    {
+      "name": "GoldBet Casino",
+      "slug": "goldbet-casino",
+      "host": "goldbet-casino.com",
+      "website": "https://goldbet-casino.com/"
+    },
+    {
+      "name": "Grand Hotel Casino",
+      "slug": "grand-hotel-casino",
+      "host": "grand-hotel-casino.com",
+      "website": "https://grand-hotel-casino.com/"
+    },
+    {
+      "name": "Jackpot Wheel Casino",
+      "slug": "jackpot-wheel-casino",
+      "host": "jackpot-wheel-casino.com",
+      "website": "https://jackpot-wheel-casino.com/"
+    },
+    {
+      "name": "Justbit Casino",
+      "slug": "justbit-casino",
+      "host": "justbit-casino.com",
+      "website": "https://justbit-casino.com/"
+    },
+    {
+      "name": "Kitty Cat Casino",
+      "slug": "kitty-cat-casino",
+      "host": "kitty-cat-casino.com",
+      "website": "https://kitty-cat-casino.com/"
+    },
+    {
+      "name": "Lord Of The Spins Casino",
+      "slug": "lord-of-the-spins-casino",
+      "host": "lord-of-the-spins-casino.com",
+      "website": "https://lord-of-the-spins-casino.com/"
+    },
+    {
+      "name": "Pan Casino",
+      "slug": "pan-casino",
+      "host": "pan-casino.com",
+      "website": "https://pan-casino.com/"
+    },
+    {
+      "name": "RakeBit Casino",
+      "slug": "rakebit-casino",
+      "host": "rakebit-casino.com",
+      "website": "https://rakebit-casino.com/"
+    },
+    {
+      "name": "Riviera Casino",
+      "slug": "riviera-casino",
+      "host": "riviera-casino.com",
+      "website": "https://riviera-casino.com/"
+    }
+  ]
+}

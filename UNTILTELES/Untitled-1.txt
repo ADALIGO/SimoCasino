@@ -1,0 +1,2095 @@
+File Tree: casinoDATAjson
+Generated on: 4/11/2026, 10:29:01 AM
+Root path: c:\Users\simoo\OneDrive\Bureau\SIMOCASINO2\SIMOCASINO\data\casinoDATAjson
+
+────────────────────────────────────────────────────────────────────────────────
+
+├── 📁 0xbet/
+│   └── ⚙️ data.json
+├── 📁 10bet/
+│   └── ⚙️ data.json
+├── 📁 11croco/
+│   └── ⚙️ data.json
+├── 📁 12bet/
+│   └── ⚙️ data.json
+├── 📁 14red/
+│   └── ⚙️ data.json
+├── 📁 18bet/
+│   └── ⚙️ data.json
+├── 📁 1bet100com/
+│   └── ⚙️ data.json
+├── 📁 1red/
+│   └── ⚙️ data.json
+├── 📁 1xbet/
+│   └── ⚙️ data.json
+├── 📁 1xbit/
+│   └── ⚙️ data.json
+├── 📁 1xslots/
+│   └── ⚙️ data.json
+├── 📁 20bet/
+│   └── ⚙️ data.json
+├── 📁 21/
+│   └── ⚙️ data.json
+├── 📁 21-bets/
+│   └── ⚙️ data.json
+├── 📁 21bit/
+│   └── ⚙️ data.json
+├── 📁 21grand/
+│   └── ⚙️ data.json
+├── 📁 21luckybet/
+│   └── ⚙️ data.json
+├── 📁 21prive/
+│   └── ⚙️ data.json
+├── 📁 22bet/
+│   └── ⚙️ data.json
+├── 📁 24bettle/
+│   └── ⚙️ data.json
+├── 📁 24casino/
+│   └── ⚙️ data.json
+├── 📁 24slots/
+│   └── ⚙️ data.json
+├── 📁 2upio/
+│   └── ⚙️ data.json
+├── 📁 30betcom/
+│   └── ⚙️ data.json
+├── 📁 31bet/
+│   └── ⚙️ data.json
+├── 📁 3dice/
+│   └── ⚙️ data.json
+├── 📁 4kasino/
+│   └── ⚙️ data.json
+├── 📁 5gringos/
+│   └── ⚙️ data.json
+├── 📁 7-sultans/
+│   └── ⚙️ data.json
+├── 📁 777/
+│   └── ⚙️ data.json
+├── 📁 7oasis/
+│   └── ⚙️ data.json
+├── 📁 7signs/
+│   └── ⚙️ data.json
+├── 📁 888/
+│   └── ⚙️ data.json
+├── 📁 888arabic/
+│   └── ⚙️ data.json
+├── 📁 888starz/
+│   └── ⚙️ data.json
+├── 📁 96com/
+│   └── ⚙️ data.json
+├── 📁 Jurassic Slots Games/
+├── 📁 JustCasino Games/
+├── 📁 ace-lucky/
+│   └── ⚙️ data.json
+├── 📁 acebet/
+│   └── ⚙️ data.json
+├── 📁 acr/
+│   └── ⚙️ data.json
+├── 📁 aerobet/
+│   └── ⚙️ data.json
+├── 📁 africasports/
+│   └── ⚙️ data.json
+├── 📁 ahti/
+│   └── ⚙️ data.json
+├── 📁 aladdins-gold/
+│   └── ⚙️ data.json
+├── 📁 alf/
+│   └── ⚙️ data.json
+├── 📁 all/
+│   └── ⚙️ data.json
+├── 📁 all-jackpots/
+│   └── ⚙️ data.json
+├── 📁 all-star/
+│   └── ⚙️ data.json
+├── 📁 allspins/
+│   └── ⚙️ data.json
+├── 📁 allstarz/
+│   └── ⚙️ data.json
+├── 📁 allyspin/
+│   └── ⚙️ data.json
+├── 📁 always-vegas/
+│   └── ⚙️ data.json
+├── 📁 america777/
+│   └── ⚙️ data.json
+├── 📁 amonbet/
+│   └── ⚙️ data.json
+├── 📁 ampm/
+│   └── ⚙️ data.json
+├── 📁 amunra/
+│   └── ⚙️ data.json
+├── 📁 anarchy/
+│   └── ⚙️ data.json
+├── 📁 anonymous/
+│   └── ⚙️ data.json
+├── 📁 anonymouscasino/
+│   └── ⚙️ data.json
+├── 📁 apollo/
+│   └── ⚙️ data.json
+├── 📁 aquawin/
+│   └── ⚙️ data.json
+├── 📁 arcanebet/
+│   └── ⚙️ data.json
+├── 📁 asgard/
+│   └── ⚙️ data.json
+├── 📁 atlantic-casino-club/
+│   └── ⚙️ data.json
+├── 📁 aussieplay/
+│   └── ⚙️ data.json
+├── 📁 avantgarde/
+│   └── ⚙️ data.json
+├── 📁 aztec-riches/
+│   └── ⚙️ data.json
+├── 📁 azur/
+│   └── ⚙️ data.json
+├── 📁 b-bets/
+│   └── ⚙️ data.json
+├── 📁 bacanaplay/
+│   └── ⚙️ data.json
+├── 📁 bankonbet/
+│   └── ⚙️ data.json
+├── 📁 banzai/
+│   └── ⚙️ data.json
+├── 📁 bassbet/
+│   └── ⚙️ data.json
+├── 📁 bb/
+│   └── ⚙️ data.json
+├── 📁 bcasino/
+│   └── ⚙️ data.json
+├── 📁 bcgame/
+│   └── ⚙️ data.json
+├── 📁 bdm-bet/
+│   └── ⚙️ data.json
+├── 📁 beef/
+│   └── ⚙️ data.json
+├── 📁 beonbet/
+│   └── ⚙️ data.json
+├── 📁 bet-cave/
+│   └── ⚙️ data.json
+├── 📁 bet-it-all/
+│   └── ⚙️ data.json
+├── 📁 bet-o-bet/
+│   └── ⚙️ data.json
+├── 📁 bet105/
+│   └── ⚙️ data.json
+├── 📁 bet25/
+│   └── ⚙️ data.json
+├── 📁 betalice/
+│   └── ⚙️ data.json
+├── 📁 betandyou/
+│   └── ⚙️ data.json
+├── 📁 betarno/
+│   └── ⚙️ data.json
+├── 📁 betblast/
+│   └── ⚙️ data.json
+├── 📁 betbona/
+│   └── ⚙️ data.json
+├── 📁 betchip/
+│   └── ⚙️ data.json
+├── 📁 betelite/
+│   └── ⚙️ data.json
+├── 📁 betfair/
+│   └── ⚙️ data.json
+├── 📁 betfinal/
+│   └── ⚙️ data.json
+├── 📁 betfouru/
+│   └── ⚙️ data.json
+├── 📁 betfoxx/
+│   └── ⚙️ data.json
+├── 📁 betfury/
+│   └── ⚙️ data.json
+├── 📁 betgoat/
+│   └── ⚙️ data.json
+├── 📁 betico/
+│   └── ⚙️ data.json
+├── 📁 betinia/
+│   └── ⚙️ data.json
+├── 📁 betkudos/
+│   └── ⚙️ data.json
+├── 📁 betlivecasino/
+│   └── ⚙️ data.json
+├── 📁 betmaster/
+│   └── ⚙️ data.json
+├── 📁 betmaximus/
+│   └── ⚙️ data.json
+├── 📁 betmode/
+│   └── ⚙️ data.json
+├── 📁 betneptune/
+│   └── ⚙️ data.json
+├── 📁 betnjet/
+│   └── ⚙️ data.json
+├── 📁 betonline/
+│   └── ⚙️ data.json
+├── 📁 betory/
+│   └── ⚙️ data.json
+├── 📁 betospin/
+│   └── ⚙️ data.json
+├── 📁 betpari/
+│   └── ⚙️ data.json
+├── 📁 betplays/
+│   └── ⚙️ data.json
+├── 📁 betrebels/
+│   └── ⚙️ data.json
+├── 📁 betreels/
+│   └── ⚙️ data.json
+├── 📁 betrepublic/
+│   └── ⚙️ data.json
+├── 📁 betroom24/
+│   └── ⚙️ data.json
+├── 📁 bets-bunny/
+│   └── ⚙️ data.json
+├── 📁 betsamigo/
+│   └── ⚙️ data.json
+├── 📁 betsio/
+│   └── ⚙️ data.json
+├── 📁 betsiocom/
+│   └── ⚙️ data.json
+├── 📁 betsixty/
+│   └── ⚙️ data.json
+├── 📁 betssen/
+│   └── ⚙️ data.json
+├── 📁 betstro/
+│   └── ⚙️ data.json
+├── 📁 betswagger/
+│   └── ⚙️ data.json
+├── 📁 betterwin/
+│   └── ⚙️ data.json
+├── 📁 bettywins/
+│   └── ⚙️ data.json
+├── 📁 betus/
+│   └── ⚙️ data.json
+├── 📁 betvoyager/
+│   └── ⚙️ data.json
+├── 📁 betwarts/
+│   └── ⚙️ data.json
+├── 📁 betway/
+│   └── ⚙️ data.json
+├── 📁 betwhale/
+│   └── ⚙️ data.json
+├── 📁 betwinner/
+│   └── ⚙️ data.json
+├── 📁 betzard/
+│   └── ⚙️ data.json
+├── 📁 big5/
+│   └── ⚙️ data.json
+├── 📁 biggerz/
+│   └── ⚙️ data.json
+├── 📁 bigmamoo/
+│   └── ⚙️ data.json
+├── 📁 bikinislots/
+│   └── ⚙️ data.json
+├── 📁 billybets/
+│   └── ⚙️ data.json
+├── 📁 bitcasinoio/
+│   └── ⚙️ data.json
+├── 📁 bitcoin-sportsbook/
+│   └── ⚙️ data.json
+├── 📁 bitcoincasinous/
+│   └── ⚙️ data.json
+├── 📁 bitcoincom/
+│   └── ⚙️ data.json
+├── 📁 bitcoincom-games/
+│   └── ⚙️ data.json
+├── 📁 bitcoinvip/
+│   └── ⚙️ data.json
+├── 📁 bitguruz/
+│   └── ⚙️ data.json
+├── 📁 bitsler/
+│   └── ⚙️ data.json
+├── 📁 bitstarz/
+│   └── ⚙️ data.json
+├── 📁 bizzo/
+│   └── ⚙️ data.json
+├── 📁 bk8/
+│   └── ⚙️ data.json
+├── 📁 black-chip-poker/
+│   └── ⚙️ data.json
+├── 📁 blackjack-ballroom/
+│   └── ⚙️ data.json
+├── 📁 blaze-spins/
+│   └── ⚙️ data.json
+├── 📁 blizz/
+│   └── ⚙️ data.json
+├── 📁 blockspins/
+│   └── ⚙️ data.json
+├── 📁 bloody/
+│   └── ⚙️ data.json
+├── 📁 bloody-slots/
+│   └── ⚙️ data.json
+├── 📁 blue-chip/
+│   └── ⚙️ data.json
+├── 📁 bluffbet/
+│   └── ⚙️ data.json
+├── 📁 bluvegas/
+│   └── ⚙️ data.json
+├── 📁 boabet/
+│   └── ⚙️ data.json
+├── 📁 boaboa/
+│   └── ⚙️ data.json
+├── 📁 boho/
+│   └── ⚙️ data.json
+├── 📁 bombastic/
+│   └── ⚙️ data.json
+├── 📁 bonanza-game/
+│   └── ⚙️ data.json
+├── 📁 bongo/
+│   └── ⚙️ data.json
+├── 📁 bonkersbet/
+│   └── ⚙️ data.json
+├── 📁 bonus-blitz/
+│   └── ⚙️ data.json
+├── 📁 boo/
+│   └── ⚙️ data.json
+├── 📁 booi/
+│   └── ⚙️ data.json
+├── 📁 bookmaker/
+│   └── ⚙️ data.json
+├── 📁 bookmakerxyz/
+│   └── ⚙️ data.json
+├── 📁 boombet/
+│   └── ⚙️ data.json
+├── 📁 boomerang/
+│   └── ⚙️ data.json
+├── 📁 boomerang-bet/
+│   └── ⚙️ data.json
+├── 📁 boomsbet/
+│   └── ⚙️ data.json
+├── 📁 boomzy/
+│   └── ⚙️ data.json
+├── 📁 brasil777/
+│   └── ⚙️ data.json
+├── 📁 brazino777/
+│   └── ⚙️ data.json
+├── 📁 brutal/
+│   └── ⚙️ data.json
+├── 📁 bspin/
+│   └── ⚙️ data.json
+├── 📁 bulletz/
+│   └── ⚙️ data.json
+├── 📁 buran/
+│   └── ⚙️ data.json
+├── 📁 buzzluck/
+│   └── ⚙️ data.json
+├── 📁 cactus/
+│   └── ⚙️ data.json
+├── 📁 cadoola/
+│   └── ⚙️ data.json
+├── 📁 campeonbet/
+│   └── ⚙️ data.json
+├── 📁 campobet/
+│   └── ⚙️ data.json
+├── 📁 canada777/
+│   └── ⚙️ data.json
+├── 📁 candy/
+│   └── ⚙️ data.json
+├── 📁 candyland/
+│   └── ⚙️ data.json
+├── 📁 captain-cooks/
+│   └── ⚙️ data.json
+├── 📁 cash-o-lot/
+│   └── ⚙️ data.json
+├── 📁 cashed/
+│   └── ⚙️ data.json
+├── 📁 cashimashi/
+│   └── ⚙️ data.json
+├── 📁 cashpot/
+│   └── ⚙️ data.json
+├── 📁 cashwin/
+│   └── ⚙️ data.json
+├── 📁 casilando/
+│   └── ⚙️ data.json
+├── 📁 casimba/
+│   └── ⚙️ data.json
+├── 📁 casimpo/
+│   └── ⚙️ data.json
+├── 📁 casinado/
+│   └── ⚙️ data.json
+├── 📁 casinia/
+│   └── ⚙️ data.json
+├── 📁 casino-action/
+│   └── ⚙️ data.json
+├── 📁 casino-adrenaline/
+│   └── ⚙️ data.json
+├── 📁 casino-and-friends/
+│   └── ⚙️ data.json
+├── 📁 casino-brango/
+│   └── ⚙️ data.json
+├── 📁 casino-classic/
+│   └── ⚙️ data.json
+├── 📁 casino-days/
+│   └── ⚙️ data.json
+├── 📁 casino-estrella/
+│   └── ⚙️ data.json
+├── 📁 casino-extreme/
+│   └── ⚙️ data.json
+├── 📁 casino-fiz/
+│   └── ⚙️ data.json
+├── 📁 casino-infinity/
+│   └── ⚙️ data.json
+├── 📁 casino-kingdom/
+│   └── ⚙️ data.json
+├── 📁 casino-kings/
+│   └── ⚙️ data.json
+├── 📁 casino-mate/
+│   └── ⚙️ data.json
+├── 📁 casino-max/
+│   └── ⚙️ data.json
+├── 📁 casino-midas/
+│   └── ⚙️ data.json
+├── 📁 casino-napoli/
+│   └── ⚙️ data.json
+├── 📁 casino-night/
+│   └── ⚙️ data.json
+├── 📁 casino-orca/
+│   └── ⚙️ data.json
+├── 📁 casino-prestige/
+│   └── ⚙️ data.json
+├── 📁 casino-redkings/
+│   └── ⚙️ data.json
+├── 📁 casino-rocket/
+│   └── ⚙️ data.json
+├── 📁 casino-royal-club/
+│   └── ⚙️ data.json
+├── 📁 casino-sieger/
+│   └── ⚙️ data.json
+├── 📁 casino-superlines/
+│   └── ⚙️ data.json
+├── 📁 casino-x/
+│   └── ⚙️ data.json
+├── 📁 casinoandyou/
+│   └── ⚙️ data.json
+├── 📁 casinobet/
+│   └── ⚙️ data.json
+├── 📁 casinobitio/
+│   └── ⚙️ data.json
+├── 📁 casinocasino/
+│   └── ⚙️ data.json
+├── 📁 casinoclic/
+│   └── ⚙️ data.json
+├── 📁 casinoextra/
+│   └── ⚙️ data.json
+├── 📁 casinohuone/
+│   └── ⚙️ data.json
+├── 📁 casinoin/
+│   └── ⚙️ data.json
+├── 📁 casinojefe/
+│   └── ⚙️ data.json
+├── 📁 casinok/
+│   └── ⚙️ data.json
+├── 📁 casinoly/
+│   └── ⚙️ data.json
+├── 📁 casinostars/
+│   └── ⚙️ data.json
+├── 📁 casinova/
+│   └── ⚙️ data.json
+├── 📁 casinovibes/
+│   └── ⚙️ data.json
+├── 📁 casinozer/
+│   └── ⚙️ data.json
+├── 📁 casombie/
+│   └── ⚙️ data.json
+├── 📁 casoo/
+│   └── ⚙️ data.json
+├── 📁 caspero/
+│   └── ⚙️ data.json
+├── 📁 catcasino/
+│   └── ⚙️ data.json
+├── 📁 cazeus/
+│   └── ⚙️ data.json
+├── 📁 cazimbo/
+│   └── ⚙️ data.json
+├── 📁 celsius/
+│   └── ⚙️ data.json
+├── 📁 challenge/
+│   └── ⚙️ data.json
+├── 📁 chancer/
+│   └── ⚙️ data.json
+├── 📁 cherry-gold/
+│   └── ⚙️ data.json
+├── 📁 cherry-jackpot/
+│   └── ⚙️ data.json
+├── 📁 chilli-spins/
+│   └── ⚙️ data.json
+├── 📁 chipstars/
+│   └── ⚙️ data.json
+├── 📁 cipherwins/
+│   └── ⚙️ data.json
+├── 📁 citobet/
+│   └── ⚙️ data.json
+├── 📁 classy/
+│   └── ⚙️ data.json
+├── 📁 cleobetra/
+│   └── ⚙️ data.json
+├── 📁 cloudbet/
+│   └── ⚙️ data.json
+├── 📁 club-euro/
+│   └── ⚙️ data.json
+├── 📁 club-usa/
+│   └── ⚙️ data.json
+├── 📁 cocoa/
+│   └── ⚙️ data.json
+├── 📁 coin/
+│   └── ⚙️ data.json
+├── 📁 coinbets777/
+│   └── ⚙️ data.json
+├── 📁 coinkings/
+│   └── ⚙️ data.json
+├── 📁 coinplay/
+│   └── ⚙️ data.json
+├── 📁 coinsgame/
+│   └── ⚙️ data.json
+├── 📁 colosseum/
+│   └── ⚙️ data.json
+├── 📁 comicplay/
+│   └── ⚙️ data.json
+├── 📁 conquer/
+│   └── ⚙️ data.json
+├── 📁 coolzino/
+│   └── ⚙️ data.json
+├── 📁 cosmicslot/
+│   └── ⚙️ data.json
+├── 📁 cosmobet/
+│   └── ⚙️ data.json
+├── 📁 crashino/
+│   └── ⚙️ data.json
+├── 📁 crazeplay/
+│   └── ⚙️ data.json
+├── 📁 crazy-luck/
+│   └── ⚙️ data.json
+├── 📁 crazywinners/
+│   └── ⚙️ data.json
+├── 📁 crownplay/
+│   └── ⚙️ data.json
+├── 📁 crypto/
+│   └── ⚙️ data.json
+├── 📁 crypto-games/
+│   └── ⚙️ data.json
+├── 📁 crypto-loko/
+│   └── ⚙️ data.json
+├── 📁 cryptocasino/
+│   └── ⚙️ data.json
+├── 📁 cryptoleo/
+│   └── ⚙️ data.json
+├── 📁 cryptoreels/
+│   └── ⚙️ data.json
+├── 📁 cryptoroyal/
+│   └── ⚙️ data.json
+├── 📁 cryptoslots/
+│   └── ⚙️ data.json
+├── 📁 cryptowins/
+│   └── ⚙️ data.json
+├── 📁 cybet/
+│   └── ⚙️ data.json
+├── 📁 dachbet/
+│   └── ⚙️ data.json
+├── 📁 daddy/
+│   └── ⚙️ data.json
+├── 📁 dafabet/
+│   └── ⚙️ data.json
+├── 📁 davegas/
+│   └── ⚙️ data.json
+├── 📁 davincis-gold/
+│   └── ⚙️ data.json
+├── 📁 dazzle/
+│   └── ⚙️ data.json
+├── 📁 dbbet/
+│   └── ⚙️ data.json
+├── 📁 dbosses/
+│   └── ⚙️ data.json
+├── 📁 decode/
+│   └── ⚙️ data.json
+├── 📁 dedprz/
+│   └── ⚙️ data.json
+├── 📁 del-oro/
+│   └── ⚙️ data.json
+├── 📁 dendera/
+│   └── ⚙️ data.json
+├── 📁 depositwin/
+│   └── ⚙️ data.json
+├── 📁 detective/
+│   └── ⚙️ data.json
+├── 📁 detective-slots/
+│   └── ⚙️ data.json
+├── 📁 diamond7/
+│   └── ⚙️ data.json
+├── 📁 ditobet/
+│   └── ⚙️ data.json
+├── 📁 divas-luck/
+│   └── ⚙️ data.json
+├── 📁 dolfwin/
+│   └── ⚙️ data.json
+├── 📁 dolly/
+│   └── ⚙️ data.json
+├── 📁 domgame/
+│   └── ⚙️ data.json
+├── 📁 dragon-money/
+│   └── ⚙️ data.json
+├── 📁 dragonara/
+│   └── ⚙️ data.json
+├── 📁 dream-royale/
+│   └── ⚙️ data.json
+├── 📁 dream-vegas/
+│   └── ⚙️ data.json
+├── 📁 dreamplay/
+│   └── ⚙️ data.json
+├── 📁 dreamz/
+│   └── ⚙️ data.json
+├── 📁 drip/
+│   └── ⚙️ data.json
+├── 📁 drueckglueck/
+│   └── ⚙️ data.json
+├── 📁 dublinbet/
+│   └── ⚙️ data.json
+├── 📁 duelbits/
+│   └── ⚙️ data.json
+├── 📁 duelz/
+│   └── ⚙️ data.json
+├── 📁 dukes/
+│   └── ⚙️ data.json
+├── 📁 earnbet/
+│   └── ⚙️ data.json
+├── 📁 eclipse/
+│   └── ⚙️ data.json
+├── 📁 eddy-vegas/
+│   └── ⚙️ data.json
+├── 📁 egogames/
+│   └── ⚙️ data.json
+├── 📁 el-royale/
+│   └── ⚙️ data.json
+├── 📁 eldoah/
+│   └── ⚙️ data.json
+├── 📁 elegantspins/
+│   └── ⚙️ data.json
+├── 📁 emirbet/
+│   └── ⚙️ data.json
+├── 📁 emucasino/
+│   └── ⚙️ data.json
+├── 📁 energycasino/
+│   └── ⚙️ data.json
+├── 📁 eternal/
+│   └── ⚙️ data.json
+├── 📁 eternal-slots/
+│   └── ⚙️ data.json
+├── 📁 eth/
+│   └── ⚙️ data.json
+├── 📁 eu/
+│   └── ⚙️ data.json
+├── 📁 euro-palace/
+│   └── ⚙️ data.json
+├── 📁 eurobets/
+│   └── ⚙️ data.json
+├── 📁 eurofortune/
+│   └── ⚙️ data.json
+├── 📁 euroking/
+│   └── ⚙️ data.json
+├── 📁 euromania/
+│   └── ⚙️ data.json
+├── 📁 europa777/
+│   └── ⚙️ data.json
+├── 📁 everygame/
+│   └── ⚙️ data.json
+├── 📁 everygame-classic/
+│   └── ⚙️ data.json
+├── 📁 evobet/
+│   └── ⚙️ data.json
+├── 📁 excitewin/
+│   └── ⚙️ data.json
+├── 📁 exclusive/
+│   └── ⚙️ data.json
+├── 📁 exclusivebet/
+│   └── ⚙️ data.json
+├── 📁 fair-go/
+│   └── ⚙️ data.json
+├── 📁 fairpari/
+│   └── ⚙️ data.json
+├── 📁 fairspin/
+│   └── ⚙️ data.json
+├── 📁 fansport/
+│   └── ⚙️ data.json
+├── 📁 fantastic-spins/
+│   └── ⚙️ data.json
+├── 📁 fast/
+│   └── ⚙️ data.json
+├── 📁 fast-slots/
+│   └── ⚙️ data.json
+├── 📁 fatbet/
+│   └── ⚙️ data.json
+├── 📁 fatboss/
+│   └── ⚙️ data.json
+├── 📁 felicebet/
+│   └── ⚙️ data.json
+├── 📁 flagman/
+│   └── ⚙️ data.json
+├── 📁 flappy/
+│   └── ⚙️ data.json
+├── 📁 flukyone/
+│   └── ⚙️ data.json
+├── 📁 flush/
+│   └── ⚙️ data.json
+├── 📁 foggybet/
+│   └── ⚙️ data.json
+├── 📁 fonbet/
+│   └── ⚙️ data.json
+├── 📁 fortuna-juegos/
+│   └── ⚙️ data.json
+├── 📁 fortunejack/
+│   └── ⚙️ data.json
+├── 📁 fortuneplay/
+│   └── ⚙️ data.json
+├── 📁 forvetbet/
+│   └── ⚙️ data.json
+├── 📁 free-spin/
+│   └── ⚙️ data.json
+├── 📁 free-spinza/
+│   └── ⚙️ data.json
+├── 📁 fresh/
+│   └── ⚙️ data.json
+├── 📁 freshbet/
+│   └── ⚙️ data.json
+├── 📁 fruits4real/
+│   └── ⚙️ data.json
+├── 📁 frumzi/
+│   └── ⚙️ data.json
+├── 📁 ftvclub/
+│   └── ⚙️ data.json
+├── 📁 fugu/
+│   └── ⚙️ data.json
+├── 📁 fullhouse/
+│   └── ⚙️ data.json
+├── 📁 fun/
+│   └── ⚙️ data.json
+├── 📁 funbetcasino/
+│   └── ⚙️ data.json
+├── 📁 galacticwins/
+│   └── ⚙️ data.json
+├── 📁 galaxybet/
+│   └── ⚙️ data.json
+├── 📁 gamblezen/
+│   └── ⚙️ data.json
+├── 📁 gamdom/
+│   └── ⚙️ data.json
+├── 📁 gamegram/
+│   └── ⚙️ data.json
+├── 📁 gaming-club/
+│   └── ⚙️ data.json
+├── 📁 gamix/
+│   └── ⚙️ data.json
+├── 📁 gangsta/
+│   └── ⚙️ data.json
+├── 📁 gate777/
+│   └── ⚙️ data.json
+├── 📁 gday/
+│   └── ⚙️ data.json
+├── 📁 gentingcasino/
+│   └── ⚙️ data.json
+├── 📁 ggbet/
+│   └── ⚙️ data.json
+├── 📁 ggpoker/
+│   └── ⚙️ data.json
+├── 📁 gibson/
+│   └── ⚙️ data.json
+├── 📁 gladiatorsbet/
+│   └── ⚙️ data.json
+├── 📁 goat-spins/
+│   └── ⚙️ data.json
+├── 📁 god-of/
+│   └── ⚙️ data.json
+├── 📁 goldbet/
+│   └── ⚙️ data.json
+├── 📁 golden-crown/
+│   └── ⚙️ data.json
+├── 📁 golden-euro/
+│   └── ⚙️ data.json
+├── 📁 golden-lion/
+│   └── ⚙️ data.json
+├── 📁 golden-reef/
+│   └── ⚙️ data.json
+├── 📁 golden-reels/
+│   └── ⚙️ data.json
+├── 📁 golden-star/
+│   └── ⚙️ data.json
+├── 📁 golden-tiger/
+│   └── ⚙️ data.json
+├── 📁 goldenbahis/
+│   └── ⚙️ data.json
+├── 📁 goldenbet/
+│   └── ⚙️ data.json
+├── 📁 goldenlady/
+│   └── ⚙️ data.json
+├── 📁 goldfishka/
+│   └── ⚙️ data.json
+├── 📁 goldspin/
+│   └── ⚙️ data.json
+├── 📁 goldwin/
+│   └── ⚙️ data.json
+├── 📁 gomblingo/
+│   └── ⚙️ data.json
+├── 📁 gooddayforplay-gdf-play/
+│   └── ⚙️ data.json
+├── 📁 grand-club/
+│   └── ⚙️ data.json
+├── 📁 grand-hotel/
+│   └── ⚙️ data.json
+├── 📁 grand-mondial/
+│   └── ⚙️ data.json
+├── 📁 grande-vegas/
+│   └── ⚙️ data.json
+├── 📁 grandwin/
+│   └── ⚙️ data.json
+├── 📁 gransino/
+│   └── ⚙️ data.json
+├── 📁 great/
+│   └── ⚙️ data.json
+├── 📁 great-britain/
+│   └── ⚙️ data.json
+├── 📁 great-slots/
+│   └── ⚙️ data.json
+├── 📁 greatspin/
+│   └── ⚙️ data.json
+├── 📁 greatwin/
+│   └── ⚙️ data.json
+├── 📁 gtbets/
+│   └── ⚙️ data.json
+├── 📁 gudar/
+│   └── ⚙️ data.json
+├── 📁 harry-s/
+│   └── ⚙️ data.json
+├── 📁 harrys/
+│   └── ⚙️ data.json
+├── 📁 hashlucky/
+│   └── ⚙️ data.json
+├── 📁 haz/
+│   └── ⚙️ data.json
+├── 📁 hellspin/
+│   └── ⚙️ data.json
+├── 📁 herake/
+│   └── ⚙️ data.json
+├── 📁 hercules/
+│   └── ⚙️ data.json
+├── 📁 herospin/
+│   └── ⚙️ data.json
+├── 📁 hexabet/
+│   └── ⚙️ data.json
+├── 📁 high-noon/
+│   └── ⚙️ data.json
+├── 📁 highbet/
+│   └── ⚙️ data.json
+├── 📁 highflybet/
+│   └── ⚙️ data.json
+├── 📁 highway/
+│   └── ⚙️ data.json
+├── 📁 hippozino/
+│   └── ⚙️ data.json
+├── 📁 hit-me-bet/
+│   └── ⚙️ data.json
+├── 📁 hitnspin/
+│   └── ⚙️ data.json
+├── 📁 holyluck/
+│   └── ⚙️ data.json
+├── 📁 horse-racing-betting/
+│   └── ⚙️ data.json
+├── 📁 horus/
+│   └── ⚙️ data.json
+├── 📁 hotline/
+│   └── ⚙️ data.json
+├── 📁 hotloot/
+│   └── ⚙️ data.json
+├── 📁 hotslots/
+│   └── ⚙️ data.json
+├── 📁 house-of-jack/
+│   └── ⚙️ data.json
+├── 📁 house-of-pokies/
+│   └── ⚙️ data.json
+├── 📁 housebets/
+│   └── ⚙️ data.json
+├── 📁 hugewin/
+│   └── ⚙️ data.json
+├── 📁 hugobets/
+│   └── ⚙️ data.json
+├── 📁 hunnyplay/
+│   └── ⚙️ data.json
+├── 📁 hype-kasino/
+│   └── ⚙️ data.json
+├── 📁 hyper/
+│   └── ⚙️ data.json
+├── 📁 ibet/
+│   └── ⚙️ data.json
+├── 📁 icecasino/
+│   └── ⚙️ data.json
+├── 📁 impressario/
+│   └── ⚙️ data.json
+├── 📁 inetbet/
+│   └── ⚙️ data.json
+├── 📁 instant/
+│   └── ⚙️ data.json
+├── 📁 intellectbet/
+│   └── ⚙️ data.json
+├── 📁 intobet/
+│   └── ⚙️ data.json
+├── 📁 irish-luck/
+│   └── ⚙️ data.json
+├── 📁 irwin/
+│   └── ⚙️ data.json
+├── 📁 ivibet/
+│   └── ⚙️ data.json
+├── 📁 izzi/
+│   └── ⚙️ data.json
+├── 📁 jackbit/
+│   └── ⚙️ data.json
+├── 📁 jackmillion/
+│   └── ⚙️ data.json
+├── 📁 jackpot-capital/
+│   └── ⚙️ data.json
+├── 📁 jackpot-cash/
+│   └── ⚙️ data.json
+├── 📁 jackpot-city/
+│   └── ⚙️ data.json
+├── 📁 jackpot-paradise/
+│   └── ⚙️ data.json
+├── 📁 jackpot-village/
+│   └── ⚙️ data.json
+├── 📁 jackpot-wheel/
+│   └── ⚙️ data.json
+├── 📁 jackpotstar/
+│   └── ⚙️ data.json
+├── 📁 jackpotter/
+│   └── ⚙️ data.json
+├── 📁 jacksclub/
+│   └── ⚙️ data.json
+├── 📁 jazz-casino-and-sportsbook/
+│   └── ⚙️ data.json
+├── 📁 jazzy-spins/
+│   └── ⚙️ data.json
+├── 📁 jeetcity/
+│   └── ⚙️ data.json
+├── 📁 jeffbet/
+│   └── ⚙️ data.json
+├── 📁 jet/
+│   └── ⚙️ data.json
+├── 📁 jetton/
+│   └── ⚙️ data.json
+├── 📁 joker8/
+│   └── ⚙️ data.json
+├── 📁 jokersino/
+│   └── ⚙️ data.json
+├── 📁 joy/
+│   └── ⚙️ data.json
+├── 📁 jozz/
+│   └── ⚙️ data.json
+├── 📁 jumba-bet/
+│   └── ⚙️ data.json
+├── 📁 jupi/
+│   └── ⚙️ data.json
+├── 📁 jurassic/
+│   └── ⚙️ data.json
+├── 📁 jurassic-slots/
+│   └── ⚙️ data.json
+├── 📁 just-bet/
+│   └── ⚙️ data.json
+├── 📁 justbit/
+│   └── ⚙️ data.json
+├── 📁 justcasino/
+│   └── ⚙️ data.json
+├── 📁 justcasino-crypto/
+│   └── ⚙️ data.json
+├── 📁 justspin/
+│   └── ⚙️ data.json
+├── 📁 jvspinbet/
+│   └── ⚙️ data.json
+├── 📁 kajot/
+│   └── ⚙️ data.json
+├── 📁 kikobet/
+│   └── ⚙️ data.json
+├── 📁 kinbet/
+│   └── ⚙️ data.json
+├── 📁 kingdom/
+│   └── ⚙️ data.json
+├── 📁 kingmaker/
+│   └── ⚙️ data.json
+├── 📁 kingpalace/
+│   └── ⚙️ data.json
+├── 📁 kirgo/
+│   └── ⚙️ data.json
+├── 📁 kitty-cat/
+│   └── ⚙️ data.json
+├── 📁 knightslots/
+│   └── ⚙️ data.json
+├── 📁 kryptosino/
+│   └── ⚙️ data.json
+├── 📁 kudos/
+│   └── ⚙️ data.json
+├── 📁 la-riviera/
+│   └── ⚙️ data.json
+├── 📁 ladylinda/
+│   └── ⚙️ data.json
+├── 📁 ladyluck/
+│   └── ⚙️ data.json
+├── 📁 lake-palace/
+│   └── ⚙️ data.json
+├── 📁 lamabet/
+│   └── ⚙️ data.json
+├── 📁 lapilanders/
+│   └── ⚙️ data.json
+├── 📁 las-atlantis/
+│   └── ⚙️ data.json
+├── 📁 legendplay/
+│   └── ⚙️ data.json
+├── 📁 legzo/
+│   └── ⚙️ data.json
+├── 📁 lekkerbets/
+│   └── ⚙️ data.json
+├── 📁 lemon/
+│   └── ⚙️ data.json
+├── 📁 leon/
+│   └── ⚙️ data.json
+├── 📁 lets-lucky/
+│   └── ⚙️ data.json
+├── 📁 lex/
+│   └── ⚙️ data.json
+├── 📁 liberty/
+│   └── ⚙️ data.json
+├── 📁 liberty-slots/
+│   └── ⚙️ data.json
+├── 📁 librabet/
+│   └── ⚙️ data.json
+├── 📁 limitless/
+│   └── ⚙️ data.json
+├── 📁 lincoln/
+│   └── ⚙️ data.json
+├── 📁 lizaro/
+│   └── ⚙️ data.json
+├── 📁 locasbet/
+│   └── ⚙️ data.json
+├── 📁 loki/
+│   └── ⚙️ data.json
+├── 📁 lord-of-the-spins/
+│   └── ⚙️ data.json
+├── 📁 love2play/
+│   └── ⚙️ data.json
+├── 📁 lsbet/
+│   └── ⚙️ data.json
+├── 📁 ltc/
+│   └── ⚙️ data.json
+├── 📁 luck-of-spins/
+│   └── ⚙️ data.json
+├── 📁 luckiest/
+│   └── ⚙️ data.json
+├── 📁 lucks/
+│   └── ⚙️ data.json
+├── 📁 lucky-bonanza/
+│   └── ⚙️ data.json
+├── 📁 lucky-bull/
+│   └── ⚙️ data.json
+├── 📁 lucky-circus/
+│   └── ⚙️ data.json
+├── 📁 lucky-dreams/
+│   └── ⚙️ data.json
+├── 📁 lucky-emperor/
+│   └── ⚙️ data.json
+├── 📁 lucky-hunter/
+│   └── ⚙️ data.json
+├── 📁 lucky-kong/
+│   └── ⚙️ data.json
+├── 📁 lucky-niki/
+│   └── ⚙️ data.json
+├── 📁 lucky-nugget/
+│   └── ⚙️ data.json
+├── 📁 lucky-owl-club/
+│   └── ⚙️ data.json
+├── 📁 lucky-red/
+│   └── ⚙️ data.json
+├── 📁 lucky-tiger/
+│   └── ⚙️ data.json
+├── 📁 lucky-vegas/
+│   └── ⚙️ data.json
+├── 📁 lucky31/
+│   └── ⚙️ data.json
+├── 📁 lucky7even/
+│   └── ⚙️ data.json
+├── 📁 luckyblock/
+│   └── ⚙️ data.json
+├── 📁 luckyfun/
+│   └── ⚙️ data.json
+├── 📁 luckygem/
+│   └── ⚙️ data.json
+├── 📁 luckyhour/
+│   └── ⚙️ data.json
+├── 📁 luckylouis/
+│   └── ⚙️ data.json
+├── 📁 luckyvibe/
+│   └── ⚙️ data.json
+├── 📁 lucys/
+│   └── ⚙️ data.json
+├── 📁 lukki/
+│   └── ⚙️ data.json
+├── 📁 luna/
+│   └── ⚙️ data.json
+├── 📁 lunubet/
+│   └── ⚙️ data.json
+├── 📁 luxury/
+│   └── ⚙️ data.json
+├── 📁 mad/
+│   └── ⚙️ data.json
+├── 📁 madcasino/
+│   └── ⚙️ data.json
+├── 📁 mafia/
+│   └── ⚙️ data.json
+├── 📁 magic-red/
+│   └── ⚙️ data.json
+├── 📁 magical-spin/
+│   └── ⚙️ data.json
+├── 📁 magius/
+│   └── ⚙️ data.json
+├── 📁 majestic/
+│   └── ⚙️ data.json
+├── 📁 malina/
+│   └── ⚙️ data.json
+├── 📁 manhattan/
+│   └── ⚙️ data.json
+├── 📁 marathonbet/
+│   └── ⚙️ data.json
+├── 📁 maria/
+│   └── ⚙️ data.json
+├── 📁 martin/
+│   └── ⚙️ data.json
+├── 📁 masterplay/
+│   └── ⚙️ data.json
+├── 📁 matchbook/
+│   └── ⚙️ data.json
+├── 📁 maxibet/
+│   └── ⚙️ data.json
+├── 📁 maxiplay/
+│   └── ⚙️ data.json
+├── 📁 maxxwin/
+│   └── ⚙️ data.json
+├── 📁 md88/
+│   └── ⚙️ data.json
+├── 📁 megabet/
+│   └── ⚙️ data.json
+├── 📁 megadice/
+│   └── ⚙️ data.json
+├── 📁 megapari/
+│   └── ⚙️ data.json
+├── 📁 megarich/
+│   └── ⚙️ data.json
+├── 📁 melbet/
+│   └── ⚙️ data.json
+├── 📁 menace/
+│   └── ⚙️ data.json
+├── 📁 merlin/
+│   └── ⚙️ data.json
+├── 📁 metaspins/
+│   └── ⚙️ data.json
+├── 📁 metawin/
+│   └── ⚙️ data.json
+├── 📁 miami-club/
+│   └── ⚙️ data.json
+├── 📁 midarion/
+│   └── ⚙️ data.json
+├── 📁 milky-way/
+│   └── ⚙️ data.json
+├── 📁 minebit/
+│   └── ⚙️ data.json
+├── 📁 moana/
+│   └── ⚙️ data.json
+├── 📁 mobilewins/
+│   └── ⚙️ data.json
+├── 📁 monkey-tilt/
+│   └── ⚙️ data.json
+├── 📁 monoplay/
+│   └── ⚙️ data.json
+├── 📁 monro/
+│   └── ⚙️ data.json
+├── 📁 monsterwin/
+│   └── ⚙️ data.json
+├── 📁 mostbet/
+│   └── ⚙️ data.json
+├── 📁 mr-mobi/
+│   └── ⚙️ data.json
+├── 📁 mr-slot/
+│   └── ⚙️ data.json
+├── 📁 mr-superplay/
+│   └── ⚙️ data.json
+├── 📁 mrfortune/
+│   └── ⚙️ data.json
+├── 📁 mrjackvegas/
+│   └── ⚙️ data.json
+├── 📁 mrmega/
+│   └── ⚙️ data.json
+├── 📁 mro/
+│   └── ⚙️ data.json
+├── 📁 mrpacho/
+│   └── ⚙️ data.json
+├── 📁 mrplay/
+│   └── ⚙️ data.json
+├── 📁 mrpunter/
+│   └── ⚙️ data.json
+├── 📁 mrwest/
+│   └── ⚙️ data.json
+├── 📁 mrxbet/
+│   └── ⚙️ data.json
+├── 📁 mummys-gold/
+│   └── ⚙️ data.json
+├── 📁 music-hall/
+│   └── ⚙️ data.json
+├── 📁 myempire/
+│   └── ⚙️ data.json
+├── 📁 mystake/
+│   └── ⚙️ data.json
+├── 📁 national/
+│   └── ⚙️ data.json
+├── 📁 neon54/
+│   └── ⚙️ data.json
+├── 📁 neospin/
+│   └── ⚙️ data.json
+├── 📁 newvegas/
+│   └── ⚙️ data.json
+├── 📁 nextbet/
+│   └── ⚙️ data.json
+├── 📁 ninecasino/
+│   └── ⚙️ data.json
+├── 📁 ninlay/
+│   └── ⚙️ data.json
+├── 📁 nitro/
+│   └── ⚙️ data.json
+├── 📁 niyvi/
+│   └── ⚙️ data.json
+├── 📁 no-bonus/
+│   └── ⚙️ data.json
+├── 📁 nomini/
+│   └── ⚙️ data.json
+├── 📁 nords/
+│   └── ⚙️ data.json
+├── 📁 north/
+│   └── ⚙️ data.json
+├── 📁 nostalgia/
+│   └── ⚙️ data.json
+├── 📁 novajackpot/
+│   └── ⚙️ data.json
+├── 📁 nucleonbet/
+│   └── ⚙️ data.json
+├── 📁 nv/
+│   └── ⚙️ data.json
+├── 📁 oceanspin/
+│   └── ⚙️ data.json
+├── 📁 oh-my-spins/
+│   └── ⚙️ data.json
+├── 📁 ohmyzino/
+│   └── ⚙️ data.json
+├── 📁 olympusbet/
+│   └── ⚙️ data.json
+├── 📁 omni/
+│   └── ⚙️ data.json
+├── 📁 omni-slots/
+│   └── ⚙️ data.json
+├── 📁 omni-slots-1/
+│   └── ⚙️ data.json
+├── 📁 onluck/
+│   └── ⚙️ data.json
+├── 📁 opabet/
+│   └── ⚙️ data.json
+├── 📁 optimbet/
+│   └── ⚙️ data.json
+├── 📁 orbit-spins/
+│   └── ⚙️ data.json
+├── 📁 orientxpress/
+│   └── ⚙️ data.json
+├── 📁 oscarspin/
+│   └── ⚙️ data.json
+├── 📁 osh/
+│   └── ⚙️ data.json
+├── 📁 osombet/
+│   └── ⚙️ data.json
+├── 📁 ovitoons/
+│   └── ⚙️ data.json
+├── 📁 ozwin/
+│   └── ⚙️ data.json
+├── 📁 pacific-spins/
+│   └── ⚙️ data.json
+├── 📁 pan/
+│   └── ⚙️ data.json
+├── 📁 pantasia/
+│   └── ⚙️ data.json
+├── 📁 paradise-8/
+│   └── ⚙️ data.json
+├── 📁 parimatch/
+│   └── ⚙️ data.json
+├── 📁 paripesa/
+│   └── ⚙️ data.json
+├── 📁 parklane/
+│   └── ⚙️ data.json
+├── 📁 partyspins/
+│   └── ⚙️ data.json
+├── 📁 partyspinz/
+│   └── ⚙️ data.json
+├── 📁 patang/
+│   └── ⚙️ data.json
+├── 📁 phcasino/
+│   └── ⚙️ data.json
+├── 📁 pinnacle-sports/
+│   └── ⚙️ data.json
+├── 📁 pistolo/
+│   └── ⚙️ data.json
+├── 📁 placebetio/
+│   └── ⚙️ data.json
+├── 📁 platin/
+│   └── ⚙️ data.json
+├── 📁 platinum-play/
+│   └── ⚙️ data.json
+├── 📁 play-fortuna/
+│   └── ⚙️ data.json
+├── 📁 play2win/
+│   └── ⚙️ data.json
+├── 📁 playbet/
+│   └── ⚙️ data.json
+├── 📁 playcroco/
+│   └── ⚙️ data.json
+├── 📁 players-only/
+│   └── ⚙️ data.json
+├── 📁 players-palace/
+│   └── ⚙️ data.json
+├── 📁 playfast/
+│   └── ⚙️ data.json
+├── 📁 playgrand/
+│   └── ⚙️ data.json
+├── 📁 playhub/
+│   └── ⚙️ data.json
+├── 📁 playjango/
+│   └── ⚙️ data.json
+├── 📁 playmillion/
+│   └── ⚙️ data.json
+├── 📁 playmojo/
+│   └── ⚙️ data.json
+├── 📁 playojo/
+│   └── ⚙️ data.json
+├── 📁 playonwin/
+│   └── ⚙️ data.json
+├── 📁 playtoro/
+│   └── ⚙️ data.json
+├── 📁 pledoo/
+│   └── ⚙️ data.json
+├── 📁 pokie-spins/
+│   └── ⚙️ data.json
+├── 📁 pokies2go/
+│   └── ⚙️ data.json
+├── 📁 polestar/
+│   └── ⚙️ data.json
+├── 📁 pornhubplayhub/
+│   └── ⚙️ data.json
+├── 📁 pots-of-luck/
+│   └── ⚙️ data.json
+├── 📁 power/
+│   └── ⚙️ data.json
+├── 📁 power-slots/
+│   └── ⚙️ data.json
+├── 📁 powerup/
+│   └── ⚙️ data.json
+├── 📁 pribet/
+│   └── ⚙️ data.json
+├── 📁 primaplay/
+│   └── ⚙️ data.json
+├── 📁 prime/
+│   └── ⚙️ data.json
+├── 📁 primeslots/
+│   └── ⚙️ data.json
+├── 📁 prism/
+│   └── ⚙️ data.json
+├── 📁 pub/
+│   └── ⚙️ data.json
+├── 📁 puppybet/
+│   └── ⚙️ data.json
+├── 📁 pure/
+│   └── ⚙️ data.json
+├── 📁 q88bets/
+│   └── ⚙️ data.json
+├── 📁 qbetcom/
+│   └── ⚙️ data.json
+├── 📁 quatro/
+│   └── ⚙️ data.json
+├── 📁 quickwin/
+│   └── ⚙️ data.json
+├── 📁 rabona/
+│   └── ⚙️ data.json
+├── 📁 raging-bull/
+│   └── ⚙️ data.json
+├── 📁 rainbet/
+│   └── ⚙️ data.json
+├── 📁 rajabets/
+│   └── ⚙️ data.json
+├── 📁 rakebit/
+│   └── ⚙️ data.json
+├── 📁 ramenbet/
+│   └── ⚙️ data.json
+├── 📁 razed/
+│   └── ⚙️ data.json
+├── 📁 red-dog/
+│   └── ⚙️ data.json
+├── 📁 red-stag/
+│   └── ⚙️ data.json
+├── 📁 redaxeplay/
+│   └── ⚙️ data.json
+├── 📁 redstar/
+│   └── ⚙️ data.json
+├── 📁 reefspins/
+│   └── ⚙️ data.json
+├── 📁 reel-spin/
+│   └── ⚙️ data.json
+├── 📁 regal/
+│   └── ⚙️ data.json
+├── 📁 reloadbet/
+│   └── ⚙️ data.json
+├── 📁 rembrandt/
+│   └── ⚙️ data.json
+├── 📁 retrobet/
+│   └── ⚙️ data.json
+├── 📁 revolution/
+│   └── ⚙️ data.json
+├── 📁 ricardos/
+│   └── ⚙️ data.json
+├── 📁 rich-palms/
+│   └── ⚙️ data.json
+├── 📁 rich-reels/
+│   └── ⚙️ data.json
+├── 📁 richville/
+│   └── ⚙️ data.json
+├── 📁 riobet/
+│   └── ⚙️ data.json
+├── 📁 ripper/
+│   └── ⚙️ data.json
+├── 📁 rise-of-bets/
+│   └── ⚙️ data.json
+├── 📁 ritzslots/
+│   └── ⚙️ data.json
+├── 📁 river-belle/
+│   └── ⚙️ data.json
+├── 📁 riviera/
+│   └── ⚙️ data.json
+├── 📁 rizzio/
+│   └── ⚙️ data.json
+├── 📁 roaring-21/
+│   └── ⚙️ data.json
+├── 📁 roby/
+│   └── ⚙️ data.json
+├── 📁 rockbet/
+│   └── ⚙️ data.json
+├── 📁 rocketpot/
+│   └── ⚙️ data.json
+├── 📁 rocketrun/
+│   └── ⚙️ data.json
+├── 📁 rockstar/
+│   └── ⚙️ data.json
+├── 📁 rockstarwin/
+│   └── ⚙️ data.json
+├── 📁 rollblock/
+│   └── ⚙️ data.json
+├── 📁 rollchain/
+│   └── ⚙️ data.json
+├── 📁 rollero/
+│   └── ⚙️ data.json
+├── 📁 rolletto/
+│   └── ⚙️ data.json
+├── 📁 rollify/
+│   └── ⚙️ data.json
+├── 📁 rollino/
+│   └── ⚙️ data.json
+├── 📁 ronin/
+│   └── ⚙️ data.json
+├── 📁 ronin-slots/
+│   └── ⚙️ data.json
+├── 📁 roobet/
+│   └── ⚙️ data.json
+├── 📁 roosterbet/
+│   └── ⚙️ data.json
+├── 📁 rox/
+│   └── ⚙️ data.json
+├── 📁 royal-game/
+│   └── ⚙️ data.json
+├── 📁 royal-planet/
+│   └── ⚙️ data.json
+├── 📁 royal-reels/
+│   └── ⚙️ data.json
+├── 📁 royal-stars/
+│   └── ⚙️ data.json
+├── 📁 royal-swipe/
+│   └── ⚙️ data.json
+├── 📁 royal-vegas/
+│   └── ⚙️ data.json
+├── 📁 royale500/
+│   └── ⚙️ data.json
+├── 📁 royalscasino/
+│   └── ⚙️ data.json
+├── 📁 royspins/
+│   └── ⚙️ data.json
+├── 📁 ruby-fortune/
+│   └── ⚙️ data.json
+├── 📁 rx/
+│   └── ⚙️ data.json
+├── 📁 sahara-sands/
+│   └── ⚙️ data.json
+├── 📁 sapphirebet/
+│   └── ⚙️ data.json
+├── 📁 satoshi-hero/
+│   └── ⚙️ data.json
+├── 📁 satospins/
+│   └── ⚙️ data.json
+├── 📁 scarawins/
+│   └── ⚙️ data.json
+├── 📁 scatters/
+│   └── ⚙️ data.json
+├── 📁 sekabet/
+│   └── ⚙️ data.json
+├── 📁 seven/
+│   └── ⚙️ data.json
+├── 📁 sevenplay/
+│   └── ⚙️ data.json
+├── 📁 sg/
+│   └── ⚙️ data.json
+├── 📁 shangrila-live/
+│   └── ⚙️ data.json
+├── 📁 shazam/
+│   └── ⚙️ data.json
+├── 📁 shiny-wilds/
+│   └── ⚙️ data.json
+├── 📁 silver-sands-casino-euro/
+│   └── ⚙️ data.json
+├── 📁 silverplay/
+│   └── ⚙️ data.json
+├── 📁 simbagames/
+│   └── ⚙️ data.json
+├── 📁 simsinos/
+│   └── ⚙️ data.json
+├── 📁 sirwin/
+│   └── ⚙️ data.json
+├── 📁 skol/
+│   └── ⚙️ data.json
+├── 📁 slot-planet/
+│   └── ⚙️ data.json
+├── 📁 slot-powers/
+│   └── ⚙️ data.json
+├── 📁 slotage/
+│   └── ⚙️ data.json
+├── 📁 slotastic/
+│   └── ⚙️ data.json
+├── 📁 slotbox/
+│   └── ⚙️ data.json
+├── 📁 slotexo/
+│   └── ⚙️ data.json
+├── 📁 slotgard/
+│   └── ⚙️ data.json
+├── 📁 slotier/
+│   └── ⚙️ data.json
+├── 📁 slotified/
+│   └── ⚙️ data.json
+├── 📁 slotilda-world/
+│   └── ⚙️ data.json
+├── 📁 slotimo/
+│   └── ⚙️ data.json
+├── 📁 slotland/
+│   └── ⚙️ data.json
+├── 📁 slotlux/
+│   └── ⚙️ data.json
+├── 📁 slotnite/
+│   └── ⚙️ data.json
+├── 📁 sloto-tribe/
+│   └── ⚙️ data.json
+├── 📁 slotocash/
+│   └── ⚙️ data.json
+├── 📁 slotoro/
+│   └── ⚙️ data.json
+├── 📁 slotpal/
+│   └── ⚙️ data.json
+├── 📁 slotrush/
+│   └── ⚙️ data.json
+├── 📁 slots-capital/
+│   └── ⚙️ data.json
+├── 📁 slots-empire/
+│   └── ⚙️ data.json
+├── 📁 slots-gallery/
+│   └── ⚙️ data.json
+├── 📁 slots-hammer/
+│   └── ⚙️ data.json
+├── 📁 slots-jackpot/
+│   └── ⚙️ data.json
+├── 📁 slots-magic/
+│   └── ⚙️ data.json
+├── 📁 slots-ninja/
+│   └── ⚙️ data.json
+├── 📁 slots-safari/
+│   └── ⚙️ data.json
+├── 📁 slotsamigo/
+│   └── ⚙️ data.json
+├── 📁 slotscom/
+│   └── ⚙️ data.json
+├── 📁 slotsinc/
+│   └── ⚙️ data.json
+├── 📁 slotsitecom/
+│   └── ⚙️ data.json
+├── 📁 slotsnbets/
+│   └── ⚙️ data.json
+├── 📁 slotspalace/
+│   └── ⚙️ data.json
+├── 📁 slotsparadise/
+│   └── ⚙️ data.json
+├── 📁 slotsroom/
+│   └── ⚙️ data.json
+├── 📁 slotstake/
+│   └── ⚙️ data.json
+├── 📁 slotstoto/
+│   └── ⚙️ data.json
+├── 📁 slotter/
+│   └── ⚙️ data.json
+├── 📁 slottica/
+│   └── ⚙️ data.json
+├── 📁 slottojam/
+│   └── ⚙️ data.json
+├── 📁 slotuna/
+│   └── ⚙️ data.json
+├── 📁 slotystake/
+│   └── ⚙️ data.json
+├── 📁 smokace/
+│   └── ⚙️ data.json
+├── 📁 sol/
+│   └── ⚙️ data.json
+├── 📁 sons-of/
+│   └── ⚙️ data.json
+├── 📁 spellwin/
+│   └── ⚙️ data.json
+├── 📁 spin/
+│   └── ⚙️ data.json
+├── 📁 spin-dimension/
+│   └── ⚙️ data.json
+├── 📁 spin-galaxy/
+│   └── ⚙️ data.json
+├── 📁 spin-genie/
+│   └── ⚙️ data.json
+├── 📁 spin-palace/
+│   └── ⚙️ data.json
+├── 📁 spin-rider/
+│   └── ⚙️ data.json
+├── 📁 spin-samurai/
+│   └── ⚙️ data.json
+├── 📁 spinamba/
+│   └── ⚙️ data.json
+├── 📁 spinanga/
+│   └── ⚙️ data.json
+├── 📁 spinarium/
+│   └── ⚙️ data.json
+├── 📁 spinaro/
+│   └── ⚙️ data.json
+├── 📁 spinathlon/
+│   └── ⚙️ data.json
+├── 📁 spinational/
+│   └── ⚙️ data.json
+├── 📁 spinaway/
+│   └── ⚙️ data.json
+├── 📁 spinbara/
+│   └── ⚙️ data.json
+├── 📁 spinbetter/
+│   └── ⚙️ data.json
+├── 📁 spinch/
+│   └── ⚙️ data.json
+├── 📁 spindragons/
+│   └── ⚙️ data.json
+├── 📁 spinfinity/
+│   └── ⚙️ data.json
+├── 📁 spingreen/
+│   └── ⚙️ data.json
+├── 📁 spinhub/
+│   └── ⚙️ data.json
+├── 📁 spinight/
+│   └── ⚙️ data.json
+├── 📁 spininio/
+│   └── ⚙️ data.json
+├── 📁 spinit/
+│   └── ⚙️ data.json
+├── 📁 spinland/
+│   └── ⚙️ data.json
+├── 📁 spinly/
+│   └── ⚙️ data.json
+├── 📁 spinmillion/
+│   └── ⚙️ data.json
+├── 📁 spinmills/
+│   └── ⚙️ data.json
+├── 📁 spinnalot/
+│   └── ⚙️ data.json
+├── 📁 spinoli/
+│   └── ⚙️ data.json
+├── 📁 spinoloco/
+│   └── ⚙️ data.json
+├── 📁 spinorhino/
+│   └── ⚙️ data.json
+├── 📁 spinrollz/
+│   └── ⚙️ data.json
+├── 📁 spins-of-glory/
+│   └── ⚙️ data.json
+├── 📁 spinsamba/
+│   └── ⚙️ data.json
+├── 📁 spinsbro/
+│   └── ⚙️ data.json
+├── 📁 spinson/
+│   └── ⚙️ data.json
+├── 📁 spinstar/
+│   └── ⚙️ data.json
+├── 📁 spinstation/
+│   └── ⚙️ data.json
+├── 📁 spinsy/
+│   └── ⚙️ data.json
+├── 📁 spintropolis/
+│   └── ⚙️ data.json
+├── 📁 spinzwin/
+│   └── ⚙️ data.json
+├── 📁 sportaza/
+│   └── ⚙️ data.json
+├── 📁 sportbetone/
+│   └── ⚙️ data.json
+├── 📁 sportsbetio/
+│   └── ⚙️ data.json
+├── 📁 sportsbook/
+│   └── ⚙️ data.json
+├── 📁 sportuna/
+│   └── ⚙️ data.json
+├── 📁 springbok/
+│   └── ⚙️ data.json
+├── 📁 stake/
+│   └── ⚙️ data.json
+├── 📁 stake7/
+│   └── ⚙️ data.json
+├── 📁 stakeclub/
+│   └── ⚙️ data.json
+├── 📁 stakemania/
+│   └── ⚙️ data.json
+├── 📁 starda/
+│   └── ⚙️ data.json
+├── 📁 staxino/
+│   └── ⚙️ data.json
+├── 📁 stelario/
+│   └── ⚙️ data.json
+├── 📁 stonevegas/
+│   └── ⚙️ data.json
+├── 📁 stupid/
+│   └── ⚙️ data.json
+├── 📁 sultanbet/
+│   └── ⚙️ data.json
+├── 📁 sunny-spins/
+│   └── ⚙️ data.json
+├── 📁 sunrise/
+│   └── ⚙️ data.json
+├── 📁 supabet/
+│   └── ⚙️ data.json
+├── 📁 superboss/
+│   └── ⚙️ data.json
+├── 📁 supergame/
+│   └── ⚙️ data.json
+├── 📁 supernova/
+│   └── ⚙️ data.json
+├── 📁 supreme-play/
+│   └── ⚙️ data.json
+├── 📁 sushi/
+│   └── ⚙️ data.json
+├── 📁 svenbet/
+│   └── ⚙️ data.json
+├── 📁 svenplay/
+│   └── ⚙️ data.json
+├── 📁 swift/
+│   └── ⚙️ data.json
+├── 📁 talismania/
+│   └── ⚙️ data.json
+├── 📁 tedbet/
+│   └── ⚙️ data.json
+├── 📁 telbet/
+│   └── ⚙️ data.json
+├── 📁 tenex/
+│   └── ⚙️ data.json
+├── 📁 tenobet/
+│   └── ⚙️ data.json
+├── 📁 the-godbunny/
+│   └── ⚙️ data.json
+├── 📁 the-red-lion/
+│   └── ⚙️ data.json
+├── 📁 the-stake-house/
+│   └── ⚙️ data.json
+├── 📁 theslotz/
+│   └── ⚙️ data.json
+├── 📁 this-is-vegas/
+│   └── ⚙️ data.json
+├── 📁 thorcasino/
+│   └── ⚙️ data.json
+├── 📁 thrill/
+│   └── ⚙️ data.json
+├── 📁 thunderbolt/
+│   └── ⚙️ data.json
+├── 📁 thunderpick/
+│   └── ⚙️ data.json
+├── 📁 tigergaming/
+│   └── ⚙️ data.json
+├── 📁 tikitaka/
+│   └── ⚙️ data.json
+├── 📁 tiktok/
+│   └── ⚙️ data.json
+├── 📁 tip-topbet/
+│   └── ⚙️ data.json
+├── 📁 tombriches/
+│   └── ⚙️ data.json
+├── 📁 top-tally/
+│   └── ⚙️ data.json
+├── 📁 topbet/
+│   └── ⚙️ data.json
+├── 📁 tornadobet/
+│   └── ⚙️ data.json
+├── 📁 touchcasino/
+│   └── ⚙️ data.json
+├── 📁 tournaverse/
+│   └── ⚙️ data.json
+├── 📁 tradition/
+│   └── ⚙️ data.json
+├── 📁 treasure-spins/
+│   └── ⚙️ data.json
+├── 📁 trickz/
+│   └── ⚙️ data.json
+├── 📁 trino/
+│   └── ⚙️ data.json
+├── 📁 tripleseven/
+│   └── ⚙️ data.json
+├── 📁 tropica/
+│   └── ⚙️ data.json
+├── 📁 true-poker/
+│   └── ⚙️ data.json
+├── 📁 truefortune/
+│   └── ⚙️ data.json
+├── 📁 trustdice/
+│   └── ⚙️ data.json
+├── 📁 tsars/
+│   └── ⚙️ data.json
+├── 📁 turbo-wins/
+│   └── ⚙️ data.json
+├── 📁 tusk/
+│   └── ⚙️ data.json
+├── 📁 ubet/
+│   └── ⚙️ data.json
+├── 📁 unibet/
+│   └── ⚙️ data.json
+├── 📁 uptown-aces/
+│   └── ⚙️ data.json
+├── 📁 uptown-pokies/
+│   └── ⚙️ data.json
+├── 📁 vanguard/
+│   └── ⚙️ data.json
+├── 📁 vavada/
+│   └── ⚙️ data.json
+├── 📁 vbet/
+│   └── ⚙️ data.json
+├── 📁 vegadream/
+│   └── ⚙️ data.json
+├── 📁 vegas-amped/
+│   └── ⚙️ data.json
+├── 📁 vegas-country/
+│   └── ⚙️ data.json
+├── 📁 vegas-days/
+│   └── ⚙️ data.json
+├── 📁 vegas-palms/
+│   └── ⚙️ data.json
+├── 📁 vegas-paradise/
+│   └── ⚙️ data.json
+├── 📁 vegas-slot/
+│   └── ⚙️ data.json
+├── 📁 vegas2web/
+│   └── ⚙️ data.json
+├── 📁 vegasaces/
+│   └── ⚙️ data.json
+├── 📁 vegashero/
+│   └── ⚙️ data.json
+├── 📁 vegasino/
+│   └── ⚙️ data.json
+├── 📁 vegaswinner/
+│   └── ⚙️ data.json
+├── 📁 vegaz/
+│   └── ⚙️ data.json
+├── 📁 velobet/
+│   └── ⚙️ data.json
+├── 📁 velwins/
+│   └── ⚙️ data.json
+├── 📁 verde/
+│   └── ⚙️ data.json
+├── 📁 versailles/
+│   └── ⚙️ data.json
+├── 📁 vesper/
+│   └── ⚙️ data.json
+├── 📁 vicibet/
+│   └── ⚙️ data.json
+├── 📁 viggoslots/
+│   └── ⚙️ data.json
+├── 📁 viking-luck/
+│   └── ⚙️ data.json
+├── 📁 villento/
+│   └── ⚙️ data.json
+├── 📁 virtual-city/
+│   └── ⚙️ data.json
+├── 📁 viu-viu/
+│   └── ⚙️ data.json
+├── 📁 voltage-bet/
+│   └── ⚙️ data.json
+├── 📁 voltslot/
+│   └── ⚙️ data.json
+├── 📁 vortex/
+│   └── ⚙️ data.json
+├── 📁 vox/
+│   └── ⚙️ data.json
+├── 📁 vulkan-vegas/
+│   └── ⚙️ data.json
+├── 📁 wageon/
+│   └── ⚙️ data.json
+├── 📁 wallacebet/
+│   └── ⚙️ data.json
+├── 📁 watchmyspin/
+│   └── ⚙️ data.json
+├── 📁 wazamba/
+│   └── ⚙️ data.json
+├── 📁 wazbee/
+│   └── ⚙️ data.json
+├── 📁 wcasino/
+│   └── ⚙️ data.json
+├── 📁 weezybetcom/
+│   └── ⚙️ data.json
+├── 📁 weiss/
+│   └── ⚙️ data.json
+├── 📁 welle/
+│   └── ⚙️ data.json
+├── 📁 weltbet/
+│   └── ⚙️ data.json
+├── 📁 wettson/
+│   └── ⚙️ data.json
+├── 📁 whaleio/
+│   └── ⚙️ data.json
+├── 📁 whamoo/
+│   └── ⚙️ data.json
+├── 📁 white-lotus/
+│   └── ⚙️ data.json
+├── 📁 white-rabbit/
+│   └── ⚙️ data.json
+├── 📁 wickedbet/
+│   └── ⚙️ data.json
+├── 📁 wikibet/
+│   └── ⚙️ data.json
+├── 📁 wikiluck/
+│   └── ⚙️ data.json
+├── 📁 wild7/
+│   └── ⚙️ data.json
+├── 📁 wilderbet/
+│   └── ⚙️ data.json
+├── 📁 wildio/
+│   └── ⚙️ data.json
+├── 📁 wildrobin/
+│   └── ⚙️ data.json
+├── 📁 wildsino/
+│   └── ⚙️ data.json
+├── 📁 will-s/
+│   └── ⚙️ data.json
+├── 📁 william-hill/
+│   └── ⚙️ data.json
+├── 📁 wills/
+│   └── ⚙️ data.json
+├── 📁 win/
+│   └── ⚙️ data.json
+├── 📁 win-a-day/
+│   └── ⚙️ data.json
+├── 📁 win-rolla/
+│   └── ⚙️ data.json
+├── 📁 winbay/
+│   └── ⚙️ data.json
+├── 📁 winbig21/
+│   └── ⚙️ data.json
+├── 📁 wincraft/
+│   └── ⚙️ data.json
+├── 📁 windetta/
+│   └── ⚙️ data.json
+├── 📁 wink/
+│   └── ⚙️ data.json
+├── 📁 winlandia/
+│   └── ⚙️ data.json
+├── 📁 winlegends/
+│   └── ⚙️ data.json
+├── 📁 winnerz/
+│   └── ⚙️ data.json
+├── 📁 winning/
+│   └── ⚙️ data.json
+├── 📁 winningz/
+│   └── ⚙️ data.json
+├── 📁 winolot/
+│   └── ⚙️ data.json
+├── 📁 winota/
+│   └── ⚙️ data.json
+├── 📁 winport/
+│   └── ⚙️ data.json
+├── 📁 wins-royal/
+│   └── ⚙️ data.json
+├── 📁 wins88/
+│   └── ⚙️ data.json
+├── 📁 winscore/
+│   └── ⚙️ data.json
+├── 📁 winspirit/
+│   └── ⚙️ data.json
+├── 📁 wintomato/
+│   └── ⚙️ data.json
+├── 📁 wintopia/
+│   └── ⚙️ data.json
+├── 📁 winwinbet/
+│   └── ⚙️ data.json
+├── 📁 winz/
+│   └── ⚙️ data.json
+├── 📁 wirwetten/
+│   └── ⚙️ data.json
+├── 📁 wishwin/
+│   └── ⚙️ data.json
+├── 📁 wolf-bet/
+│   └── ⚙️ data.json
+├── 📁 wolf-spins/
+│   └── ⚙️ data.json
+├── 📁 wolfbet/
+│   └── ⚙️ data.json
+├── 📁 wolfy/
+│   └── ⚙️ data.json
+├── 📁 wonaco/
+│   └── ⚙️ data.json
+├── 📁 wonderluck/
+│   └── ⚙️ data.json
+├── 📁 woopwin/
+│   └── ⚙️ data.json
+├── 📁 wunderwins/
+│   └── ⚙️ data.json
+├── 📁 wyns/
+│   └── ⚙️ data.json
+├── 📁 x7/
+│   └── ⚙️ data.json
+├── 📁 xyes/
+│   └── ⚙️ data.json
+├── 📁 yabby/
+│   └── ⚙️ data.json
+├── 📁 yallabet/
+│   └── ⚙️ data.json
+├── 📁 yeti/
+│   └── ⚙️ data.json
+├── 📁 yonibet/
+│   └── ⚙️ data.json
+├── 📁 yugibet/
+│   └── ⚙️ data.json
+├── 📁 yukon-gold/
+│   └── ⚙️ data.json
+├── 📁 zenbetting/
+│   └── ⚙️ data.json
+├── 📁 zencasino/
+│   └── ⚙️ data.json
+├── 📁 zenobet/
+│   └── ⚙️ data.json
+├── 📁 zet/
+│   └── ⚙️ data.json
+├── 📁 zeuswin/
+│   └── ⚙️ data.json
+├── 📁 zinkra/
+│   └── ⚙️ data.json
+├── 📁 zipcasino/
+│   └── ⚙️ data.json
+├── 📁 zlatobet/
+│   └── ⚙️ data.json
+└── 📁 zodiac/
+    └── ⚙️ data.json
+
+────────────────────────────────────────────────────────────────────────────────
+Generated by FileTree Pro Extension

@@ -1,0 +1,4352 @@
+[
+  {
+    "name": "Slot Powers",
+    "slug": "slot-powers",
+    "website": "https://slot-powers.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bookmaker.XYZ",
+    "slug": "bookmakerxyz",
+    "website": "https://bookmakerxyz.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GTbets",
+    "slug": "gtbets",
+    "website": "https://gtbets.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Yugibet",
+    "slug": "yugibet",
+    "website": "https://yugibet.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lukki",
+    "slug": "lukki",
+    "website": "https://lukki.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Aztec Riches",
+    "slug": "aztec-riches",
+    "website": "https://aztec-riches.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SlotsPalace",
+    "slug": "slotspalace",
+    "website": "https://slotspalace.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Candy",
+    "slug": "candy",
+    "website": "https://www.candy.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Vegas2Web",
+    "slug": "vegas2web",
+    "website": "https://vegas2web.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SimbaGames",
+    "slug": "simbagames",
+    "website": "https://simbagames.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Zodiac",
+    "slug": "zodiac",
+    "website": "https://zodiac.casino/en/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dreamplay",
+    "slug": "dreamplay",
+    "website": "https://barakafinancialgroup.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Unibet",
+    "slug": "unibet",
+    "website": "https://unibet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Euro",
+    "slug": "golden-euro",
+    "website": "https://golden-euro.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Aladdins Gold",
+    "slug": "aladdins-gold",
+    "website": "https://aladdins-gold.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CrownPlay",
+    "slug": "crownplay",
+    "website": "https://crownplay.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Riviera",
+    "slug": "riviera",
+    "website": "https://riviera-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "All Jackpots",
+    "slug": "all-jackpots",
+    "website": "https://all-jackpots.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Eternal Slots",
+    "slug": "eternal-slots",
+    "website": "https://eternal-slots.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Monro",
+    "slug": "monro",
+    "website": "https://monro-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kitty Cat",
+    "slug": "kitty-cat",
+    "website": "https://kitty-cat-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rooster.bet",
+    "slug": "roosterbet",
+    "website": "https://roosterbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Prism",
+    "slug": "prism",
+    "website": "https://prism.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetliveCasino",
+    "slug": "betlivecasino",
+    "website": "https://betlivecasino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "1Red",
+    "slug": "1red",
+    "website": "https://1red.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OrientXpress",
+    "slug": "orientxpress",
+    "website": "https://orientxpress.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Onluck",
+    "slug": "onluck",
+    "website": "https://onluck.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Instant",
+    "slug": "instant",
+    "website": "https://instant.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayJango",
+    "slug": "playjango",
+    "website": "https://playjango.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slots.inc",
+    "slug": "slotsinc",
+    "website": "https://slotsinc.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetElite",
+    "slug": "betelite",
+    "website": "https://www.betelite.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Vegas Country",
+    "slug": "vegas-country",
+    "website": "https://vegas-country.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pots of Luck",
+    "slug": "pots-of-luck",
+    "website": "https://pots-of-luck.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "UBET",
+    "slug": "ubet",
+    "website": "https://ubet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Coins.Game",
+    "slug": "coinsgame",
+    "website": "https://coinsgame.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Miami Club",
+    "slug": "miami-club",
+    "website": "https://miami-club.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Haz",
+    "slug": "haz",
+    "website": "https://haz.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pribet",
+    "slug": "pribet",
+    "website": "https://pribet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Ninlay",
+    "slug": "ninlay",
+    "website": "https://ninlay.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Las Atlantis",
+    "slug": "las-atlantis",
+    "website": "https://www.las-atlantis.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Parimatch",
+    "slug": "parimatch",
+    "website": "https://parimatch111.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrXbet",
+    "slug": "mrxbet",
+    "website": "https://mrxbet.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Vegadream",
+    "slug": "vegadream",
+    "website": "https://vegadream.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Free Spin",
+    "slug": "free-spin",
+    "website": "https://free-spin.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rich Palms",
+    "slug": "rich-palms",
+    "website": "https://rich-palms.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "TenoBet",
+    "slug": "tenobet",
+    "website": "https://tenobet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FunBetCasino",
+    "slug": "funbetcasino",
+    "website": "https://funbetcasino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinarium",
+    "slug": "spinarium",
+    "website": "https://spinarium.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HeroSpin",
+    "slug": "herospin",
+    "website": "https://herospin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BC.Game",
+    "slug": "bcgame",
+    "website": "https://bc.game/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Brango",
+    "slug": "casino-brango",
+    "website": "https://casino-brango.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Del Oro",
+    "slug": "del-oro",
+    "website": "https://del-oro.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Supernova",
+    "slug": "supernova",
+    "website": "https://www.supernova.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "7Oasis",
+    "slug": "7oasis",
+    "website": "https://7oasis.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RockstarWin",
+    "slug": "rockstarwin",
+    "website": "https://rockstarwin.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Anonymous",
+    "slug": "anonymous",
+    "website": "https://anonymous.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bongo",
+    "slug": "bongo",
+    "website": "https://bongo-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fair Go",
+    "slug": "fair-go",
+    "website": "https://fair-go.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BDM BET",
+    "slug": "bdm-bet",
+    "website": "https://bdm-bet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HotSlots",
+    "slug": "hotslots",
+    "website": "https://hotslots.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casinova",
+    "slug": "casinova",
+    "website": "https://casinova.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayOJO",
+    "slug": "playojo",
+    "website": "https://playojo.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Crypto Games",
+    "slug": "crypto-games",
+    "website": "https://crypto.games/?caller=crypto-games.net",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dream Vegas",
+    "slug": "dream-vegas",
+    "website": "https://dream-vegas.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetFoxx",
+    "slug": "betfoxx",
+    "website": "https://betfoxx.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lemon",
+    "slug": "lemon",
+    "website": "https://lemon.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slots Safari",
+    "slug": "slots-safari",
+    "website": "https://slots-safari.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "21Prive",
+    "slug": "21prive",
+    "website": "https://21prive.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrJackVegas",
+    "slug": "mrjackvegas",
+    "website": "https://www.mrjackvegas.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "b-Bets",
+    "slug": "b-bets",
+    "website": "https://b-bets.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Win",
+    "slug": "win",
+    "website": "https://win.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Divas Luck",
+    "slug": "divas-luck",
+    "website": "https://divas-luck.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Winscore",
+    "slug": "winscore",
+    "website": "https://winscore.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Horus",
+    "slug": "horus",
+    "website": "https://horus-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Sieger",
+    "slug": "casino-sieger",
+    "website": "https://casino-sieger.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "House Of Pokies",
+    "slug": "house-of-pokies",
+    "website": "https://house-of-pokies.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "betsAMIGO",
+    "slug": "betsamigo",
+    "website": "https://betsamigo.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackpot Wheel",
+    "slug": "jackpot-wheel",
+    "website": "https://jackpot-wheel-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Stake7",
+    "slug": "stake7",
+    "website": "https://stake7.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "7Signs",
+    "slug": "7signs",
+    "website": "https://7signs.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Trickz",
+    "slug": "trickz",
+    "website": "https://trickz.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spin Genie",
+    "slug": "spin-genie",
+    "website": "https://spin-genie.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rizzio",
+    "slug": "rizzio",
+    "website": "https://rizzio.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LadyLinda",
+    "slug": "ladylinda",
+    "website": "https://ladylinda.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetWinner",
+    "slug": "betwinner",
+    "website": "https://www.betwin.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "11croco",
+    "slug": "11croco",
+    "website": "https://11croco.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "30Bet.com",
+    "slug": "30betcom",
+    "website": "https://www.30bet.com/en-UN",
+    "source": "heuristic"
+  },
+  {
+    "name": "Magical Spin",
+    "slug": "magical-spin",
+    "website": "https://magical-spin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betandyou",
+    "slug": "betandyou",
+    "website": "https://betandyou.com/en",
+    "source": "heuristic"
+  },
+  {
+    "name": "LuckyVibe",
+    "slug": "luckyvibe",
+    "website": "https://luckyvibe.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetChip",
+    "slug": "betchip",
+    "website": "https://betchip.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Tradition",
+    "slug": "tradition",
+    "website": "https://tradition.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Brazino777",
+    "slug": "brazino777",
+    "website": "https://brazino777.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spin Samurai",
+    "slug": "spin-samurai",
+    "website": "https://spin-samurai.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ElegantSpins",
+    "slug": "elegantspins",
+    "website": "https://www.elegantspins.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cazimbo",
+    "slug": "cazimbo",
+    "website": "https://cazimbo.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jazzy Spins",
+    "slug": "jazzy-spins",
+    "website": "https://jazzy-spins.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Xyes",
+    "slug": "xyes",
+    "website": "https://xyes.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slotimo",
+    "slug": "slotimo",
+    "website": "https://slotimo.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casimpo",
+    "slug": "casimpo",
+    "website": "https://casimpo.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Mr Slot",
+    "slug": "mr-slot",
+    "website": "https://mr-slot.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OptimBet",
+    "slug": "optimbet",
+    "website": "https://optimbet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Ditobet",
+    "slug": "ditobet",
+    "website": "https://ditobet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GoldBet",
+    "slug": "goldbet",
+    "website": "https://goldbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Prestige",
+    "slug": "casino-prestige",
+    "website": "https://casino-prestige.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Royal Reels",
+    "slug": "royal-reels",
+    "website": "https://royal-reels.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Viggoslots",
+    "slug": "viggoslots",
+    "website": "https://viggoslots.site/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spins of Glory",
+    "slug": "spins-of-glory",
+    "website": "https://spins-of-glory.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Tsars",
+    "slug": "tsars",
+    "website": "https://tsars.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Paripesa",
+    "slug": "paripesa",
+    "website": "https://paripesa.top/en",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bet Cave",
+    "slug": "bet-cave",
+    "website": "https://bet-cave.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Viking Luck",
+    "slug": "viking-luck",
+    "website": "https://viking-luck.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ComicPlay",
+    "slug": "comicplay",
+    "website": "https://comicplay.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Nucleonbet",
+    "slug": "nucleonbet",
+    "website": "https://nucleonbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Star",
+    "slug": "golden-star",
+    "website": "https://golden-star.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Captain Cooks",
+    "slug": "captain-cooks",
+    "website": "https://captain-cooks.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayOnWin",
+    "slug": "playonwin",
+    "website": "https://www.playonwin.com/casino/lobby",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetBona",
+    "slug": "betbona",
+    "website": "https://betbona.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casilando",
+    "slug": "casilando",
+    "website": "https://casilando.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinnalot",
+    "slug": "spinnalot",
+    "website": "https://spinnalot.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Maxxwin",
+    "slug": "maxxwin",
+    "website": "https://maxxwin.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slot Planet",
+    "slug": "slot-planet",
+    "website": "https://slot-planet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betreels",
+    "slug": "betreels",
+    "website": "https://www.betreels.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HunnyPlay",
+    "slug": "hunnyplay",
+    "website": "https://hunnyplay.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wikibet",
+    "slug": "wikibet",
+    "website": "https://wikibet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Conquer",
+    "slug": "conquer",
+    "website": "https://conquer.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky7even",
+    "slug": "lucky7even",
+    "website": "https://lucky7even.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "21LuckyBet",
+    "slug": "21luckybet",
+    "website": "https://www.21luckybet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SirWin",
+    "slug": "sirwin",
+    "website": "https://sirwin.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BacanaPlay",
+    "slug": "bacanaplay",
+    "website": "https://bacanaplay.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinch",
+    "slug": "spinch",
+    "website": "https://spinch.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rich Reels",
+    "slug": "rich-reels",
+    "website": "https://rich-reels.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Circus",
+    "slug": "lucky-circus",
+    "website": "https://lucky-circus.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "allStarz",
+    "slug": "allstarz",
+    "website": "https://allstarz.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "WinCraft",
+    "slug": "wincraft",
+    "website": "https://www.wincraft.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Frumzi",
+    "slug": "frumzi",
+    "website": "https://frumzi.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kirgo",
+    "slug": "kirgo",
+    "website": "https://kirgo.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Avantgarde",
+    "slug": "avantgarde",
+    "website": "https://www.avantgarde.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayMillion",
+    "slug": "playmillion",
+    "website": "https://playmillion.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kingdom",
+    "slug": "kingdom",
+    "website": "https://kingdom-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CatCasino",
+    "slug": "catcasino",
+    "website": "https://catcasino.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Q88Bets",
+    "slug": "q88bets",
+    "website": "https://www.q88bets.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SuperGame",
+    "slug": "supergame",
+    "website": "https://supergame-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rocket.run",
+    "slug": "rocketrun",
+    "website": "https://rocket.run/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EgoGames",
+    "slug": "egogames",
+    "website": "https://egogames.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slots Magic",
+    "slug": "slots-magic",
+    "website": "https://slots-magic.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Ricardo's",
+    "slug": "ricardos",
+    "website": "https://ricardo-s-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "888STARZ",
+    "slug": "888starz",
+    "website": "https://888starz.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casimba",
+    "slug": "casimba",
+    "website": "https://casimba.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Coolzino",
+    "slug": "coolzino",
+    "website": "https://coolzino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Action",
+    "slug": "casino-action",
+    "website": "https://casino-action.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Sloto Tribe",
+    "slug": "sloto-tribe",
+    "website": "https://sloto-tribe-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ReefSpins",
+    "slug": "reefspins",
+    "website": "https://reefspins.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betssen",
+    "slug": "betssen",
+    "website": "https://www.betssen.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "JackMillion",
+    "slug": "jackmillion",
+    "website": "https://jackmillion.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "bet O bet",
+    "slug": "bet-o-bet",
+    "website": "https://bet-o-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bitsler",
+    "slug": "bitsler",
+    "website": "https://bitsler-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Irish Luck",
+    "slug": "irish-luck",
+    "website": "https://irish-luck-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "TripleSeven",
+    "slug": "tripleseven",
+    "website": "https://tripleseven.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Tropica",
+    "slug": "tropica",
+    "website": "https://tropica.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wolfy",
+    "slug": "wolfy",
+    "website": "https://wolfy.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinanga",
+    "slug": "spinanga",
+    "website": "https://spinanga.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spin Palace",
+    "slug": "spin-palace",
+    "website": "https://spin-palace.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Winbay",
+    "slug": "winbay",
+    "website": "https://winbay.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betsixty",
+    "slug": "betsixty",
+    "website": "https://betsixty.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Stake",
+    "slug": "stake",
+    "website": "https://stake.com.co/es/bienvenida",
+    "source": "heuristic"
+  },
+  {
+    "name": "Villento",
+    "slug": "villento",
+    "website": "https://villento.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Anarchy",
+    "slug": "anarchy",
+    "website": "https://anarchy.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ZenBetting",
+    "slug": "zenbetting",
+    "website": "https://www.zenbetting.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrPacho",
+    "slug": "mrpacho",
+    "website": "https://mrpacho.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BankonBet",
+    "slug": "bankonbet",
+    "website": "https://bankonbet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bloody Slots",
+    "slug": "bloody-slots",
+    "website": "https://bloody-slots.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slots Hammer",
+    "slug": "slots-hammer",
+    "website": "https://slots-hammer.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "wallacebet",
+    "slug": "wallacebet",
+    "website": "https://wallacebet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Duelz",
+    "slug": "duelz",
+    "website": "https://duelz.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betway",
+    "slug": "betway",
+    "website": "https://betway-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slotsite.com",
+    "slug": "slotsitecom",
+    "website": "https://www.slotsite.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "WildRobin",
+    "slug": "wildrobin",
+    "website": "https://wildrobin.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dublinbet",
+    "slug": "dublinbet",
+    "website": "https://dublinbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetOnline",
+    "slug": "betonline",
+    "website": "https://betonline-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Brutal",
+    "slug": "brutal",
+    "website": "https://brutal.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Matchbook",
+    "slug": "matchbook",
+    "website": "https://matchbook.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PartySpins",
+    "slug": "partyspins",
+    "website": "https://partyspins.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gudar",
+    "slug": "gudar",
+    "website": "https://gudar.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slotage",
+    "slug": "slotage",
+    "website": "https://slotage.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dafabet",
+    "slug": "dafabet",
+    "website": "https://dafabet.online/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BluVegas",
+    "slug": "bluvegas",
+    "website": "https://bluvegas.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Sloto'Cash",
+    "slug": "slotocash",
+    "website": "https://sloto-cash.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Coinplay",
+    "slug": "coinplay",
+    "website": "https://coinplay.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spin Rider",
+    "slug": "spin-rider",
+    "website": "https://spin-rider.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wonaco",
+    "slug": "wonaco",
+    "website": "https://wonaco.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pokie Spins",
+    "slug": "pokie-spins",
+    "website": "https://pokie-spins.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "StakeMania",
+    "slug": "stakemania",
+    "website": "https://stakemania.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "DrueckGlueck",
+    "slug": "drueckglueck",
+    "website": "https://drueckglueck.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wikiluck",
+    "slug": "wikiluck",
+    "website": "https://wikiluck.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Tedbet",
+    "slug": "tedbet",
+    "website": "https://tedbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ZeusWin",
+    "slug": "zeuswin",
+    "website": "https://zeuswin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Megadice",
+    "slug": "megadice",
+    "website": "https://megadice.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinland",
+    "slug": "spinland",
+    "website": "https://spinland.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Hexabet",
+    "slug": "hexabet",
+    "website": "https://hexabet.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MonsterWin",
+    "slug": "monsterwin",
+    "website": "https://monsterwin.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Royal Stars",
+    "slug": "royal-stars",
+    "website": "https://royal-stars.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "God Of",
+    "slug": "god-of",
+    "website": "https://god-of.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kudos",
+    "slug": "kudos",
+    "website": "https://www.kudos.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FortuneJack",
+    "slug": "fortunejack",
+    "website": "https://fortunejack-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slottica",
+    "slug": "slottica",
+    "website": "https://slottica.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Silverplay",
+    "slug": "silverplay",
+    "website": "https://silverplay.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Nugget",
+    "slug": "lucky-nugget",
+    "website": "https://lucky-nugget.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Amonbet",
+    "slug": "amonbet",
+    "website": "https://amonbet.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Nextbet",
+    "slug": "nextbet",
+    "website": "https://www.nextbet.com/en",
+    "source": "heuristic"
+  },
+  {
+    "name": "Patang",
+    "slug": "patang",
+    "website": "https://patang.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Opabet",
+    "slug": "opabet",
+    "website": "https://opabet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gamegram",
+    "slug": "gamegram",
+    "website": "https://gamegram.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Bull",
+    "slug": "lucky-bull",
+    "website": "https://lucky-bull.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "High Noon",
+    "slug": "high-noon",
+    "website": "https://high-noon.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Caspero",
+    "slug": "caspero",
+    "website": "https://caspero.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CasinoAndYou",
+    "slug": "casinoandyou",
+    "website": "https://casinoandyou.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinamba",
+    "slug": "spinamba",
+    "website": "https://spinamba.com/en",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jozz",
+    "slug": "jozz",
+    "website": "https://jozz.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "WinSpirit",
+    "slug": "winspirit",
+    "website": "https://winspirit.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinit",
+    "slug": "spinit",
+    "website": "https://spinit-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Reel Spin",
+    "slug": "reel-spin",
+    "website": "https://reel-spin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Megapari",
+    "slug": "megapari",
+    "website": "https://megapari.africa/en",
+    "source": "heuristic"
+  },
+  {
+    "name": "DaVinci's Gold",
+    "slug": "davincis-gold",
+    "website": "https://davincis-gold.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Grand Club",
+    "slug": "grand-club",
+    "website": "https://grand-club.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fast Slots",
+    "slug": "fast-slots",
+    "website": "https://fast-slots.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "DBbet",
+    "slug": "dbbet",
+    "website": "https://dbbet.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinoli",
+    "slug": "spinoli",
+    "website": "https://spinoli.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bluffbet",
+    "slug": "bluffbet",
+    "website": "https://bluffbet.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RoyalsCasino",
+    "slug": "royalscasino",
+    "website": "https://royalscasino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ExclusiveBet",
+    "slug": "exclusivebet",
+    "website": "https://exclusivebet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Svenbet",
+    "slug": "svenbet",
+    "website": "https://svenbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Svenplay",
+    "slug": "svenplay",
+    "website": "https://svenplay.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Winning",
+    "slug": "winning",
+    "website": "https://winning.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Talismania",
+    "slug": "talismania",
+    "website": "https://talismania.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SlottoJam",
+    "slug": "slottojam",
+    "website": "https://slottojam.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rolletto",
+    "slug": "rolletto",
+    "website": "https://rolletto.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "mr.play",
+    "slug": "mrplay",
+    "website": "https://mrplay.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Menace",
+    "slug": "menace",
+    "website": "https://menace.online/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lord Of The Spins",
+    "slug": "lord-of-the-spins",
+    "website": "https://lord-of-the-spins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Rocket",
+    "slug": "casino-rocket",
+    "website": "https://casino-rocket.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Red",
+    "slug": "lucky-red",
+    "website": "https://lucky-red.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BitCasino.io",
+    "slug": "bitcasinoio",
+    "website": "https://97wincc.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Yallabet",
+    "slug": "yallabet",
+    "website": "https://yallabet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Vegasino",
+    "slug": "vegasino",
+    "website": "https://vegasino.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Sunny Spins",
+    "slug": "sunny-spins",
+    "website": "https://sunny-spins.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spintropolis",
+    "slug": "spintropolis",
+    "website": "https://spintropolis.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Staxino",
+    "slug": "staxino",
+    "website": "https://staxino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bets Bunny",
+    "slug": "bets-bunny",
+    "website": "https://bets-bunny.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rollero",
+    "slug": "rollero",
+    "website": "https://rollero.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "20Bet",
+    "slug": "20bet",
+    "website": "https://20bet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "24Slots",
+    "slug": "24slots",
+    "website": "https://24slots.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OceanSpin",
+    "slug": "oceanspin",
+    "website": "https://speelnl.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Reels",
+    "slug": "golden-reels",
+    "website": "https://golden-reels.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RakeBit",
+    "slug": "rakebit",
+    "website": "https://rakebit-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dragonara",
+    "slug": "dragonara",
+    "website": "https://dragonara.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CoinKings",
+    "slug": "coinkings",
+    "website": "https://coinkings.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "AfricaSports",
+    "slug": "africasports",
+    "website": "https://www.africasports.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dream Royale",
+    "slug": "dream-royale",
+    "website": "https://dream-royale-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Fiz",
+    "slug": "casino-fiz",
+    "website": "https://casino-fiz.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FoggyBet",
+    "slug": "foggybet",
+    "website": "https://foggybet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MyEmpire",
+    "slug": "myempire",
+    "website": "https://myempire.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinrollz",
+    "slug": "spinrollz",
+    "website": "https://www.spinrollz.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Play2Win",
+    "slug": "play2win",
+    "website": "https://play2win-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Impressario",
+    "slug": "impressario",
+    "website": "https://impressario.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BitGuruz",
+    "slug": "bitguruz",
+    "website": "https://bitguruz.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinaro",
+    "slug": "spinaro",
+    "website": "https://spinaro-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Vbet",
+    "slug": "vbet",
+    "website": "https://vbet.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bet It All",
+    "slug": "bet-it-all",
+    "website": "https://10betitall1.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GreatSpin",
+    "slug": "greatspin",
+    "website": "https://www.greatspin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "24Casino",
+    "slug": "24casino",
+    "website": "https://24casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wink Slots",
+    "slug": "wink-slots",
+    "website": "https://wink-slots.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wageon",
+    "slug": "wageon",
+    "website": "https://wageon.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Magic Red",
+    "slug": "magic-red",
+    "website": "https://magic-red.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Infinity",
+    "slug": "casino-infinity",
+    "website": "https://casino-infinity.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kinbet",
+    "slug": "kinbet",
+    "website": "https://kinbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Crazy Luck",
+    "slug": "crazy-luck",
+    "website": "https://crazy-luck.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Estrella",
+    "slug": "casino-estrella",
+    "website": "https://casino-estrella.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Goldenbet",
+    "slug": "goldenbet",
+    "website": "https://goldenbet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fun",
+    "slug": "fun",
+    "website": "https://fun.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Stupid",
+    "slug": "stupid",
+    "website": "https://stupid.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Crown",
+    "slug": "golden-crown",
+    "website": "https://golden-crown.site/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Win A Day",
+    "slug": "win-a-day",
+    "website": "https://win-a-day.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "18bet",
+    "slug": "18bet",
+    "website": "https://18bet.site/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CashiMashi",
+    "slug": "cashimashi",
+    "website": "https://cashimashi.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Dreams",
+    "slug": "lucky-dreams",
+    "website": "https://lucky-dreams.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "21bit",
+    "slug": "21bit",
+    "website": "https://21bit.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jetton",
+    "slug": "jetton",
+    "website": "https://jetton.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "River Belle",
+    "slug": "river-belle",
+    "website": "https://river-belle.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Revolution",
+    "slug": "revolution",
+    "website": "https://www.revolution.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Winz",
+    "slug": "winz",
+    "website": "https://winz.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SpinBetter",
+    "slug": "spinbetter",
+    "website": "https://spinbetter.com/en",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetSwagger",
+    "slug": "betswagger",
+    "website": "https://betswagger.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Voltslot",
+    "slug": "voltslot",
+    "website": "https://voltslot.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Sportuna",
+    "slug": "sportuna",
+    "website": "https://sportuna.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "TombRiches",
+    "slug": "tombriches",
+    "website": "https://tombriches.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "iBet",
+    "slug": "ibet",
+    "website": "https://www.ibet.com/en-UN",
+    "source": "heuristic"
+  },
+  {
+    "name": "NewVegas",
+    "slug": "newvegas",
+    "website": "https://newvegas.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "3Dice",
+    "slug": "3dice",
+    "website": "https://3dice.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slotgard",
+    "slug": "slotgard",
+    "website": "https://slotgard.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Grand Hotel",
+    "slug": "grand-hotel",
+    "website": "https://grand-hotel-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Play Fortuna",
+    "slug": "play-fortuna",
+    "website": "https://play-fortuna.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EuroKing",
+    "slug": "euroking",
+    "website": "https://euroking.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EvoBet",
+    "slug": "evobet",
+    "website": "https://evobet.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betblast",
+    "slug": "betblast",
+    "website": "https://betblast.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Winlandia",
+    "slug": "winlandia",
+    "website": "https://www.winlandia.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ReloadBet",
+    "slug": "reloadbet",
+    "website": "https://reloadbet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wyns",
+    "slug": "wyns",
+    "website": "https://wyns-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CampoBet",
+    "slug": "campobet",
+    "website": "https://campobet.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinly",
+    "slug": "spinly",
+    "website": "https://spinly.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "12BET",
+    "slug": "12bet",
+    "website": "https://12bet-dangnhap.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Welle",
+    "slug": "welle",
+    "website": "https://welle.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Niki",
+    "slug": "lucky-niki",
+    "website": "https://lucky-niki.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CryptoLeo",
+    "slug": "cryptoleo",
+    "website": "https://cryptoleo.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ZenCasino",
+    "slug": "zencasino",
+    "website": "https://zencasino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino Night",
+    "slug": "casino-night",
+    "website": "https://casino-night.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Booms.Bet",
+    "slug": "boomsbet",
+    "website": "https://boomsbet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cherry Gold",
+    "slug": "cherry-gold",
+    "website": "https://www.cherry-gold.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Candyland",
+    "slug": "candyland",
+    "website": "https://candyland.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MyStake",
+    "slug": "mystake",
+    "website": "https://mystake-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betory",
+    "slug": "betory",
+    "website": "https://betory.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Playfast",
+    "slug": "playfast",
+    "website": "https://playfast.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slotter",
+    "slug": "slotter",
+    "website": "https://slotter.site/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HippoZino",
+    "slug": "hippozino",
+    "website": "https://www.hippozino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Eddy Vegas",
+    "slug": "eddy-vegas",
+    "website": "https://eddy-vegas.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ETH",
+    "slug": "eth",
+    "website": "https://eth.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "TrueFortune",
+    "slug": "truefortune",
+    "website": "https://truefortune.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dazzle",
+    "slug": "dazzle",
+    "website": "https://dazzle-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Vortex",
+    "slug": "vortex",
+    "website": "https://vortex.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FTVClub",
+    "slug": "ftvclub",
+    "website": "https://ftvclub.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Voltage Bet",
+    "slug": "voltage-bet",
+    "website": "https://voltage-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Hype Kasino",
+    "slug": "hype-kasino",
+    "website": "https://hype-kasino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Yonibet",
+    "slug": "yonibet",
+    "website": "https://yonibet.online/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pan",
+    "slug": "pan",
+    "website": "https://pan-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SpinStation",
+    "slug": "spinstation",
+    "website": "https://spinstation.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BitcoinVIP",
+    "slug": "bitcoinvip",
+    "website": "https://bitcoinvip.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "1xSlots",
+    "slug": "1xslots",
+    "website": "https://1xslot-75531.bar/en?tag=d_4135019m_8949c_com",
+    "source": "heuristic"
+  },
+  {
+    "name": "Chipstars",
+    "slug": "chipstars",
+    "website": "https://chipstars.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Royal Planet",
+    "slug": "royal-planet",
+    "website": "https://royal-planet.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinsy",
+    "slug": "spinsy",
+    "website": "https://www.spinsy.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RetroBet",
+    "slug": "retrobet",
+    "website": "https://retrobet.online/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CasinoClic",
+    "slug": "casinoclic",
+    "website": "https://www.casinoclic.com/fr/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pinnacle Sports",
+    "slug": "pinnacle-sports",
+    "website": "https://pinnacle-sports.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Sportsbook",
+    "slug": "sportsbook",
+    "website": "https://www.sportsbook.com/betting/welcome.hp?service=/sbk/sportsbook4/home.sbk",
+    "source": "heuristic"
+  },
+  {
+    "name": "Quickwin",
+    "slug": "quickwin",
+    "website": "https://quickwin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Merlin",
+    "slug": "merlin",
+    "website": "https://merlin.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino And Friends",
+    "slug": "casino-and-friends",
+    "website": "https://casino-and-friends.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Skol",
+    "slug": "skol",
+    "website": "https://skol.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "NV",
+    "slug": "nv",
+    "website": "https://nv-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CrazePlay",
+    "slug": "crazeplay",
+    "website": "https://crazeplay.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Brasil777",
+    "slug": "brasil777",
+    "website": "https://brasil777.com/pt/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RX",
+    "slug": "rx",
+    "website": "https://rx.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "TornadoBet",
+    "slug": "tornadobet",
+    "website": "https://tornadobet.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "0xBET",
+    "slug": "0xbet",
+    "website": "https://0xbet.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "bets.io",
+    "slug": "betsio",
+    "website": "https://betsio.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slots Capital",
+    "slug": "slots-capital",
+    "website": "https://slots-capital.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LEX",
+    "slug": "lex",
+    "website": "https://lex-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wishwin",
+    "slug": "wishwin",
+    "website": "https://wishwin.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Exclusive",
+    "slug": "exclusive",
+    "website": "https://exclusive.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Quatro",
+    "slug": "quatro",
+    "website": "https://quatro.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Thunderbolt",
+    "slug": "thunderbolt",
+    "website": "https://thunderbolt-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Roaring 21",
+    "slug": "roaring-21",
+    "website": "https://roaring-21.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bookmaker",
+    "slug": "bookmaker",
+    "website": "https://bookmaker-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Highway",
+    "slug": "highway",
+    "website": "https://highway.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rox",
+    "slug": "rox",
+    "website": "https://www.rox.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cashed",
+    "slug": "cashed",
+    "website": "https://cashed.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Spinoloco",
+    "slug": "spinoloco",
+    "website": "https://spinoloco.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rockbet",
+    "slug": "rockbet",
+    "website": "https://rockbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "SpinsBro",
+    "slug": "spinsbro",
+    "website": "https://spinsbro.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cybet",
+    "slug": "cybet",
+    "website": "https://cybet.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gate777",
+    "slug": "gate777",
+    "website": "https://gate777.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RitzSlots",
+    "slug": "ritzslots",
+    "website": "https://ritzslots.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EmirBet",
+    "slug": "emirbet",
+    "website": "https://emirbet.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "La Riviera",
+    "slug": "la-riviera",
+    "website": "https://la-riviera.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Uptown Pokies",
+    "slug": "uptown-pokies",
+    "website": "https://www.uptown-pokies.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Kong",
+    "slug": "lucky-kong",
+    "website": "https://lucky-kong.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Chancer",
+    "slug": "chancer",
+    "website": "https://chancer.site/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Wild7",
+    "slug": "wild7",
+    "website": "https://wild7-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betico",
+    "slug": "betico",
+    "website": "https://betico-bet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Aerobet",
+    "slug": "aerobet",
+    "website": "https://aerobet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GoldSpin",
+    "slug": "goldspin",
+    "website": "https://goldspin.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "TelBet",
+    "slug": "telbet",
+    "website": "https://telbet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ViciBet",
+    "slug": "vicibet",
+    "website": "https://vicibet.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetterWin",
+    "slug": "betterwin",
+    "website": "https://betterwin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetNjet",
+    "slug": "betnjet",
+    "website": "https://betnjet.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Booi",
+    "slug": "booi",
+    "website": "https://booi.com/en",
+    "source": "heuristic"
+  },
+  {
+    "name": "Primaplay",
+    "slug": "primaplay",
+    "website": "https://primaplay.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "VegasHero",
+    "slug": "vegashero",
+    "website": "https://vegashero.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GalacticWins",
+    "slug": "galacticwins",
+    "website": "https://www.galacticwins.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Royal Game",
+    "slug": "royal-game",
+    "website": "https://royal-game.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Roobet",
+    "slug": "roobet",
+    "website": "https://roobet.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "4Kasino",
+    "slug": "4kasino",
+    "website": "https://4kasino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bizzo",
+    "slug": "bizzo",
+    "website": "https://bizzo.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EnergyCasino",
+    "slug": "energycasino",
+    "website": "https://energycasino.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "DepositWin",
+    "slug": "depositwin",
+    "website": "https://depositwin.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Ph.Casino",
+    "slug": "phcasino",
+    "website": "https://phcasino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Novajackpot",
+    "slug": "novajackpot",
+    "website": "https://novajackpot.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bspin",
+    "slug": "bspin",
+    "website": "https://bspin.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Justbit",
+    "slug": "justbit",
+    "website": "https://justbit-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Slotastic",
+    "slug": "slotastic",
+    "website": "https://www.slotastic.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betinia Casino",
+    "slug": "betinia-casino",
+    "website": "https://betinia-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betory Casino",
+    "slug": "betory-casino",
+    "website": "https://betory-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betreels Casino",
+    "slug": "betreels-casino",
+    "website": "https://betreels-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betsixty Casino",
+    "slug": "betsixty-casino",
+    "website": "https://betsixty-casino.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betssen Casino",
+    "slug": "betssen-casino",
+    "website": "https://betssen-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BetterWin Casino",
+    "slug": "betterwin-casino",
+    "website": "https://betterwin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betwarts Casino",
+    "slug": "betwarts-casino",
+    "website": "https://betwarts-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Betzard Casino",
+    "slug": "betzard-casino",
+    "website": "https://betzard-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BillyBets Casino",
+    "slug": "billybets-casino",
+    "website": "https://billybets-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BitGuruz Casino",
+    "slug": "bitguruz-casino",
+    "website": "https://bitguruz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BitStarz Casino",
+    "slug": "bitstarz-casino",
+    "website": "https://bitstarz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BitcoinVIP Casino",
+    "slug": "bitcoinvip-casino",
+    "website": "https://bitcoinvip-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Blaze Spins Casino",
+    "slug": "blaze-spins-casino",
+    "website": "https://blaze-spins-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Blizz Casino",
+    "slug": "blizz-casino",
+    "website": "https://blizz-casino.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BlockSpins Casino",
+    "slug": "blockspins-casino",
+    "website": "https://blockspins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BoaBet Casino",
+    "slug": "boabet-casino",
+    "website": "https://boabet-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "BoaBoa Casino",
+    "slug": "boaboa-casino",
+    "website": "https://boaboa-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bombastic Casino",
+    "slug": "bombastic-casino",
+    "website": "https://bombastic-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bonanza Game Casino",
+    "slug": "bonanza-game-casino",
+    "website": "https://bonanza-game-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bonus Blitz Casino",
+    "slug": "bonus-blitz-casino",
+    "website": "https://bonus-blitz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Boo Casino",
+    "slug": "boo-casino",
+    "website": "https://boo-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Booi Casino",
+    "slug": "booi-casino",
+    "website": "https://booi-casino.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Boomerang Casino",
+    "slug": "boomerang-casino",
+    "website": "https://boomerang-casino.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Boomerang Bet Casino",
+    "slug": "boomerang-bet-casino",
+    "website": "https://boomerang-bet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Booms.Bet Casino",
+    "slug": "boomsbet-casino",
+    "website": "https://boomsbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Brazino777 Casino",
+    "slug": "brazino777-casino",
+    "website": "https://brazino777-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Brutal Casino",
+    "slug": "brutal-casino",
+    "website": "https://brutal-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bspin Casino",
+    "slug": "bspin-casino",
+    "website": "https://bspin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Bulletz Casino",
+    "slug": "bulletz-casino",
+    "website": "https://bulletz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Buran Casino",
+    "slug": "buran-casino",
+    "website": "https://buran-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cactus Casino",
+    "slug": "cactus-casino",
+    "website": "https://cactus-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cadoola Casino",
+    "slug": "cadoola-casino",
+    "website": "https://cadoola-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CampoBet Casino",
+    "slug": "campobet-casino",
+    "website": "https://campobet-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Candyland Casino",
+    "slug": "candyland-casino",
+    "website": "https://candyland-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cashed Casino",
+    "slug": "cashed-casino",
+    "website": "https://cashed-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cashwin Casino",
+    "slug": "cashwin-casino",
+    "website": "https://cashwin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casimba Casino",
+    "slug": "casimba-casino",
+    "website": "https://casimba-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CasinOK Casino",
+    "slug": "casinok-casino",
+    "website": "https://casinok-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casinado Casino",
+    "slug": "casinado-casino",
+    "website": "https://casinado-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casinia Casino",
+    "slug": "casinia-casino",
+    "website": "https://casinia-casino.site/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casino-X Casino",
+    "slug": "casino-x-casino",
+    "website": "https://casino-x-casino.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CasinoAndYou Casino",
+    "slug": "casinoandyou-casino",
+    "website": "https://casinoandyou-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CasinoExtra Casino",
+    "slug": "casinoextra-casino",
+    "website": "https://casinoextra-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CasinoStars Casino",
+    "slug": "casinostars-casino",
+    "website": "https://casinostars-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casinoin Casino",
+    "slug": "casinoin-casino",
+    "website": "https://casinoin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casinoly Casino",
+    "slug": "casinoly-casino",
+    "website": "https://casinoly.live/de",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casinova Casino",
+    "slug": "casinova-casino",
+    "website": "https://casinova-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casinozer Casino",
+    "slug": "casinozer-casino",
+    "website": "https://casinozer-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casombie Casino",
+    "slug": "casombie-casino",
+    "website": "https://casombie-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Casoo Casino",
+    "slug": "casoo-casino",
+    "website": "https://casoo-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Caspero Casino",
+    "slug": "caspero-casino",
+    "website": "https://caspero-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cazeus Casino",
+    "slug": "cazeus-casino",
+    "website": "https://cazeus-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Celsius Casino",
+    "slug": "celsius-casino",
+    "website": "https://celsius-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cherry Jackpot Casino",
+    "slug": "cherry-jackpot-casino",
+    "website": "https://cherry-jackpot-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Chipstars Casino",
+    "slug": "chipstars-casino",
+    "website": "https://chipstars-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CipherWins Casino",
+    "slug": "cipherwins-casino",
+    "website": "https://cipherwins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cleobetra Casino",
+    "slug": "cleobetra-casino",
+    "website": "https://cleobetra-casino.site/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cocoa Casino",
+    "slug": "cocoa-casino",
+    "website": "https://cocoa-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Coin Casino",
+    "slug": "coin-casino",
+    "website": "https://coin-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CoinKings Casino",
+    "slug": "coinkings-casino",
+    "website": "https://coinkings-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CryptoRoyal Casino",
+    "slug": "cryptoroyal-casino",
+    "website": "https://cryptoroyal-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "CryptoWins",
+    "slug": "cryptowins",
+    "website": "https://www.cryptowins.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Cybet Casino",
+    "slug": "cybet-casino",
+    "website": "https://cybet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "DRIP Casino",
+    "slug": "drip-casino",
+    "website": "https://drip-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "DaVegas Casino",
+    "slug": "davegas-casino",
+    "website": "https://davegas-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dachbet Casino",
+    "slug": "dachbet-casino",
+    "website": "https://dachbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dafabet Casino",
+    "slug": "dafabet-casino",
+    "website": "https://dafabet-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Decode Casino",
+    "slug": "decode-casino",
+    "website": "https://decode-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Del Oro Casino",
+    "slug": "del-oro-casino",
+    "website": "https://del-oro-casino.com/casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "DolfWin Casino",
+    "slug": "dolfwin-casino",
+    "website": "https://dolfwin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dolly Casino",
+    "slug": "dolly-casino",
+    "website": "https://www.dolly-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dragonara Casino",
+    "slug": "dragonara-casino",
+    "website": "https://dragonara-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dream Vegas Casino",
+    "slug": "dream-vegas-casino",
+    "website": "https://dream-vegas-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dreamz Casino",
+    "slug": "dreamz-casino",
+    "website": "https://dreamz-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "DrueckGlueck Casino",
+    "slug": "drueckglueck-casino",
+    "website": "https://www.drueckglueck.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dublinbet Casino",
+    "slug": "dublinbet-casino",
+    "website": "https://dublinbet-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Duelbits Casino",
+    "slug": "duelbits-casino",
+    "website": "https://duelbits-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Duelz Casino",
+    "slug": "duelz-casino",
+    "website": "https://duelz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Dukes Casino",
+    "slug": "dukes-casino",
+    "website": "https://dukes-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ETH Casino",
+    "slug": "eth-casino",
+    "website": "https://eth-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EU Casino",
+    "slug": "eu-casino",
+    "website": "https://eu-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EarnBet Casino",
+    "slug": "earnbet-casino",
+    "website": "https://earnbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EgoGames Casino",
+    "slug": "egogames-casino",
+    "website": "https://egogames-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "El Royale Casino",
+    "slug": "el-royale-casino",
+    "website": "https://www.el-royale-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Eldoah Casino",
+    "slug": "eldoah-casino",
+    "website": "https://eldoah-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EmirBet Casino",
+    "slug": "emirbet-casino",
+    "website": "https://emirbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Eternal Slots Casino",
+    "slug": "eternal-slots-casino",
+    "website": "https://eternal-slots-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EuroKing Casino",
+    "slug": "euroking-casino",
+    "website": "https://euroking-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EuroMania Casino",
+    "slug": "euromania-casino",
+    "website": "https://euromania-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Europa777 Casino",
+    "slug": "europa777-casino",
+    "website": "https://europa777-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Everygame Casino",
+    "slug": "everygame-casino",
+    "website": "https://everygame-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "EvoBet Casino",
+    "slug": "evobet-casino",
+    "website": "https://evobet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Exclusive Casino",
+    "slug": "exclusive-casino",
+    "website": "https://exclusive-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ExclusiveBet Casino",
+    "slug": "exclusivebet-casino",
+    "website": "https://exclusivebet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FTVClub Casino",
+    "slug": "ftvclub-casino",
+    "website": "https://ftvclub-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FUGU Casino",
+    "slug": "fugu-casino",
+    "website": "https://fugu-casino.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fair Go Casino",
+    "slug": "fair-go-casino",
+    "website": "https://fair-go-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FairSpin Casino",
+    "slug": "fairspin-casino",
+    "website": "https://fairspin-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fansport Casino",
+    "slug": "fansport-casino",
+    "website": "https://fansport-az.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fast Slots Casino",
+    "slug": "fast-slots-casino",
+    "website": "https://fast-slots-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FatBoss Casino",
+    "slug": "fatboss-casino",
+    "website": "https://fatboss-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fatbet Casino",
+    "slug": "fatbet-casino",
+    "website": "https://fatbet-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FeliceBet Casino",
+    "slug": "felicebet-casino",
+    "website": "https://felicebet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Flagman Casino",
+    "slug": "flagman-casino",
+    "website": "https://flagman-casino.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Flappy Casino",
+    "slug": "flappy-casino",
+    "website": "https://flappy-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Flush Casino",
+    "slug": "flush-casino",
+    "website": "https://flush-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FoggyBet Casino",
+    "slug": "foggybet-casino",
+    "website": "https://foggybet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fonbet Casino",
+    "slug": "fonbet-casino",
+    "website": "https://fonbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FortunePlay Casino",
+    "slug": "fortuneplay-casino",
+    "website": "https://fortuneplay-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Free Spinza Casino",
+    "slug": "free-spinza-casino",
+    "website": "https://free-spinza-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fresh Casino",
+    "slug": "fresh-casino",
+    "website": "https://fresh-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "FreshBet Casino",
+    "slug": "freshbet-casino",
+    "website": "https://freshbet-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Frumzi Casino",
+    "slug": "frumzi-casino",
+    "website": "https://frumzi-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Fun Casino",
+    "slug": "fun-casino",
+    "website": "https://fun-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "G'Day Casino",
+    "slug": "gday-casino",
+    "website": "https://gday-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GGbet Casino",
+    "slug": "ggbet-casino",
+    "website": "https://ggbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GREATwin Casino",
+    "slug": "greatwin-casino",
+    "website": "https://greatwin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GTbets Casino",
+    "slug": "gtbets-casino",
+    "website": "https://gtbets-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GalacticWins Casino",
+    "slug": "galacticwins-casino",
+    "website": "https://galacticwins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Galaxy.bet Casino",
+    "slug": "galaxybet-casino",
+    "website": "https://galaxybet-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gamblezen Casino",
+    "slug": "gamblezen-casino",
+    "website": "https://gamblezen-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gamdom",
+    "slug": "gamdom",
+    "website": "https://gamdom.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gamegram Casino",
+    "slug": "gamegram-casino",
+    "website": "https://gamegram-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gamix Casino",
+    "slug": "gamix-casino",
+    "website": "https://gamix-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gangsta Casino",
+    "slug": "gangsta-casino",
+    "website": "https://gangsta-casino.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gate777 Casino",
+    "slug": "gate777-casino",
+    "website": "https://gate777-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Goat Spins Casino",
+    "slug": "goat-spins-casino",
+    "website": "https://goat-spins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "God Of Casino",
+    "slug": "god-of-casino",
+    "website": "https://god-of-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GoldSpin Casino",
+    "slug": "goldspin-casino",
+    "website": "https://goldspin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GoldWin Casino",
+    "slug": "goldwin-casino",
+    "website": "https://goldwin-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Crown Casino",
+    "slug": "golden-crown-casino",
+    "website": "https://www.golden-crown-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Euro Casino",
+    "slug": "golden-euro-casino",
+    "website": "https://golden-euro-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Lion Casino",
+    "slug": "golden-lion-casino",
+    "website": "https://www.golden-lion-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Star Casino",
+    "slug": "golden-star-casino",
+    "website": "https://golden-star-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Golden Tiger",
+    "slug": "golden-tiger",
+    "website": "https://golden-tiger.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Goldenbet Casino",
+    "slug": "goldenbet-casino",
+    "website": "https://goldenbet-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gomblingo Casino",
+    "slug": "gomblingo-casino",
+    "website": "https://gomblingo-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Grand Mondial Casino",
+    "slug": "grand-mondial-casino",
+    "website": "https://grand-mondial-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GrandWin Casino",
+    "slug": "grandwin-casino",
+    "website": "https://grandwin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Grande Vegas Casino",
+    "slug": "grande-vegas-casino",
+    "website": "https://www.grande-vegas-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gransino Casino",
+    "slug": "gransino-casino",
+    "website": "https://gransino-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "GreatSpin Casino",
+    "slug": "greatspin-casino",
+    "website": "https://greatspin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Gudar Casino",
+    "slug": "gudar-casino",
+    "website": "https://gudar-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Harry's Casino",
+    "slug": "harrys-casino",
+    "website": "https://harrys-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HashLucky Casino",
+    "slug": "hashlucky-casino",
+    "website": "https://hashlucky-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Haz Casino",
+    "slug": "haz-casino",
+    "website": "https://haz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HellSpin Casino",
+    "slug": "hellspin-casino",
+    "website": "https://hellspin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Hercules Casino",
+    "slug": "hercules-casino",
+    "website": "https://hercules-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HeroSpin Casino",
+    "slug": "herospin-casino",
+    "website": "https://herospin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Hexabet Casino",
+    "slug": "hexabet-casino",
+    "website": "https://hexabet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HighFlyBet Casino",
+    "slug": "highflybet-casino",
+    "website": "https://highflybet-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Highbet Casino",
+    "slug": "highbet-casino",
+    "website": "https://highbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Highway Casino",
+    "slug": "highway-casino",
+    "website": "https://highwaycasinos.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HippoZino Casino",
+    "slug": "hippozino-casino",
+    "website": "https://hippozino-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Hit'n'Spin Casino",
+    "slug": "hitnspin-casino",
+    "website": "https://hitnspin-online.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Holyluck Casino",
+    "slug": "holyluck-casino",
+    "website": "https://www.holyluck-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HotLoot Casino",
+    "slug": "hotloot-casino",
+    "website": "https://hotloot-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Hotline Casino",
+    "slug": "hotline-casino",
+    "website": "https://hotline-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "House of Jack Casino",
+    "slug": "house-of-jack-casino",
+    "website": "https://house-of-jack-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Housebets Casino",
+    "slug": "housebets-casino",
+    "website": "https://housebets-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HugeWin Casino",
+    "slug": "hugewin-casino",
+    "website": "https://betandras.com/az-az/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HugoBets Casino",
+    "slug": "hugobets-casino",
+    "website": "https://hugobets-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "HunnyPlay Casino",
+    "slug": "hunnyplay-casino",
+    "website": "https://hunnyplay-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Hyper Casino",
+    "slug": "hyper-casino",
+    "website": "https://hyper-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "IZZI Casino",
+    "slug": "izzi-casino",
+    "website": "https://izzi-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Impressario Casino",
+    "slug": "impressario-casino",
+    "website": "https://impressario-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Instant Casino",
+    "slug": "instant-casino",
+    "website": "https://www.instant-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "IntellectBet Casino",
+    "slug": "intellectbet-casino",
+    "website": "https://intellectbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Irwin Casino",
+    "slug": "irwin-casino",
+    "website": "https://irwin-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "JackMillion Casino",
+    "slug": "jackmillion-casino",
+    "website": "https://jackmillion-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackbit Casino",
+    "slug": "jackbit-casino",
+    "website": "https://jackbit-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackpot Capital Casino",
+    "slug": "jackpot-capital-casino",
+    "website": "https://www.jackpot-capital-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackpot Cash Casino",
+    "slug": "jackpot-cash-casino",
+    "website": "https://www.jackpot-cash-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackpot City Casino",
+    "slug": "jackpot-city-casino",
+    "website": "https://jackpot-city-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackpot Village Casino",
+    "slug": "jackpot-village-casino",
+    "website": "https://jackpot-village-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackpotstar Casino",
+    "slug": "jackpotstar-casino",
+    "website": "https://jackpotstar-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jackpotter Casino",
+    "slug": "jackpotter-casino",
+    "website": "https://jackpotter-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "JacksClub Casino",
+    "slug": "jacksclub-casino",
+    "website": "https://jacksclub-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "JeetCity Casino",
+    "slug": "jeetcity-casino",
+    "website": "https://jeetcity-casino.online/",
+    "source": "heuristic"
+  },
+  {
+    "name": "JeffBet Casino",
+    "slug": "jeffbet-casino",
+    "website": "https://jeffbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jet Casino",
+    "slug": "jet-casino",
+    "website": "https://jet-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jetton Casino",
+    "slug": "jetton-casino",
+    "website": "https://jetton-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Joker8 Casino",
+    "slug": "joker8-casino",
+    "website": "https://joker8-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Joy Casino",
+    "slug": "joy-casino",
+    "website": "https://joy-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jozz Casino",
+    "slug": "jozz-casino",
+    "website": "https://jozz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Jupi Casino",
+    "slug": "jupi-casino",
+    "website": "https://jupi-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "JustCasino",
+    "slug": "justcasino",
+    "website": "https://justcasino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Justspin Casino",
+    "slug": "justspin-casino",
+    "website": "https://justspin-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kajot Casino",
+    "slug": "kajot-casino",
+    "website": "https://kajot-casino.bet/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kinbet Casino",
+    "slug": "kinbet-casino",
+    "website": "https://kinbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kingmaker Casino",
+    "slug": "kingmaker-casino",
+    "website": "https://kingmaker-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kirgo Casino",
+    "slug": "kirgo-casino",
+    "website": "https://kirgo-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "KnightSlots Casino",
+    "slug": "knightslots-casino",
+    "website": "https://knightslots-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Kudos Casino",
+    "slug": "kudos-casino",
+    "website": "https://kudos-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LEX Casino",
+    "slug": "lex-casino",
+    "website": "https://lex-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LOKI Casino",
+    "slug": "loki-casino",
+    "website": "https://loki-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LSbet Casino",
+    "slug": "lsbet-casino",
+    "website": "https://lsbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LTC Casino",
+    "slug": "ltc-casino",
+    "website": "https://ltc-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "La Riviera Casino",
+    "slug": "la-riviera-casino",
+    "website": "https://la-riviera-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lamabet Casino",
+    "slug": "lamabet-casino",
+    "website": "https://lamabet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Las Atlantis Casino",
+    "slug": "las-atlantis-casino",
+    "website": "https://las-atlantis-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LegendPlay Casino",
+    "slug": "legendplay-casino",
+    "website": "https://legendplay-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Legzo Casino",
+    "slug": "legzo-casino",
+    "website": "https://legzo-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lemon Casino",
+    "slug": "lemon-casino",
+    "website": "https://lemon-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Leon Casino",
+    "slug": "leon-casino",
+    "website": "https://leon-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Let's Lucky Casino",
+    "slug": "lets-lucky-casino",
+    "website": "https://lets-lucky-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Liberty Slots Casino",
+    "slug": "liberty-slots-casino",
+    "website": "https://www.liberty-slots-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LibraBet Casino",
+    "slug": "librabet-casino",
+    "website": "https://librabet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Limitless Casino",
+    "slug": "limitless-casino",
+    "website": "https://www.limitless-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lincoln Casino",
+    "slug": "lincoln-casino",
+    "website": "https://lincoln-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lizaro Casino",
+    "slug": "lizaro-casino",
+    "website": "https://lizaro-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Locasbet Casino",
+    "slug": "locasbet-casino",
+    "website": "https://locasbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Luckiest Casino",
+    "slug": "luckiest-casino",
+    "website": "https://luckiest-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Circus Casino",
+    "slug": "lucky-circus-casino",
+    "website": "https://lucky-circus-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Dreams Casino",
+    "slug": "lucky-dreams-casino",
+    "website": "https://luckydreamscasino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Hunter Casino",
+    "slug": "lucky-hunter-casino",
+    "website": "https://lucky-hunter-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Kong Casino",
+    "slug": "lucky-kong-casino",
+    "website": "https://lucky-kong-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Tiger Casino",
+    "slug": "lucky-tiger-casino",
+    "website": "https://www.lucky-tiger-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky Vegas Casino",
+    "slug": "lucky-vegas-casino",
+    "website": "https://lucky-vegas-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky31 Casino",
+    "slug": "lucky31-casino",
+    "website": "https://lucky-31-fr.fr/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lucky7even Casino",
+    "slug": "lucky7even-casino",
+    "website": "https://lucky7even-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LuckyGem Casino",
+    "slug": "luckygem-casino",
+    "website": "https://www.luckygem-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LuckyLouis Casino",
+    "slug": "luckylouis-casino",
+    "website": "https://luckylouis-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "LuckyVibe Casino",
+    "slug": "luckyvibe-casino",
+    "website": "https://www.luckyvibe-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Luckyblock Casino",
+    "slug": "luckyblock-casino",
+    "website": "https://luckyblock-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lukki Casino",
+    "slug": "lukki-casino",
+    "website": "https://lukki-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Luna Casino",
+    "slug": "luna-casino",
+    "website": "https://luna-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Lunubet Casino",
+    "slug": "lunubet-casino",
+    "website": "https://lunubet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Luxury",
+    "slug": "luxury",
+    "website": "https://luxury.casino/en/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MD88 Casino",
+    "slug": "md88-casino",
+    "website": "https://md88-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MELBET Casino",
+    "slug": "melbet-casino",
+    "website": "https://melbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MOSTBET Casino",
+    "slug": "mostbet-casino",
+    "website": "https://mostbet-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Mad",
+    "slug": "mad",
+    "website": "https://mad.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Mafia Casino",
+    "slug": "mafia-casino",
+    "website": "https://mafia-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Magic Red Casino",
+    "slug": "magic-red-casino",
+    "website": "https://magic-red-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Magius Casino",
+    "slug": "magius-casino",
+    "website": "https://magius-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MasterPlay Casino",
+    "slug": "masterplay-casino",
+    "website": "https://masterplay-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Matchbook Casino",
+    "slug": "matchbook-casino",
+    "website": "https://matchbook-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Mega.Bet Casino",
+    "slug": "megabet-casino",
+    "website": "https://www.megabet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Megadice Casino",
+    "slug": "megadice-casino",
+    "website": "https://megadice-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Megapari Casino",
+    "slug": "megapari-casino",
+    "website": "https://megapari-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Megarich Casino",
+    "slug": "megarich-casino",
+    "website": "https://megarich-casino.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Menace Casino",
+    "slug": "menace-casino",
+    "website": "https://menace-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Merlin Casino",
+    "slug": "merlin-casino",
+    "website": "https://merlin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Metaspins Casino",
+    "slug": "metaspins-casino",
+    "website": "https://wowbetuz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Miami Club Casino",
+    "slug": "miami-club-casino",
+    "website": "https://miami-club-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Midarion Casino",
+    "slug": "midarion-casino",
+    "website": "https://midarion-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Minebit Casino",
+    "slug": "minebit-casino",
+    "website": "https://minebit-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Moana Casino",
+    "slug": "moana-casino",
+    "website": "https://moana-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MonoPlay Casino",
+    "slug": "monoplay-casino",
+    "website": "https://monoplay-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Monro Casino",
+    "slug": "monro-casino",
+    "website": "https://monro-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MonsterWin Casino",
+    "slug": "monsterwin-casino",
+    "website": "https://monsterwin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrFortune Casino",
+    "slug": "mrfortune-casino",
+    "website": "https://mrfortune-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrMega Casino",
+    "slug": "mrmega-casino",
+    "website": "https://mrmega-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrO Casino",
+    "slug": "mro-casino",
+    "website": "https://mro-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrPacho Casino",
+    "slug": "mrpacho-casino",
+    "website": "https://mrpacho-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrPunter Casino",
+    "slug": "mrpunter-casino",
+    "website": "https://mrpunter-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MrWest Casino",
+    "slug": "mrwest-casino",
+    "website": "https://mrwest-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Mummys Gold Casino",
+    "slug": "mummys-gold-casino",
+    "website": "https://mummys-gold-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MyEmpire Casino",
+    "slug": "myempire-casino",
+    "website": "https://myempire-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "MyStake Casino",
+    "slug": "mystake-casino",
+    "website": "https://mystake-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "NV Casino",
+    "slug": "nv-casino",
+    "website": "https://nv-casino.online/",
+    "source": "heuristic"
+  },
+  {
+    "name": "National Casino",
+    "slug": "national-casino",
+    "website": "https://national-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Neon54 Casino",
+    "slug": "neon54-casino",
+    "website": "https://neon54-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "NewVegas Casino",
+    "slug": "newvegas-casino",
+    "website": "https://newvegas-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Ninlay Casino",
+    "slug": "ninlay-casino",
+    "website": "https://ninlay-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Nomini Casino",
+    "slug": "nomini-casino",
+    "website": "https://nomini-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Nords Casino",
+    "slug": "nords-casino",
+    "website": "https://www.nords-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "North Casino",
+    "slug": "north-casino",
+    "website": "https://north-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Nostalgia Casino",
+    "slug": "nostalgia-casino",
+    "website": "https://nostalgia-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Novajackpot Casino",
+    "slug": "novajackpot-casino",
+    "website": "https://novajackpot-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OSH Casino",
+    "slug": "osh-casino",
+    "website": "https://osh-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OceanSpin Casino",
+    "slug": "oceanspin-casino",
+    "website": "https://www.oceanspin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OhMyZino Casino",
+    "slug": "ohmyzino-casino",
+    "website": "https://ohmyzino-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OlympusBet Casino",
+    "slug": "olympusbet-casino",
+    "website": "https://olympusbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Omni Casino",
+    "slug": "omni-casino",
+    "website": "https://omni-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Omni Slots Casino",
+    "slug": "omni-slots-casino",
+    "website": "https://omni-slots-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Onluck Casino",
+    "slug": "onluck-casino",
+    "website": "https://onluck-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "OptimBet Casino",
+    "slug": "optimbet-casino",
+    "website": "https://www.optimbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Orbit Spins Casino",
+    "slug": "orbit-spins-casino",
+    "website": "https://orbit-spins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Oscarspin Casino",
+    "slug": "oscarspin-casino",
+    "website": "https://oscarspin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Ozwin Casino",
+    "slug": "ozwin-casino",
+    "website": "https://www.ozwin-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PUB Casino",
+    "slug": "pub-casino",
+    "website": "https://pub-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pacific Spins Casino",
+    "slug": "pacific-spins-casino",
+    "website": "https://pacific-spins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Paradise 8 Casino",
+    "slug": "paradise-8-casino",
+    "website": "https://betify-es.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Paripesa Casino",
+    "slug": "paripesa-casino",
+    "website": "https://paripesa-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PartySpins Casino",
+    "slug": "partyspins-casino",
+    "website": "https://partyspins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PartySpinz Casino",
+    "slug": "partyspinz-casino",
+    "website": "https://partyspinz-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Patang Casino",
+    "slug": "patang-casino",
+    "website": "https://www.patang-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pistolo Casino",
+    "slug": "pistolo-casino",
+    "website": "https://pistolo-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Platin Casino",
+    "slug": "platin-casino",
+    "website": "https://platin-casino.io/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Play Fortuna Casino",
+    "slug": "play-fortuna-casino",
+    "website": "https://play-fortuna-casino.co/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayCroco Casino",
+    "slug": "playcroco-casino",
+    "website": "https://www.playcroco.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayGrand Casino",
+    "slug": "playgrand-casino",
+    "website": "https://playgrand-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayJango Casino",
+    "slug": "playjango-casino",
+    "website": "https://playjango-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayMillion Casino",
+    "slug": "playmillion-casino",
+    "website": "https://playmillion-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayOJO Casino",
+    "slug": "playojo-casino",
+    "website": "https://playojo-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PlayToro Casino",
+    "slug": "playtoro-casino",
+    "website": "https://playtoro-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Playbet Casino",
+    "slug": "playbet-casino",
+    "website": "https://playbet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Playfast Casino",
+    "slug": "playfast-casino",
+    "website": "https://playfast-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pledoo Casino",
+    "slug": "pledoo-casino",
+    "website": "https://pledoo-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Polestar",
+    "slug": "polestar",
+    "website": "https://polestar.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PowerUp Casino",
+    "slug": "powerup-casino",
+    "website": "https://powerup-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Pribet Casino",
+    "slug": "pribet-casino",
+    "website": "https://pribet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Primaplay Casino",
+    "slug": "primaplay-casino",
+    "website": "https://primaplay-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Prime Casino",
+    "slug": "prime-casino",
+    "website": "https://prime-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PrimeSlots Casino",
+    "slug": "primeslots-casino",
+    "website": "https://primeslots-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "PuppyBet Casino",
+    "slug": "puppybet-casino",
+    "website": "https://www.puppybet-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Quatro Casino",
+    "slug": "quatro-casino",
+    "website": "https://quatro-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Quickwin Casino",
+    "slug": "quickwin-casino",
+    "website": "https://quickwin-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RX Casino",
+    "slug": "rx-casino",
+    "website": "https://rx-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rabona Casino",
+    "slug": "rabona-casino",
+    "website": "https://rabona-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RainBet Casino",
+    "slug": "rainbet-casino",
+    "website": "https://rainbet-casino.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rajabets Casino",
+    "slug": "rajabets-casino",
+    "website": "https://rajabets-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Razed Casino",
+    "slug": "razed-casino",
+    "website": "https://razed-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Red Dog",
+    "slug": "red-dog",
+    "website": "https://red-dog.casino/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Red Stag Casino",
+    "slug": "red-stag-casino",
+    "website": "https://red-stag-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "ReefSpins Casino",
+    "slug": "reefspins-casino",
+    "website": "https://reefspins-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rich Palms Casino",
+    "slug": "rich-palms-casino",
+    "website": "https://www.rich-palms-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Richville Casino",
+    "slug": "richville-casino",
+    "website": "https://richville-casino.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "RioBet Casino",
+    "slug": "riobet-casino",
+    "website": "https://8xbet-vn.in.net/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Ripper Casino",
+    "slug": "ripper-casino",
+    "website": "https://ripper-casino.org/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Rizzio Casino",
+    "slug": "rizzio-casino",
+    "website": "https://rizzio-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Roaring 21 Casino",
+    "slug": "roaring-21-casino",
+    "website": "https://www.roaring-21-casino.com/",
+    "source": "heuristic"
+  },
+  {
+    "name": "Roby Casino",
+    "slug": "roby-casino",
+    "website": "https://roby-casino.com/",
+    "source": "heuristic"
+  }
+]

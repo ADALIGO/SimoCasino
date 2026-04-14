@@ -130,22 +130,40 @@
   font-size: 32px;
   font-weight: 700;
   color: #1a1a2e;
-  margin-bottom: 32px;
+  margin-bottom: 16px;
   text-align: center;
 
   @media (max-width: 639px) {
     font-size: 24px;
-    margin-bottom: 24px;
+    margin-bottom: 18px;
   }
 
   @media (min-width: 640px) and (max-width: 1023px) {
     font-size: 28px;
-    margin-bottom: 28px;
+    margin-bottom: 24px;
   }
 
   @media (min-width: 1024px) {
-    font-size: 32px;
-    margin-bottom: 32px;
+    margin-bottom: 16px;
+  }
+}
+
+.section-subtitle {
+  max-width: 840px;
+  margin: 0 auto 32px;
+  color: #4a4a6a;
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+
+  @media (max-width: 639px) {
+    font-size: 16px;
+    margin-bottom: 24px;
+  }
+
+  @media (min-width: 640px) and (max-width: 1023px) {
+    font-size: 17px;
+    margin-bottom: 26px;
   }
 }
 

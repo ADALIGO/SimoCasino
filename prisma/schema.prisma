@@ -430,6 +430,7 @@ model Casino {
   operatingCountries     String[]
   languages              String[]
   license                String?
+  website                String?
   appAvailable           Boolean  @default(false)
   minDeposit             Float?
   minWithdrawal          Float?

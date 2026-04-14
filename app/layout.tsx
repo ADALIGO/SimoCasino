@@ -120,7 +120,6 @@ export const metadata: Metadata = {
   },
 };
 
-import Script from 'next/script';
 import type { ReactNode } from 'react';
 
 export const viewport: Viewport = {
@@ -146,11 +145,6 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="//fonts.googleapis.com" />
         <link rel="dns-prefetch" href="//picsum.photos" />
         <link rel="dns-prefetch" href="//api.dicebear.com" />
-        <Script
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5167901888083039"
-          strategy="afterInteractive"
-          crossOrigin="anonymous"
-        />
         <script dangerouslySetInnerHTML={{
           __html: `
             (function() {

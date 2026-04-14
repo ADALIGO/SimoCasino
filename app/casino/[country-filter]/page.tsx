@@ -3,7 +3,7 @@ import CasinoCountryPage from './client';
 import { casinosData } from '@/casinos_data';
 
 interface CasinoParams {
-  country: string;
+  'country-filter': string;
 }
 
 function normalizeSlug(value: string) {
@@ -41,7 +41,7 @@ function getInitialCasinos(countryName: string) {
 export async function generateMetadata(pageProps: { params: Promise<CasinoParams> }): Promise<Metadata> {
   const { params } = pageProps;
   const resolvedParams = await params;
-  const rawParam = resolvedParams.country;
+  const rawParam = resolvedParams['country-filter'];
   const countryName = getCountryNameFromSlug(rawParam);
 
   return {
@@ -51,11 +51,11 @@ export async function generateMetadata(pageProps: { params: Promise<CasinoParams
       title: `Best Casinos in ${countryName} | Simocasino`,
       description: `Discover the best online casinos in ${countryName}.`,
       type: 'website',
-      url: `https://simocasino.com/casino/${rawParam}`,
+      url: `https://simocasino.com/casino/by-country/${rawParam}`,
       siteName: 'Simocasino',
     },
     alternates: {
-      canonical: `https://simocasino.com/casino/${rawParam}`,
+      canonical: `https://simocasino.com/casino/by-country/${rawParam}`,
     },
   };
 }
@@ -79,13 +79,13 @@ export async function generateStaticParams() {
 
   const uniqueParams = Array.from(new Set([...countries, ...casinoSlugs]));
 
-  return uniqueParams.map((country) => ({ country }));
+  return uniqueParams.map((country) => ({ 'country-filter': country }));
 }
 
 export default async function Page(pageProps: { params: Promise<CasinoParams> }) {
   const { params } = pageProps;
   const resolvedParams = await params;
-  const countryName = getCountryNameFromSlug(resolvedParams.country);
+  const countryName = getCountryNameFromSlug(resolvedParams['country-filter']);
   const initialCasinos = getInitialCasinos(countryName);
 
   return (

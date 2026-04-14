@@ -91,8 +91,6 @@ export default function CasinoCountryPage({
     });
   }, [startTransition]);
 
-
-
   return (
     <HOMELayouts>
       <div className={styles['casino-page']}>
@@ -157,7 +155,7 @@ export default function CasinoCountryPage({
                 </div>
               ))}
             </div>
-            
+
             {displayCount < (casinos?.length ?? 0) && (
               <div className={styles['load-more-wrapper']}>
                 <button

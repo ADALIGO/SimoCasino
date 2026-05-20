@@ -331,7 +331,7 @@ ISC License - Feel free to use this project for personal or commercial purposes.
 
 For issues, questions, or suggestions:
 - Create an issue on GitHub
-- Contact: support@simocasino.com
+- Contact: simoouahbi@gmail.com
 
 ## 🎯 Future Enhancements
 
